@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Red Canary Mac Monitor is a macOS software for advanced threat detection and response.</string>
+	<key>Documentation</key>
+	<string>https://redcanary.com/products/mac-monitor/</string>
+	<key>Keywords</key>
+	<string>macOS, software, threat detection, response</string>
+	<key>Privacy</key>
+	<string>https://redcanary.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Red Canary LLC</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Android Studio is the official Integrated Development Environment (IDE) for Android app development.</string>
+	<key>Documentation</key>
+	<string>https://developer.android.com/support</string>
+	<key>Keywords</key>
+	<string>Android,Android Studio,IDE</string>
+	<key>Privacy</key>
+	<string>https://policies.google.com/privacy</string>
+	<key>Publisher</key>
+	<string>Google LLC</string>
+</dict>
+</plist>

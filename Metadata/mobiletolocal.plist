@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mobile to Local is a macOS software for syncing data between mobile devices and local storage.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>data syncing, macOS, mobile devices, local storage</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Mobile to Local</string>
+</dict>
+</plist>

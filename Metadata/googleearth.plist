@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Google Earth is a geospatial software application that displays a virtual globe, which offers the ability to analyze and capture geographical data. Google Earth Pro uses the same imagery as the free version of Google Earth.</string>
+	<key>Documentation</key>
+	<string>https://static.googleusercontent.com/media/earth.google.de/de/de/userguide/v4/google_earth_user_guide.pdf</string>
+	<key>Keywords</key>
+	<string>Earth,Google Earth,geospatial,globe,map</string>
+	<key>Privacy</key>
+	<string>https://www.google.com/help/terms_maps/</string>
+	<key>Publisher</key>
+	<string>Google LLC</string>
+</dict>
+</plist>

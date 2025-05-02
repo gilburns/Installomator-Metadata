@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Real-time communication application for teams</string>
+	<key>Documentation</key>
+	<string>https://hotappdocs.com</string>
+	<key>Keywords</key>
+	<string>team collaboration, messaging, organization, productivity</string>
+	<key>Privacy</key>
+	<string>https://hotappprivacy.com</string>
+	<key>Publisher</key>
+	<string>Hot</string>
+</dict>
+</plist>

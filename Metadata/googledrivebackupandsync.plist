@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Google Backup and Sync is a tool to back up files and photos to Google Drive and Google Photos.</string>
+	<key>Documentation</key>
+	<string>https://support.google.com/drive/topic/2375187</string>
+	<key>Keywords</key>
+	<string>Backup, Sync, Google Drive, Google Photos</string>
+	<key>Privacy</key>
+	<string>https://policies.google.com/privacy</string>
+	<key>Publisher</key>
+	<string>Google LLC</string>
+</dict>
+</plist>

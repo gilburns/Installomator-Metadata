@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Smartsheet is a software as a service (SaaS) offering for collaboration and work management. It is used to assign tasks, track project progress, manage calendars, share documents, and manage other work, using a tabular user interface.</string>
+	<key>Documentation</key>
+	<string>https://help.smartsheet.com/</string>
+	<key>Keywords</key>
+	<string>Management,Project,Work</string>
+	<key>Privacy</key>
+	<string>https://www.smartsheet.com/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Smartsheet</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Podman Desktop is an open-source tool for managing pods, containers, and container images on your desktop.</string>
+	<key>Documentation</key>
+	<string>https://podman.io/ or </string>
+	<key>Keywords</key>
+	<string>Container, Docker, Management</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Podman</string>
+</dict>
+</plist>

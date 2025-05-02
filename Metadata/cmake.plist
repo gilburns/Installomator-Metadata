@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Cross-platform free and open-source software for managing the build process</string>
+	<key>Documentation</key>
+	<string>https://cmake.org/documentation/</string>
+	<key>Keywords</key>
+	<string>build, cross-platform, open-source</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Kitware, Inc.</string>
+</dict>
+</plist>

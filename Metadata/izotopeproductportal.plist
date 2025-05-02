@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>iZotope Product Portal is a software for managing iZotope plugin installations.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>iZotope, Product Portal, macOS, plugin, installations</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>iZotope Inc.</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>File search tool for macOS with advanced features</string>
+	<key>Documentation</key>
+	<string>https://www.houdah.com/HoudahSpot/documentation.html</string>
+	<key>Keywords</key>
+	<string>macOS, file search, search tool, HoudahSpot</string>
+	<key>Privacy</key>
+	<string>https://www.houdah.com/HoudahSpot/privacy.html</string>
+	<key>Publisher</key>
+	<string>Houdah Software</string>
+</dict>
+</plist>

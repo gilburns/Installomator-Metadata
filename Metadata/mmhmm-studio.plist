@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Virtual video production studio software for enhancing presentations and video calls</string>
+	<key>Documentation</key>
+	<string>https://www.mmhmm.app/</string>
+	<key>Keywords</key>
+	<string>video, presentation, virtual studio, video calls</string>
+	<key>Privacy</key>
+	<string>https://www.mmhmm.app/privacy/</string>
+	<key>Publisher</key>
+	<string>mmhmm, Inc.</string>
+</dict>
+</plist>

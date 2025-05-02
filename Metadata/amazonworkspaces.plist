@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Amazon WorkSpaces is a managed, secure Desktop-as-a-Service (DaaS) solution. You can use Amazon WorkSpaces to provision either Windows or Linux desktops in just a few minutes and quickly scale to provide thousands of desktops to workers across the globe.</string>
+	<key>Documentation</key>
+	<string>https://docs.aws.amazon.com/workspaces/</string>
+	<key>Keywords</key>
+	<string>Amazon,Workspaces</string>
+	<key>Privacy</key>
+	<string>https://aws.amazon.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Amazon</string>
+</dict>
+</plist>

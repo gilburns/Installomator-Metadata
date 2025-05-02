@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Microsoft Office 365 is a suite of productivity applications for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description</string>
+	<key>Keywords</key>
+	<string>Productivity, Office Suite, macOS, Microsoft, Cloud Computing</string>
+	<key>Privacy</key>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

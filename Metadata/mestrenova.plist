@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>MestReNova is a software for chemists to analyze and process nuclear magnetic resonance (NMR) data.</string>
+	<key>Documentation</key>
+	<string>https://mestrelab.com/software/mnova/</string>
+	<key>Keywords</key>
+	<string>Chemistry, NMR, Spectroscopy, Data analysis</string>
+	<key>Privacy</key>
+	<string>https://mestrelab.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Mestrelab Research</string>
+</dict>
+</plist>

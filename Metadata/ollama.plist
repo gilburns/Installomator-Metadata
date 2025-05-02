@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Ollama is a productivity software for macOS that helps users organize their tasks efficiently.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>Productivity, macOS, Tasks, Organization</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Ollama</string>
+</dict>
+</plist>

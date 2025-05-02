@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>FUSE for macOS allows you to extend macOS by adding support for additional file systems.</string>
+	<key>Documentation</key>
+	<string>https://osxfuse.github.io/</string>
+	<key>Keywords</key>
+	<string>macOS, file system, FUSE, extension</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>FUSE for macOS</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Gather is a productivity application for macOS that helps users organize their tasks and notes.</string>
+	<key>Documentation</key>
+	<string>https://gatherapp.com/docs</string>
+	<key>Keywords</key>
+	<string>Productivity, macOS, Tasks, Notes</string>
+	<key>Privacy</key>
+	<string>https://gatherapp.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Gather</string>
+</dict>
+</plist>

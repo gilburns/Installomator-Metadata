@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Transmit is a powerful and user-friendly FTP client for macOS.</string>
+	<key>Documentation</key>
+	<string>https://panic.com/transmit/</string>
+	<key>Keywords</key>
+	<string>FTP, client, macOS, file transfer</string>
+	<key>Privacy</key>
+	<string>https://panic.com/legal/privacy/</string>
+	<key>Publisher</key>
+	<string>Panic Inc.</string>
+</dict>
+</plist>

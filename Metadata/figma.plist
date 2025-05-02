@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Figma is a digital design and prototyping tool. It is a UI and UX design application that you can use it to create websites, apps, or smaller user interface components that can be integrated into other projects.</string>
+	<key>Documentation</key>
+	<string>https://help.figma.com/hc/</string>
+	<key>Keywords</key>
+	<string>Figma,Prototyping,UX Design</string>
+	<key>Privacy</key>
+	<string>https://www.figma.com/summary-of-policy/</string>
+	<key>Publisher</key>
+	<string>Figma</string>
+</dict>
+</plist>

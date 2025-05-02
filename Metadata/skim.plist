@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Skim is a PDF reader and note-taker for macOS.</string>
+	<key>Documentation</key>
+	<string>https://skim-app.sourceforge.io/manual/SkimHelp_38.xhtml</string>
+	<key>Keywords</key>
+	<string>PDF, reader, note-taker, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Skim Development Team</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Suspicious Package is a macOS app for examining macOS installer packages.</string>
+	<key>Documentation</key>
+	<string>https://www.mothersruin.com/software/SuspiciousPackage/Documentation.html</string>
+	<key>Keywords</key>
+	<string>macOS, app, installer packages</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Mothers Ruin Software</string>
+</dict>
+</plist>

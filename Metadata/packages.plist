@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>A package manager for macOS that simplifies installing, updating, and managing software packages.</string>
+	<key>Documentation</key>
+	<string>https://brew.sh</string>
+	<key>Keywords</key>
+	<string>macOS, package manager, software, installer</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>StØphane Sudre</string>
+</dict>
+</plist>

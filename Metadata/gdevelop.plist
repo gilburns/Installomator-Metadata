@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>GDevelop 5 is an open-source, cross-platform 2D game engine designed for novices and indie developers.</string>
+	<key>Documentation</key>
+	<string>https://gdevelop-app.com/documentation/</string>
+	<key>Keywords</key>
+	<string>Game development, 2D games, Open-source, Cross-platform</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>4ian - Florian Rival</string>
+</dict>
+</plist>

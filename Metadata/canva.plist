@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Canva is a free graphic design tool that lets you create visual materials like flyers, posters, presentations, and videos using templates, images, and a drag and drop interface.</string>
+	<key>Documentation</key>
+	<string>https://www.canva.com/help/</string>
+	<key>Keywords</key>
+	<string>Canva,Graphic Design</string>
+	<key>Privacy</key>
+	<string>https://www.canva.com/policies/terms-of-use/</string>
+	<key>Publisher</key>
+	<string>Canva</string>
+</dict>
+</plist>

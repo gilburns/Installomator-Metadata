@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Design software for Cricut cutting machines.</string>
+	<key>Documentation</key>
+	<string>https://help.cricut.com/</string>
+	<key>Keywords</key>
+	<string>Cricut, design, software, cutting, machines</string>
+	<key>Privacy</key>
+	<string>https://www.cricut.com/legal#privacy-policy</string>
+	<key>Publisher</key>
+	<string>Provo Craft &amp; Novelty, Inc.</string>
+</dict>
+</plist>

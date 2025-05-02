@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>iTerm is a terminal emulator for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.iterm2.com/documentation.html</string>
+	<key>Keywords</key>
+	<string>Terminal, Emulator, macOS, iTerm</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>iTerm</string>
+</dict>
+</plist>

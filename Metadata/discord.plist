@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Discord is a communication platform for macOS users to chat, call, and collaborate with friends and communities.</string>
+	<key>Documentation</key>
+	<string>https://discord.com/developers/docs/intro</string>
+	<key>Keywords</key>
+	<string>communication, chat, call, friends, community</string>
+	<key>Privacy</key>
+	<string>https://discord.com/privacy</string>
+	<key>Publisher</key>
+	<string>Discord Inc.</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>QGIS is a free and open source desktop geographic information system (GIS) application that supports viewing, editing, printing, and analysis of geospatial data.</string>
+	<key>Documentation</key>
+	<string>https://qgis.org/en/site/forusers/support.html</string>
+	<key>Keywords</key>
+	<string>GIS,QGIS</string>
+	<key>Privacy</key>
+	<string>https://qgis.org/en/docs/index.html</string>
+	<key>Publisher</key>
+	<string>QGIS Development Team</string>
+</dict>
+</plist>

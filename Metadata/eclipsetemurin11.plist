@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Temurin 11 is a distribution of the OpenJDK 11 that's supported by AdoptOpenJDK.</string>
+	<key>Documentation</key>
+	<string>https://adoptopenjdk.net/</string>
+	<key>Keywords</key>
+	<string>Java, OpenJDK, Temurin, AdoptOpenJDK</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Eclipse Foundation</string>
+</dict>
+</plist>

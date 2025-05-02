@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Daylite is a business productivity app for Mac and iOS devices.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>CRM, task management, project management, scheduling</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Marketcircle Inc.</string>
+</dict>
+</plist>

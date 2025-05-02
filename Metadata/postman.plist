@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Postman is a free, complete, API development environment application used by organizations worldwide for monitoring APIs, debugging APIs, running automation tests, and recording documentation all under one roof.</string>
+	<key>Documentation</key>
+	<string>https://learning.postman.com/</string>
+	<key>Keywords</key>
+	<string>Postman,Programming,Utilities</string>
+	<key>Privacy</key>
+	<string>https://www.postman.com/legal/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Postman</string>
+</dict>
+</plist>

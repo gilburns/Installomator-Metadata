@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Authy Desktop is a multi-platform authenticator app for two-factor authentication</string>
+	<key>Documentation</key>
+	<string>https://authy.com/download/</string>
+	<key>Keywords</key>
+	<string>Authy, Desktop, macOS, authenticator, two-factor authentication</string>
+	<key>Privacy</key>
+	<string>https://www.cloudflare.com/privacypolicy/</string>
+	<key>Publisher</key>
+	<string>Twilio Inc.</string>
+</dict>
+</plist>

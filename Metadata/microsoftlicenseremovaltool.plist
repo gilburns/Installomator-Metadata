@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Microsoft License Removal Tool removes Microsoft licenses.</string>
+	<key>Documentation</key>
+	<string>https://support.microsoft.com/en-us/topic/remove-licenses-for-subscribed-apps-b9e468a1-1a34-4f6b-8cd8-5f1b4b42539e</string>
+	<key>Keywords</key>
+	<string>Microsoft, License, Removal, Tool</string>
+	<key>Privacy</key>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Screenshot tool for macOS with advanced editing features</string>
+	<key>Documentation</key>
+	<string>https://shottr-documentation.com</string>
+	<key>Keywords</key>
+	<string>macOS, screenshot, tool, editing</string>
+	<key>Privacy</key>
+	<string>https://shottr-privacy-policy.com</string>
+	<key>Publisher</key>
+	<string>Lightricks Ltd.</string>
+</dict>
+</plist>

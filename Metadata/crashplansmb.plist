@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>CrashPlan is a cloud-based backup software for macOS.</string>
+	<key>Documentation</key>
+	<string>https://support.code42.com/CrashPlan</string>
+	<key>Keywords</key>
+	<string>Backup, Cloud, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.crashplan.com/en-us/data-privacy-policy/</string>
+	<key>Publisher</key>
+	<string>CrashPlan</string>
+</dict>
+</plist>

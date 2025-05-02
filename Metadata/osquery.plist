@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>osquery-* is a powerful macOS security tool for querying operating system information using SQL.</string>
+	<key>Documentation</key>
+	<string>https://osquery.readthedocs.io/en/stable/</string>
+	<key>Keywords</key>
+	<string>macOS, security, tool, osquery, SQL</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Facebook</string>
+</dict>
+</plist>

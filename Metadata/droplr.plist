@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Droplr is a file-sharing and screen recording tool for macOS.</string>
+	<key>Documentation</key>
+	<string>https://droplr.com/support/</string>
+	<key>Keywords</key>
+	<string>file sharing, screen recording, macOS, tool</string>
+	<key>Privacy</key>
+	<string>https://droplr.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Droplr</string>
+</dict>
+</plist>

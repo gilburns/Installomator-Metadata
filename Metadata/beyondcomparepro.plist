@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Beyond Compare is a powerful file and folder comparison tool for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.scootersoftware.com/support.php</string>
+	<key>Keywords</key>
+	<string>file comparison, folder comparison, macOS, software tool</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Scooter Software</string>
+</dict>
+</plist>

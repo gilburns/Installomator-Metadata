@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Archi is a free and open-source software tool to create architectural models and documentation.</string>
+	<key>Documentation</key>
+	<string>https://www.archimatetool.com/documentation</string>
+	<key>Keywords</key>
+	<string>modeling, architecture, design, documentation</string>
+	<key>Privacy</key>
+	<string>https://www.archimatetool.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>ArchiMate</string>
+</dict>
+</plist>

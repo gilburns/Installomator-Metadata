@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Outset is a scripting utility for macOS to run commands during startup, login, and network changes.</string>
+	<key>Documentation</key>
+	<string>https://github.com/chilcote/outset</string>
+	<key>Keywords</key>
+	<string>macOS, utility, scripting, startup, login</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Mac Admins Open Source</string>
+</dict>
+</plist>

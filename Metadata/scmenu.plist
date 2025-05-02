@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>SC Menu is a menu bar utility app for macOS that allows users to quickly access and manage their screen capture tools.</string>
+	<key>Documentation</key>
+	<string>https://scmenu.dev/docs</string>
+	<key>Keywords</key>
+	<string>macOS, menu bar, utility, screen capture</string>
+	<key>Privacy</key>
+	<string>https://scmenu.dev/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Speedy Mac</string>
+</dict>
+</plist>

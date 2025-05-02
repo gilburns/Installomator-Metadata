@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>A secure web browser that protects your privacy by routing internet traffic through the Tor network.</string>
+	<key>Documentation</key>
+	<string>https://www.torproject.org/docs/documentation.html.en</string>
+	<key>Keywords</key>
+	<string>Privacy, Security, Anonymity, Browser</string>
+	<key>Privacy</key>
+	<string>https://www.torproject.org/legal/privacy.html</string>
+	<key>Publisher</key>
+	<string>The Tor Project</string>
+</dict>
+</plist>

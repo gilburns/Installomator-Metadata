@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Skype is a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches via the Internet. Skype also provides instant messaging services. Users may transmit text, video, audio and images.</string>
+	<key>Documentation</key>
+	<string>https://docs.microsoft.com/en-us/skypeforbusiness/</string>
+	<key>Keywords</key>
+	<string>Skype,calling,conference,meeting,meetings,telecommunications,video chat</string>
+	<key>Privacy</key>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Encrypted messaging app for secure communication.</string>
+	<key>Documentation</key>
+	<string>https://support.signal.org/hc/en-us/categories/360000851171-Signal-Desktop</string>
+	<key>Keywords</key>
+	<string>secure, messaging, encrypted, macOS</string>
+	<key>Privacy</key>
+	<string>https://signal.org/legal/#privacy-policy</string>
+	<key>Publisher</key>
+	<string>Signal Messenger LLC</string>
+</dict>
+</plist>

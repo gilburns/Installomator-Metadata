@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Video analysis software for sports teams and athletes</string>
+	<key>Documentation</key>
+	<string>https://www.hudl.com/products/sportscode/documentation</string>
+	<key>Keywords</key>
+	<string>sports, video analysis, teams, athletes</string>
+	<key>Privacy</key>
+	<string>https://www.hudl.com/privacy</string>
+	<key>Publisher</key>
+	<string>Hudl, Inc.</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Customizable macOS utility to reverse the direction of scrolling</string>
+	<key>Documentation</key>
+	<string>https://pilotmoon.com/scrollreverser/</string>
+	<key>Keywords</key>
+	<string>macOS, utility, scrolling, customization</string>
+	<key>Privacy</key>
+	<string>https://pilotmoon.com/scrollreverser/privacy/</string>
+	<key>Publisher</key>
+	<string>pilotmoon</string>
+</dict>
+</plist>

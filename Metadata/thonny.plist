@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Thonny is a Python IDE for beginners that aims to provide a simple and clean interface for learning programming.</string>
+	<key>Documentation</key>
+	<string>https://thonny.org/documentation</string>
+	<key>Keywords</key>
+	<string>Python, IDE, beginners, programming</string>
+	<key>Privacy</key>
+	<string>https://thonny.org/privacy</string>
+	<key>Publisher</key>
+	<string>Aivar Annamaa</string>
+</dict>
+</plist>

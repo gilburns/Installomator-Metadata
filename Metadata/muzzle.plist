@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Muzzle is a macOS app that automatically silences embarrassing notifications during screen sharing.</string>
+	<key>Documentation</key>
+	<string>https://muzzleapp.com/</string>
+	<key>Keywords</key>
+	<string>macOS, app, notifications, screen sharing</string>
+	<key>Privacy</key>
+	<string>https://muzzleapp.com/privacy</string>
+	<key>Publisher</key>
+	<string>Made by Many</string>
+</dict>
+</plist>

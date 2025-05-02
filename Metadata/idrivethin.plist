@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>IDrive is a cloud backup and sync service for macOS devices.</string>
+	<key>Documentation</key>
+	<string>https://www.idrive.com/mac</string>
+	<key>Keywords</key>
+	<string>backup, sync, cloud storage, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.idrive.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Pro Softnet Corporation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Galactic Reverb is a digital audio effect that simulates reverberation in outer space.</string>
+	<key>Documentation</key>
+	<string>https://galacticreverb.com/docs</string>
+	<key>Keywords</key>
+	<string>audio, effects, space, reverb</string>
+	<key>Privacy</key>
+	<string>https://galacticreverb.com/privacy</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

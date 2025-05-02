@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>LiveReplayer is a software that allows users to record and replay their screen activity on macOS.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>macOS, screen recording, replay, software</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>LiveReplayer</string>
+</dict>
+</plist>

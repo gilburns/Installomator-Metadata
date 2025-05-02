@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Duo Desktop is a secure multi-factor authentication tool for desktop applications.</string>
+	<key>Documentation</key>
+	<string>https://duo.com/docs/desktop</string>
+	<key>Keywords</key>
+	<string>Security, Authentication, Desktop, Multi-factor, Tool</string>
+	<key>Privacy</key>
+	<string>https://duo.com/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Duo Security</string>
+</dict>
+</plist>

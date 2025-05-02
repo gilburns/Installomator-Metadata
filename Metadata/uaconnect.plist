@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>UA Connect is a platform for seamless communication and collaboration among users.</string>
+	<key>Documentation</key>
+	<string>https://uaconnect.com/docs</string>
+	<key>Keywords</key>
+	<string>communication, collaboration, platform, users</string>
+	<key>Privacy</key>
+	<string>https://uaconnect.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>United Automation</string>
+</dict>
+</plist>

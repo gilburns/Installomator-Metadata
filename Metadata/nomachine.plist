@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Go from your desktop to any NoMachine-enabled computer at the speed of light. Thanks to our NX technology, NoMachine is the fastest and highest quality remote desktop you have ever tried. Get to any computer in the world in just a few clicks! Take what's important where you go and share with who you want! NoMachine is your own personal server, private and secure. Did we say NoMachine is free? No strings attached.</string>
+	<key>Documentation</key>
+	<string>https://www.nomachine.com/Support</string>
+	<key>Keywords</key>
+	<string>NoMachine,Remote</string>
+	<key>Privacy</key>
+	<string>https://www.nomachine.com/</string>
+	<key>Publisher</key>
+	<string>NoMachine</string>
+</dict>
+</plist>

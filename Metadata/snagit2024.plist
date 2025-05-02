@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Snagit is a screenshot program that captures video display and audio output.</string>
+	<key>Documentation</key>
+	<string>https://support.techsmith.com/</string>
+	<key>Keywords</key>
+	<string>Snagit,screen capture,screencapture,screenshot</string>
+	<key>Privacy</key>
+	<string>https://www.techsmith.com/privacy-policy.html</string>
+</dict>
+</plist>

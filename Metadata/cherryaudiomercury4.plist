@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mercury-4 is a powerful software platform for data analysis and visualization.</string>
+	<key>Documentation</key>
+	<string>https://mercury-4-docs.com</string>
+	<key>Keywords</key>
+	<string>data, analysis, visualization, software</string>
+	<key>Privacy</key>
+	<string>https://mercury-4-privacy-policy.com</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

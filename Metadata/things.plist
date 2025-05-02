@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Things is a task management application for macOS.</string>
+	<key>Documentation</key>
+	<string>https://support.culturedcode.com/customer/en/portal/topics/640206-things-3/articles</string>
+	<key>Keywords</key>
+	<string>task management, productivity, macOS, organization</string>
+	<key>Privacy</key>
+	<string>https://culturedcode.com/things/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Cultured Code</string>
+</dict>
+</plist>

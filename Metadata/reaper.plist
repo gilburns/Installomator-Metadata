@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.</string>
+	<key>Documentation</key>
+	<string>https://www.reaper.fm/userguide.php</string>
+	<key>Keywords</key>
+	<string>Audio,Digital,REAPER</string>
+	<key>Privacy</key>
+	<string>https://www.cockos.com/index.php</string>
+	<key>Publisher</key>
+	<string>Cockos</string>
+</dict>
+</plist>

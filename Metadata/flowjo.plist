@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>FlowJo is a software package for analyzing flow cytometry data. Files produced by modern flow cytometers are written in the Flow Cytometry Standard format with an .fcs file extension. FlowJo will import and analyze cytometry data regardless of which flow cytometer is used to collect the data.</string>
+	<key>Documentation</key>
+	<string>https://docs.flowjo.com/flowjo/</string>
+	<key>Keywords</key>
+	<string>Cytometer,Cytometry,FlowJo</string>
+	<key>Privacy</key>
+	<string>https://www.flowjo.com/policies/privacy-policy</string>
+	<key>Publisher</key>
+	<string>BD Biosciences</string>
+</dict>
+</plist>

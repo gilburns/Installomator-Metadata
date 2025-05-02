@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Magic Bullet Suite is a collection of high-end plugins for color correction, finishing, and film looks for filmmakers.</string>
+	<key>Documentation</key>
+	<string>https://www.redgiant.com/user-guide/</string>
+	<key>Keywords</key>
+	<string>color correction, film looks, plugins, finishing</string>
+	<key>Privacy</key>
+	<string>https://www.redgiant.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Red Giant</string>
+</dict>
+</plist>

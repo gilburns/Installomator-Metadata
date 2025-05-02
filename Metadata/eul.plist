@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>eul is a software application for macOS that enables users to manage and control their system's energy usage.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>macOS, energy, management, control</string>
+	<key>Privacy</key>
+	<string></string>
+</dict>
+</plist>

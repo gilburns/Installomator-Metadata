@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Splashtop Streamer allows you to remotely access your macOS computer from other devices.</string>
+	<key>Documentation</key>
+	<string>https://www.splashtop.com/docs</string>
+	<key>Keywords</key>
+	<string>Remote access, macOS, streaming, Splashtop, computer, remote control</string>
+	<key>Privacy</key>
+	<string>https://www.splashtop.com/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Splashtop Inc.</string>
+</dict>
+</plist>

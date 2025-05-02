@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Dynalist is a versatile productivity tool for macOS.</string>
+	<key>Documentation</key>
+	<string>https://dynalist.io/help or </string>
+	<key>Keywords</key>
+	<string>Productivity, List, Notes, Organizer</string>
+	<key>Privacy</key>
+	<string>https://dynalist.io/privacy or </string>
+	<key>Publisher</key>
+	<string>Dynalist</string>
+</dict>
+</plist>

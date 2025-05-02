@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>ipvision Connect is a software for macOS that provides seamless integration of IP cameras for surveillance purposes.</string>
+	<key>Documentation</key>
+	<string>https://www.ipvision.com/documentation</string>
+	<key>Keywords</key>
+	<string>IP cameras, surveillance, macOS, integration</string>
+	<key>Privacy</key>
+	<string>https://www.ipvision.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>ipvision</string>
+</dict>
+</plist>

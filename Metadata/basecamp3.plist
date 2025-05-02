@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Project management and team collaboration software.</string>
+	<key>Documentation</key>
+	<string>https://basecamp.com/help/3/guides/getting-started</string>
+	<key>Keywords</key>
+	<string>Project Management, Team Collaboration, Task Tracking, Communication</string>
+	<key>Privacy</key>
+	<string>https://basecamp.com/privacy</string>
+	<key>Publisher</key>
+	<string>Basecamp</string>
+</dict>
+</plist>

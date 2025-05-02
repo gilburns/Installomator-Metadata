@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>SuperCollider is an environment and programming language for real-time audio synthesis and algorithmic composition.</string>
+	<key>Documentation</key>
+	<string>https://supercollider.github.io/</string>
+	<key>Keywords</key>
+	<string>audio, synthesis, macOS, music, programming</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>SuperCollider Developers</string>
+</dict>
+</plist>

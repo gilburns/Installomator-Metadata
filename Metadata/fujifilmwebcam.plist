@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>FUJIFILM X Webcam 2 is a software for macOS that allows Fujifilm cameras to be used as a webcam for online video conferencing.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>FUJIFILM, X Webcam, macOS, software, webcam, video conferencing</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>FUJIFILM Corporation</string>
+</dict>
+</plist>

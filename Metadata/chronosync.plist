@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Backup and synchronization software for macOS</string>
+	<key>Documentation</key>
+	<string>https://www.econtechnologies.com/documentation/chronosync/4/en/index.html</string>
+	<key>Keywords</key>
+	<string>Backup, Synchronization, macOS, Software</string>
+	<key>Privacy</key>
+	<string>https://www.econtechnologies.com/privacy</string>
+	<key>Publisher</key>
+	<string>Econ Technologies</string>
+</dict>
+</plist>

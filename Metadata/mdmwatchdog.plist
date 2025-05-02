@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Addigy MDM Watchdog is a monitoring tool for macOS devices managed by Addigy MDM.</string>
+	<key>Documentation</key>
+	<string>https://www.addigy.com/docs/mdm-watchdog/</string>
+	<key>Keywords</key>
+	<string>macOS, Addigy, MDM, monitoring, tool</string>
+	<key>Privacy</key>
+	<string>https://www.addigy.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Addigy Inc.</string>
+</dict>
+</plist>

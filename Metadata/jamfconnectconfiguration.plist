@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Jamf Connect Configuration is a software tool for managing authentication and account provisioning for macOS devices.</string>
+	<key>Documentation</key>
+	<string>https://www.jamf.com/resources/product-documentation/jamf-connect/</string>
+	<key>Keywords</key>
+	<string>macOS, authentication, account provisioning, management</string>
+	<key>Privacy</key>
+	<string>https://www.jamf.com/legal/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>JAMF Software</string>
+</dict>
+</plist>

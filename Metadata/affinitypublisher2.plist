@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Affinity Publisher 2 is a professional desktop publishing software for creating various types of documents.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>desktop publishing, design, layout, documents</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Serif</string>
+</dict>
+</plist>

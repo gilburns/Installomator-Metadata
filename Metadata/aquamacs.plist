@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>An Emacs text editor for Mac OS X with extensive customization options.</string>
+	<key>Documentation</key>
+	<string>https://aquamacs.org/docs.shtml</string>
+	<key>Keywords</key>
+	<string>Emacs, text editor, Mac OS X, customization</string>
+	<key>Privacy</key>
+	<string>https://aquamacs.org/privacy-policy</string>
+	<key>Publisher</key>
+	<string>David Reitter and the Aquamacs Team</string>
+</dict>
+</plist>

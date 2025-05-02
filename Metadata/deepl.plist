@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>DeepL is a popular online translation service.</string>
+	<key>Documentation</key>
+	<string>https://www.deepl.com/docs-api/</string>
+	<key>Keywords</key>
+	<string>translation, language, AI, machine learning</string>
+	<key>Privacy</key>
+	<string>https://www.deepl.com/privacy.html</string>
+	<key>Publisher</key>
+	<string>DeepL</string>
+</dict>
+</plist>

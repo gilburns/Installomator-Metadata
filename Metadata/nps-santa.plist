@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>A software for managing and automating gift delivery during the holiday season.</string>
+	<key>Documentation</key>
+	<string>https://santaclaus.com/docs</string>
+	<key>Keywords</key>
+	<string>gift, delivery, holiday, automation</string>
+	<key>Privacy</key>
+	<string>https://santaclaus.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>North Pole Security</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>NetNewsWire is a free and open-source RSS reader for macOS and iOS devices.</string>
+	<key>Documentation</key>
+	<string>https://github.com/Ranchero-Software/NetNewsWire</string>
+	<key>Keywords</key>
+	<string>RSS, reader, macOS, iOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Brent Simmons</string>
+</dict>
+</plist>

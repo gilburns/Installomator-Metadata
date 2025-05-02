@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Dialpad Meetings is a versatile video conferencing platform that offers seamless communication and collaboration.</string>
+	<key>Documentation</key>
+	<string>https://help.dialpad.com/</string>
+	<key>Keywords</key>
+	<string>Dialpad Meetings,Video Conferencing</string>
+	<key>Privacy</key>
+	<string>https://www.dialpad.com/legal/#privacy</string>
+	<key>Publisher</key>
+	<string>Dialpad</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Plantronics Hub software provides audio device management and customization options for Plantronics headsets.</string>
+	<key>Documentation</key>
+	<string>https://www.poly.com/us/en/support/documentation</string>
+	<key>Keywords</key>
+	<string>audio, headset, management, customization</string>
+	<key>Privacy</key>
+	<string>https://www.poly.com/us/en/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Poly</string>
+</dict>
+</plist>

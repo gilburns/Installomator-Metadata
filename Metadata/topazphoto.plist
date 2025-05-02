@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Topaz Photo AI is a powerful image editing software that uses artificial intelligence to enhance and transform photos.</string>
+	<key>Documentation</key>
+	<string>https://help.topazlabs.com/hc/en-us/categories/360001679792-Topaz-Software-Documentation</string>
+	<key>Keywords</key>
+	<string>photo editing, image enhancement, artificial intelligence, Topaz Labs</string>
+	<key>Privacy</key>
+	<string>https://www.topazlabs.com/privacypolicy</string>
+	<key>Publisher</key>
+	<string>Topaz Labs</string>
+</dict>
+</plist>

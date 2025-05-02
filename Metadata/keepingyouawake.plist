@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>KeepingYouAwake is a free and open source macOS menu bar utility that prevents your Mac from going to sleep.</string>
+	<key>Documentation</key>
+	<string>https://github.com/newmarcel/KeepingYouAwake</string>
+	<key>Keywords</key>
+	<string>macOS, utility, open source, sleep prevention</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>KeepingYouAwake</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Video conferencing software for macOS</string>
+	<key>Documentation</key>
+	<string>https://support.zoom.us/hc/en-us/categories/200101697</string>
+	<key>Keywords</key>
+	<string>video conferencing, communication, virtual meetings</string>
+	<key>Privacy</key>
+	<string>https://zoom.us/privacy</string>
+	<key>Publisher</key>
+	<string>Zoom Video Communications, Inc.</string>
+</dict>
+</plist>

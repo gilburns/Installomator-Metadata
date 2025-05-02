@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Netiquette is a macOS application for managing and optimizing network settings.</string>
+	<key>Documentation</key>
+	<string>https://netiquette.app/docs</string>
+	<key>Keywords</key>
+	<string>macOS, network, settings, management</string>
+	<key>Privacy</key>
+	<string>https://netiquette.app/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Netiquette</string>
+</dict>
+</plist>

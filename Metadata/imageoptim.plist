@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>ImageOptim is a tool that compresses images to reduce file size without losing quality.</string>
+	<key>Documentation</key>
+	<string>https://imageoptim.com/mac</string>
+	<key>Keywords</key>
+	<string>optimization, images, compress, macOS</string>
+	<key>Privacy</key>
+	<string>https://imageoptim.com/privacy</string>
+	<key>Publisher</key>
+	<string>imageoptim</string>
+</dict>
+</plist>

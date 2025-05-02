@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>OrbStack is a versatile software for macOS that streamlines data management and synchronization.</string>
+	<key>Documentation</key>
+	<string>https://orbstack.com/docs</string>
+	<key>Keywords</key>
+	<string>data management, synchronization, macOS, software</string>
+	<key>Privacy</key>
+	<string>https://orbstack.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Orbital Dynamics</string>
+</dict>
+</plist>

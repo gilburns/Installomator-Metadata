@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>TeX Live Utility is a macOS graphical user interface for managing TeX Live installations.</string>
+	<key>Documentation</key>
+	<string>https://www.tug.org/texlive/tlmgr.html</string>
+	<key>Keywords</key>
+	<string>TeX, macOS, utility, TeX Live, LaTeX</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>TeX Live Team</string>
+</dict>
+</plist>

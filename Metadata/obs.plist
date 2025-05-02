@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Free and open source software for video recording and live streaming.</string>
+	<key>Documentation</key>
+	<string>https://obsproject.com/help</string>
+	<key>Keywords</key>
+	<string>Recording,Screen Capture,Screen Recording,Streaming</string>
+	<key>Privacy</key>
+	<string>https://obsproject.com/help</string>
+	<key>Publisher</key>
+	<string>Open Broadcaster Software</string>
+</dict>
+</plist>

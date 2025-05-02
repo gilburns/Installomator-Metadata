@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Front is a collaborative inbox for teams that combines emails, SMS, and chat in one workspace.</string>
+	<key>Documentation</key>
+	<string>https://help.front.com/</string>
+	<key>Keywords</key>
+	<string>collaborative, inbox, emails, chat, workspace</string>
+	<key>Privacy</key>
+	<string>https://front.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Front</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Adobe Acrobat is a family of application software and Web services developed by Adobe Inc. to view, create, manipulate, print and manage files in Portable Document Format. The family comprises Acrobat Reader, Acrobat and Acrobat.com</string>
+	<key>Documentation</key>
+	<string>https://helpx.adobe.com/reader/get-started.html</string>
+	<key>Keywords</key>
+	<string>Acrobat,Adobe,Adobe Reader,PDF</string>
+	<key>Privacy</key>
+	<string>https://www.adobe.com/privacy/policy.html</string>
+	<key>Publisher</key>
+	<string>Adobe Inc.</string>
+</dict>
+</plist>

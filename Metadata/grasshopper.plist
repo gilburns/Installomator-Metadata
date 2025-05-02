@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Grasshopper is a Mac productivity app for learning to code through fun, interactive lessons.</string>
+	<key>Documentation</key>
+	<string>https://grasshopper.app/</string>
+	<key>Keywords</key>
+	<string>Mac, productivity, code, learn, interactive</string>
+	<key>Privacy</key>
+	<string>https://grasshopper.app/privacy-policy</string>
+	<key>Publisher</key>
+	<string>McNeel North America</string>
+</dict>
+</plist>

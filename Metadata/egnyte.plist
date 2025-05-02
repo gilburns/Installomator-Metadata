@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Robust encryption and access controls protects your files.</string>
+	<key>Documentation</key>
+	<string>https://helpdesk.egnyte.com/hc/en-us/articles/213554827-Getting-Started-Guide-for-Egnyte-Connect</string>
+	<key>Keywords</key>
+	<string>Egnyte,encryption,storage</string>
+	<key>Privacy</key>
+	<string>https://www.egnyte.com/corp/privacy_policy.html</string>
+	<key>Publisher</key>
+	<string>Egnyte, Inc.</string>
+</dict>
+</plist>

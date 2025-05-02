@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Webex by Cisco is the leading enterprise solution for video conferencing, online meetings, screen share, and webinars. Web conferencing, cloud calling, and equipment.</string>
+	<key>Documentation</key>
+	<string>https://help.webex.com/ld-4ew3r4-CiscoWebexSupport/Webex-Support</string>
+	<key>Keywords</key>
+	<string>Cisco,Conferencing,Meeting,Screen Share,WebEx,Webinar</string>
+	<key>Privacy</key>
+	<string>https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
+	<key>Publisher</key>
+	<string>Cisco Systems, Inc.</string>
+</dict>
+</plist>

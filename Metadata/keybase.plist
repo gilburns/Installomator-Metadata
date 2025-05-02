@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Keybase is a secure messaging and file-sharing platform that provides end-to-end encryption for communication and data storage.</string>
+	<key>Documentation</key>
+	<string>https://keybase.io/docs</string>
+	<key>Keywords</key>
+	<string>secure messaging, end-to-end encryption, file-sharing, security</string>
+	<key>Privacy</key>
+	<string>https://keybase.io/privacy</string>
+	<key>Publisher</key>
+	<string>Keybase</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s VSCode for macOS.</string>
+	<key>Documentation</key>
+	<string>https://vscodium.com/</string>
+	<key>Keywords</key>
+	<string>VSCodium, macOS, free, open-source, VSCode, community-driven</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>VSCodium</string>
+</dict>
+</plist>

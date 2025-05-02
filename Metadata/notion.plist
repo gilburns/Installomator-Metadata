@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Notion is a productivity and note-taking application that offers many organizational tools including task management, project tracking, to-do lists, bookmarking, and more. Users can also create custom templates, embed videos and web content, and collaborate with others in real-time.</string>
+	<key>Documentation</key>
+	<string>https://www.notion.so/help</string>
+	<key>Keywords</key>
+	<string>Productivity,Task Management,To-Do Lists</string>
+	<key>Privacy</key>
+	<string>https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac</string>
+	<key>Publisher</key>
+	<string>Notion Labs Inc.</string>
+</dict>
+</plist>

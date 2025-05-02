@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Qualitative data analysis software for managing, analyzing, and presenting mixed-methods research data</string>
+	<key>Documentation</key>
+	<string>https://www.dedoose.com/support</string>
+	<key>Keywords</key>
+	<string>Qualitative analysis, Research data, Mixed methods, Data management</string>
+	<key>Privacy</key>
+	<string>https://www.dedoose.com/privacy-policy</string>
+</dict>
+</plist>

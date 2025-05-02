@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Zoho WorkDrive is a cloud-based document management and file sharing platform for teams.</string>
+	<key>Documentation</key>
+	<string>https://www.zoho.com/workdrive/docs/</string>
+	<key>Keywords</key>
+	<string>cloud storage, document management, file sharing, collaboration</string>
+	<key>Privacy</key>
+	<string>https://www.zoho.com/privacy.html</string>
+	<key>Publisher</key>
+	<string>Zoho Corporation</string>
+</dict>
+</plist>

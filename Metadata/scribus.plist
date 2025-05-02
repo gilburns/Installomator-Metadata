@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Scribus is free and open-source desktop publishing application. It is designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. Scribus can also create animated and interactive PDF presentations and forms. Example uses include writing newspapers, brochures, newsletters, posters, and books.</string>
+	<key>Documentation</key>
+	<string>https://forums.scribus.net/</string>
+	<key>Keywords</key>
+	<string>Desktop,Publishing,Scribus</string>
+	<key>Privacy</key>
+	<string>https://www.scribus.net/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>The Scribus Team</string>
+</dict>
+</plist>

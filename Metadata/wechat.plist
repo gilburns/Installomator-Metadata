@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>WeChat provides text messaging, hold-to-talk voice messaging, broadcast (one-to-many) messaging, video conferencing, video games, sharing of photographs and videos and location sharing.</string>
+	<key>Documentation</key>
+	<string>http://weixin.qq.com</string>
+	<key>Keywords</key>
+	<string>Chat,Messaging</string>
+	<key>Privacy</key>
+	<string>https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&amp;t=weixin_agreement&amp;s=privacy&amp;cc=CN</string>
+	<key>Publisher</key>
+	<string>Tencent</string>
+</dict>
+</plist>

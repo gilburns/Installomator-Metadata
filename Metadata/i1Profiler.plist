@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Professional color profiling software for accurate color calibration of monitors and printers</string>
+	<key>Documentation</key>
+	<string>https://www.xrite.com/service-support/i1profiler-support</string>
+	<key>Keywords</key>
+	<string>Color management, Calibration, Profiling, Monitor, Printer</string>
+	<key>Privacy</key>
+	<string>https://www.xrite.com/service-support/privacy</string>
+	<key>Publisher</key>
+	<string>X-Rite, Incorporated</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Monitor your macOS system stats in the menu bar.</string>
+	<key>Documentation</key>
+	<string>https://bjango.com/help/istatmenus6/introduction/</string>
+	<key>Keywords</key>
+	<string>macOS, system monitor, menu bar, statistics</string>
+	<key>Privacy</key>
+	<string>https://bjango.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Bjango</string>
+</dict>
+</plist>

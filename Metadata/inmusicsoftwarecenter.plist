@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>inMusic Software Center is a platform for managing and updating inMusic brand software on macOS.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>inMusic, Software, Center, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>inMusic</string>
+</dict>
+</plist>

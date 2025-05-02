@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>P5 Workstation is a versatile software tool for audio production and editing.</string>
+	<key>Documentation</key>
+	<string>https://www.p5audio.com/p5-workstation-docs</string>
+	<key>Keywords</key>
+	<string>audio, production, editing, software, workstation</string>
+	<key>Privacy</key>
+	<string>https://www.p5audio.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Cycling '74</string>
+</dict>
+</plist>

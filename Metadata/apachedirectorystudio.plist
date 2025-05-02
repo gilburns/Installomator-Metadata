@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Apache Directory Studio is a complete directory tooling platform intended to be used with any LDAP server.</string>
+	<key>Documentation</key>
+	<string>https://directory.apache.org/studio/</string>
+	<key>Keywords</key>
+	<string>LDAP, directory service, Apache Directory Studio, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Apache Software Foundation</string>
+</dict>
+</plist>

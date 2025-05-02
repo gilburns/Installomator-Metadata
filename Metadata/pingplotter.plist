@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>PingPlotter is a network monitoring and troubleshooting tool that graphically displays the performance of a network connection over time.</string>
+	<key>Documentation</key>
+	<string>https://www.pingplotter.com/</string>
+	<key>Keywords</key>
+	<string>network, monitoring, troubleshooting, tool</string>
+	<key>Privacy</key>
+	<string>https://www.pingplotter.com/privacy-policy</string>
+</dict>
+</plist>

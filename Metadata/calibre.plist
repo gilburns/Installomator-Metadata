@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>E-book management software for macOS</string>
+	<key>Documentation</key>
+	<string>https://manual.calibre-ebook.com/</string>
+	<key>Keywords</key>
+	<string>E-book, Management, Reading, macOS</string>
+	<key>Privacy</key>
+	<string>https://calibre-ebook.com/privacy</string>
+	<key>Publisher</key>
+	<string>Kovid Goyal</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>TeamViewerHost is remote control software for easy desktop sharing and file transfer.</string>
+	<key>Documentation</key>
+	<string>https://www.teamviewer.com/en/support/documentation/</string>
+	<key>Keywords</key>
+	<string>remote control, desktop sharing, file transfer</string>
+	<key>Privacy</key>
+	<string>https://www.teamviewer.com/en/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>TeamViewer GmbH</string>
+</dict>
+</plist>

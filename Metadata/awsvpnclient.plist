@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>AWS Client VPN is a fully-managed remote access VPN solution used by your remote workforce to securely access resources within both AWS and your on-premises network. Fully elastic, it automatically scales up, or down, based on demand. When migrating applications to AWS, your users access them the same way before, during, and after the move. AWS Client VPN, including the software client, supports the OpenVPN protocol.</string>
+	<key>Documentation</key>
+	<string>https://aws.amazon.com/premiumsupport/knowledge-center</string>
+	<key>Keywords</key>
+	<string>AWS,Client,VPN</string>
+	<key>Privacy</key>
+	<string>https://docs.aws.amazon.com/vpn/index.html#aws-client-vpn</string>
+	<key>Publisher</key>
+	<string>Amazon Web Services</string>
+</dict>
+</plist>

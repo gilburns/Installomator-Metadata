@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Caffeine is a macOS utility application that prevents the computer from going to sleep.</string>
+	<key>Documentation</key>
+	<string>https://example.com/caffeine-docs</string>
+	<key>Keywords</key>
+	<string>macOS, utility, prevent-sleep</string>
+	<key>Privacy</key>
+	<string>https://example.com/caffeine-privacy-policy</string>
+	<key>Publisher</key>
+	<string>Lighthead Software</string>
+</dict>
+</plist>

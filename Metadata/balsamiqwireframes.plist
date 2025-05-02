@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Balsamiq Wireframes is a wireframing tool for macOS.</string>
+	<key>Documentation</key>
+	<string>https://balsamiq.com/wireframes/</string>
+	<key>Keywords</key>
+	<string>Wireframing, Design, UX, macOS</string>
+	<key>Privacy</key>
+	<string>https://balsamiq.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Balsamiq Studios LLC</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Company Portal is a secure platform for employees to access company resources and collaborate.</string>
+	<key>Documentation</key>
+	<string>https://companyportal.com/docs</string>
+	<key>Keywords</key>
+	<string>portal, employee, access, collaborate</string>
+	<key>Privacy</key>
+	<string>https://companyportal.com/privacy</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

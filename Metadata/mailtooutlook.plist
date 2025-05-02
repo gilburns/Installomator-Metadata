@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>MailToOutlook is a macOS application for sending emails directly to Outlook.</string>
+	<key>Documentation</key>
+	<string>https://mailtooutlook.com/docs</string>
+	<key>Keywords</key>
+	<string>mail, macOS, Outlook, email, application</string>
+	<key>Privacy</key>
+	<string>https://mailtooutlook.com/privacy</string>
+	<key>Publisher</key>
+	<string>Paul Bowden</string>
+</dict>
+</plist>

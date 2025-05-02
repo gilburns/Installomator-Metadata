@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Cormorant is a productivity software for macOS.</string>
+	<key>Documentation</key>
+	<string>https://cormorant-docs.com</string>
+	<key>Keywords</key>
+	<string>macOS, productivity, software</string>
+	<key>Privacy</key>
+	<string>https://cormorant-privacy.com</string>
+</dict>
+</plist>

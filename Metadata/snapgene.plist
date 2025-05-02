@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Molecular biology software for DNA analysis and cloning</string>
+	<key>Documentation</key>
+	<string>https://www.snapgene.com/help</string>
+	<key>Keywords</key>
+	<string>Molecular biology, DNA analysis, Cloning, Genetic engineering</string>
+	<key>Privacy</key>
+	<string>https://www.snapgene.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>GSL Biotech LLC</string>
+</dict>
+</plist>

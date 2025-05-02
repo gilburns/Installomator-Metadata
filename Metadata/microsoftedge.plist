@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>World-class performance with more privacy, more productivity, and more value while you browse.</string>
+	<key>Documentation</key>
+	<string>https://docs.microsoft.com/en-us/microsoft-edge/</string>
+	<key>Keywords</key>
+	<string>Browser,Edge,Microsoft Edge</string>
+	<key>Privacy</key>
+	<string>https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

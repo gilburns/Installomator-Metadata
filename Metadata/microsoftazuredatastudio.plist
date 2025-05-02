@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Azure Data Studio is a cross-platform database tool for data professionals using the Microsoft family of on-premises and cloud data platforms on Windows, MacOS, and Linux.</string>
+	<key>Documentation</key>
+	<string>https://github.com/Microsoft/azuredatastudio</string>
+	<key>Keywords</key>
+	<string>Azure,Database,SQL</string>
+	<key>Privacy</key>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Particulars is a comprehensive data analysis tool for businesses.</string>
+	<key>Documentation</key>
+	<string>https://particulars.com/docs</string>
+	<key>Keywords</key>
+	<string>data analysis, business, tool</string>
+	<key>Privacy</key>
+	<string>https://particulars.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Particulars</string>
+</dict>
+</plist>

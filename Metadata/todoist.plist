@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Todoist is a popular task management app that helps you to organize and prioritize your tasks effectively.</string>
+	<key>Documentation</key>
+	<string>https://get.todoist.help/hc/en-us</string>
+	<key>Keywords</key>
+	<string>task management, productivity, organization</string>
+	<key>Privacy</key>
+	<string>https://todoist.com/privacy</string>
+	<key>Publisher</key>
+	<string>Doist</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Telegram Desktop is a fast and secure desktop app that is perfectly synced with your mobile phone. It allows you to send and receive messages, photos, videos, and files of any type (doc, zip, mp3, etc.), as well as create groups for up to 200,000 people or channels for broadcasting to unlimited audiences.</string>
+	<key>Documentation</key>
+	<string>https://telegram.org/faq</string>
+	<key>Keywords</key>
+	<string>IM,Telegram</string>
+	<key>Privacy</key>
+	<string>https://telegram.org/privacy</string>
+	<key>Publisher</key>
+	<string>Telegram Messenger LLP</string>
+</dict>
+</plist>

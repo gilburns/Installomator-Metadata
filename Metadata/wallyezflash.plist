@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Wally is a desktop wallpaper management application for macOS.</string>
+	<key>Documentation</key>
+	<string>https://wallyapp.com/docs</string>
+	<key>Keywords</key>
+	<string>macOS, wallpaper, management, application</string>
+	<key>Privacy</key>
+	<string>https://wallyapp.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Where's Wally? for macOS</string>
+</dict>
+</plist>

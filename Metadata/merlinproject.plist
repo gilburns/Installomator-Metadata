@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Merlin Project is a project management software for macOS with advanced planning and scheduling capabilities.</string>
+	<key>Documentation</key>
+	<string>https://www.projectwizards.net/en/support/documentation/merlin-project</string>
+	<key>Keywords</key>
+	<string>Project management, Planning, Scheduling, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.projectwizards.net/en/support/privacy</string>
+	<key>Publisher</key>
+	<string>ProjectWizards GmbH</string>
+</dict>
+</plist>

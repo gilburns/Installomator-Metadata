@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Monitor and control GPU usage on macOS systems.</string>
+	<key>Documentation</key>
+	<string>https://gfx.io/</string>
+	<key>Keywords</key>
+	<string>macOS, GPU, monitor, control</string>
+	<key>Privacy</key>
+	<string>https://gfx.io/privacy/</string>
+	<key>Publisher</key>
+	<string>Cody Krieger</string>
+</dict>
+</plist>

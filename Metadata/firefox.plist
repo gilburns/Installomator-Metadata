@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, Mozilla Corporation. Firefox is available for Microsoft Windows, macOS, Linux, BSD, illumos and Solaris operating systems. Its sibling, Firefox for Android, is also available.</string>
+	<key>Documentation</key>
+	<string>https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide</string>
+	<key>Keywords</key>
+	<string>Firefox,Mozilla Firefox,browser,web,web browser</string>
+	<key>Privacy</key>
+	<string>https://www.mozilla.org/en-US/privacy/</string>
+	<key>Publisher</key>
+	<string>Mozilla Corporation</string>
+</dict>
+</plist>

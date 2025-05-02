@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Resilio Sync is a fast and secure file synchronization solution for individuals and businesses.</string>
+	<key>Documentation</key>
+	<string>https://www.resilio.com/support/</string>
+	<key>Keywords</key>
+	<string>file synchronization, secure, fast, Resilio Sync</string>
+	<key>Privacy</key>
+	<string>https://www.resilio.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Resilio, Inc.</string>
+</dict>
+</plist>

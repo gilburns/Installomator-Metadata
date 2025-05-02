@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mighty Mike is a powerful productivity tool for managing tasks and projects.</string>
+	<key>Documentation</key>
+	<string>https://mightymike-docs.com</string>
+	<key>Keywords</key>
+	<string>productivity, tasks, projects, management</string>
+	<key>Privacy</key>
+	<string>https://mightymike-privacy.com</string>
+	<key>Publisher</key>
+	<string>Mighty Mike</string>
+</dict>
+</plist>

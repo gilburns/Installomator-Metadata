@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Studio is a versatile software for creating and editing multimedia content.</string>
+	<key>Documentation</key>
+	<string>https://studio-documentation.com</string>
+	<key>Keywords</key>
+	<string>multimedia, content creation, editing, software</string>
+	<key>Privacy</key>
+	<string>https://studio-privacy-policy.com</string>
+	<key>Publisher</key>
+	<string>Agile Sports Technologies</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>TaskPaper is a plain text to-do list manager for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.taskpaper.com/guide/</string>
+	<key>Keywords</key>
+	<string>TaskPaper, macOS, to-do list, manager</string>
+	<key>Privacy</key>
+	<string>https://www.taskpaper.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Hog Bay Software</string>
+</dict>
+</plist>

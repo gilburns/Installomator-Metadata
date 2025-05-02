@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Thunderbird is a free and open-source email application that’s easy to set up and customize.</string>
+	<key>Documentation</key>
+	<string>https://support.mozilla.org/en-US/products/thunderbird</string>
+	<key>Keywords</key>
+	<string>email, open-source, macOS, Thunderbird</string>
+	<key>Privacy</key>
+	<string>https://www.thunderbird.net/en-US/privacy/</string>
+	<key>Publisher</key>
+	<string>Mozilla Foundation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Whimsical is a collaborative visual workspace for creating flowcharts, wireframes, and sticky notes.</string>
+	<key>Documentation</key>
+	<string>https://whimsical.com/</string>
+	<key>Keywords</key>
+	<string>Collaboration, Visual Workspace, Flowcharts, Wireframes, Sticky Notes</string>
+	<key>Privacy</key>
+	<string>https://whimsical.com/privacy</string>
+	<key>Publisher</key>
+	<string>Whimsical</string>
+</dict>
+</plist>

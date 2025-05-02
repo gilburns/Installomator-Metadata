@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Plex Media Server is a software that allows you to organize and stream your media library.</string>
+	<key>Documentation</key>
+	<string>https://support.plex.tv/articles/categories/plex-media-server/</string>
+	<key>Keywords</key>
+	<string>media, server, macOS, stream, organize</string>
+	<key>Privacy</key>
+	<string>https://www.plex.tv/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Plex Inc.</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>JetBrains DataSpell is an IDE (Integrated Development Environment) specifically designed for data analysts and analytics engineers. It provides a comprehensive environment for tasks related to data analysis, exploratory data analysis, and prototyping machine learning models.</string>
+	<key>Documentation</key>
+	<string>https://www.jetbrains.com/support/</string>
+	<key>Keywords</key>
+	<string>DataSpell,IDE,JetBrains</string>
+	<key>Privacy</key>
+	<string>https://www.jetbrains.com/privacy-security/</string>
+	<key>Publisher</key>
+	<string>JetBrains</string>
+</dict>
+</plist>

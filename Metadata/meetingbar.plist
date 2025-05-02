@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Display upcoming meetings in the macOS menu bar.</string>
+	<key>Documentation</key>
+	<string>https://meetingbar.onrender.com/</string>
+	<key>Keywords</key>
+	<string>Meeting, macOS, Menu Bar, Calendar</string>
+	<key>Privacy</key>
+	<string>https://meetingbar.onrender.com/privacy</string>
+	<key>Publisher</key>
+	<string>Varun Shenoy</string>
+</dict>
+</plist>

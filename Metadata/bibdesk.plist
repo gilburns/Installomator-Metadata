@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>BibDesk is a bibliographic reference manager for macOS.</string>
+	<key>Documentation</key>
+	<string>https://bibdesk.sourceforge.io/manual/BibDeskHelp.html</string>
+	<key>Keywords</key>
+	<string>Reference manager, BibTeX, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>BibDesk</string>
+</dict>
+</plist>

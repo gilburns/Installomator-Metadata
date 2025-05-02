@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Relatel is a customer relationship management (CRM) software for businesses.</string>
+	<key>Documentation</key>
+	<string>https://www.relatel.com/docs</string>
+	<key>Keywords</key>
+	<string>CRM, customer relationship management, software, business</string>
+	<key>Privacy</key>
+	<string>https://www.relatel.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Relatel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>A powerful and user-friendly virtual world creation software for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://miniverse.com/docs</string>
+	<key>Keywords</key>
+	<string>Virtual world, Creation, macOS, Software</string>
+	<key>Privacy</key>
+	<string>https://miniverse.com/privacy</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

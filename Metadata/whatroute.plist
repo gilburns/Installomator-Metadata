@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>WhatRoute is a network diagnostic utility for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.whatroute.net/</string>
+	<key>Keywords</key>
+	<string>macOS, network, diagnostic, utility</string>
+	<key>Privacy</key>
+	<string>https://www.whatroute.net/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Bryan Christianson</string>
+</dict>
+</plist>

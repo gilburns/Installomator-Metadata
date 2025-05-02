@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Element is a productivity app designed to enhance team collaboration and communication.</string>
+	<key>Documentation</key>
+	<string>https://element.io/help</string>
+	<key>Keywords</key>
+	<string>Collaboration,Element,Productivity</string>
+	<key>Privacy</key>
+	<string>https://element.io/privacy</string>
+</dict>
+</plist>

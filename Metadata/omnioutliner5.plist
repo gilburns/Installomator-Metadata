@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>OmniOutliner is a flexible outlining and organizational tool for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://support.omnigroup.com/omnioutliner</string>
+	<key>Keywords</key>
+	<string>macOS, outlining, organization, tool</string>
+	<key>Privacy</key>
+	<string>https://www.omnigroup.com/privacy/</string>
+	<key>Publisher</key>
+	<string>The Omni Group</string>
+</dict>
+</plist>

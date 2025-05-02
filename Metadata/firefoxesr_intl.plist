@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Open-source web browser developed by Mozilla Corporation.</string>
+	<key>Documentation</key>
+	<string>https://www.mozilla.org/en-US/firefox/new/</string>
+	<key>Keywords</key>
+	<string>Web browser, Firefox, Mozilla, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.mozilla.org/en-US/privacy/firefox/</string>
+	<key>Publisher</key>
+	<string>Mozilla Corporation</string>
+</dict>
+</plist>

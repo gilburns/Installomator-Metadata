@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Red Giant is a suite of software tools for visual effects and motion graphics professionals on macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.redgiant.com/docs/</string>
+	<key>Keywords</key>
+	<string>visual effects, motion graphics, software tools, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.redgiant.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Red Giant</string>
+</dict>
+</plist>

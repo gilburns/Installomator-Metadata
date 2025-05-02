@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>UVI Portal is a software application for macOS that allows users to manage and interact with UVI libraries and products.</string>
+	<key>Documentation</key>
+	<string>https://www.uvi.net/en/software/download.html</string>
+	<key>Keywords</key>
+	<string>UVI, Portal, macOS, libraries, products</string>
+	<key>Privacy</key>
+	<string>https://www.uvi.net/en/privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>UVI</string>
+</dict>
+</plist>

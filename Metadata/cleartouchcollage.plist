@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Collage is a macOS application for creating visually stunning photo collages.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>photo, collage, design, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>PearlMountain</string>
+</dict>
+</plist>

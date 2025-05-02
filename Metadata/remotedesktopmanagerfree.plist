@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>For individual users who don't need to share remote connections and privileged passwords with other IT professionals.</string>
+	<key>Documentation</key>
+	<string>https://help.remotedesktopmanager.com/documents.htm</string>
+	<key>Keywords</key>
+	<string>RDMFree,RDP,Remote Desktop Manager,connection,remote desktop</string>
+	<key>Privacy</key>
+	<string>https://devolutions.net/legal</string>
+	<key>Publisher</key>
+	<string>Devolutions</string>
+</dict>
+</plist>

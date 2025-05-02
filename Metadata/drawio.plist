@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>draw.io is a free online diagram drawing tool that can be used on macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.diagrams.net/documentation/index.html</string>
+	<key>Keywords</key>
+	<string>diagram, drawing, tool, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.diagrams.net/privacy.html</string>
+	<key>Publisher</key>
+	<string>JGraph Ltd.</string>
+</dict>
+</plist>

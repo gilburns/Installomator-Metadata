@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Web security testing tool for finding vulnerabilities in web applications.</string>
+	<key>Documentation</key>
+	<string>https://portswigger.net/burp/documentation</string>
+	<key>Keywords</key>
+	<string>Web security, Penetration testing, Vulnerability assessment</string>
+	<key>Privacy</key>
+	<string>https://portswigger.net/privacy</string>
+	<key>Publisher</key>
+	<string>PortSwigger Ltd</string>
+</dict>
+</plist>

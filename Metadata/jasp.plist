@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>JASP is a user-friendly statistical software for conducting and interpreting statistical analyses.</string>
+	<key>Documentation</key>
+	<string>https://jasp-stats.org/</string>
+	<key>Keywords</key>
+	<string>Statistical software, Data analysis, Bayesian statistics</string>
+	<key>Privacy</key>
+	<string>https://jasp-stats.org/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>JASP</string>
+</dict>
+</plist>

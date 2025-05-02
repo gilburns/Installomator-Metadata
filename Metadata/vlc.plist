@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>VLC media player is a free and open-source, portable, cross-platform media player and streaming media server developed by the VideoLAN project.</string>
+	<key>Documentation</key>
+	<string>https://www.videolan.org/doc/</string>
+	<key>Keywords</key>
+	<string>VLC,media player,mp3,video</string>
+	<key>Privacy</key>
+	<string>https://www.videolan.org/privacy.html</string>
+	<key>Publisher</key>
+	<string>VideoLAN</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Open-source tool for log management and analysis</string>
+	<key>Documentation</key>
+	<string>https://lucifer.com/docs</string>
+	<key>Keywords</key>
+	<string>log management, analysis, open-source, tool</string>
+	<key>Privacy</key>
+	<string>https://lucifer.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Netflix</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Arturia Software Center is a platform for managing and installing Arturia software products.</string>
+	<key>Documentation</key>
+	<string>https://www.arturia.com/support/tutorials.html</string>
+	<key>Keywords</key>
+	<string>Arturia, Software, Center, Management, Installation</string>
+	<key>Privacy</key>
+	<string>https://www.arturia.com/legal/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Arturia</string>
+</dict>
+</plist>

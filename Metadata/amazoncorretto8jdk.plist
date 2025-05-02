@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).</string>
+	<key>Documentation</key>
+	<string>https://docs.aws.amazon.com/corretto/</string>
+	<key>Keywords</key>
+	<string>Amazon,Corretto,Java,Runtime</string>
+	<key>Privacy</key>
+	<string>https://aws.amazon.com/corretto/faqs/</string>
+	<key>Publisher</key>
+	<string>Amazon</string>
+</dict>
+</plist>

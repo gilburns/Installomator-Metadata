@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Sublime Merge is a Git client with a powerful feature set.</string>
+	<key>Documentation</key>
+	<string>https://www.sublimemerge.com/docs/</string>
+	<key>Keywords</key>
+	<string>Git, client, macOS, Sublime Merge</string>
+	<key>Privacy</key>
+	<string>https://www.sublimemerge.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Sublime HQ Pty Ltd</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>OpenVPN based virtual private network (VPN) server</string>
+	<key>Documentation</key>
+	<string>https://pritunl.com/docs</string>
+	<key>Keywords</key>
+	<string>VPN, OpenVPN, server, network</string>
+	<key>Privacy</key>
+	<string>https://pritunl.com/privacy</string>
+	<key>Publisher</key>
+	<string>Pritunl</string>
+</dict>
+</plist>

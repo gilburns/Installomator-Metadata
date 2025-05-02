@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mendeley Reference Manager is a reference management software for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.mendeley.com/reference-management/mendeley-desktop</string>
+	<key>Keywords</key>
+	<string>Reference, Manager, macOS, Software</string>
+	<key>Privacy</key>
+	<string>https://www.mendeley.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Elsevier</string>
+</dict>
+</plist>

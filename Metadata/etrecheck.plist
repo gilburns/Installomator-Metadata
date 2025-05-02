@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>EtreCheckPro is a diagnostic tool for macOS to identify and resolve computer issues.</string>
+	<key>Documentation</key>
+	<string>https://etrecheck.com/documentation</string>
+	<key>Keywords</key>
+	<string>MacOS, diagnostic tool, troubleshoot, system information</string>
+	<key>Privacy</key>
+	<string>https://etrecheck.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Etresoft, Inc.</string>
+</dict>
+</plist>

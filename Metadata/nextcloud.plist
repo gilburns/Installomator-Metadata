@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud application functionally is similar to Dropbox. Unlike Dropbox Nextcloud does not offer off-premises file storage hosting.</string>
+	<key>Documentation</key>
+	<string>https://portal.nextcloud.com/</string>
+	<key>Keywords</key>
+	<string>Nextcloud,cloud,file hosting,hosting,storage</string>
+	<key>Privacy</key>
+	<string>https://nextcloud.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Nextcloud GmbH</string>
+</dict>
+</plist>

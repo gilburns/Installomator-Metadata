@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Tower is a powerful Git client for Mac and Windows.</string>
+	<key>Documentation</key>
+	<string>https://www.git-tower.com/help/</string>
+	<key>Keywords</key>
+	<string>Git, client, Mac, Windows</string>
+	<key>Privacy</key>
+	<string>https://www.git-tower.com/legal/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Fournova</string>
+</dict>
+</plist>

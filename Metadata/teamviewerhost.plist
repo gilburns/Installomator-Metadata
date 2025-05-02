@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>TeamViewer Host is used for 24/7 access to remote computers, which makes it an ideal solution for uses such as remote monitoring, server maintenance, or connecting to a PC or Mac in the office or at home.</string>
+	<key>Documentation</key>
+	<string>https://www.teamviewer.com/en-us/documents/</string>
+	<key>Keywords</key>
+	<string>TeamViewer,TeamViewer Host,conferencing,meetings,remote control,sharing</string>
+	<key>Privacy</key>
+	<string>https://www.teamviewer.com/en-us/privacy-policy/?page_id=23013&amp;Coupon=Pre5TV15&amp;%3F=p</string>
+	<key>Publisher</key>
+	<string>TeamViewer GmbH</string>
+</dict>
+</plist>

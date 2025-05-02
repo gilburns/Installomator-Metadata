@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Control the volume of different apps and background noise on macOS.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>macOS, background music, volume control, audio control</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Tynium</string>
+</dict>
+</plist>

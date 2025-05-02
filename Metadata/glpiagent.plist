@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>An agent software for GLPI asset management system on macOS</string>
+	<key>Documentation</key>
+	<string>https://glpi-project.org/documentation/</string>
+	<key>Keywords</key>
+	<string>GLPI, agent, macOS, asset management</string>
+	<key>Privacy</key>
+	<string>https://glpi-project.org/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Teclib</string>
+</dict>
+</plist>

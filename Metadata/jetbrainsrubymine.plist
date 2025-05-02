@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>RubyMine is an Integrated Development Environment (IDE) specifically designed for the Ruby programming language and Rails framework. It helps developers be more productive in every aspect of Ruby/Rails project development, from writing and debugging code to testing and deploying completed applications.</string>
+	<key>Documentation</key>
+	<string>https://www.jetbrains.com/support/</string>
+	<key>Keywords</key>
+	<string>IDE,Ruby,RubyMine</string>
+	<key>Privacy</key>
+	<string>https://www.jetbrains.com/privacy-security/</string>
+	<key>Publisher</key>
+	<string>JetBrains</string>
+</dict>
+</plist>

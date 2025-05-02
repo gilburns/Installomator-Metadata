@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Druva inSync is a comprehensive data protection and governance solution for macOS devices.</string>
+	<key>Documentation</key>
+	<string>https://www.druva.com/products/insync/</string>
+	<key>Keywords</key>
+	<string>data protection, governance, macOS, backup, security</string>
+	<key>Privacy</key>
+	<string>https://www.druva.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Druva Inc.</string>
+</dict>
+</plist>

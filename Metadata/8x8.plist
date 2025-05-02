@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>8x8 Work is a communication and collaboration tool for macOS users.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>communication, collaboration, macOS, tool</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>8x8, Inc.</string>
+</dict>
+</plist>

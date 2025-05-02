@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.</string>
+	<key>Documentation</key>
+	<string>https://krisp.ai/faq</string>
+	<key>Keywords</key>
+	<string>Background,Calls,Cancellation,Meetings,Noise</string>
+	<key>Privacy</key>
+	<string>https://krisp.ai/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Krisp Inc.</string>
+</dict>
+</plist>

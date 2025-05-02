@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Cisco Webex Meetings is a video conferencing software for macOS.</string>
+	<key>Documentation</key>
+	<string>https://help.webex.com/</string>
+	<key>Keywords</key>
+	<string>video conferencing, team collaboration, online meetings</string>
+	<key>Privacy</key>
+	<string>https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
+	<key>Publisher</key>
+	<string>Cisco Systems, Inc.</string>
+</dict>
+</plist>

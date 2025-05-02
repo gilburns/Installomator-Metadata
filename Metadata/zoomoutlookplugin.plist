@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Zoom Outlook Plugin allows users to schedule Zoom meetings directly within Outlook.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>Zoom, Outlook, Plugin, schedule, meetings</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Zoom Video Communications, Inc.</string>
+</dict>
+</plist>

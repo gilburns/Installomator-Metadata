@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Egnyte WebEdit enables you to select a file from our Web UI and automatically open the file in its native application. Changes you save will automatically appear in the cloud as new versions. This lightweight product is ideal for users who need to edit files on their desktops, but don’t want to install Desktop App or Desktop Sync.</string>
+	<key>Documentation</key>
+	<string>http://www.egnyte.com</string>
+	<key>Keywords</key>
+	<string>Egnyte,WebEdit</string>
+	<key>Privacy</key>
+	<string>https://www.egnyte.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Egnyte, Inc.</string>
+</dict>
+</plist>

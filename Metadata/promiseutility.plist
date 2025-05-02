@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Promise Utility is a JavaScript library for working with asynchronous operations using Promises.</string>
+	<key>Documentation</key>
+	<string>https://promise-utility-docs.com</string>
+	<key>Keywords</key>
+	<string>JavaScript, Promises, Async, Await</string>
+	<key>Privacy</key>
+	<string>https://promise-utility-privacy-policy.com</string>
+	<key>Publisher</key>
+	<string>Promise Technology Inc.</string>
+</dict>
+</plist>

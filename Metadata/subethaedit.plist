@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Real-time collaborative text editing for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.subethaedit.net/documentation/</string>
+	<key>Keywords</key>
+	<string>collaborative editing, macOS, text editing</string>
+	<key>Privacy</key>
+	<string>https://www.subethaedit.net/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>TheCodingMonkeys</string>
+</dict>
+</plist>

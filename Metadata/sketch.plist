@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Design tool for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://www.sketch.com/docs/</string>
+	<key>Keywords</key>
+	<string>Design, macOS, Graphics, UI/UX</string>
+	<key>Privacy</key>
+	<string>https://www.sketch.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Bohemian Coding</string>
+</dict>
+</plist>

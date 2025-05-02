@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Garmin Express is an application designed to manage Garmin devices. It is used for device registration, map updates and software updates, syncing Fitness data with Garmin Connect, and much more.</string>
+	<key>Documentation</key>
+	<string>https://www.garmin.com/en-US/software/express</string>
+	<key>Keywords</key>
+	<string>Fitness,Garmin,Garmin Connect,Garmin Express,map</string>
+	<key>Privacy</key>
+	<string>https://www.garmin.com/en-US/privacy/</string>
+	<key>Publisher</key>
+	<string>Garmin Ltd.</string>
+</dict>
+</plist>

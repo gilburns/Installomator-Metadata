@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>DCP-o-matic 2 is a digital cinema package (DCP) creation tool for macOS.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>DCP, digital cinema, macOS, media production</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>DCP-o-matic</string>
+</dict>
+</plist>

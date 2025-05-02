@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>SysEx Librarian is a Mac application for sending and receiving SysEx messages for MIDI devices.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>SysEx, Librarian, macOS, MIDI, messages</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Snoize</string>
+</dict>
+</plist>

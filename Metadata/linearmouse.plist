@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>LinearMouse is a productivity tool for macOS that enhances mouse movement precision.</string>
+	<key>Documentation</key>
+	<string>https://linear.mouse/docs</string>
+	<key>Keywords</key>
+	<string>macOS, mouse, productivity, precision</string>
+	<key>Privacy</key>
+	<string>https://linear.mouse/privacy-policy</string>
+	<key>Publisher</key>
+	<string>LinearMouse</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Secure file sharing software for businesses and organizations</string>
+	<key>Documentation</key>
+	<string>https://www.e-share.com/docs</string>
+	<key>Keywords</key>
+	<string>file sharing, secure, business, organizations</string>
+	<key>Privacy</key>
+	<string>https://www.e-share.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>e-Share</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Telnet is a network protocol that allows users to communicate with remote computers over a TCP/IP network.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>Telnet, network protocol, macOS, remote access</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Mocha Soft</string>
+</dict>
+</plist>

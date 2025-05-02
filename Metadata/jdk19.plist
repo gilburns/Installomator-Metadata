@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Java SE Development Kit 19 is a software development kit for building applications in the Java programming language, version 19.</string>
+	<key>Documentation</key>
+	<string>https://docs.oracle.com/en/java/javase/19/</string>
+	<key>Keywords</key>
+	<string>Java, Development, Kit, JDK, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Oracle Corporation</string>
+</dict>
+</plist>

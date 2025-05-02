@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Workplace Chat is a messaging and collaboration tool designed for teams to communicate and work together.</string>
+	<key>Documentation</key>
+	<string>https://www.workplace.com/help/work/2261780077424033</string>
+	<key>Keywords</key>
+	<string>chat, collaboration, messaging, teams</string>
+	<key>Privacy</key>
+	<string>https://www.workplace.com/legal/workplace-privacy</string>
+	<key>Publisher</key>
+	<string>Facebook</string>
+</dict>
+</plist>

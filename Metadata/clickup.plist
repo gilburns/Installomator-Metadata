@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>ClickUp is a project management software that allows you to plan, track and collaborate on any project. You can create marketing campaigns, manage development sprints and create the ideal workflow for you and your team.</string>
+	<key>Documentation</key>
+	<string>https://help.clickup.com/</string>
+	<key>Keywords</key>
+	<string>ClickUp,Project Management</string>
+	<key>Privacy</key>
+	<string>https://clickup.com/privacy</string>
+	<key>Publisher</key>
+	<string>ClickUp</string>
+</dict>
+</plist>

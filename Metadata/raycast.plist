@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Raycast is a productivity tool for macOS that helps you perform tasks faster with customizable scripts and actions.</string>
+	<key>Documentation</key>
+	<string>https://raycast.com/docs</string>
+	<key>Keywords</key>
+	<string>productivity, macOS, scripts, actions</string>
+	<key>Privacy</key>
+	<string>https://raycast.com/privacy</string>
+	<key>Publisher</key>
+	<string>Raycast</string>
+</dict>
+</plist>

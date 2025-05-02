@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Box Drive is the incredibly simple way to work with all of your files — even billions of files — right from your desktop, taking up very little hard drive space. Open your Windows Explorer or Mac Finder to find every file you need, edit like you would any local file and save it automatically to the cloud.</string>
+	<key>Documentation</key>
+	<string>https://community.box.com/t5/Getting-Started-with-Box-Drive/tkb-p/howtoguideBoxDrive</string>
+	<key>Keywords</key>
+	<string>Box,Box Drive,cloud,storage</string>
+	<key>Privacy</key>
+	<string>https://www.box.com/legal/privacypolicy</string>
+	<key>Publisher</key>
+	<string>Box, Inc.</string>
+</dict>
+</plist>

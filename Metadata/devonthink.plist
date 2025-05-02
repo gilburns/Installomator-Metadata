@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>DEVONthink 3 is a powerful document and information management software for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://www.devontechnologies.com/apps/devonthink</string>
+	<key>Keywords</key>
+	<string>Document management, macOS, Organization, Information management</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>DEVONtechnologies</string>
+</dict>
+</plist>

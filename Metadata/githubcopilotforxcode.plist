@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>GitHub Copilot for Xcode is an AI-powered code completion tool for macOS developers.</string>
+	<key>Documentation</key>
+	<string>https://github.com/apps/copilot</string>
+	<key>Keywords</key>
+	<string>AI, code completion, Xcode, macOS, development</string>
+	<key>Privacy</key>
+	<string>https://docs.github.com/en/github/site-policy/github-privacy-statement</string>
+	<key>Publisher</key>
+	<string>GitHub</string>
+</dict>
+</plist>

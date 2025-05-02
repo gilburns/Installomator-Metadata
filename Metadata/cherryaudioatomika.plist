@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Atomika is a powerful text editor designed for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://www.atomika.com/docs</string>
+	<key>Keywords</key>
+	<string>text editor, macOS, software, Atomika</string>
+	<key>Privacy</key>
+	<string>https://www.atomika.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

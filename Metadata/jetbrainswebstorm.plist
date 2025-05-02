@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets.</string>
+	<key>Documentation</key>
+	<string>https://www.jetbrains.com/support/</string>
+	<key>Keywords</key>
+	<string>Angular,HTML,IDE,JavaScript,Node.js,React,TypeScript,WebStorm</string>
+	<key>Privacy</key>
+	<string>https://www.jetbrains.com/privacy-security/</string>
+	<key>Publisher</key>
+	<string>JetBrains</string>
+</dict>
+</plist>

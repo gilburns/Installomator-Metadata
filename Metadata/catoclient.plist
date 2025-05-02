@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>The Cato VPN Client is software that enables secure connectivity from devices used by businesses to the Cato Cloud service. Traveling business users can easily connect to corporate resources on premise and in the cloud from everywhere.</string>
+	<key>Documentation</key>
+	<string>https://support.catonetworks.com/hc/en-us/categories/4965374551581-Support</string>
+	<key>Keywords</key>
+	<string>Cato,VPN</string>
+	<key>Privacy</key>
+	<string>https://www.catonetworks.com/privacypolicy/</string>
+	<key>Publisher</key>
+	<string>Securly Inc.</string>
+</dict>
+</plist>

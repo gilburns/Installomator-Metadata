@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Aircall is a cloud-based business phone and call center system that helps manage and streamline customer support and sales engagement operations. Designed for offices and teams in remote areas, it enables users to integrate the software with client relationship management (CRM) and helpdesk systems and manage calls directly from it.</string>
+	<key>Documentation</key>
+	<string>https://aircall.io/help-center/</string>
+	<key>Keywords</key>
+	<string>Aircall,Phone,Virtual,Voice</string>
+	<key>Privacy</key>
+	<string>https://aircall.io/privacy-faqs/</string>
+	<key>Publisher</key>
+	<string>Aircall</string>
+</dict>
+</plist>

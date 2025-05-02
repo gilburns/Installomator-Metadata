@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Joplin is an open-source note-taking application with synchronization capabilities.</string>
+	<key>Documentation</key>
+	<string>https://joplinapp.org/</string>
+	<key>Keywords</key>
+	<string>note-taking, open-source, synchronization</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Laurent Cozic</string>
+</dict>
+</plist>

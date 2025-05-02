@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Play is a versatile software for creating, sharing, and modifying multimedia content.</string>
+	<key>Documentation</key>
+	<string>https://play.github.io/docs</string>
+	<key>Keywords</key>
+	<string>multimedia, content creation, sharing, editing</string>
+	<key>Privacy</key>
+	<string>https://play.github.io/privacy-policy</string>
+	<key>Publisher</key>
+	<string>EastWest Sounds</string>
+</dict>
+</plist>

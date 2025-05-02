@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Manage and access exclusive content from Korg devices with Korg Software Pass.</string>
+	<key>Documentation</key>
+	<string>https://www.korg.com/us/support/download/</string>
+	<key>Keywords</key>
+	<string>Korg, Software Pass, manage, access, exclusive content</string>
+	<key>Privacy</key>
+	<string>https://www.korg.com/us/support/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Korg</string>
+</dict>
+</plist>

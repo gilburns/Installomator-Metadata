@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Sidekick is a productivity tool for managing tasks and project timelines.</string>
+	<key>Documentation</key>
+	<string>https://sidekick.com/docs</string>
+	<key>Keywords</key>
+	<string>productivity, tasks, project management</string>
+	<key>Privacy</key>
+	<string>https://sidekick.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>PushPlayLabs Inc.</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Parallels Client is a remote application that allows users to securely access virtual desktops and applications on macOS.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>Remote access, Virtual desktop, macOS, Parallels</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Parallels Inc.</string>
+</dict>
+</plist>

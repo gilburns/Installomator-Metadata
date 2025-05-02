@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>XQuartz is an open-source version of the X.Org X Window System that runs on macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.xquartz.org/</string>
+	<key>Keywords</key>
+	<string>XQuartz, X.Org, X Window System, macOS</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>XQuartz</string>
+</dict>
+</plist>

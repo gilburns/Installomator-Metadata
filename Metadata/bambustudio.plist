@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Bambu Studio is a cutting-edge, feature-rich slicing software. It contains project-based workflows, systematically optimized slicing algorithms, and an easy-to-use graphic interface, bringing users an incredibly smooth printing experience.</string>
+	<key>Documentation</key>
+	<string>https://github.com/bambulab/BambuStudio/wiki</string>
+	<key>Keywords</key>
+	<string>Bambu Studio,Slicing</string>
+	<key>Privacy</key>
+	<string>https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement</string>
+	<key>Publisher</key>
+	<string>BambuStudio</string>
+</dict>
+</plist>

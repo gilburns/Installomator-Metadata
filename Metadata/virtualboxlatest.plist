@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>VirtualBox is a powerful cross-platform virtualization software for x86 and AMD64/Intel64 architectures.</string>
+	<key>Documentation</key>
+	<string>https://www.virtualbox.org/wiki/Documentation or </string>
+	<key>Keywords</key>
+	<string>Virtualization, Cross-platform, x86, AMD64, Intel64</string>
+	<key>Privacy</key>
+	<string>https://www.virtualbox.org/wiki/VirtualBox:Privacy_policy or </string>
+	<key>Publisher</key>
+	<string>Oracle Corporation</string>
+</dict>
+</plist>

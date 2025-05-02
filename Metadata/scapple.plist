@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Scapple is a versatile mind-mapping tool for organizing ideas and thoughts visually.</string>
+	<key>Documentation</key>
+	<string>https://www.literatureandlatte.com/scapple/overview</string>
+	<key>Keywords</key>
+	<string>mind mapping, brainstorming, organization, visual thinking</string>
+	<key>Privacy</key>
+	<string>https://www.literatureandlatte.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Literature &amp; Latte</string>
+</dict>
+</plist>

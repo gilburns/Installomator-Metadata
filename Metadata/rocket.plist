@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Rocket is a macOS app for quickly accessing emoji characters.</string>
+	<key>Documentation</key>
+	<string>https://matthewpalmer.net/rocket/</string>
+	<key>Keywords</key>
+	<string>macOS, app, emoji, characters</string>
+	<key>Privacy</key>
+	<string>https://matthewpalmer.net/rocket/privacy</string>
+	<key>Publisher</key>
+	<string>Rocket</string>
+</dict>
+</plist>

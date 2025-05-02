@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>MASV is a fast and reliable file transfer service for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://masv.io/docs/</string>
+	<key>Keywords</key>
+	<string>file transfer, macOS, fast, reliable</string>
+	<key>Privacy</key>
+	<string>https://masv.io/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Arctic Whiteness</string>
+</dict>
+</plist>

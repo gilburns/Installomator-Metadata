@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>KeyShot 12 is a powerful and user-friendly 3D rendering software.</string>
+	<key>Documentation</key>
+	<string>https://www.keyshot.com/manual</string>
+	<key>Keywords</key>
+	<string>3D rendering, visualization, design, rendering software</string>
+	<key>Privacy</key>
+	<string>https://www.keyshot.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Luxion, Inc.</string>
+</dict>
+</plist>

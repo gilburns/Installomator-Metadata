@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Youlean Loudness Meter 2 is a professional audio tool for measuring loudness and true peak levels on macOS.</string>
+	<key>Documentation</key>
+	<string>https://youlean.co/youlean-loudness-meter/</string>
+	<key>Keywords</key>
+	<string>Audio, Loudness Meter, macOS, Music Production</string>
+	<key>Privacy</key>
+	<string>https://youlean.co/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Youlean</string>
+</dict>
+</plist>

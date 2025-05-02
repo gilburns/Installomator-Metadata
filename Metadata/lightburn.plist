@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>LightBurn is a layout, editing, and control software for laser cutters and engravers.</string>
+	<key>Documentation</key>
+	<string>https://lightburnsoftware.com/pages/training</string>
+	<key>Keywords</key>
+	<string>laser, cutter, engraver, design, software</string>
+	<key>Privacy</key>
+	<string>https://lightburnsoftware.com/pages/privacy-policy</string>
+	<key>Publisher</key>
+	<string>LightBurn</string>
+</dict>
+</plist>

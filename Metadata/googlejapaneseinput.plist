@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Google Japanese Input is an input method editor which allows users to enter Japanese text on macOS.</string>
+	<key>Documentation</key>
+	<string>https://support.google.com/japaneseinput</string>
+	<key>Keywords</key>
+	<string>Google, Japanese, Input, macOS</string>
+	<key>Privacy</key>
+	<string>https://policies.google.com/privacy</string>
+	<key>Publisher</key>
+	<string>Google Inc.</string>
+</dict>
+</plist>

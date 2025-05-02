@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>An open source photography workflow application and raw developer</string>
+	<key>Documentation</key>
+	<string>https://www.darktable.org/about/</string>
+	<key>Keywords</key>
+	<string>photography, workflow, raw development</string>
+	<key>Privacy</key>
+	<string>https://www.darktable.org/privacy/</string>
+	<key>Publisher</key>
+	<string>darktable project</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>KnockKnock is a secure messaging software for private communication.</string>
+	<key>Documentation</key>
+	<string>https://knockknock.com/docs</string>
+	<key>Keywords</key>
+	<string>messaging, secure, communication</string>
+	<key>Privacy</key>
+	<string>https://knockknock.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>KnockKnock</string>
+</dict>
+</plist>

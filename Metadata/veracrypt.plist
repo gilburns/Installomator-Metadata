@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Open-source disk encryption software</string>
+	<key>Documentation</key>
+	<string>https://www.veracrypt.fr/en/Documentation.html</string>
+	<key>Keywords</key>
+	<string>Security, Encryption, Disk Encryption, Privacy</string>
+	<key>Privacy</key>
+	<string>https://www.idrix.fr/Root/content/category/7/32/60/</string>
+	<key>Publisher</key>
+	<string>IDRIX</string>
+</dict>
+</plist>

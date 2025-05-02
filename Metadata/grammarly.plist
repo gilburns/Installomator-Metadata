@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Grammarly Desktop is a writing assistant tool for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://www.grammarly.com/desktop</string>
+	<key>Keywords</key>
+	<string>writing, assistant, macOS, grammar, spelling, punctuation</string>
+	<key>Privacy</key>
+	<string>https://www.grammarly.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Grammarly, Inc.</string>
+</dict>
+</plist>

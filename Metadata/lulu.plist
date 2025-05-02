@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Open-source macOS firewall application to block unauthorized network traffic.</string>
+	<key>Documentation</key>
+	<string>https://github.com/objective-see/LuLu</string>
+	<key>Keywords</key>
+	<string>macOS, firewall, network security</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Objective-See</string>
+</dict>
+</plist>

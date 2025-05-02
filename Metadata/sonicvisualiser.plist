@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Sonic Visualiser is an application for viewing and analyzing audio files.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>Audio, Visualization, Analysis</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Centre for Digital Music, Queen Mary University of London</string>
+</dict>
+</plist>

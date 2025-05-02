@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Manage printers and print drivers from a centralized interface with Jamf Printer Manager.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>Printer, Driver, Management, Jamf</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>JAMF Software</string>
+</dict>
+</plist>

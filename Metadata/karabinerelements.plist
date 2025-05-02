@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Karabiner-Elements is a powerful and stable keyboard customizer for macOS.</string>
+	<key>Documentation</key>
+	<string>https://karabiner-elements.pqrs.org/docs/</string>
+	<key>Keywords</key>
+	<string>macOS, keyboard, customizer</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Karabiner-Elements</string>
+</dict>
+</plist>

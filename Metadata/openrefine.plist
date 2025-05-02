@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>OpenRefine is a powerful tool for cleaning and transforming messy data.</string>
+	<key>Documentation</key>
+	<string>https://openrefine.org/documentation.html</string>
+	<key>Keywords</key>
+	<string>data cleaning, data transformation, macOS, data processing</string>
+	<key>Privacy</key>
+	<string>https://openrefine.org/privacy.html</string>
+	<key>Publisher</key>
+	<string>OpenRefine</string>
+</dict>
+</plist>

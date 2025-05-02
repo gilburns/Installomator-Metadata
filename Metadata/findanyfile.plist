@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>A powerful search tool to locate files and folders on your Mac quickly and efficiently.</string>
+	<key>Documentation</key>
+	<string>https://apps.tempel.org/FindAnyFile/index.php</string>
+	<key>Keywords</key>
+	<string>mac, search tool, file finder, folder locator</string>
+	<key>Privacy</key>
+	<string>https://apps.tempel.org/FindAnyFile/Privacy.html</string>
+	<key>Publisher</key>
+	<string>Thomas Tempelmann</string>
+</dict>
+</plist>

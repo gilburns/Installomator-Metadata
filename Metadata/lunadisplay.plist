@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Turn your iPad into a second display for your Mac with Luna Display.</string>
+	<key>Documentation</key>
+	<string>https://help.astropad.com/article/314-getting-started-with-luna-display</string>
+	<key>Keywords</key>
+	<string>iPad, Mac, display, second screen</string>
+	<key>Privacy</key>
+	<string>https://www.astropad.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Astropad</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Live show control for entertainment professions</string>
+	<key>Documentation</key>
+	<string>https://qlab.app/docs/</string>
+	<key>Keywords</key>
+	<string>live show, control, entertainment, professional</string>
+	<key>Privacy</key>
+	<string>https://qlab.app/privacy/</string>
+	<key>Publisher</key>
+	<string>Figure 53</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Disk Drill is a data recovery software for Windows and macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.cleverfiles.com/howto/data-recovery.html</string>
+	<key>Keywords</key>
+	<string>data recovery, software, Windows, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.cleverfiles.com/privacy.html</string>
+	<key>Publisher</key>
+	<string>CleverFiles</string>
+</dict>
+</plist>

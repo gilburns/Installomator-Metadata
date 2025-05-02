@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>VirtualBuddy is a virtual assistant software that helps users with daily tasks and scheduling.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>virtual assistant, software, daily tasks, scheduling</string>
+	<key>Privacy</key>
+	<string></string>
+</dict>
+</plist>

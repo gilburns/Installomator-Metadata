@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>AverTouch is a powerful software tool for advanced touch gesture analysis.</string>
+	<key>Documentation</key>
+	<string>https://avertouch.com/docs</string>
+	<key>Keywords</key>
+	<string>touch, gesture, analysis, software</string>
+	<key>Privacy</key>
+	<string>https://avertouch.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>AverTouch</string>
+</dict>
+</plist>

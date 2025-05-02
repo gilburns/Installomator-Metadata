@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>macOS Local Administrator Password Solution (LAPS) for managing local admin account passwords</string>
+	<key>Documentation</key>
+	<string>https://github.com/joshua-d-miller/macOSLAPS/blob/master/README.md</string>
+	<key>Keywords</key>
+	<string>macOS, local admin, password management, security</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Groobix</string>
+</dict>
+</plist>

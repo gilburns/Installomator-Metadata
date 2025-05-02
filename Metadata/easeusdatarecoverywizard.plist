@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>EaseUS Data Recovery Wizard is a data recovery software for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.easeus.com/mac-data-recovery-software/</string>
+	<key>Keywords</key>
+	<string>data recovery, software, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.easeus.com/privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>EaseUS</string>
+</dict>
+</plist>

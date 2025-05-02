@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Sync and access files on your Synology NAS from a macOS device.</string>
+	<key>Documentation</key>
+	<string>https://www.synology.com/en-global/knowledgebase/DSM/help/SynologyDriveClient/desktopclient</string>
+	<key>Keywords</key>
+	<string>Synology, Drive, Client, macOS, sync, access</string>
+	<key>Privacy</key>
+	<string>https://www.synology.com/en-global/company/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Synology Inc.</string>
+</dict>
+</plist>

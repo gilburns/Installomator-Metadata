@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Logi Tune is designed to enhance your experience with Logitech headsets, webcams, and other devices. It allows you to adjust settings like zoom, field of view, and exposure for webcams, as well as customize audio settings for headsets, such as equalizer preferences and microphone levels.</string>
+	<key>Documentation</key>
+	<string>https://prosupport.logi.com/hc/en-us/articles/360040190133</string>
+	<key>Keywords</key>
+	<string>Communication,Headset,Logi Tune,Logitech,Webcam</string>
+	<key>Privacy</key>
+	<string>https://www.logitech.com/en-us/legal/web-privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>LogiTune</string>
+</dict>
+</plist>

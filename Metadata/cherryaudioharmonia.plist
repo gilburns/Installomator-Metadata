@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Harmonia is a music composition and production software for musicians and producers.</string>
+	<key>Documentation</key>
+	<string>https://harmoniasoftware.com/docs</string>
+	<key>Keywords</key>
+	<string>music, composition, production, software</string>
+	<key>Privacy</key>
+	<string>https://harmoniasoftware.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

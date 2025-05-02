@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>HMA-VPN is a virtual private network software for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.hidemyass.com/en-us/vpn/downloads/macos</string>
+	<key>Keywords</key>
+	<string>VPN, software, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.avg.com/en/spp-policy</string>
+	<key>Publisher</key>
+	<string>HideMyAss</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Control your Mac with your Nintendo Switch Joy-Con or Pro Controller.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>macOS, controller, Nintendo Switch, Siri, remote</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Guilherme Rambo</string>
+</dict>
+</plist>

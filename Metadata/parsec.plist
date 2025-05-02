@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Remote desktop software for gaming and collaboration on macOS</string>
+	<key>Documentation</key>
+	<string>https://parsec.app/docs/getting-started/macos/</string>
+	<key>Keywords</key>
+	<string>remote desktop, gaming, macOS, collaboration</string>
+	<key>Privacy</key>
+	<string>https://parsec.app/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Parsec</string>
+</dict>
+</plist>

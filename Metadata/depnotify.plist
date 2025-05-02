@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>DEPNotify is a macOS tool that helps automate the deployment process for IT administrators.</string>
+	<key>Documentation</key>
+	<string>https://gitlab.com/Mactroll/DEPNotify</string>
+	<key>Keywords</key>
+	<string>MacOS, deployment, automation, IT, administration</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>JAMF Software</string>
+</dict>
+</plist>

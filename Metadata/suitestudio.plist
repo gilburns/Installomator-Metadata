@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Suite is a comprehensive software suite designed to streamline business processes and increase productivity.</string>
+	<key>Documentation</key>
+	<string>https://suite-software.com/docs</string>
+	<key>Keywords</key>
+	<string>business, productivity, software suite, efficiency</string>
+	<key>Privacy</key>
+	<string>https://suite-software.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Suite Studios Inc.</string>
+</dict>
+</plist>

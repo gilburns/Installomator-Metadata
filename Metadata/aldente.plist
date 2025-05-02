@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>AlDente is a productivity software for time management and task organization.</string>
+	<key>Documentation</key>
+	<string>https://al-dente.com/docs</string>
+	<key>Keywords</key>
+	<string>productivity, time management, task organization</string>
+	<key>Privacy</key>
+	<string>https://al-dente.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>MacPaw</string>
+</dict>
+</plist>

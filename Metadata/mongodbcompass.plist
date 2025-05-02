@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Full Version: This version of MongoDB Compass, has all features and capabilities. MongoDB Compass is a powerful GUI for querying, aggregating, and analyzing your MongoDB data in a visual environment.Compass is free to use and source available, and can be run on macOS, Windows, and Linux.</string>
+	<key>Documentation</key>
+	<string>https://www.mongodb.com/docs/compass/current/</string>
+	<key>Keywords</key>
+	<string>Community,Database</string>
+	<key>Privacy</key>
+	<string>https://www.mongodb.com/legal/privacy-policy</string>
+	<key>Publisher</key>
+	<string>MongoDB, Inc.</string>
+</dict>
+</plist>

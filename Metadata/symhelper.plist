@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>SYM-Helper is a macOS application that assists users with organizing and managing their system files.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>macOS, organization, file management</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>SYM-Helper</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Nudge is a multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates.</string>
+	<key>Documentation</key>
+	<string>https://github.com/macadmins/nudge</string>
+	<key>Keywords</key>
+	<string>macOS, software update, patching, updates</string>
+	<key>Privacy</key>
+	<string>https://github.com/macadmins/nudge?tab=security-ov-file#readme</string>
+	<key>Publisher</key>
+	<string>Mac Admins Open Source</string>
+</dict>
+</plist>

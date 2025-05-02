@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Arq7 is a backup software for macOS and Windows with file encryption and cloud storage support.</string>
+	<key>Documentation</key>
+	<string>https://www.arqbackup.com/documentation/</string>
+	<key>Keywords</key>
+	<string>backup, software, macOS, Windows, encryption, cloud storage</string>
+	<key>Privacy</key>
+	<string>https://www.arqbackup.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Hazel's LLC</string>
+</dict>
+</plist>

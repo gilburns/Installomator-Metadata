@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>calibrite PROFILER is a software tool for color calibration and profiling of monitors and displays.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>color calibration, profiling, monitors, displays</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Calibrite</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>FileZilla is a free software, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server. Client binaries are available for Windows, Linux, and macOS, server binaries are available for Windows only.</string>
+	<key>Documentation</key>
+	<string>https://wiki.filezilla-project.org/Documentation</string>
+	<key>Keywords</key>
+	<string>FTP,File Server,FileZilla,SFTP</string>
+	<key>Privacy</key>
+	<string>https://filezillapro.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>FileZilla Project</string>
+</dict>
+</plist>

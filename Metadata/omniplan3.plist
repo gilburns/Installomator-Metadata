@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>OmniPlan is a project management software for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://www.omnigroup.com/documentation/omniplan/mac/current/</string>
+	<key>Keywords</key>
+	<string>project management, macOS, software, planning</string>
+	<key>Privacy</key>
+	<string>https://www.omnigroup.com/legal/privacy/</string>
+	<key>Publisher</key>
+	<string>The Omni Group</string>
+</dict>
+</plist>

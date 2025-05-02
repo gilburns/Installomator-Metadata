@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>NVivo lets users organize, analyze and visualize information—anything from Word documents and PDFs to videos, podcasts, photos and database tables. Users can organize their material by topic and uncover trends and emerging themes. The visualization tools let them create diagrams, charts or maps to present and clarify their discoveries.</string>
+	<key>Documentation</key>
+	<string>https://lumivero.my.site.com/customers/s/nvivo-knowledge-base</string>
+	<key>Keywords</key>
+	<string>NVivo</string>
+	<key>Privacy</key>
+	<string>https://lumivero.com/legal-information/global-privacy-policy/</string>
+	<key>Publisher</key>
+	<string>QSR International</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>VMware Fusion is a software that allows users to run Windows applications on macOS.</string>
+	<key>Documentation</key>
+	<string>https://docs.vmware.com/en/VMware-Fusion/</string>
+	<key>Keywords</key>
+	<string>Virtualization, Windows, macOS, Fusion, VMware</string>
+	<key>Privacy</key>
+	<string>https://www.vmware.com/help/privacy.html</string>
+	<key>Publisher</key>
+	<string>VMware Inc.</string>
+</dict>
+</plist>

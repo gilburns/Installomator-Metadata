@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mist is a productivity tool for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://mist.com/docs</string>
+	<key>Keywords</key>
+	<string>macOS, productivity, tool, Mist</string>
+	<key>Privacy</key>
+	<string>https://mist.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Larian Studios</string>
+</dict>
+</plist>

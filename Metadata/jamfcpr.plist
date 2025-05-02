@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Jamf Connect Password Reset (JamfCPR) simplifies and centralizes password-reset workflows for users on Jamf-managed macOS devices.</string>
+	<key>Documentation</key>
+	<string>https://www.jamf.com/resources/product-documentation/jamf-pro/</string>
+	<key>Keywords</key>
+	<string>Jamf, JamfCPR, password reset, macOS, workflow</string>
+	<key>Privacy</key>
+	<string>https://www.jamf.com/legal/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>JAMF Software</string>
+</dict>
+</plist>

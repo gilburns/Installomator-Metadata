@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Temurin 21 is a tested, optimized, and free distribution of OpenJDK</string>
+	<key>Documentation</key>
+	<string>https://adoptopenjdk.net/documentation.html</string>
+	<key>Keywords</key>
+	<string>OpenJDK, Java, distribution, Temurin</string>
+	<key>Privacy</key>
+	<string>https://adoptopenjdk.net/privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>Eclipse Foundation</string>
+</dict>
+</plist>

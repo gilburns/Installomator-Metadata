@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Aspera Connect is a high-speed file transfer application for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.ibm.com/support/knowledgecenter/SSULQD_3.9.8/com.aspera.connect.doc/</string>
+	<key>Keywords</key>
+	<string>file transfer, high-speed, macOS</string>
+	<key>Privacy</key>
+	<string>https://www.ibm.com/privacy/details/us/en/</string>
+	<key>Publisher</key>
+	<string>IBM</string>
+</dict>
+</plist>

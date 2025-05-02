@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>RingCentral is the leading provider of global enterprise cloud communications and collaboration solutions</string>
+	<key>Documentation</key>
+	<string>https://support.ringcentral.com</string>
+	<key>Keywords</key>
+	<string>RingCentral,communications,phone</string>
+	<key>Privacy</key>
+	<string>https://www.ringcentral.com/legal/privacy-notice.html</string>
+	<key>Publisher</key>
+	<string>RingCentral, Inc.</string>
+</dict>
+</plist>

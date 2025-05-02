@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Close.io is a sales communication platform for macOS.</string>
+	<key>Documentation</key>
+	<string>https://help.close.com/category/je3w4pbxqn-closeio</string>
+	<key>Keywords</key>
+	<string>sales, communication, platform, macOS</string>
+	<key>Privacy</key>
+	<string>https://close.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Close.io</string>
+</dict>
+</plist>

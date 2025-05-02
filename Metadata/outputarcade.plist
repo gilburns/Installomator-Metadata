@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Arcade is a powerful game development platform for macOS users.</string>
+	<key>Documentation</key>
+	<string>https://arcade.academy/docs/index.html</string>
+	<key>Keywords</key>
+	<string>macOS, game development, platform, Arcade</string>
+	<key>Privacy</key>
+	<string>https://arcade.academy/privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>Output</string>
+</dict>
+</plist>

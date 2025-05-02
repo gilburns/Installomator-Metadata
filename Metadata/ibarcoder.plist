@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>iBarcoder is a barcode generator and label maker software.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>barcode, generator, label maker</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Cristallight Software</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.</string>
+	<key>Documentation</key>
+	<string>https://www.python.org/doc/</string>
+	<key>Keywords</key>
+	<string>Development,Python</string>
+	<key>Privacy</key>
+	<string>https://www.python.org/privacy</string>
+	<key>Publisher</key>
+	<string>Python Software Foundation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Wireless presentation and collaboration software for meeting spaces.</string>
+	<key>Documentation</key>
+	<string>https://www.mersive.com/solstice-documentation/</string>
+	<key>Keywords</key>
+	<string>Wireless, Presentation, Collaboration, Meeting, Spaces</string>
+	<key>Privacy</key>
+	<string>https://www.mersive.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Mersive</string>
+</dict>
+</plist>

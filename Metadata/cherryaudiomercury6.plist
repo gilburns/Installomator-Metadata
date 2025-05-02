@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mercury-6 is a powerful software application for macOS that helps users manage their tasks efficiently.</string>
+	<key>Documentation</key>
+	<string>https://www.mercury-6.com/docs</string>
+	<key>Keywords</key>
+	<string>task management, macOS, productivity</string>
+	<key>Privacy</key>
+	<string>https://www.mercury-6.com/privacy</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

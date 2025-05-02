@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>The original and best for remote access across desktop and mobile. VNC software enables you to remotely access and securely control your desktop or mobile.</string>
+	<key>Documentation</key>
+	<string>https://www.realvnc.com/docs/</string>
+	<key>Keywords</key>
+	<string>RDP,RealVNC,remote access</string>
+	<key>Privacy</key>
+	<string>https://www.realvnc.com/en/legal/#privacy</string>
+	<key>Publisher</key>
+	<string>RealVNC Ltd.</string>
+</dict>
+</plist>

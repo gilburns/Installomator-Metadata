@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>IriunWebcam is a software that allows you to use your iOS device as a webcam on macOS.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>IriunWebcam, macOS, webcam, iOS, software</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Iriun</string>
+</dict>
+</plist>

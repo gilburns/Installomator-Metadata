@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Remote desktop software by Microsoft for connecting to remote PCs.</string>
+	<key>Documentation</key>
+	<string>https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/welcome</string>
+	<key>Keywords</key>
+	<string>Microsoft, Remote Desktop, software, connect, PC</string>
+	<key>Privacy</key>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>

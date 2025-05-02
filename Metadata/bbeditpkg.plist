@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>BBEdit is a powerful text editor for macOS.</string>
+	<key>Documentation</key>
+	<string>https://www.barebones.com/products/bbedit/</string>
+	<key>Keywords</key>
+	<string>text editor, macOS, software development</string>
+	<key>Privacy</key>
+	<string>https://www.barebones.com/company/privacy/</string>
+	<key>Publisher</key>
+	<string>Bare Bones Software</string>
+</dict>
+</plist>

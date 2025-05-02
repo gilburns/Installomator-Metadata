@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Alfred is a productivity application for macOS that boosts efficiency with keyboard shortcuts and workflows.</string>
+	<key>Documentation</key>
+	<string>https://www.alfredapp.com/help/</string>
+	<key>Keywords</key>
+	<string>macOS, productivity, keyboard shortcuts, workflows</string>
+	<key>Privacy</key>
+	<string>https://www.alfredapp.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Running with Crayons</string>
+</dict>
+</plist>

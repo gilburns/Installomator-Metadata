@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Slab is a collaboration platform for teams with advanced search functionality and built-in knowledge sharing.</string>
+	<key>Documentation</key>
+	<string>https://slab.com/docs/</string>
+	<key>Keywords</key>
+	<string>collaboration, platform, team, knowledge sharing</string>
+	<key>Privacy</key>
+	<string>https://slab.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Slab</string>
+</dict>
+</plist>

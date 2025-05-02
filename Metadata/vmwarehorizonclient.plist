@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>VMware Horizon Client is software that establishes a connection between endpoint devices and Horizon View virtual desktops and applications.</string>
+	<key>Documentation</key>
+	<string>https://docs.vmware.com/en/VMware-Horizon-Client/index.html</string>
+	<key>Keywords</key>
+	<string>Horizon Client,VMware Horizon Client</string>
+	<key>Privacy</key>
+	<string>https://www.vmware.com/help/horizon-workspace-privacy-supplement-v1.html</string>
+	<key>Publisher</key>
+	<string>VMware Inc.</string>
+</dict>
+</plist>

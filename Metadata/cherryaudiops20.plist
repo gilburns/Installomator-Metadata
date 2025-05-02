@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>PS-20 is a cutting-edge software application for project management and collaboration.</string>
+	<key>Documentation</key>
+	<string>https://ps-20docs.com</string>
+	<key>Keywords</key>
+	<string>project management, collaboration, software, productivity</string>
+	<key>Privacy</key>
+	<string>https://ps-20privacy.com</string>
+	<key>Publisher</key>
+	<string>Cherry Audio</string>
+</dict>
+</plist>

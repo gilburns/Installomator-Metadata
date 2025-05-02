@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Glip is a collaboration platform for teams that offers messaging, file sharing, task management, and video conferencing features.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Keywords</key>
+	<string>collaboration, messaging, file sharing, task management, video conferencing</string>
+	<key>Privacy</key>
+	<string>https://www.ringcentral.com/legal/privacy-notice.html</string>
+	<key>Publisher</key>
+	<string>RingCentral, Inc.</string>
+</dict>
+</plist>

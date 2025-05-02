@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Santa is a security tool for macOS that enforces application whitelisting/blacklisting policies.</string>
+	<key>Documentation</key>
+	<string>https://santa.dev/</string>
+	<key>Keywords</key>
+	<string>macOS, security, whitelisting, blacklisting</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Google</string>
+</dict>
+</plist>

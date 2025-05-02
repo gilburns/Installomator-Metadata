@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Flux is a software application for macOS that adjusts the color temperature of your screen based on the time of day.</string>
+	<key>Documentation</key>
+	<string>https://justgetflux.com/</string>
+	<key>Keywords</key>
+	<string>screen brightness, color temperature, macOS, software</string>
+	<key>Privacy</key>
+	<string>https://justgetflux.com/privacy/</string>
+	<key>Publisher</key>
+	<string>The Escapers</string>
+</dict>
+</plist>

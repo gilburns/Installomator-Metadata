@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Sonos is a wireless smart speaker system that streams music throughout your home.</string>
+	<key>Documentation</key>
+	<string>https://support.sonos.com/s/</string>
+	<key>Keywords</key>
+	<string>Sonos, music, wireless, speaker</string>
+	<key>Privacy</key>
+	<string>https://www.sonos.com/en-us/legal/privacy-statement</string>
+	<key>Publisher</key>
+	<string>Sonos Inc.</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Software for managing and installing EW products.</string>
+	<key>Documentation</key>
+	<string>https://example.com/docs</string>
+	<key>Keywords</key>
+	<string>installation, EW products, management</string>
+	<key>Privacy</key>
+	<string>https://example.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>EastWest Sounds</string>
+</dict>
+</plist>

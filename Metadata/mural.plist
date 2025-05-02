@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mural is a digital workspace for visual collaboration.</string>
+	<key>Documentation</key>
+	<string>https://support.mural.co/en/</string>
+	<key>Keywords</key>
+	<string>digital workspace, collaboration, macOS, software</string>
+	<key>Privacy</key>
+	<string>https://www.mural.co/legal/privacy-policy</string>
+	<key>Publisher</key>
+	<string>MURAL</string>
+</dict>
+</plist>

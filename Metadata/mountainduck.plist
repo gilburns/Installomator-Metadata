@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Mount remote storage server on macOS as a local disk.</string>
+	<key>Documentation</key>
+	<string>https://mountainduck.io/documentation/</string>
+	<key>Keywords</key>
+	<string>macOS, mount, remote server, storage, local disk</string>
+	<key>Privacy</key>
+	<string>https://mountainduck.io/privacy/</string>
+	<key>Publisher</key>
+	<string>iterate GmbH</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Aviatrix VPN Client is a software application for macOS that allows users to securely connect to VPN networks.</string>
+	<key>Documentation</key>
+	<string>https://docs.aviatrix.com/Start-Up-Guide/aviatrix-start-up-guide.html</string>
+	<key>Keywords</key>
+	<string>VPN, Client, Security, macOS</string>
+	<key>Privacy</key>
+	<string>https://docs.aviatrix.com/Start-Up-Guide/aviatrix-start-up-guide.html#aviatrix-privacy-policy</string>
+	<key>Publisher</key>
+	<string>Aviatrix</string>
+</dict>
+</plist>

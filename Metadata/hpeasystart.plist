@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>HP Easy Start is a utility software for setting up HP printers on macOS.</string>
+	<key>Documentation</key>
+	<string>https://support.hp.com/us-en/document/c06044714</string>
+	<key>Keywords</key>
+	<string>HP, Easy Start, macOS, utility, printer setup</string>
+	<key>Privacy</key>
+	<string>https://www8.hp.com/us/en/privacy/privacy.html</string>
+	<key>Publisher</key>
+	<string>HP Inc.</string>
+</dict>
+</plist>

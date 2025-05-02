@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>Backup agent for macOS systems by Synology Active Backup for Business.</string>
+	<key>Documentation</key>
+	<string>https://www.synology.com/en-global/knowledgebase/DSM/help/ActiveBackup/activebackup_mac_agent</string>
+	<key>Keywords</key>
+	<string>Backup, macOS, Synology, Active Backup</string>
+	<key>Privacy</key>
+	<string>https://www.synology.com/en-global/company/legal/privacy_policy</string>
+	<key>Publisher</key>
+	<string>Synology Inc.</string>
+</dict>
+</plist>
