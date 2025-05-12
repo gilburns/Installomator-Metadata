@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.glencode.Particulars</string>
 	<key>Description</key>
 	<string>Particulars displays system information about your Mac, including computer name, model, CPU/SoC, RAM, OS version, and network configuration.</string>
 	<key>Documentation</key>
@@ -11,7 +11,7 @@
 	<key>Keywords</key>
 	<string>system, network, information, bginfo, desktop, background, wallpaper, info, shortcuts, cli</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>net.glencode.Particulars</string>
 	<key>Privacy</key>
 	<string>https://particulars.app/privacy-policy/</string>
 	<key>Publisher</key>
