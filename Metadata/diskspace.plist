@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>View and manage disk space usage on macOS system</string>
 	<key>Documentation</key>
 	<string>https://support.apple.com/en-us/HT206812</string>
 	<key>Keywords</key>
 	<string>macOS, disk space, management, utility</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.apple.com/legal/privacy/</string>
 	<key>Publisher</key>

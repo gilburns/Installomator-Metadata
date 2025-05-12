@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>AirServer is the most advanced screen mirroring receiver for Mac and PC. It allows you to receive AirPlay, Google Cast and Miracast streams, similar to an Apple TV or a Chromecast device.</string>
 	<key>Documentation</key>
 	<string>https://support.airserver.com/customer/portal/topics/629710-quickstart-guide/articles</string>
 	<key>Keywords</key>
 	<string>AirPlay,AirServer,App Dynamic,Miracast</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.airserver.com/Privacy</string>
 	<key>Publisher</key>

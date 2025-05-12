@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>ScreenCloud Player is a versatile digital signage solution that allows you to manage and display content on various screens and devices.</string>
 	<key>Documentation</key>
 	<string>https://help.screencloud.com/s/</string>
 	<key>Keywords</key>
 	<string>Digital Signage,ScreenCloud Player</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://screencloud.com/privacy</string>
 	<key>Publisher</key>

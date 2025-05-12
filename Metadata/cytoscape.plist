@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Cytoscape is an open-source software platform for visualizing complex networks and integrating these with any type of attribute data.</string>
 	<key>Documentation</key>
 	<string>https://manual.cytoscape.org/en/stable/</string>
 	<key>Keywords</key>
 	<string>network analysis, data visualization, bioinformatics</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

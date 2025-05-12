@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>TeamViewer is proprietary software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.</string>
 	<key>Documentation</key>
 	<string>https://www.teamviewer.com/en-us/documents/</string>
 	<key>Keywords</key>
 	<string>TeamViewer,conferencing,meetings,remote control,sharing</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.teamviewer.com/en-us/privacy-policy/?page_id=23013&amp;Coupon=Pre5TV14&amp;%3F=p</string>
 	<key>Publisher</key>

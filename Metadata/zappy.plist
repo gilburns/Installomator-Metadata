@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Zappy is a productivity tool for macOS that helps users organize their tasks and improve efficiency.</string>
 	<key>Documentation</key>
 	<string>https://zappydocs.com</string>
 	<key>Keywords</key>
 	<string>macOS, productivity, task management, efficiency</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://zappyprivacy.com</string>
 	<key>Publisher</key>

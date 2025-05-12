@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Gyazo GIF is a screen recording tool that captures GIFs of your screen activities.</string>
 	<key>Documentation</key>
 	<string>https://gyazo.com/docs/en</string>
 	<key>Keywords</key>
 	<string>screen recording, GIF, capture, tool</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://gyazo.com/privacy</string>
 	<key>Publisher</key>

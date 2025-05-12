@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>MySQLWorkbench is a visual database design tool that integrates SQL development tasks.</string>
 	<key>Documentation</key>
 	<string>https://dev.mysql.com/doc/workbench/en/</string>
 	<key>Keywords</key>
 	<string>MySQL, database, SQL, design, development</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

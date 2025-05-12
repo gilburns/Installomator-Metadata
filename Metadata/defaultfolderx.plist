@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Enhances Open and Save dialog boxes on macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.stclairsoft.com/DefaultFolderX/</string>
 	<key>Keywords</key>
 	<string>macOS, file management, productivity</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.stclairsoft.com/DefaultFolderX/privacy.html</string>
 	<key>Publisher</key>

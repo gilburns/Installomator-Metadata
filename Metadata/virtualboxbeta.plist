@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.</string>
 	<key>Documentation</key>
 	<string>https://www.virtualbox.org/manual/UserManual.html</string>
 	<key>Keywords</key>
 	<string>Virtualization, VM, Hypervisor, Virtual Machine</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

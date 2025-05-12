@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>GoToMeeting is a web-hosted service created and marketed by LogMeIn. It is an online meeting, desktop sharing, and video conferencing software package that enables the user to meet with other computer users, customers, clients or colleagues via the Internet in real time.</string>
 	<key>Documentation</key>
 	<string>https://support.logmeininc.com/gotomeeting/organizer-user-guide</string>
 	<key>Keywords</key>
 	<string>GoToMeeting,conferencing,meetings,sharing,video conferencing</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.logmeininc.com/legal/privacy</string>
 	<key>Publisher</key>

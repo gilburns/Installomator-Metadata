@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Pacifist is a macOS application that allows you to browse and extract files from package installers.</string>
 	<key>Documentation</key>
 	<string>https://www.charlessoft.com/pacifist/</string>
 	<key>Keywords</key>
 	<string>macOS, software, package installer, browser, extraction</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Adobe Digital Editions is an ebook reader software program from Adobe Systems, built initially using Adobe Flash. It is used for acquiring, managing, and reading eBooks, digital newspapers, and other digital publications. The software supports PDF, XHTML and Flash-based content.</string>
 	<key>Documentation</key>
 	<string>https://helpx.adobe.com/digital-editions/using/get-started-with-adobe-digital-editions.html</string>
 	<key>Keywords</key>
 	<string>Adobe,Flash,PDF,XHTML,ebook</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.adobe.com/privacy/policy.html</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Cryptomator encrypts your data quickly and easily, so you can safely upload it to your favorite cloud service.</string>
 	<key>Documentation</key>
 	<string>https://docs.cryptomator.org/en/latest/</string>
 	<key>Keywords</key>
 	<string>Cryptomator,Encrypt</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://cryptomator.org/privacy/</string>
 	<key>Publisher</key>

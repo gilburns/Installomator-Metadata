@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>KeyAccess is a software tool for managing encryption keys.</string>
 	<key>Documentation</key>
 	<string>https://www.keyaccess.com/docs</string>
 	<key>Keywords</key>
 	<string>encryption, keys, security</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.keyaccess.com/privacy-policy</string>
 	<key>Publisher</key>

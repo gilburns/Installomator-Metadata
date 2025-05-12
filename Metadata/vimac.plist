@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Vimac is a macOS app that provides keyboard shortcuts to control all aspects of the system.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>macOS, app, keyboard shortcuts</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

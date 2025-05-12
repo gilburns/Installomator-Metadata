@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Free and open source software for video recording and live streaming.</string>
 	<key>Documentation</key>
 	<string>https://obsproject.com/help</string>
 	<key>Keywords</key>
 	<string>Recording,Screen Capture,Screen Recording,Streaming</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://obsproject.com/help</string>
 	<key>Publisher</key>

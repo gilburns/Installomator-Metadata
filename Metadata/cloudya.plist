@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Cloudya is a cloud-based communication platform for businesses.</string>
 	<key>Documentation</key>
 	<string>https://www.cloudya.com/docs</string>
 	<key>Keywords</key>
 	<string>communication, cloud-based, platform, business</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.cloudya.com/privacy-policy</string>
 	<key>Publisher</key>

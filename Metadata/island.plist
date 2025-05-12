@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Island is a productivity and time management software for organizing tasks and schedules.</string>
 	<key>Documentation</key>
 	<string>https://island.com/docs</string>
 	<key>Keywords</key>
 	<string>productivity, time management, tasks, schedules</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://island.com/privacy-policy</string>
 	<key>Publisher</key>

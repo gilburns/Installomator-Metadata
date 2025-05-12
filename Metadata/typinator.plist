@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Typinator is a text expansion tool for macOS that helps you save time by typing abbreviations to insert frequently-used text snippets.</string>
 	<key>Documentation</key>
 	<string>https://www.ergonis.com/documentation/typinator/</string>
 	<key>Keywords</key>
 	<string>text expansion, macOS, productivity, typing, shortcuts</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.ergonis.com/privacy/</string>
 	<key>Publisher</key>

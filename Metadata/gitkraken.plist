@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>GitKraken includes an intuitive Git GUI and powerful Git CLI that allows you to push your work to a remote server without the use of Git commands and command-line.</string>
 	<key>Documentation</key>
 	<string>https://help.gitkraken.com/</string>
 	<key>Keywords</key>
 	<string>Git,GitKraken</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.gitkraken.com/privacy</string>
 	<key>Publisher</key>

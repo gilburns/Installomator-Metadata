@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Debookee is a network traffic analyzer and packet sniffer for macOS.</string>
 	<key>Documentation</key>
 	<string>https://debookee.com/documentation</string>
 	<key>Keywords</key>
 	<string>macOS, network, traffic analyzer, packet sniffer</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://debookee.com/privacy-policy</string>
 	<key>Publisher</key>

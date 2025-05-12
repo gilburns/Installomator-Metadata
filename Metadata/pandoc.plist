@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Pandoc is a universal document converter that supports a wide variety of formats.</string>
 	<key>Documentation</key>
 	<string>https://pandoc.org/</string>
 	<key>Keywords</key>
 	<string>document converter, markup language, macOS, tool</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://pandoc.org/demo/privacy.html</string>
 	<key>Publisher</key>

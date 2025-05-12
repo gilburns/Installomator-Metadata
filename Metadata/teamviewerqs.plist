@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>QuickSupport module for remote control and support for TeamViewer</string>
 	<key>Documentation</key>
 	<string>https://www.teamviewer.com/en/support/documentation/</string>
 	<key>Keywords</key>
 	<string>remote control, support, QuickSupport, TeamViewer</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.teamviewer.com/en/privacy-policy/</string>
 	<key>Publisher</key>

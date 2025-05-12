@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Access all of your Google Drive content directly from your PC, without using up disk space</string>
 	<key>Documentation</key>
 	<string>https://support.google.com/a/answer/7491144?hl=en</string>
 	<key>Keywords</key>
 	<string>cloud,drive,storage,synchronization</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://policies.google.com/privacy?hl=en</string>
 	<key>Publisher</key>

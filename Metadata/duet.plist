@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Duet is a software that allows you to use your iPad as a second display for your macOS device.</string>
 	<key>Documentation</key>
 	<string>https://www.duetdisplay.com/</string>
 	<key>Keywords</key>
 	<string>Duet, software, macOS, iPad, second display</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.duetdisplay.com/privacy-policy/</string>
 	<key>Publisher</key>

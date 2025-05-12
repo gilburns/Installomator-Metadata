@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>ExpressVPN is a virtual private network (VPN) service that encrypts users web traffic and masks their IP addresses. ExpressVPN is marketed as a privacy and security tool that provides fast, secure, and anonymous internet access worldwide on any device.</string>
 	<key>Documentation</key>
 	<string>https://www.expressvpn.com/support/</string>
 	<key>Keywords</key>
 	<string>ExpressVPN,VPN</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.expressvpn.com/privacy-policy</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Topaz Gigapixel AI is an advanced image upscaling software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://help.topazlabs.com/hc/en-us/categories/360002903652-Topaz-Gigapixel-AI</string>
 	<key>Keywords</key>
 	<string>image upscaling, Topaz Gigapixel AI, macOS, software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.topazlabs.com/privacy-policy</string>
 	<key>Publisher</key>

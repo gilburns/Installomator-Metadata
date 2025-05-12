@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Poly Lens Desktop is an application designed to enhance the functionality of Poly devices, such as headsets, cameras, and speakers.</string>
 	<key>Documentation</key>
 	<string>https://www.hp.com/gb-en/poly/software-and-services/software/poly-lens/app.html</string>
 	<key>Keywords</key>
 	<string>Audio,Camera,Communication,Headset,Poly Lens,Speakers,Tools</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.poly.com/us/en/legal/privacy</string>
 	<key>Publisher</key>

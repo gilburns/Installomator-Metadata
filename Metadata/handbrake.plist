@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>HandBrake is a free and open-source transcoder for digital video files, originally developed in 2003 by Eric Petit to make ripping a film from a DVD to a data storage device easier. Since then, it has undergone many changes and revisions. HandBrake is available for Linux, macOS, and Windows.</string>
 	<key>Documentation</key>
 	<string>https://handbrake.fr/docs/en/latest/</string>
 	<key>Keywords</key>
 	<string>DVD,HandBrake,Video,transcoder</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://handbrake.fr/privacy.php</string>
 	<key>Publisher</key>

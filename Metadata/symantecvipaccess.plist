@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>VIP Access is a security app that provides strong authentication for online accounts.</string>
 	<key>Documentation</key>
 	<string>https://www.symantec.com/products/vip-access</string>
 	<key>Keywords</key>
 	<string>Security, Authentication, App, Two-factor authentication</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.symantec.com/privacy</string>
 	<key>Publisher</key>

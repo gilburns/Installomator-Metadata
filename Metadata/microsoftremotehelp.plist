@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Microsoft Remote Help for macOS provides remote assistance and troubleshooting solutions.</string>
 	<key>Documentation</key>
 	<string>https://support.microsoft.com/en-us/windows/get-help-with-remote-assistance-in-yosemite-f4f8e5ca-4d8c-17ef-068e-d964b857b0d4</string>
 	<key>Keywords</key>
 	<string>Remote assistance, troubleshooting, macOS, Microsoft</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

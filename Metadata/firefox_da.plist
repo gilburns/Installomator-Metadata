@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.</string>
 	<key>Documentation</key>
 	<string>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox</string>
 	<key>Keywords</key>
 	<string>Web browser, Mozilla, Internet, Open source</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.mozilla.org/en-US/privacy/firefox/</string>
 	<key>Publisher</key>

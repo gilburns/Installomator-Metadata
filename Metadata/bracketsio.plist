@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Brackets is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.</string>
 	<key>Documentation</key>
 	<string>https://github.com/brackets-cont/brackets/wiki</string>
 	<key>Keywords</key>
 	<string>Brackets,CSS,Code Editor,HTML,JavaScript</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement</string>
 	<key>Publisher</key>

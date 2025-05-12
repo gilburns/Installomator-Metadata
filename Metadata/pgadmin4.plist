@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>pgAdmin is a free, open-source management and development platform for PostgreSQL databases.</string>
 	<key>Documentation</key>
 	<string>https://www.pgadmin.org/docs/pgadmin4/latest/index.html</string>
 	<key>Keywords</key>
 	<string>Database, PostgreSQL, Management, Development</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.pgadmin.org/static/pages/privacy.html</string>
 	<key>Publisher</key>

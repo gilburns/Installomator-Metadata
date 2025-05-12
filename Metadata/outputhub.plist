@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Output Hub is a software tool for managing and organizing digital media files on macOS.</string>
 	<key>Documentation</key>
 	<string>https://outputhubdocs.com</string>
 	<key>Keywords</key>
 	<string>media, organization, macOS, files</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://outputhubprivacy.com</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Ricoh Printers software for macOS provides printing functionalities for Ricoh printers.</string>
 	<key>Documentation</key>
 	<string>https://www.ricoh-usa.com/en/support-and-download</string>
 	<key>Keywords</key>
 	<string>Ricoh, Printers, macOS, Software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

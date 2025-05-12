@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Zoom Rooms bring HD video collaboration into any space - in the office, in the classroom, or at home - and enable in-person and remote participants to interact in real time.</string>
 	<key>Documentation</key>
 	<string>https://zoom.us</string>
 	<key>Keywords</key>
 	<string>Communication,Video Conference,Zoom</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://explore.zoom.us/en/trust/</string>
 	<key>Publisher</key>

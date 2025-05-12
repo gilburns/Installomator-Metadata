@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Teamwire is a secure messaging and team communication platform for macOS users.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>secure, messaging, team communication, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.teamwire.eu/privacy-policy/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure &amp; OneDrive, Google Drive and Dropbox.</string>
 	<key>Documentation</key>
 	<string>https://cyberduck.io/</string>
 	<key>Keywords</key>
 	<string>Cloud,Cyberduck,File Storage</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://cyberduck.io/privacy</string>
 	<key>Publisher</key>

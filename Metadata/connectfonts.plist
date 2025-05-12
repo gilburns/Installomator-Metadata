@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Connect Fonts is a font management software for designers and developers.</string>
 	<key>Documentation</key>
 	<string>https://connectfonts.com/docs</string>
 	<key>Keywords</key>
 	<string>Fonts, Design, Typography, Management</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://connectfonts.com/privacy-policy</string>
 	<key>Publisher</key>

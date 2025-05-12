@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>AnyDesk is remote desktop software allowing users to connect to a computer remotely from anywhere in the world with Internet access. Being able to connect remotely, is especially helpful for businesses with on-the-go employees, and IT professionals</string>
 	<key>Documentation</key>
 	<string>https://help.anydesk.com/</string>
 	<key>Keywords</key>
 	<string>AnyDesk,Remote</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://anydesk.com/en/privacy</string>
 	<key>Publisher</key>

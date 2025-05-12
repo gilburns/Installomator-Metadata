@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>ChronoAgent is a real-time syncing utility for Mac computers.</string>
 	<key>Documentation</key>
 	<string>https://www.econtechnologies.com/docs/chronoagent/mac/4.9/index.html</string>
 	<key>Keywords</key>
 	<string>syncing, utility, Mac, real-time</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.econtechnologies.com/privacy/</string>
 	<key>Publisher</key>

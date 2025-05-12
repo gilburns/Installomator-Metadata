@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>ZeroTier One is a lightweight virtual Ethernet switch that allows for encrypted peer-to-peer communication.</string>
 	<key>Documentation</key>
 	<string>https://www.zerotier.com/manual/</string>
 	<key>Keywords</key>
 	<string>VPN, virtual network, encryption, peer-to-peer, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.zerotier.com/legal/privacy/</string>
 	<key>Publisher</key>

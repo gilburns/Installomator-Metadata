@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>OBSBOT_Center is a software for macOS that provides control and settings for OBSBOT AI cameras.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>OBSBOT, Center, macOS, control, settings</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Glyphs 3 is a professional font design software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://glyphsapp.com/documentation</string>
 	<key>Keywords</key>
 	<string>font, design, macOS, Typography</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://glyphsapp.com/privacy</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files. It is a second brain, for you, forever.</string>
 	<key>Documentation</key>
 	<string>https://forum.obsidian.md/</string>
 	<key>Keywords</key>
 	<string>Markdown,Mindmap,Notes,Notetaking</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://obsidian.md/privacy</string>
 	<key>Publisher</key>

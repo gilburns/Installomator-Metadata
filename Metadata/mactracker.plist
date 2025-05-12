@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Track detailed information about every Apple Macintosh computer ever made.</string>
 	<key>Documentation</key>
 	<string>https://mactracker.ca/</string>
 	<key>Keywords</key>
 	<string>Apple, Macintosh, computer, information, specs</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://mactracker.ca/privacy-policy</string>
 	<key>Publisher</key>

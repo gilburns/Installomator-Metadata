@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Otto Matic is a fun and action-packed third-person shooter game for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>macOS, game, third-person shooter, action-packed</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

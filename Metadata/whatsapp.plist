@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>WhatsApp for macOS is a popular messaging app that allows users to send text messages, make voice and video calls, and share media.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>Messaging, Communication, macOS, Chat, Video Calls</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.whatsapp.com/legal/#privacy-policy</string>
 	<key>Publisher</key>

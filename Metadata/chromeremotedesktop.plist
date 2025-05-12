@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser.</string>
 	<key>Documentation</key>
 	<string>https://remotedesktop.google.com/support</string>
 	<key>Keywords</key>
 	<string>remote access, Chrome, browser, computer, desktop</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://policies.google.com/privacy</string>
 	<key>Publisher</key>

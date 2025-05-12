@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Wirelessly share content from your laptop to the room display and easily connect to the room cameras, mics and speakers. For easy wireless one-click collaboration. Smart, intent-based meeting flows  powered by the ClickShare App make hybrid meetings intuitive and  stress-free.</string>
 	<key>Documentation</key>
 	<string>https://www.barco.com/en/support</string>
 	<key>Keywords</key>
 	<string>Collaboration,Conference,Conferencing,Meetings,Screenshare,Video,Wireless</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.barco.com/ebout-barco/legal/privacy-policy</string>
 	<key>Publisher</key>

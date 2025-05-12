@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>i-Net Clear Reports Designer is a macOS software for creating and designing clear and concise reports.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>Reports, Designer, macOS, Software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

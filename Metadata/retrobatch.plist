@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Retrobatch is a powerful batch image processor for macOS.</string>
 	<key>Documentation</key>
 	<string>https://help.flyingmeat.com/hc/en-us/categories/360002399531-Retrobatch</string>
 	<key>Keywords</key>
 	<string>image processing, batch processing, macOS, automation</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://flyingmeat.com/retrobatch/privacy.html</string>
 	<key>Publisher</key>

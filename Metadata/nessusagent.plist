@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Nessus Agents are lightweight, low-footprint programs that you install locally on hosts to supplement traditional network-based scanning or to provide visibility into gaps that are missed by traditional scanning. Nessus Agents collect vulnerability, compliance, and system data, and report that information back to a manager for analysis.</string>
 	<key>Documentation</key>
 	<string>https://docs.tenable.com/nessus/Content/GettingStarted.htm</string>
 	<key>Keywords</key>
 	<string>Nessus,Security,Tools,Vulnerability Management</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.tenable.com/privacy-policy</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Twingate is a cloud-based service that provides a secure alternative to traditional VPNs (Virtual Private Networks).</string>
 	<key>Documentation</key>
 	<string>https://help.twingate.com/</string>
 	<key>Keywords</key>
 	<string>Twingate,VPN</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.twingate.com/privacy</string>
 	<key>Publisher</key>

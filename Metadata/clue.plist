@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Clue is a period tracker and ovulation app that helps you keep track of your menstrual cycles.</string>
 	<key>Documentation</key>
 	<string>https://www.helloclue.com/</string>
 	<key>Keywords</key>
 	<string>period, tracker, ovulation, cycles</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://helloclue.com/privacy</string>
 	<key>Publisher</key>

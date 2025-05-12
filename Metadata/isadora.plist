@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Real-time interactive media manipulation software for live performance and installation art.</string>
 	<key>Documentation</key>
 	<string>https://support.troikatronix.com/support/solutions/articles/13000034497-isadora-learn-and-explore</string>
 	<key>Keywords</key>
 	<string>media, live performance, installation art</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://support.troikatronix.com/support/solutions/articles/13000034497-isadora-learn-and-explore</string>
 	<key>Publisher</key>

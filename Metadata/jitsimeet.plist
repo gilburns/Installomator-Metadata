@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Jitsi Meet is an open-source video conferencing platform that allows you to host online meetings and conferences with ease.</string>
 	<key>Documentation</key>
 	<string>https://jitsi.org/docs/</string>
 	<key>Keywords</key>
 	<string>video conferencing, open-source, online meetings, conferences</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://jitsi.org/security/</string>
 	<key>Publisher</key>

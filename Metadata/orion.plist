@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Orion is a powerful data visualization tool for businesses and individuals.</string>
 	<key>Documentation</key>
 	<string>https://orion.com/docs</string>
 	<key>Keywords</key>
 	<string>data visualization, analytics, charts, graphs</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://orion.com/privacy</string>
 	<key>Publisher</key>

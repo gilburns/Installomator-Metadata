@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Bruno is a versatile software tool for project management and collaboration.</string>
 	<key>Documentation</key>
 	<string>https://brunoapp.com/docs</string>
 	<key>Keywords</key>
 	<string>project management, collaboration, task tracking</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://brunoapp.com/privacy-policy</string>
 </dict>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Opera is a web browser for Microsoft Windows, Android, iOS, macOS, and Linux operating systems, developed by Chinese-owned company Opera Software AS.</string>
 	<key>Documentation</key>
 	<string>https://help.opera.com/en/get-started/</string>
 	<key>Keywords</key>
 	<string>Opera,browser,web,web browser</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://help.opera.com/en/latest/security-and-privacy/</string>
 	<key>Publisher</key>

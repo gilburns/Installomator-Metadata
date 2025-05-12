@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Airtame creates a simpler, smarter and more engaging shared screen experience, offering subscription-based solutions for hybrid conferencing, screen sharing and digital signage.</string>
 	<key>Documentation</key>
 	<string>https://help.airtame.com/</string>
 	<key>Keywords</key>
 	<string>Airtame,Display,Streaming</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://airtame.com/legal/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>GitHub Desktop is an application that simplifies your development workflow by providing a graphical user interface (GUI) for interacting with GitHub. Instead of using the command line or a web browser, you can manage your repositories, commit changes, and collaborate with your team directly from your desktop.</string>
 	<key>Documentation</key>
 	<string>https://help.github.com/en/desktop</string>
 	<key>Keywords</key>
 	<string>GitHub,Version Control,git</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://help.github.com/en/github/site-policy/github-privacy-statement</string>
 	<key>Publisher</key>

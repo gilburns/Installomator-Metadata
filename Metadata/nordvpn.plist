@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>NordVPN is a popular Virtual Private Network (VPN) service that helps protect your internet connection and privacy online. It encrypts your data, hides your IP address, and allows you to use public Wi-Fi safely.</string>
 	<key>Documentation</key>
 	<string>https://support.nordvpn.com/</string>
 	<key>Keywords</key>
 	<string>NordVPN,VPN,Virtual Private Network</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://my.nordaccount.com/legal/privacy-policy</string>
 	<key>Publisher</key>

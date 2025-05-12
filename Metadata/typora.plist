@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Typora is a minimal markdown editor with integrated live preview</string>
 	<key>Documentation</key>
 	<string>https://support.typora.io/Support/</string>
 	<key>Keywords</key>
 	<string>markdown, editor, live preview</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.typora.io/privacy/</string>
 	<key>Publisher</key>

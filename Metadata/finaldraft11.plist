@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Professional screenwriting software for macOS</string>
 	<key>Documentation</key>
 	<string>https://www.finaldraft.com/learn/final-draft-11-user-guide/</string>
 	<key>Keywords</key>
 	<string>screenwriting, software, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.finaldraft.com/privacy/</string>
 	<key>Publisher</key>

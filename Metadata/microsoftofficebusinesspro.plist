@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Microsoft Office Business Pro is a suite of productivity tools for businesses.</string>
 	<key>Documentation</key>
 	<string>https://www.microsoft.com/en-us/microsoft-365/business/office-365-business</string>
 	<key>Keywords</key>
 	<string>Microsoft, Office, Business, Pro, Productivity</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

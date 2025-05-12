@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Snagit is a screenshot program that captures video display and audio output.</string>
 	<key>Documentation</key>
 	<string>http://www.techsmith.com</string>
 	<key>Keywords</key>
 	<string>Snagit,screen capture,screencapture,screenshot</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.techsmith.com/privacy-policy.html</string>
 	<key>Publisher</key>

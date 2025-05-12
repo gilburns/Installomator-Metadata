@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Toggl Track is a time tracking app for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://support.toggl.com/erticles/4578807-the-toggl-track-desktop-app</string>
 	<key>Keywords</key>
 	<string>time tracking, productivity, macOS, app</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://toggl.com/privacy</string>
 	<key>Publisher</key>

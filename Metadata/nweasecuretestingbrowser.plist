@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>A secure browser for NWEA testing environments</string>
 	<key>Documentation</key>
 	<string>https://www.nwea.org/content/uploads/2018/06/0329_RIT_Directions_Webv2.pdf</string>
 	<key>Keywords</key>
 	<string>secure, browser, NWEA, testing</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.nwea.org/privacy-policy/</string>
 	<key>Publisher</key>

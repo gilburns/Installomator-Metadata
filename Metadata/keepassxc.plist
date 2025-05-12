@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>KeePassXC is a free and open-source password manager.</string>
 	<key>Documentation</key>
 	<string>https://keepassxc.org/docs/</string>
 	<key>Keywords</key>
 	<string>password manager, open-source, security, encryption</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://keepassxc.org/privacy/</string>
 	<key>Publisher</key>

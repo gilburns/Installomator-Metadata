@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Origin is a software for creating and playing video games.</string>
 	<key>Documentation</key>
 	<string>https://www.origin.com/help</string>
 	<key>Keywords</key>
 	<string>video games, game creation, game development</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.origin.com/privacy-policy</string>
 	<key>Publisher</key>

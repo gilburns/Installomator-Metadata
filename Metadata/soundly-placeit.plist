@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Placeit is a web-based design tool for creating mockups, logos, videos, and designs easily.</string>
 	<key>Documentation</key>
 	<string>https://placeit.net/</string>
 	<key>Keywords</key>
 	<string>design, mockups, logos, videos</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://placeit.net/legal#privacy-policy</string>
 	<key>Publisher</key>

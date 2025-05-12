@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Miniconda3 is a free minimalist installer for Conda, a package manager.</string>
 	<key>Documentation</key>
 	<string>https://docs.conda.io/en/latest/miniconda.html</string>
 	<key>Keywords</key>
 	<string>Python, Conda, package manager, installer</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

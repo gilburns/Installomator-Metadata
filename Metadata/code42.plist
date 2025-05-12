@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Code42 is a modern data management solution designed for macOS devices.</string>
 	<key>Documentation</key>
 	<string>https://support.code42.com/</string>
 	<key>Keywords</key>
 	<string>data management, backup, macOS, security</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.code42.com/trust-center/</string>
 	<key>Publisher</key>

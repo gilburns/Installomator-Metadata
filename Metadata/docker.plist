@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Docker is a full development platform for creating containerized apps, and Docker Desktop for Windows is the best way to get started with Docker on Windows.</string>
 	<key>Documentation</key>
 	<string>https://docs.docker.com/docker-for-windows/</string>
 	<key>Keywords</key>
 	<string>Docker,Docker for Docker,containerized apps</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.docker.com/legal/docker-privacy-policy</string>
 	<key>Publisher</key>

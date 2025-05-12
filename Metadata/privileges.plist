@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Privileges software provides secure access control management for sensitive information.</string>
 	<key>Documentation</key>
 	<string>https://privilegesoftware.com/docs</string>
 	<key>Keywords</key>
 	<string>access control, security, authorization, management</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://privilegesoftware.com/privacy-policy</string>
 	<key>Publisher</key>

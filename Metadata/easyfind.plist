@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>EasyFind is a user-friendly search tool for quickly locating files and folders on your computer.</string>
 	<key>Documentation</key>
 	<string>https://www.easyfind.com/docs</string>
 	<key>Keywords</key>
 	<string>search tool, file finder, quick search, user-friendly</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.easyfind.com/privacy-policy</string>
 	<key>Publisher</key>

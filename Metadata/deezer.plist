@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Deezer is a music streaming app that gives you access to over 120 million tracks worldwide and other audio content like podcasts.</string>
 	<key>Documentation</key>
 	<string>https://support.deezer.com/</string>
 	<key>Keywords</key>
 	<string>Deezer,Music</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.deezer.com/legal/personal-datas</string>
 	<key>Publisher</key>

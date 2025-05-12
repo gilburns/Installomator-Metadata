@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Real-time file system monitoring tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://fsmonitor.com/docs</string>
 	<key>Keywords</key>
 	<string>macOS, file system, monitor, real-time</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://fsmonitor.com/privacy-policy</string>
 	<key>Publisher</key>

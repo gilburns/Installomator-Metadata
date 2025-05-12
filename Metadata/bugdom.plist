@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Bugdom is a 3D action-adventure game for macOS featuring a bug protagonist exploring a backyard setting.</string>
 	<key>Documentation</key>
 	<string>https://bugdom.com/docs</string>
 	<key>Keywords</key>
 	<string>macOS, Bugdom, 3D, action-adventure, game</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://bugdom.com/privacy</string>
 	<key>Publisher</key>

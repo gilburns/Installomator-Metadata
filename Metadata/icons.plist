@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Icons is a utility software for managing and organizing icons on macOS systems.</string>
 	<key>Documentation</key>
 	<string>https://iconsapp.zenangst.com/</string>
 	<key>Keywords</key>
 	<string>macOS, icons, organization, utility</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://iconsapp.zenangst.com/privacy-policy/</string>
 	<key>Publisher</key>

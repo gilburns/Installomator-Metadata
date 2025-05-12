@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Amazon Chime is a secure, real-time, unified communications service that transforms meetings by making them more efficient and easier to conduct.</string>
 	<key>Documentation</key>
 	<string>https://answers.chime.aws/</string>
 	<key>Keywords</key>
 	<string>Amazon,Chime,Communications</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://aws.amazon.com/privacy/</string>
 	<key>Publisher</key>

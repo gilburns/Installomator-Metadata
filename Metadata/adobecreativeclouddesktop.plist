@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Creative Cloud is a suite of software and services for graphic design, video editing, web development, and photography.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>Adobe, Creative Cloud, macOS, design, video editing, photography</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.adobe.com/privacy.html</string>
 	<key>Publisher</key>

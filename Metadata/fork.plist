@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Fork is a fast and friendly Git client for macOS.</string>
 	<key>Documentation</key>
 	<string>https://git-fork.com/documentation/</string>
 	<key>Keywords</key>
 	<string>Git, client, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://git-fork.com/privacy/</string>
 	<key>Publisher</key>

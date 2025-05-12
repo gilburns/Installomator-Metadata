@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>yEd is a powerful diagramming software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.yworks.com/documentation/yed/</string>
 	<key>Keywords</key>
 	<string>diagramming, software, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.yworks.com/privacy-policy</string>
 	<key>Publisher</key>

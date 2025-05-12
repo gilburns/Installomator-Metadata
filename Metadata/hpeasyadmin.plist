@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>HP Easy Admin is a software tool for managing HP printers and MFPs.</string>
 	<key>Documentation</key>
 	<string>https://support.hp.com</string>
 	<key>Keywords</key>
 	<string>HP, Easy Admin, printers, MFPs</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www8.hp.com/us/en/privacy/privacy.html</string>
 	<key>Publisher</key>

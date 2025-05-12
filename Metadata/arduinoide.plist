@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>This new IDE provides a modern user interface thanks to its responsive interface, as well as a completely overhauled backend supplied by the Arduino CLI.</string>
 	<key>Documentation</key>
 	<string>https://docs.arduino.cc/software/ide-v2</string>
 	<key>Keywords</key>
 	<string>Arduino,IDE</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.arduino.cc/en/Main/PrivacyPolicy</string>
 	<key>Publisher</key>

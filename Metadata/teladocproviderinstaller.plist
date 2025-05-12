@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>TeladocProviderInstaller is a software tool for installing and managing Teladoc provider accounts.</string>
 	<key>Documentation</key>
 	<string>https://teladoc.com/provider/installer/docs</string>
 	<key>Keywords</key>
 	<string>telemedicine, installation, management, healthcare</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://teladoc.com/privacy-policy</string>
 	<key>Publisher</key>

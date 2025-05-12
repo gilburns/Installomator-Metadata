@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Unified communications (UC) solution for businesses.</string>
 	<key>Documentation</key>
 	<string>https://www.starface.com/documentation</string>
 	<key>Keywords</key>
 	<string>UC, VoIP, PBX, Collaboration</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.starface.com/privacy-policy</string>
 	<key>Publisher</key>

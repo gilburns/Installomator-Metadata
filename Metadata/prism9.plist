@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Prism 9 is a scientific graphing and data analysis software.</string>
 	<key>Documentation</key>
 	<string>https://www.graphpad.com/support/Prism9Docs.pdf</string>
 	<key>Keywords</key>
 	<string>scientific, graphing, data analysis, software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.graphpad.com/company/privacy-policy.htm</string>
 	<key>Publisher</key>

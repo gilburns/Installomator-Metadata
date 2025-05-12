@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Pareto Security is a comprehensive cybersecurity solution for protecting websites and online applications.</string>
 	<key>Documentation</key>
 	<string>https://paretosec.com/docs</string>
 	<key>Keywords</key>
 	<string>cybersecurity, website protection, online applications, Pareto Security</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://paretosec.com/privacy-policy</string>
 	<key>Publisher</key>

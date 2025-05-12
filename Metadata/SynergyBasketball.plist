@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Synergy Basketball is a software platform for analyzing basketball game data.</string>
 	<key>Documentation</key>
 	<string>https://www.synergybasketball.com/docs</string>
 	<key>Keywords</key>
 	<string>basketball, analytics, sports, data analysis</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.synergybasketball.com/privacy-policy</string>
 	<key>Publisher</key>

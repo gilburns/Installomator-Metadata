@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Dialog is a visual interface editor for macOS applications.</string>
 	<key>Documentation</key>
 	<string>https://developer.apple.com/documentatioppkit/dialogs_and_alerts/</string>
 	<key>Keywords</key>
 	<string>macOS, interface editor, applications</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

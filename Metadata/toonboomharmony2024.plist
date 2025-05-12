@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Harmony 24 Premium is a comprehensive software suite for professional music production and audio editing.</string>
 	<key>Documentation</key>
 	<string>https://harmony24premium.docs.com</string>
 	<key>Keywords</key>
 	<string>music, production, audio editing, software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://harmony24premium.privacy.com</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Email encryption and digital privacy tools for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://gpgtools.org/</string>
 	<key>Keywords</key>
 	<string>GPG, encryption, macOS, email, privacy</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://gpgtools.org/privacy</string>
 	<key>Publisher</key>

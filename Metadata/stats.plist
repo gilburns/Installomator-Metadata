@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Stats is a software for analyzing and visualizing data.</string>
 	<key>Documentation</key>
 	<string>https://statsdocs.com</string>
 	<key>Keywords</key>
 	<string>statistics, analysis, visualization, data</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://statsprivacy.com</string>
 	<key>Publisher</key>

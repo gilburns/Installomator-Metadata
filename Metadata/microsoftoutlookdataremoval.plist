@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Software for securely removing data from Microsoft Outlook.</string>
 	<key>Documentation</key>
 	<string>https://support.microsoft.com/outlook-data-removal</string>
 	<key>Keywords</key>
 	<string>Outlook, data removal, secure, software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/outlook-data-removal</string>
 	<key>Publisher</key>

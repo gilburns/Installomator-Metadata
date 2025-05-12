@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Drift is a messaging platform that helps businesses communicate with their customers in real-time.</string>
 	<key>Documentation</key>
 	<string>https://www.drift.com/</string>
 	<key>Keywords</key>
 	<string>messaging, communication, customer engagement, macOS software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.drift.com/privacy-policy/</string>
 	<key>Publisher</key>

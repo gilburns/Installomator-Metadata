@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>GIMP is a free and open-source raster graphics editor used for image editing and retouching.</string>
 	<key>Documentation</key>
 	<string>https://www.gimp.org/docs/</string>
 	<key>Keywords</key>
 	<string>image editing, graphics editor, open-source, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

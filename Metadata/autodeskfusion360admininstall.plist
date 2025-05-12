@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Autodesk Fusion 360 Admin Install is a software utility for bulk installation and configuration of Autodesk Fusion 360 software across multiple computers.</string>
 	<key>Documentation</key>
 	<string>https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Deploying-Fusion.html</string>
 	<key>Keywords</key>
 	<string>Autodesk, Fusion 360, Admin Install, bulk installation, configuration</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Your browser matters. Vivaldi is a new browser with unrivaled customization and control. Fast, secure and flexible – this is a browser made for you.</string>
 	<key>Documentation</key>
 	<string>https://help.vivaldi.com/</string>
 	<key>Keywords</key>
 	<string>Vivaldi,browser,web browser</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://vivaldi.com/privacy/browser/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>LibreOffice is a free and open-source office suite, a project of The Document Foundation. It was forked from OpenOffice.org in 2010, which was an open-sourced version of the earlier StarOffice.</string>
 	<key>Documentation</key>
 	<string>https://documentation.libreoffice.org/en/english-documentation/getting-started-guide/</string>
 	<key>Keywords</key>
 	<string>Document,LibreOffice,editor,office</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.libreoffice.org/about-us/privacy/privacy-policy-en/</string>
 	<key>Publisher</key>

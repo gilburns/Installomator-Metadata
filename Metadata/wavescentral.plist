@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Waves Central is a software application for managing Waves plugins and licenses.</string>
 	<key>Documentation</key>
 	<string>https://www.waves.com/support/waves-central-v12?utm_source=central&amp;utm_medium=link&amp;utm_campaign=learn</string>
 	<key>Keywords</key>
 	<string>Waves, Central, plugins, licenses</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.waves.com/legal/privacy-policy</string>
 	<key>Publisher</key>

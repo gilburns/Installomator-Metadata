@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Emacs is a customizable and extensible text editor for developers.</string>
 	<key>Documentation</key>
 	<string>https://www.gnu.org/software/emacs/manual/emacs.html</string>
 	<key>Keywords</key>
 	<string>text editor, customizable, extensible, developers</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

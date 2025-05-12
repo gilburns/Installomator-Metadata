@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Zulip is a powerful, open-source group chat platform. Zulip combines real-time chat with threaded conversations, making it easier to manage and follow discussions.</string>
 	<key>Documentation</key>
 	<string>https://zulip.com/help/</string>
 	<key>Keywords</key>
 	<string>Chat,Zulip</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://zulip.com/policies/privacy</string>
 	<key>Publisher</key>

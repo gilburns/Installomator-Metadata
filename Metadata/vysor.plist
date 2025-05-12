@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Vysor is a screen mirroring app for macOS that allows users to control their Android devices from their computer.</string>
 	<key>Documentation</key>
 	<string>https://www.vysor.io/</string>
 	<key>Keywords</key>
 	<string>screen mirroring, Android, control, macOS</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.vysor.io/privacy/</string>
 	<key>Publisher</key>

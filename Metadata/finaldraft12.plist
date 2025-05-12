@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Final Draft 12 is a popular screenwriting software used by professionals and beginners alike.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
 	<string>Screenwriting, Software, Final Draft, Scriptwriting</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

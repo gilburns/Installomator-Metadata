@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>DetectX Swift is a malware and adware removal tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://sqwarq.com/detectx/</string>
 	<key>Keywords</key>
 	<string>macOS, malware, adware, removal tool</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://sqwarq.com/privacy/</string>
 	<key>Publisher</key>

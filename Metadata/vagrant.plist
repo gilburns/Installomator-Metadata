@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Vagrant is the command line utility for managing the lifecycle of virtual machines. Isolate dependencies and their configuration within a single disposable and consistent environment.</string>
 	<key>Documentation</key>
 	<string>https://developer.hashicorp.com/vagrant/docs</string>
 	<key>Keywords</key>
 	<string>VM,Vagrant,Virtual Machines</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.hashicorp.com/trust/privacy</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Bitwig Studio is a professional digital audio workstation with innovative features for music production, performance, and sound design.</string>
 	<key>Documentation</key>
 	<string>https://www.bitwig.com/support.html</string>
 	<key>Keywords</key>
 	<string>music, production, DAW, software, audio, sound</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.bitwig.com/privacy-policy.html</string>
 	<key>Publisher</key>

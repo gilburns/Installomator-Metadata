@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>NetSpot is a professional app for analyzing and troubleshooting Wi-Fi networks.</string>
 	<key>Documentation</key>
 	<string>https://www.netspotapp.com/user-manual.html</string>
 	<key>Keywords</key>
 	<string>NetSpot, macOS, Wi-Fi, analysis, troubleshooting</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.netspotapp.com/privacy.html</string>
 	<key>Publisher</key>

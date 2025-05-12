@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>RustDesk is an open-source remote control alternative designed for self-hosting and security. It allows you to access remote computers, provide support, and collaborate online.</string>
 	<key>Documentation</key>
 	<string>https://rustdesk.com/docs</string>
 	<key>Keywords</key>
 	<string>Remote Control,RustDesk</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://rustdesk.com/privacy.html</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Box Tools is the installer package for both Box Edit and Device Trust functionality. The Device Trust component is used only if your administrator has enable Device Trust for your Box account.</string>
 	<key>Documentation</key>
 	<string>https://community.box.com/t5/Using-Box-Tools/Installing-Box-Tools/ta-p/50143</string>
 	<key>Keywords</key>
 	<string>Box,BoxTools</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.box.com/legal/privacypolicy</string>
 	<key>Publisher</key>

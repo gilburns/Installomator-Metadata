@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>The AWS Command Line Interface (AWS CLI) is an open source tool that enables you to interact with AWS services using commands in your command-line shell.</string>
 	<key>Documentation</key>
 	<string>https://docs.aws.amazon.com/cli/index.html</string>
 	<key>Keywords</key>
 	<string>AWS,Amazon,CLI,Cloud</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://aws.amazon.com/privacy/</string>
 	<key>Publisher</key>

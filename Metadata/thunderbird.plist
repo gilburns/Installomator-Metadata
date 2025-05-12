@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Mozilla Thunderbird is a free and open-source cross-platform email client, news client, RSS and chat client developed by the Mozilla Foundation. The project strategy was modeled after that of the Mozilla Firefox web browser. It is installed by default on Ubuntu desktop systems.</string>
 	<key>Documentation</key>
 	<string>https://wiki.mozilla.org/Thunderbird/Docs</string>
 	<key>Keywords</key>
 	<string>RSS,Thunderbird,email,email client</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.mozilla.org/en-US/privacy/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Vivi's classroom management tools transform the classroom into an interactive, collaborative learning space, driving increased engagement and productivity.</string>
 	<key>Documentation</key>
 	<string>https://vivi.atlassian.net/wiki/spaces/SHUB/overview</string>
 	<key>Keywords</key>
 	<string>Classroom,Learning,Vivi</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.vivi.io/privacy-policy</string>
 	<key>Publisher</key>

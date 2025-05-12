@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>A Better Finder Rename 11 is a powerful file renaming tool for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://www.publicspace.net/ABetterFinderRename11/</string>
 	<key>Keywords</key>
 	<string>macOS, file renaming, utility, productivity</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.publicspace.net/ABetterFinderRename11/privacy.html</string>
 	<key>Publisher</key>

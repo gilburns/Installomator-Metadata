@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Ableton Live 12 Intro is a music production software designed for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.ableton.com/en/manual/welcome-to-live/</string>
 	<key>Keywords</key>
 	<string>Ableton, Live, 12, Intro, music, production</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.ableton.com/en/legal/privacy-policy/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Asana is a software as a service (SaaS) platform that allows you to easily manage and organize projects, prioritize tasks, collaborate with teams, and track progress.</string>
 	<key>Documentation</key>
 	<string>https://asana.com/support</string>
 	<key>Keywords</key>
 	<string>Asana,Management,Projects,Tasks</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://asana.com/terms#privacy-policy</string>
 	<key>Publisher</key>

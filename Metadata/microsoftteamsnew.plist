@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>The hub for teamwork in Office 365. Invite everyone you work with to chat, meet, call, and collaborate all in one place, no matter where you are.</string>
 	<key>Documentation</key>
 	<string>https://learn.microsoft.com/en-us/microsoftteams/new-teams-bulk-install-client</string>
 	<key>Keywords</key>
 	<string>Teams,calling,conference,meeting,meetings,telecommunications,video chat</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>4K Video Downloader+ is an enhanced version of the popular 4K Video Downloader app. It allows users to download high-quality videos, audio, and subtitles from various platforms.</string>
 	<key>Documentation</key>
 	<string>https://www.4kdownload.com/help</string>
 	<key>Keywords</key>
 	<string>Downloader,Editor,Video</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.4kdownload.com/privacy</string>
 	<key>Publisher</key>

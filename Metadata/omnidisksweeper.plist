@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>OmniDiskSweeper is a macOS utility that helps users free up disk space by identifying large files and folders.</string>
 	<key>Documentation</key>
 	<string>https://www.omnigroup.com/more</string>
 	<key>Keywords</key>
 	<string>macOS, utility, disk space, cleanup</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.omnigroup.com/omnidisksweeper/privacy/</string>
 	<key>Publisher</key>

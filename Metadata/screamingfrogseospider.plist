@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Screaming Frog SEO Spider is a website crawler that helps users analyze and audit websites for improved SEO performance.</string>
 	<key>Documentation</key>
 	<string>https://www.screamingfrog.co.uk/seo-spider/</string>
 	<key>Keywords</key>
 	<string>SEO, website crawler, macOS, analyze, audit</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.screamingfrog.co.uk/privacy-policy/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>DBeaver is free and open source universal database tool for developers and database administrators.</string>
 	<key>Documentation</key>
 	<string>https://dbeaver.io/about/</string>
 	<key>Keywords</key>
 	<string>database,dbeaver,mysql,sql</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://dbeaver.io/cookie-policy/</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Real-time analytics and data processing tool</string>
 	<key>Documentation</key>
 	<string>https://pulsar.apache.org/docs/en/pulsar-2.9.0/</string>
 	<key>Keywords</key>
 	<string>real-time, analytics, data processing, Apache Pulsar</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

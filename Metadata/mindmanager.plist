@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>MindManager is a visual thinking and mind mapping software that allows users to organize ideas, tasks, and information in a hierarchical structure. It enables individuals and teams to create interactive diagrams, project plans, and visually capture and present complex information.</string>
 	<key>Documentation</key>
 	<string>https://www.mindmanager.com/support</string>
 	<key>Keywords</key>
 	<string>Mind Mapping,MindManager</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.corel.com/en/corel-privacy-policy</string>
 	<key>Publisher</key>

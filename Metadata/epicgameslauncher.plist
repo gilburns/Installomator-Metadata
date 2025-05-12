@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>The Epic Games Launcher is a digital distribution platform developed by Epic Games. It allows you to download and manage video games and software.</string>
 	<key>Documentation</key>
 	<string>https://www.epicgames.com/help</string>
 	<key>Keywords</key>
 	<string>Epic Games,Epic Games Launcher</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.epicgames.com/site/en-US/privacypolicy</string>
 	<key>Publisher</key>

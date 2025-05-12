@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Get simple and secure business network protection with our easy-to-use Windows app.</string>
 	<key>Documentation</key>
 	<string>https://help.nordlayer.com/docs</string>
 	<key>Keywords</key>
 	<string>NordLayer,VPN</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://nordlayer.com/privacy-policy/</string>
 	<key>Publisher</key>

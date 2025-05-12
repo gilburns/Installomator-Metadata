@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Screen sharing, remote desktop, and online meetings software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.goto.com/</string>
 	<key>Keywords</key>
 	<string>screen sharing, remote desktop, online meetings</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.goto.com/trust/privacy</string>
 	<key>Publisher</key>

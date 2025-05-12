@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>MunkiAdmin is a GUI application for managing Munki repositories.</string>
 	<key>Documentation</key>
 	<string>https://github.com/munki/munki/wiki/MunkiAdmin</string>
 	<key>Keywords</key>
 	<string>Munki, repositories, GUI, management</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

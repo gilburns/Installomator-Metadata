@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Sonos S1 Controller is a software application for managing Sonos S1 speakers.</string>
 	<key>Documentation</key>
 	<string>https://support.sonos.com/s/article/4936</string>
 	<key>Keywords</key>
 	<string>Sonos, Controller, S1, Speakers</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.sonos.com/en-us/legal/privacy-policy</string>
 	<key>Publisher</key>

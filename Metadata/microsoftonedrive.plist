@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Help users in your organization store, sync, and share files in Microsoft 365.</string>
 	<key>Documentation</key>
 	<string>http://go.microsoft.com/fwlink/?LinkID=215117</string>
 	<key>Keywords</key>
 	<string>Microsoft,OneDrive,sync</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-gb/privacy</string>
 	<key>Publisher</key>

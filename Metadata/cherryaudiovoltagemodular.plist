@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Voltage Modular is a virtual modular synthesizer software for music production.</string>
 	<key>Documentation</key>
 	<string>https://support.cherryaudio.com/documentation/voltage-modular-core</string>
 	<key>Keywords</key>
 	<string>modular synthesizer, music production, software, virtual instrument</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

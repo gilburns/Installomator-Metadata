@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Microsoft Defender is an antivirus program developed by Microsoft to protect against malware and other threats.</string>
 	<key>Documentation</key>
 	<string>https://docs.microsoft.com/en-us/microsoft-365/security/defender/</string>
 	<key>Keywords</key>
 	<string>antivirus, Microsoft, Defender, malware, security</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

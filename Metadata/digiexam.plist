@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>DigiExam is a comprehensive digital exam platform designed to manage the entire exam workflow, from creating and distributing exams to grading and publishing results. It is widely used by schools and universities for both high-stakes and low-stakes exams.</string>
 	<key>Documentation</key>
 	<string>https://support.digiexam.se/</string>
 	<key>Keywords</key>
 	<string>DigiExam,Exams</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.digiexam.com/legal</string>
 	<key>Publisher</key>

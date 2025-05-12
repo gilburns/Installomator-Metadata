@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Advanced video editing software with customizable effects and transitions</string>
 	<key>Documentation</key>
 	<string>https://gx-80docs.com</string>
 	<key>Keywords</key>
 	<string>video editing, effects, transitions, software</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://gx-80privacy.com</string>
 	<key>Publisher</key>

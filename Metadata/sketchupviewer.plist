@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>SketchUp Viewer is a multimedia application that allows you to effortlessly view and print 3D models designed in SketchUp. You can inspect computer-generated models without needing the complete SketchUp software suite.</string>
 	<key>Documentation</key>
 	<string>https://help.sketchup.com</string>
 	<key>Keywords</key>
 	<string>SketchUp,SketchUp Viewer</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.sketchup.com/en/legal/privacy-notice</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Miro is a collaboration tool featuring a digital whiteboard that helps teams research, ideate, build customer journeys, and wireframe. It is an online collaboration tool used to manage projects, share ideas, and collaborate.</string>
 	<key>Documentation</key>
 	<string>https://help.miro.com/</string>
 	<key>Keywords</key>
 	<string>Collaboration,Miro</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://miro.com/legal/privacy-policy/</string>
 	<key>Publisher</key>

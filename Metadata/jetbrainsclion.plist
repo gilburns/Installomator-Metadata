@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>CLion is a cross-platform IDE for C and C++ programming languages developed by JetBrains. It includes all the essentials of everyday development such as VCS (SVN, Git, GitHub, Mercurial, Perforce), Google Test, Catch and Boost. CLion also includes test frameworks for unit testing, Doxygen, Database tools, and Markdown support.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
 	<key>Keywords</key>
 	<string>CLion,JetBrains</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.jetbrains.com/privacy-security/</string>
 	<key>Publisher</key>

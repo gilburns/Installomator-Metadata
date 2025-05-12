@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>R is a system for statistical computation and graphics. It consists of a language plus a run-time environment with graphics, a debugger, access to certain system functions, and the ability to run programs stored in script files.</string>
 	<key>Documentation</key>
 	<string>https://cran.r-project.org/doc/FAQ/R-FAQ.html</string>
 	<key>Keywords</key>
 	<string>R For Windows</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Publisher</key>
 	<string>R Foundation for Statistical Computing</string>
 </dict>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>PrusaSlicer is a powerful slicer software for 3D printing that offers advanced features and customization options.</string>
 	<key>Documentation</key>
 	<string>https://help.prusa3d.com/en/category/prusaslicer_313</string>
 	<key>Keywords</key>
 	<string>3D printing, slicer software, customization, Prusa Research</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

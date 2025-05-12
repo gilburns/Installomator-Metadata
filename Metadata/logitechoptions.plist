@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Logitech Options software lets you customize your device's settings as follows: Change function key shortcuts. Customize mouse buttons. Adjust point and scroll behavior. Enable and disable touchpad gestures. Get on-screen notifications when your device's battery runs low or when you press a lock key</string>
 	<key>Documentation</key>
 	<string>https://support.logi.com/hc/en-hk/articles/360025297893</string>
 	<key>Keywords</key>
 	<string>Logitech,Peripherals,Utilities</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.logitech.com/en-us/legal/web-privacy-policy.html</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>TunnelBear is a user-friendly VPN service for protecting your online privacy and bypassing censorship.</string>
 	<key>Documentation</key>
 	<string>https://www.tunnelbear.com/support</string>
 	<key>Keywords</key>
 	<string>VPN, TunnelBear, macOS, privacy, security</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.tunnelbear.com/privacy-policy</string>
 	<key>Publisher</key>

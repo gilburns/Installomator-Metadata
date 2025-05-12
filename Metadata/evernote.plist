@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Evernote gives you everything you need to keep life organized—great note taking, project planning, and easy ways to find what you need, when you need it.</string>
 	<key>Documentation</key>
 	<string>https://help.evernote.com/hc/en-us</string>
 	<key>Keywords</key>
 	<string>Evernote,lists,note taking,notes</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://evernote.com/privacy/policy</string>
 	<key>Publisher</key>

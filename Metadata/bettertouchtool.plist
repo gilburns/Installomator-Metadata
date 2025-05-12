@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>BetterTouchTool is a versatile macOS app that allows you to customize various input devices like Magic Mouse, Magic Trackpad, and Touch Bar with powerful and customizable gestures.</string>
 	<key>Documentation</key>
 	<string>https://folivora.ai/</string>
 	<key>Keywords</key>
 	<string>macOS, customizations, gestures, productivity</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://folivora.ai/privacy-policy</string>
 	<key>Publisher</key>

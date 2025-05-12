@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>CalcService is a macOS application that provides advanced calculator functionalities.</string>
 	<key>Documentation</key>
 	<string>https://www.calcservice.com/docs</string>
 	<key>Keywords</key>
 	<string>Calculator, macOS, Math, Calculation</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.calcservice.com/privacy</string>
 	<key>Publisher</key>

@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>GoLand is an easy-to-use integrated development environment (IDE) designed for the Go programming language. GoLand has tools for database management, front-end design, validation, and diagnostics.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
 	<key>Keywords</key>
 	<string>Go,GoLand,IDE,JetBrains</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://www.jetbrains.com/privacy-security/</string>
 	<key>Publisher</key>

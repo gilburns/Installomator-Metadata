@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>PS-3300 is a software application for macOS used for managing and organizing tasks.</string>
 	<key>Documentation</key>
 	<string>https://ps-3300-docs.com</string>
 	<key>Keywords</key>
 	<string>macOS, task management, organization</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://ps-3300-privacy-policy.com</string>
 	<key>Publisher</key>
