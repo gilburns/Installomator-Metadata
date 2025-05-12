@@ -2,12 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AppID</key>
+	<string></string>
 	<key>Description</key>
 	<string>Particulars displays system information about your Mac, including computer name, model, CPU/SoC, RAM, OS version, and network configuration.</string>
 	<key>Documentation</key>
 	<string>https://particulars.app/_help/particularshelp/</string>
 	<key>Keywords</key>
 	<string>system, network, information, bginfo, desktop, background, wallpaper, info, shortcuts, cli</string>
+	<key>PackageID</key>
+	<string></string>
 	<key>Privacy</key>
 	<string>https://particulars.app/privacy-policy/</string>
 	<key>Publisher</key>
