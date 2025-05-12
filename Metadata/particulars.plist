@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Particulars is a comprehensive data analysis tool for businesses.</string>
+	<string>Particulars displays system information about your Mac, including computer name, model, CPU/SoC, RAM, OS version, and network configuration.</string>
 	<key>Documentation</key>
-	<string>https://particulars.com/docs</string>
+	<string>https://particulars.app/_help/particularshelp/</string>
 	<key>Keywords</key>
-	<string>data analysis, business, tool</string>
+	<string>system, network, information, bginfo, desktop, background, wallpaper, info, shortcuts, cli</string>
 	<key>Privacy</key>
-	<string>https://particulars.com/privacy-policy</string>
+	<string>https://particulars.app/privacy-policy/</string>
 	<key>Publisher</key>
-	<string>Particulars</string>
+	<string>Fraser Hess</string>
 </dict>
 </plist>
