@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Egnyte Core</string>
 	<key>Description</key>
 	<string>Egnyte Core is a secure file sharing and collaboration platform for macOS users.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hot</string>
 	<key>Description</key>
 	<string>Real-time communication application for teams</string>
 	<key>Documentation</key>

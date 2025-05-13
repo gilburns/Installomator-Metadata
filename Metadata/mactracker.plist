@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mactracker</string>
 	<key>Description</key>
 	<string>Track detailed information about every Apple Macintosh computer ever made.</string>
 	<key>Documentation</key>

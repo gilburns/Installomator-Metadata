@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tableau Public</string>
 	<key>Description</key>
 	<string>Tableau Public is a free data visualization tool that allows you to create interactive charts, maps, and dashboards.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SnapGene</string>
 	<key>Description</key>
 	<string>Molecular biology software for DNA analysis and cloning</string>
 	<key>Documentation</key>

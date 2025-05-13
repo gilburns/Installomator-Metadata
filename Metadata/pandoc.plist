@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Pandoc</string>
 	<key>Description</key>
 	<string>Pandoc is a universal document converter that supports a wide variety of formats.</string>
 	<key>Documentation</key>

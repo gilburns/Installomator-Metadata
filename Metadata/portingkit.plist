@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Porting Kit</string>
 	<key>Description</key>
 	<string>Porting Kit is an application that helps users to easily install and play Windows games on macOS.</string>
 	<key>Documentation</key>

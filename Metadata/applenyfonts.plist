@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Apple New York Font Collection</string>
 	<key>Description</key>
 	<string>Collection of new font styles for macOS from Apple curated for New York design inspiration.</string>
 	<key>Documentation</key>

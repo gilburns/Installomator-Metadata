@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ClickUp</string>
 	<key>Description</key>
 	<string>ClickUp is a project management software that allows you to plan, track and collaborate on any project. You can create marketing campaigns, manage development sprints and create the ideal workflow for you and your team.</string>
 	<key>Documentation</key>

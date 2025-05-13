@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Logseq</string>
 	<key>Description</key>
 	<string>Logseq is a privacy-first, open-source platform for knowledge management and collaboration.</string>
 	<key>Documentation</key>

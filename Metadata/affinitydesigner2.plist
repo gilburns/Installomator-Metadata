@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Affinity Designer 2</string>
 	<key>Description</key>
 	<string>Affinity Designer 2 is professional graphic design software for macOS.</string>
 	<key>Documentation</key>

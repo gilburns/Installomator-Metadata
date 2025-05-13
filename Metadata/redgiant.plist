@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Red Giant</string>
 	<key>Description</key>
 	<string>Red Giant is a suite of software tools for visual effects and motion graphics professionals on macOS.</string>
 	<key>Documentation</key>

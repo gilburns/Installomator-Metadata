@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CatoClient</string>
 	<key>Description</key>
 	<string>The Cato VPN Client is software that enables secure connectivity from devices used by businesses to the Cato Cloud service. Traveling business users can easily connect to corporate resources on premise and in the cloud from everywhere.</string>
 	<key>Documentation</key>

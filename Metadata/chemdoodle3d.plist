@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ChemDoodle3D</string>
 	<key>Description</key>
 	<string>ChemDoodle3D is a 3D modeling application for macOS tailored for chemists and educators.</string>
 	<key>Documentation</key>

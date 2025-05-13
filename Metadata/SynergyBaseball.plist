@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Synergy Baseball</string>
 	<key>Description</key>
 	<string>Synergy Baseball is a macOS software for managing and analyzing baseball data.</string>
 	<key>Documentation</key>

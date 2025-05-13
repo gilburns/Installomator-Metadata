@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Jitsi Meet</string>
 	<key>Description</key>
 	<string>Jitsi Meet is an open-source video conferencing platform that allows you to host online meetings and conferences with ease.</string>
 	<key>Documentation</key>

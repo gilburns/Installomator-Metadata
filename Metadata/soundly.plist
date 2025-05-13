@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Soundly</string>
 	<key>Description</key>
 	<string>Soundly is a professional sound effects library and management tool for macOS.</string>
 	<key>Documentation</key>

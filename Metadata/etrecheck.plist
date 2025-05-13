@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>EtreCheckPro</string>
 	<key>Description</key>
 	<string>EtreCheckPro is a diagnostic tool for macOS to identify and resolve computer issues.</string>
 	<key>Documentation</key>

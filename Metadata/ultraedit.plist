@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UltraEdit</string>
 	<key>Description</key>
 	<string>Text editor for Windows, macOS, and Linux with advanced features for programmers and power users.</string>
 	<key>Documentation</key>

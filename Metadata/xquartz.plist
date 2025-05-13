@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>XQuartz</string>
 	<key>Description</key>
 	<string>XQuartz is an open-source version of the X.Org X Window System that runs on macOS.</string>
 	<key>Documentation</key>

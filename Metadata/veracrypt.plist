@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VeraCrypt</string>
 	<key>Description</key>
 	<string>Open-source disk encryption software</string>
 	<key>Documentation</key>

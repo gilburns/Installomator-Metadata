@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Bruno</string>
 	<key>Description</key>
 	<string>Bruno is a versatile software tool for project management and collaboration.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Rectangle</string>
 	<key>Description</key>
 	<string>Rectangle is a window management app for macOS.</string>
 	<key>Documentation</key>

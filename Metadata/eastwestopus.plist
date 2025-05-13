@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Opus</string>
 	<key>Description</key>
 	<string>Opus is a feature-rich audio codec and tool for macOS users.</string>
 	<key>Documentation</key>

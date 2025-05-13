@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SF Symbols</string>
 	<key>Description</key>
 	<string>SF Symbols is a library of over 2,400 configurable symbols, available in multiple weights and scales.</string>
 	<key>Documentation</key>

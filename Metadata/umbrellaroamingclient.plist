@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Umbrella Roaming Client</string>
 	<key>Description</key>
 	<string>Umbrella Roaming Client is a software that extends protection to roaming devices.</string>
 	<key>Documentation</key>

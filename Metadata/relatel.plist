@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Relatel</string>
 	<key>Description</key>
 	<string>Relatel is a customer relationship management (CRM) software for businesses.</string>
 	<key>Documentation</key>

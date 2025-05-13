@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Outlook Reset</string>
 	<key>Description</key>
 	<string>Microsoft Outlook Reset is a utility tool for macOS that allows users to reset Outlook preferences and configurations.</string>
 	<key>Documentation</key>

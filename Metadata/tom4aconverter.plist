@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>To M4A Converter</string>
 	<key>Description</key>
 	<string>Convert audio files to M4A format.</string>
 	<key>Documentation</key>

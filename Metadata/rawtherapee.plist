@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RawTherapee</string>
 	<key>Description</key>
 	<string>RawTherapee is a powerful cross-platform raw image processing software.</string>
 	<key>Documentation</key>

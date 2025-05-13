@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Icons</string>
 	<key>Description</key>
 	<string>Icons is a utility software for managing and organizing icons on macOS systems.</string>
 	<key>Documentation</key>

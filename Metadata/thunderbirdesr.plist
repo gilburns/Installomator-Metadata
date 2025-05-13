@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Thunderbird</string>
 	<key>Description</key>
 	<string>Thunderbird is a free and open-source email application that's easy to set up and customize.</string>
 	<key>Documentation</key>

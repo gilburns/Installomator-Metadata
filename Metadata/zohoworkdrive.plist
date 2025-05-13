@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zoho WorkDrive</string>
 	<key>Description</key>
 	<string>Zoho WorkDrive is a cloud-based document management and file sharing platform for teams.</string>
 	<key>Documentation</key>

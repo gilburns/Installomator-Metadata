@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MasterFader</string>
 	<key>Description</key>
 	<string>MasterFader is a professional audio mixing app for macOS.</string>
 	<key>Documentation</key>

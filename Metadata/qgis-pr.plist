@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>QGIS</string>
 	<key>Description</key>
 	<string>QGIS is a free and open source desktop geographic information system (GIS) application that supports viewing, editing, printing, and analysis of geospatial data.</string>
 	<key>Documentation</key>

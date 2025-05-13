@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Bugdom</string>
 	<key>Description</key>
 	<string>Bugdom is a 3D action-adventure game for macOS featuring a bug protagonist exploring a backyard setting.</string>
 	<key>Documentation</key>

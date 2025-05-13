@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Miro</string>
 	<key>Description</key>
 	<string>Miro is a collaboration tool featuring a digital whiteboard that helps teams research, ideate, build customer journeys, and wireframe. It is an online collaboration tool used to manage projects, share ideas, and collaborate.</string>
 	<key>Documentation</key>

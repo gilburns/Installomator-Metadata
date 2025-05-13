@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SketchUpViewer</string>
 	<key>Description</key>
 	<string>SketchUp Viewer is a multimedia application that allows you to effortlessly view and print 3D models designed in SketchUp. You can inspect computer-generated models without needing the complete SketchUp software suite.</string>
 	<key>Documentation</key>

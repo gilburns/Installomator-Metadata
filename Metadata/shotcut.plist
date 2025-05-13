@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>shotcut</string>
 	<key>Description</key>
 	<string>Open-source video editing software for Windows, macOS, and Linux.</string>
 	<key>Documentation</key>

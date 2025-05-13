@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Box Tools</string>
 	<key>Description</key>
 	<string>Box Tools is the installer package for both Box Edit and Device Trust functionality. The Device Trust component is used only if your administrator has enable Device Trust for your Box account.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Santa</string>
 	<key>Description</key>
 	<string>Santa is a security tool for macOS that enforces application whitelisting/blacklisting policies.</string>
 	<key>Documentation</key>

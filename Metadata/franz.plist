@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Franz</string>
 	<key>Description</key>
 	<string>Franz is a messaging app that combines chat and messaging services into one application.</string>
 	<key>Documentation</key>

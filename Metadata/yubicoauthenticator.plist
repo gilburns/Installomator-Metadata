@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Yubico Authenticator</string>
 	<key>Description</key>
 	<string>For maximum security we always recommend protecting your user accounts with the YubiKey. However where an authenticator app is preferred, the Yubico Authenticator app allows you to store your credentials on a YubiKey and not on your mobile phone, so that your secrets cannot be compromised.</string>
 	<key>Documentation</key>

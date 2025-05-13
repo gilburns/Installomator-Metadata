@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SizeUp</string>
 	<key>Description</key>
 	<string>Window management utility for macOS</string>
 	<key>Documentation</key>

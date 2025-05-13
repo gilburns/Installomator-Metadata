@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DisplayLink Manager</string>
 	<key>Description</key>
 	<string>DisplayLink is a semiconductor and software technology company. DisplayLink USB graphics technology is designed to connect computers and displays using USB, Ethernet, and WiFi. It also allows multiple displays to be connected to a single computer.</string>
 	<key>Documentation</key>

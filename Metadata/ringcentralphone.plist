@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RingCentral for Mac</string>
 	<key>Description</key>
 	<string>RingCentral is the leading provider of global enterprise cloud communications and collaboration solutions</string>
 	<key>Documentation</key>

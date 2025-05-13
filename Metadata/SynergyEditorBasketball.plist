@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Synergy Editor</string>
 	<key>Description</key>
 	<string>Synergy Editor is a powerful tool for code editing and collaboration.</string>
 	<key>Documentation</key>

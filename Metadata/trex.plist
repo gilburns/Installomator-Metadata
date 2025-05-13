@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TRex</string>
 	<key>Description</key>
 	<string>TRex is a powerful network traffic generator tool for macOS.</string>
 	<key>Documentation</key>

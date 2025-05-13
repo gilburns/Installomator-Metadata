@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tag Editor</string>
 	<key>Description</key>
 	<string>Tag Editor for macOS helps users organize and edit metadata tags for audio files efficiently.</string>
 	<key>Documentation</key>

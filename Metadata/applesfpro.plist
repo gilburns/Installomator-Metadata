@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>San Francisco Pro</string>
 	<key>Description</key>
 	<string>San Francisco Pro is a professional software for macOS users.</string>
 	<key>Documentation</key>

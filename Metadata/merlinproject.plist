@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Merlin Project</string>
 	<key>Description</key>
 	<string>Merlin Project is a project management software for macOS with advanced planning and scheduling capabilities.</string>
 	<key>Documentation</key>

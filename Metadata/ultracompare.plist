@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UltraCompare</string>
 	<key>Description</key>
 	<string>UltraCompare is a file and folder compare/merge/sync application. UltraCompare allows you to compare files from multiple locations simultaneously and visually merge conflicts and differences.</string>
 	<key>Documentation</key>

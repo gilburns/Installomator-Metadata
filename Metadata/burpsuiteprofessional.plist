@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Burp Suite Professional</string>
 	<key>Description</key>
 	<string>Web security testing tool for finding vulnerabilities in web applications.</string>
 	<key>Documentation</key>

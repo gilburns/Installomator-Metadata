@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Toggl Track</string>
 	<key>Description</key>
 	<string>Toggl Track is a time tracking app for macOS users.</string>
 	<key>Documentation</key>

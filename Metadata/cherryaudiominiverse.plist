@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Miniverse</string>
 	<key>Description</key>
 	<string>A powerful and user-friendly virtual world creation software for macOS users.</string>
 	<key>Documentation</key>

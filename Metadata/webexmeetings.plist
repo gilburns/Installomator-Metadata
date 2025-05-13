@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cisco Webex Meetings</string>
 	<key>Description</key>
 	<string>Cisco Webex Meetings is a video conferencing software for macOS.</string>
 	<key>Documentation</key>

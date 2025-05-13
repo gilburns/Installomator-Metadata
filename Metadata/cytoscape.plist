@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cytoscape</string>
 	<key>Description</key>
 	<string>Cytoscape is an open-source software platform for visualizing complex networks and integrating these with any type of attribute data.</string>
 	<key>Documentation</key>

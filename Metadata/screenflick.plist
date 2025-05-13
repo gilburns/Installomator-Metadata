@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Screenflick</string>
 	<key>Description</key>
 	<string>Screenflick is a powerful screen recording application for macOS.</string>
 	<key>Documentation</key>

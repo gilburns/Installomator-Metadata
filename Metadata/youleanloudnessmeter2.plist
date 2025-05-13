@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Youlean Loudness Meter 2</string>
 	<key>Description</key>
 	<string>Youlean Loudness Meter 2 is a professional audio tool for measuring loudness and true peak levels on macOS.</string>
 	<key>Documentation</key>

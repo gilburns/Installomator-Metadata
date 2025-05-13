@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>odrive</string>
 	<key>Description</key>
 	<string>Cloud storage synchronization and management tool.</string>
 	<key>Documentation</key>

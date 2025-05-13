@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>NetSpot</string>
 	<key>Description</key>
 	<string>NetSpot is a professional app for analyzing and troubleshooting Wi-Fi networks.</string>
 	<key>Documentation</key>

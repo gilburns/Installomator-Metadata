@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Modern CSV</string>
 	<key>Description</key>
 	<string>Modern CSV is a powerful CSV editor for macOS users.</string>
 	<key>Documentation</key>

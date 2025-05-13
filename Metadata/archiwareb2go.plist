@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>P5 Workstation</string>
 	<key>Description</key>
 	<string>P5 Workstation is a versatile software tool for audio production and editing.</string>
 	<key>Documentation</key>

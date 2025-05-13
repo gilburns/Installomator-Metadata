@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DisplayLink Manager Graphics Connectivity</string>
 	<key>Description</key>
 	<string>DisplayLink Manager Graphics Connectivity software for macOS allows users to connect multiple displays to their computer for enhanced productivity.</string>
 	<key>Documentation</key>

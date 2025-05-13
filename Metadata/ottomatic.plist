@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Otto Matic</string>
 	<key>Description</key>
 	<string>Otto Matic is a fun and action-packed third-person shooter game for macOS.</string>
 	<key>Documentation</key>

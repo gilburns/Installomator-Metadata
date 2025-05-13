@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Authy Desktop</string>
 	<key>Description</key>
 	<string>Authy Desktop is a multi-platform authenticator app for two-factor authentication</string>
 	<key>Documentation</key>

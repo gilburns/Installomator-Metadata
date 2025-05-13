@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Stardust 201 Tape Echo</string>
 	<key>Description</key>
 	<string>Vintage tape echo plugin with analog saturation for macOS</string>
 	<key>Documentation</key>

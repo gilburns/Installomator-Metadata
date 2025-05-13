@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>e-Share</string>
 	<key>Description</key>
 	<string>Secure file sharing software for businesses and organizations</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ricoh Printers</string>
 	<key>Description</key>
 	<string>Ricoh Printers software for macOS provides printing functionalities for Ricoh printers.</string>
 	<key>Documentation</key>

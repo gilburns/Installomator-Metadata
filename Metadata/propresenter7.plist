@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ProPresenter 7</string>
 	<key>Description</key>
 	<string>ProPresenter 7 is a presentation software for macOS.</string>
 	<key>Documentation</key>

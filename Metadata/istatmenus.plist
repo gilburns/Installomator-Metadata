@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>iStat Menus</string>
 	<key>Description</key>
 	<string>Monitor your macOS system stats in the menu bar.</string>
 	<key>Documentation</key>

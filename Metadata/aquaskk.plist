@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>aquaskk</string>
 	<key>Description</key>
 	<string>aquaskk is a software for macOS that enhances typing experience with a customizable virtual keyboard.</string>
 	<key>Documentation</key>

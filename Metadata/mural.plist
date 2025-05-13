@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mural</string>
 	<key>Description</key>
 	<string>Mural is a digital workspace for visual collaboration.</string>
 	<key>Documentation</key>

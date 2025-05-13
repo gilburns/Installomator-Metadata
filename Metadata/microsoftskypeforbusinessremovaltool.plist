@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Skype for Business Removal</string>
 	<key>Description</key>
 	<string>A tool to completely remove Skype for Business from macOS systems.</string>
 	<key>Documentation</key>

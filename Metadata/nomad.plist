@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>NoMAD</string>
 	<key>Description</key>
 	<string>NoMAD is a macOS application that simplifies Active Directory user authentication and management.</string>
 	<key>Documentation</key>

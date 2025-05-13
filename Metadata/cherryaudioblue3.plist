@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Blue3 Organ</string>
 	<key>Description</key>
 	<string>Blue3 Organ is a digital tonewheel organ instrument plugin.</string>
 	<key>Documentation</key>

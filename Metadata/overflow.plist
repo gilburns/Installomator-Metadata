@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Overflow</string>
 	<key>Description</key>
 	<string>A powerful stack-based calculator app for macOS users.</string>
 	<key>Documentation</key>

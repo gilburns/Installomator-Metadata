@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SwiftRuntimeForCommandLineTools</string>
 	<key>Description</key>
 	<string>Swift runtime library for macOS command-line tools.</string>
 	<key>Documentation</key>

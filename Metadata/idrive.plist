@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>IDrive</string>
 	<key>Description</key>
 	<string>IDrive is a backup and storage solution for macOS users.</string>
 	<key>Documentation</key>

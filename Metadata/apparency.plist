@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Apparency</string>
 	<key>Description</key>
 	<string>Apparency is a macOS application that provides detailed information about installed applications.</string>
 	<key>Documentation</key>

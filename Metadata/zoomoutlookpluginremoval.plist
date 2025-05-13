@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zoom Outlook Plugin Removal</string>
 	<key>Description</key>
 	<string>Tool for completely removing Zoom Outlook Plugin from macOS systems.</string>
 	<key>Documentation</key>

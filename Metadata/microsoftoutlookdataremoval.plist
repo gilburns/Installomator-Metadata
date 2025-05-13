@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Outlook Data Removal</string>
 	<key>Description</key>
 	<string>Software for securely removing data from Microsoft Outlook.</string>
 	<key>Documentation</key>

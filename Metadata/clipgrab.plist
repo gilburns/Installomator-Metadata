@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ClipGrab</string>
 	<key>Description</key>
 	<string>ClipGrab is a free software to download and convert videos from various websites.</string>
 	<key>Documentation</key>

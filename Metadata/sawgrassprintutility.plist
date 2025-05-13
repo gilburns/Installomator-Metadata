@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sawgrass Print Utility</string>
 	<key>Description</key>
 	<string>Sawgrass Print Utility is a software for macOS that allows users to manage and print designs for Sawgrass printers.</string>
 	<key>Documentation</key>

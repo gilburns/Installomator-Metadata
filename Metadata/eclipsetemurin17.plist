@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Temurin 17</string>
 	<key>Description</key>
 	<string>Temurin 17 is a version of the Java Development Kit (JDK) for macOS operating systems.</string>
 	<key>Documentation</key>

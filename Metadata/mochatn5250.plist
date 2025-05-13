@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TN5250</string>
 	<key>Description</key>
 	<string>TN5250 is a terminal emulation software for accessing IBM AS/400 systems on macOS.</string>
 	<key>Documentation</key>

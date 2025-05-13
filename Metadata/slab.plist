@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Slab</string>
 	<key>Description</key>
 	<string>Slab is a collaboration platform for teams with advanced search functionality and built-in knowledge sharing.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Buttercup</string>
 	<key>Description</key>
 	<string>Secure password manager for macOS</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>San Francisco Mono</string>
 	<key>Description</key>
 	<string>A sleek monospaced font inspired by the San Francisco typeface</string>
 	<key>Documentation</key>

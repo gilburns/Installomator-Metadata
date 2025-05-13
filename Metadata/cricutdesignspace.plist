@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cricut Design Space</string>
 	<key>Description</key>
 	<string>Design software for Cricut cutting machines.</string>
 	<key>Documentation</key>

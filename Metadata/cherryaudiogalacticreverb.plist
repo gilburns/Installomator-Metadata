@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Galactic Reverb</string>
 	<key>Description</key>
 	<string>Galactic Reverb is a digital audio effect that simulates reverberation in outer space.</string>
 	<key>Documentation</key>

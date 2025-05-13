@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RubyMine</string>
 	<key>Description</key>
 	<string>RubyMine is an Integrated Development Environment (IDE) specifically designed for the Ruby programming language and Rails framework. It helps developers be more productive in every aspect of Ruby/Rails project development, from writing and debugging code to testing and deploying completed applications.</string>
 	<key>Documentation</key>

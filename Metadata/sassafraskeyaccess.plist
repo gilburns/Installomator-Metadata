@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>KeyAccess</string>
 	<key>Description</key>
 	<string>KeyAccess is a software tool for managing encryption keys.</string>
 	<key>Documentation</key>

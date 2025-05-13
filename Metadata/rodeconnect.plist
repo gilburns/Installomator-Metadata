@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RODE Connect</string>
 	<key>Description</key>
 	<string>RODE Connect is a software application for macOS that enables seamless communication between devices.</string>
 	<key>Documentation</key>

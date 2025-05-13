@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>KeepingYouAwake</string>
 	<key>Description</key>
 	<string>KeepingYouAwake is a free and open source macOS menu bar utility that prevents your Mac from going to sleep.</string>
 	<key>Documentation</key>

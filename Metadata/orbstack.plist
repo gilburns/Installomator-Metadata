@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OrbStack</string>
 	<key>Description</key>
 	<string>OrbStack is a versatile software for macOS that streamlines data management and synchronization.</string>
 	<key>Documentation</key>

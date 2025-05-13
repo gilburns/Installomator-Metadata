@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>redshift</string>
 	<key>Description</key>
 	<string>Redshift is a fast, fully managed data warehouse that makes it simple and cost-effective to analyze all your data using standard SQL.</string>
 	<key>Documentation</key>

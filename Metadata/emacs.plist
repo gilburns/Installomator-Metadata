@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Emacs</string>
 	<key>Description</key>
 	<string>Emacs is a customizable and extensible text editor for developers.</string>
 	<key>Documentation</key>

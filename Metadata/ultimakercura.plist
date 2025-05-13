@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ultimaker Cura</string>
 	<key>Description</key>
 	<string>UltiMaker Cura is a free and easy-to-use 3D printing software trusted by millions of users. You can fine-tune your 3D model with over 400 settings for the best slicing and printing results and it can be used even if you don’t have an Ultimaker 3D printer.</string>
 	<key>Documentation</key>

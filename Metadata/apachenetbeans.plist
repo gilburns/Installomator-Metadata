@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Apache NetBeans</string>
 	<key>Description</key>
 	<string>An open-source integrated development environment for Java, JavaScript, PHP, HTML, and other programming languages.</string>
 	<key>Documentation</key>

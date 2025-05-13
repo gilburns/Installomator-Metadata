@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>NetworkShareMounter</string>
 	<key>Description</key>
 	<string>NetworkShareMounter is a tool for automatically mounting network shares on a user’s computer.</string>
 	<key>Documentation</key>

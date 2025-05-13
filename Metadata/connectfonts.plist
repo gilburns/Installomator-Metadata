@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Connect Fonts</string>
 	<key>Description</key>
 	<string>Connect Fonts is a font management software for designers and developers.</string>
 	<key>Documentation</key>

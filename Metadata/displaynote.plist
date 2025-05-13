@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>displaynote</string>
 	<key>Description</key>
 	<string>The DisplayNote App is a versatile tool designed to enhance collaboration and presentation experiences in classrooms and meeting rooms.</string>
 	<key>Documentation</key>

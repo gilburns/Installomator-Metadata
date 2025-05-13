@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Gyazo GIF</string>
 	<key>Description</key>
 	<string>Gyazo GIF is a screen recording tool that captures GIFs of your screen activities.</string>
 	<key>Documentation</key>

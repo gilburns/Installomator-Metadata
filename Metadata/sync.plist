@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sync</string>
 	<key>Description</key>
 	<string>Sync app for macOS allows users to seamlessly synchronize files and data across multiple devices.</string>
 	<key>Documentation</key>

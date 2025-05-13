@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AdobeConnectInstaller</string>
 	<key>Description</key>
 	<string>Adobe Connect is a suite of software for remote training, web conferencing, presentation, and desktop sharing.</string>
 	<key>Documentation</key>

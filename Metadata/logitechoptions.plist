@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Logi Options</string>
 	<key>Description</key>
 	<string>Logitech Options software lets you customize your device's settings as follows: Change function key shortcuts. Customize mouse buttons. Adjust point and scroll behavior. Enable and disable touchpad gestures. Get on-screen notifications when your device's battery runs low or when you press a lock key</string>
 	<key>Documentation</key>

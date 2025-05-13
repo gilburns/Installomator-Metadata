@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Storyboard Pro 24</string>
 	<key>Description</key>
 	<string>Storyboard Pro 24 is a professional software for creating storyboards and animatics.</string>
 	<key>Documentation</key>

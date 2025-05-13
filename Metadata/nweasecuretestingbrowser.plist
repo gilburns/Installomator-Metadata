@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>NWEA Secure Testing Browser</string>
 	<key>Description</key>
 	<string>A secure browser for NWEA testing environments</string>
 	<key>Documentation</key>

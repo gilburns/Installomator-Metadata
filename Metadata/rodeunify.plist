@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RODE UNIFY</string>
 	<key>Description</key>
 	<string>RODE UNIFY is a macOS software for seamless collaboration and unified communication.</string>
 	<key>Documentation</key>

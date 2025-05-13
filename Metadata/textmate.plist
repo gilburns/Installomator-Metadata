@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TextMate</string>
 	<key>Description</key>
 	<string>A versatile text editor for macOS users.</string>
 	<key>Documentation</key>

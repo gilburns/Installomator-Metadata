@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Lucid</string>
 	<key>Description</key>
 	<string>The LucidLink Client is a powerful software application that enables seamless data access and management across various cloud storage services.</string>
 	<key>Documentation</key>

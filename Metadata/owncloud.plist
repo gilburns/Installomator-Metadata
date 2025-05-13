@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ownCloud</string>
 	<key>Description</key>
 	<string>ownCloud is a self-hosted file sync and share server for macOS users.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AltServer</string>
 	<key>Description</key>
 	<string>AltServer is a desktop application for macOS that allows users to sideload apps onto their iOS devices.</string>
 	<key>Documentation</key>

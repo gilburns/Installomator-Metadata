@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Arcade</string>
 	<key>Description</key>
 	<string>Arcade is a powerful game development platform for macOS users.</string>
 	<key>Documentation</key>

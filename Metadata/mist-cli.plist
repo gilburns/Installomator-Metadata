@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mist-CLI</string>
 	<key>Description</key>
 	<string>Mist-CLI is a command-line tool for managing Mist services on macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Rackmode</string>
 	<key>Description</key>
 	<string>Rackmode is a macOS software for organizing and managing virtual server environments.</string>
 	<key>Documentation</key>

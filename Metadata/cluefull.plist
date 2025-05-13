@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Clue</string>
 	<key>Description</key>
 	<string>Period and menstrual cycle tracker for macOS</string>
 	<key>Documentation</key>

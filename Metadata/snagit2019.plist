@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Snagit 2019</string>
 	<key>Description</key>
 	<string>Snagit is a screenshot program that captures video display and audio output.</string>
 	<key>Documentation</key>

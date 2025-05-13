@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Promise Utility</string>
 	<key>Description</key>
 	<string>Promise Utility is a JavaScript library for working with asynchronous operations using Promises.</string>
 	<key>Documentation</key>

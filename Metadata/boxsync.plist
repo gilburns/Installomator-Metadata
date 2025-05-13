@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Box Sync</string>
 	<key>Description</key>
 	<string>Box Sync is a productivity tool that allows you to mirror data stored on Box to your desktop. You can then navigate and modify content stored on the Box website through your computer's native file browsing interface, without using a web browser. Content that syncs down to your computer are available for offline access.</string>
 	<key>Documentation</key>

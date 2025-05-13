@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Wondershare UniConverter</string>
 	<key>Description</key>
 	<string>Wondershare UniConverter is a versatile video converter software for macOS.</string>
 	<key>Documentation</key>

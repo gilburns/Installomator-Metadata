@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SmartSVN</string>
 	<key>Description</key>
 	<string>SmartSVN is a graphical client for Subversion (SVN) designed for macOS.</string>
 	<key>Documentation</key>

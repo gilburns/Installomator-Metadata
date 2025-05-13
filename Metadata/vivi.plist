@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Vivi</string>
 	<key>Description</key>
 	<string>Vivi's classroom management tools transform the classroom into an interactive, collaborative learning space, driving increased engagement and productivity.</string>
 	<key>Documentation</key>

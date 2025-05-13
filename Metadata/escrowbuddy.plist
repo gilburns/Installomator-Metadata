@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Escrow Buddy</string>
 	<key>Description</key>
 	<string>Escrow Buddy is a secure escrow software for macOS users.</string>
 	<key>Documentation</key>

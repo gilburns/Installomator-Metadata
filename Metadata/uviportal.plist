@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UVI Portal</string>
 	<key>Description</key>
 	<string>UVI Portal is a software application for macOS that allows users to manage and interact with UVI libraries and products.</string>
 	<key>Documentation</key>

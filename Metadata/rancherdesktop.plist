@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Rancher Desktop</string>
 	<key>Description</key>
 	<string>Rancher Desktop is a tool that enables you to run Kubernetes clusters on your local machine.</string>
 	<key>Documentation</key>

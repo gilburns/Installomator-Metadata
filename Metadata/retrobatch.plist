@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Retrobatch</string>
 	<key>Description</key>
 	<string>Retrobatch is a powerful batch image processor for macOS.</string>
 	<key>Documentation</key>

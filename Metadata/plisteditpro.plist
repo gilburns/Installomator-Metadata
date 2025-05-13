@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PlistEdit Pro</string>
 	<key>Description</key>
 	<string>PlistEdit Pro is a macOS application for viewing and editing property list files.</string>
 	<key>Documentation</key>

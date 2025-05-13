@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Edge</string>
 	<key>Description</key>
 	<string>World-class performance with more privacy, more productivity, and more value while you browse.</string>
 	<key>Documentation</key>

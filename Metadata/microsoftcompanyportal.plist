@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Company Portal</string>
 	<key>Description</key>
 	<string>Company Portal is a secure platform for employees to access company resources and collaborate.</string>
 	<key>Documentation</key>

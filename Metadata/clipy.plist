@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Clipy</string>
 	<key>Description</key>
 	<string>Clipboard manager for macOS</string>
 	<key>Documentation</key>

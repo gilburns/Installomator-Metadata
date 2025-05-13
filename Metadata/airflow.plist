@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Air</string>
 	<key>Description</key>
 	<string>Air is a macOS software that enables users to mirror their iOS device screen on their computer.</string>
 	<key>Documentation</key>

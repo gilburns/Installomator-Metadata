@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ente Auth</string>
 	<key>Description</key>
 	<string>Ente Auth is a secure authentication tool for macOS systems.</string>
 	<key>Documentation</key>

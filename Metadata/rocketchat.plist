@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Rocket.Chat</string>
 	<key>Description</key>
 	<string>Explore Rocket.Chat, where we put data privacy into every conversation and enable teams to collaborate seamlessly.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Adobe Digital Editions</string>
 	<key>Description</key>
 	<string>Adobe Digital Editions is an ebook reader software program from Adobe Systems, built initially using Adobe Flash. It is used for acquiring, managing, and reading eBooks, digital newspapers, and other digital publications. The software supports PDF, XHTML and Flash-based content.</string>
 	<key>Documentation</key>

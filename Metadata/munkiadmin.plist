@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MunkiAdmin</string>
 	<key>Description</key>
 	<string>MunkiAdmin is a GUI application for managing Munki repositories.</string>
 	<key>Documentation</key>

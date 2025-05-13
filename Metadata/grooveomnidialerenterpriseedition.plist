@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Groove Omnidialer Enterprise Edition</string>
 	<key>Description</key>
 	<string>Groove Omnidialer Enterprise Edition is a comprehensive calling solution for businesses.</string>
 	<key>Documentation</key>

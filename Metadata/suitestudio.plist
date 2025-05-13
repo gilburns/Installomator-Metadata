@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Suite</string>
 	<key>Description</key>
 	<string>Suite is a comprehensive software suite designed to streamline business processes and increase productivity.</string>
 	<key>Documentation</key>

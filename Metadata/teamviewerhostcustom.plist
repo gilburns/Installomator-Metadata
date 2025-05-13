@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TeamViewerHost</string>
 	<key>Description</key>
 	<string>TeamViewerHost is remote control software for easy desktop sharing and file transfer.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OmniPlan</string>
 	<key>Description</key>
 	<string>Project management software for macOS and iOS devices.</string>
 	<key>Documentation</key>

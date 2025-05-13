@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Loopcloud</string>
 	<key>Description</key>
 	<string>Loopcloud is a cloud-based sample library and music production platform for macOS.</string>
 	<key>Documentation</key>

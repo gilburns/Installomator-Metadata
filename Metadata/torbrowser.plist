@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tor Browser</string>
 	<key>Description</key>
 	<string>A secure web browser that protects your privacy by routing internet traffic through the Tor network.</string>
 	<key>Documentation</key>

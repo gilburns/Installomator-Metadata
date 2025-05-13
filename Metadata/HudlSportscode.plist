@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hudl Sportscode</string>
 	<key>Description</key>
 	<string>Video analysis software for sports teams and athletes</string>
 	<key>Documentation</key>

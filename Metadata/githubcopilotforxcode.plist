@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GitHub Copilot for Xcode</string>
 	<key>Description</key>
 	<string>GitHub Copilot for Xcode is an AI-powered code completion tool for macOS developers.</string>
 	<key>Documentation</key>

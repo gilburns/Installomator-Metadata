@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft OneDrive Reset</string>
 	<key>Description</key>
 	<string>Microsoft OneDrive Reset allows users to reset the OneDrive sync app without reinstalling it.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TeamViewerQS</string>
 	<key>Description</key>
 	<string>QuickSupport module for remote control and support for TeamViewer</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ScaleFT</string>
 	<key>Description</key>
 	<string>ScaleFT provides Zero Trust security solutions for privileged access management.</string>
 	<key>Documentation</key>

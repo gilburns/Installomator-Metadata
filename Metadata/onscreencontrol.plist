@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OnScreen Control</string>
 	<key>Description</key>
 	<string>OnScreen Control is a software for macOS that allows users to manage their monitors and display settings.</string>
 	<key>Documentation</key>

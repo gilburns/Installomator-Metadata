@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OneDrive</string>
 	<key>Description</key>
 	<string>OneDrive is a cloud storage service provided by Microsoft for macOS users.</string>
 	<key>Documentation</key>

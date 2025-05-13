@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ableton Live 12 Intro</string>
 	<key>Description</key>
 	<string>Ableton Live 12 Intro is a music production software designed for macOS.</string>
 	<key>Documentation</key>

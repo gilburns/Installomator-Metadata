@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SubEthaEdit</string>
 	<key>Description</key>
 	<string>Real-time collaborative text editing for macOS.</string>
 	<key>Documentation</key>

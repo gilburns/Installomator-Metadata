@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Privileges</string>
 	<key>Description</key>
 	<string>Privileges is a software tool for managing user access permissions.</string>
 	<key>Documentation</key>

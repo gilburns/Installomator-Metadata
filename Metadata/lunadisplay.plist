@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Luna Display</string>
 	<key>Description</key>
 	<string>Turn your iPad into a second display for your Mac with Luna Display.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>FLEXOPTIX App</string>
 	<key>Description</key>
 	<string>FLEXOPTIX App is a macOS application for managing and configuring optical transceivers.</string>
 	<key>Documentation</key>

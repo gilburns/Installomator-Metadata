@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Max</string>
 	<key>Description</key>
 	<string>Max is a high-quality audio converter and editor for macOS.</string>
 	<key>Documentation</key>

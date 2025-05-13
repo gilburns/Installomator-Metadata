@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>JetBrains Gateway</string>
 	<key>Description</key>
 	<string>JetBrains Gateway is a productivity-focused tool for macOS users.</string>
 	<key>Documentation</key>

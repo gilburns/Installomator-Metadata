@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Homebrew</string>
 	<key>Description</key>
 	<string>The missing package manager for macOS</string>
 	<key>Documentation</key>

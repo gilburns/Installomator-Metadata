@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TunnelBear</string>
 	<key>Description</key>
 	<string>TunnelBear is a user-friendly VPN service for protecting your online privacy and bypassing censorship.</string>
 	<key>Documentation</key>

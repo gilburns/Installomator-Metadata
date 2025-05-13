@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Eight Voice</string>
 	<key>Description</key>
 	<string>Eight Voice is a software for macOS that provides advanced vocal processing and synthesis capabilities.</string>
 	<key>Documentation</key>

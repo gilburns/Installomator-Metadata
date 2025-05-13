@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Smartsheet</string>
 	<key>Description</key>
 	<string>Smartsheet is a software as a service (SaaS) offering for collaboration and work management. It is used to assign tasks, track project progress, manage calendars, share documents, and manage other work, using a tabular user interface.</string>
 	<key>Documentation</key>

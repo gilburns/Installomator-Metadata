@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Webex</string>
 	<key>Description</key>
 	<string>Webex by Cisco is the leading enterprise solution for video conferencing, online meetings, screen share, and webinars. Web conferencing, cloud calling, and equipment.</string>
 	<key>Documentation</key>

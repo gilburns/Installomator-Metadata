@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>IGV</string>
 	<key>Description</key>
 	<string>Interactive Genomics Viewer (IGV) is a high-performance visualization tool for interactive exploration of large, integrated biological datasets.</string>
 	<key>Documentation</key>

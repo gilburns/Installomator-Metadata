@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Telegram</string>
 	<key>Description</key>
 	<string>Telegram Desktop is a fast and secure desktop app that is perfectly synced with your mobile phone. It allows you to send and receive messages, photos, videos, and files of any type (doc, zip, mp3, etc.), as well as create groups for up to 200,000 people or channels for broadcasting to unlimited audiences.</string>
 	<key>Documentation</key>

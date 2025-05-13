@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SC Menu</string>
 	<key>Description</key>
 	<string>SC Menu is a menu bar utility app for macOS that allows users to quickly access and manage their screen capture tools.</string>
 	<key>Documentation</key>

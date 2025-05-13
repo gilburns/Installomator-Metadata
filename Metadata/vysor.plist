@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Vysor</string>
 	<key>Description</key>
 	<string>Vysor is a screen mirroring app for macOS that allows users to control their Android devices from their computer.</string>
 	<key>Documentation</key>

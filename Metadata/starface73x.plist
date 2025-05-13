@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>STARFACE</string>
 	<key>Description</key>
 	<string>VoIP and UC software for macOS</string>
 	<key>Documentation</key>

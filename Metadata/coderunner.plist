@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CodeRunner</string>
 	<key>Description</key>
 	<string>CodeRunner is a lightweight and versatile text editor and IDE for macOS that supports multiple programming languages.</string>
 	<key>Documentation</key>

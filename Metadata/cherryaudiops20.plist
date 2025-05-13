@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PS-20</string>
 	<key>Description</key>
 	<string>PS-20 is a cutting-edge software application for project management and collaboration.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zipwhip</string>
 	<key>Description</key>
 	<string>Zipwhip is a messaging platform that allows users to send and receive SMS messages from their computer or mobile device.</string>
 	<key>Documentation</key>

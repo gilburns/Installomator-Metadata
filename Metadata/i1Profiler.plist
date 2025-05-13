@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>i1Profiler</string>
 	<key>Description</key>
 	<string>Professional color profiling software for accurate color calibration of monitors and printers</string>
 	<key>Documentation</key>

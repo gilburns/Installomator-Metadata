@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Grammarly Desktop</string>
 	<key>Description</key>
 	<string>Grammarly Desktop is a writing assistant tool for macOS users.</string>
 	<key>Documentation</key>

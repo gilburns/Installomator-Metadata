@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Pareto Security</string>
 	<key>Description</key>
 	<string>Pareto Security is a comprehensive cybersecurity solution for protecting websites and online applications.</string>
 	<key>Documentation</key>

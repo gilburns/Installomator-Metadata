@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Workplace Chat</string>
 	<key>Description</key>
 	<string>Workplace Chat is a messaging and collaboration tool designed for teams to communicate and work together.</string>
 	<key>Documentation</key>

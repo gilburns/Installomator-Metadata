@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sublime Merge</string>
 	<key>Description</key>
 	<string>Sublime Merge is a Git client with a powerful feature set.</string>
 	<key>Documentation</key>

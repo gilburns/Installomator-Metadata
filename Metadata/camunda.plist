@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Camunda Modeler</string>
 	<key>Description</key>
 	<string>Camunda Modeler is a desktop application for modeling BPMN and DMN workflows.</string>
 	<key>Documentation</key>

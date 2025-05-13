@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Beam Studio</string>
 	<key>Description</key>
 	<string>Beam Studio is a software application for macOS designed for 3D printing and laser engraving.</string>
 	<key>Documentation</key>

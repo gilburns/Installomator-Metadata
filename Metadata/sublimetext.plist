@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sublime Text</string>
 	<key>Description</key>
 	<string>A sophisticated text editor used for code, markup, and prose</string>
 	<key>Documentation</key>

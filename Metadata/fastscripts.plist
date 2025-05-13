@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>FastScripts</string>
 	<key>Description</key>
 	<string>FastScripts is a utility for macOS that provides keyboard shortcuts to help you run scripts and automate tasks.</string>
 	<key>Documentation</key>

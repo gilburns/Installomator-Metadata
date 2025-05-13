@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SteelSeries GG</string>
 	<key>Description</key>
 	<string>SteelSeries GG is a macOS software for customizing SteelSeries gaming peripherals.</string>
 	<key>Documentation</key>

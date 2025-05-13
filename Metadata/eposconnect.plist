@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>EPOS Connect</string>
 	<key>Description</key>
 	<string>Software for managing EPOS systems remotely</string>
 	<key>Documentation</key>

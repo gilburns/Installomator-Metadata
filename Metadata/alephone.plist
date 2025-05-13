@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Aleph One</string>
 	<key>Description</key>
 	<string>Aleph One is an open-source first-person shooter game engine for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>EverWeb</string>
 	<key>Description</key>
 	<string>EverWeb is a user-friendly website builder for macOS.</string>
 	<key>Documentation</key>

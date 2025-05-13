@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Harmony SASE</string>
 	<key>Description</key>
 	<string>Harmony SASE is a secure access service edge software for macOS.</string>
 	<key>Documentation</key>

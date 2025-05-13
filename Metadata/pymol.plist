@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PyMOL</string>
 	<key>Description</key>
 	<string>PyMOL is a molecular visualization software used for viewing and analyzing molecular structures.</string>
 	<key>Documentation</key>

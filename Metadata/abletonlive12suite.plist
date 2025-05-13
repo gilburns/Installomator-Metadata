@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ableton Live 12 Suite</string>
 	<key>Description</key>
 	<string>Professional music production software with advanced features and tools.</string>
 	<key>Documentation</key>

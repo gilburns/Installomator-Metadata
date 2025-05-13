@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>XeroxPhaser</string>
 	<key>Description</key>
 	<string>XeroxPhaser is a software for managing Xerox printers and scanners.</string>
 	<key>Documentation</key>

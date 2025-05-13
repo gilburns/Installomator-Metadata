@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Freeplane</string>
 	<key>Description</key>
 	<string>Freeplane is a free and open-source software for mind mapping and brainstorming.</string>
 	<key>Documentation</key>

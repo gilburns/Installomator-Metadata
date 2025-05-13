@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>nodejs</string>
 	<key>Description</key>
 	<string>Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.</string>
 	<key>Documentation</key>

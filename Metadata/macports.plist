@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MacPorts</string>
 	<key>Description</key>
 	<string>MacPorts is a package management tool for macOS.</string>
 	<key>Documentation</key>

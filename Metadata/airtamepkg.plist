@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Airtame</string>
 	<key>Description</key>
 	<string>Airtame creates a simpler, smarter and more engaging shared screen experience, offering subscription-based solutions for hybrid conferencing, screen sharing and digital signage.</string>
 	<key>Documentation</key>

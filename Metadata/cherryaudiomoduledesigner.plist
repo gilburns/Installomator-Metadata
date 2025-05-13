@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Voltage Module Designer</string>
 	<key>Description</key>
 	<string>A software tool for designing voltage modules on macOS platform.</string>
 	<key>Documentation</key>

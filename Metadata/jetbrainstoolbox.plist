@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>JetBrains Toolbox</string>
 	<key>Description</key>
 	<string>JetBrains Toolbox contains 15+ cutting-edge tools that have been developed by JetBrains over the last 19 years to help developers work effectively with different languages and technologies.</string>
 	<key>Documentation</key>

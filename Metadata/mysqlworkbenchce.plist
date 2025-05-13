@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MySQLWorkbench</string>
 	<key>Description</key>
 	<string>MySQLWorkbench is a visual database design tool that integrates SQL development tasks.</string>
 	<key>Documentation</key>

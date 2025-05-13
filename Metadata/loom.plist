@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Loom</string>
 	<key>Description</key>
 	<string>Loom is a video messaging tool that allows you to create and share videos instantly. You can record your camera, microphone, and desktop screen simultaneously and share your video through Loom’s patented technology.</string>
 	<key>Documentation</key>

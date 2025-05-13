@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Processing</string>
 	<key>Description</key>
 	<string>Processing is an open-source programming language and environment for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>STARFACE UCC Client</string>
 	<key>Description</key>
 	<string>STARFACE UCC Client is a unified communications and collaboration client for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Visual Studio Code</string>
 	<key>Description</key>
 	<string>Visual Studio Code is a lightweight but powerful source code editor for macOS.</string>
 	<key>Documentation</key>

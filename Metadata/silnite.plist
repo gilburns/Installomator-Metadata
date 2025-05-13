@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>silnite</string>
 	<key>Description</key>
 	<string>Silnite is a software tool for macOS that helps users organize and manage their digital files efficiently.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Remote Help</string>
 	<key>Description</key>
 	<string>Microsoft Remote Help for macOS provides remote assistance and troubleshooting solutions.</string>
 	<key>Documentation</key>

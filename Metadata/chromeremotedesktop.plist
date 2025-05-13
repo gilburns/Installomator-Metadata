@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>chromeremotedesktop</string>
 	<key>Description</key>
 	<string>Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser.</string>
 	<key>Documentation</key>

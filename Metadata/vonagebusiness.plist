@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Vonage Business</string>
 	<key>Description</key>
 	<string>The Vonage Business Communications (VBC) Desktop App unifies calling, messaging, video conferencing and business applications to improve customer engagement and boost employee productivity using one integrated communications platform.</string>
 	<key>Documentation</key>

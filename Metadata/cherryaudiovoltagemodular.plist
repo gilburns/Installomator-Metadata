@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Voltage Modular</string>
 	<key>Description</key>
 	<string>Voltage Modular is a virtual modular synthesizer software for music production.</string>
 	<key>Documentation</key>

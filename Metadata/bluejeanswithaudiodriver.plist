@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>BlueJeans</string>
 	<key>Description</key>
 	<string>BlueJeans is a video conferencing platform for macOS.</string>
 	<key>Documentation</key>

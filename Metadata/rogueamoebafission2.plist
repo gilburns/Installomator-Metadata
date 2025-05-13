@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Fission</string>
 	<key>Description</key>
 	<string>Fission is an open-source framework for serverless functions on Kubernetes.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ableton Live 12 Trial</string>
 	<key>Description</key>
 	<string>Ableton Live 12 Trial is a digital audio workstation software for music production and live performance.</string>
 	<key>Documentation</key>

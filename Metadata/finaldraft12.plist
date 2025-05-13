@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Final Draft 12</string>
 	<key>Description</key>
 	<string>Final Draft 12 is a popular screenwriting software used by professionals and beginners alike.</string>
 	<key>Documentation</key>

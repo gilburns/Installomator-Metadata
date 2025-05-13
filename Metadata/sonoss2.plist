@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sonos</string>
 	<key>Description</key>
 	<string>Sonos is a wireless smart speaker system that streams music throughout your home.</string>
 	<key>Documentation</key>

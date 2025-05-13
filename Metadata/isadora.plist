@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Isadora</string>
 	<key>Description</key>
 	<string>Real-time interactive media manipulation software for live performance and installation art.</string>
 	<key>Documentation</key>

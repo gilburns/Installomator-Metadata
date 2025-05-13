@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>FontExplorer X Pro</string>
 	<key>Description</key>
 	<string>Font management software for macOS users.</string>
 	<key>Documentation</key>

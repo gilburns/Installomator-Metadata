@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ClickShare</string>
 	<key>Description</key>
 	<string>Wirelessly share content from your laptop to the room display and easily connect to the room cameras, mics and speakers. For easy wireless one-click collaboration. Smart, intent-based meeting flows  powered by the ClickShare App make hybrid meetings intuitive and  stress-free.</string>
 	<key>Documentation</key>

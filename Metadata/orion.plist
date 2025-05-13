@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Orion</string>
 	<key>Description</key>
 	<string>Orion is a powerful data visualization tool for businesses and individuals.</string>
 	<key>Documentation</key>

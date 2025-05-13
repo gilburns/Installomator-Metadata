@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>InstallomatorMate</string>
 	<key>Description</key>
 	<string>A tool for managing and customizing Installomator scripts.</string>
 	<key>Documentation</key>

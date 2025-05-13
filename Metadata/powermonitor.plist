@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Power Monitor</string>
 	<key>Description</key>
 	<string>Power Monitor is a utility tool for macOS that helps users monitor power consumption and battery health.</string>
 	<key>Documentation</key>

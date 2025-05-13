@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hubstaff</string>
 	<key>Description</key>
 	<string>Time tracking and productivity software for macOS.</string>
 	<key>Documentation</key>

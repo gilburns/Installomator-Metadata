@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>FontBase</string>
 	<key>Description</key>
 	<string>FontBase is a font manager and viewer for macOS.</string>
 	<key>Documentation</key>

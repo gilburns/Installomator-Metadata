@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Element</string>
 	<key>Description</key>
 	<string>Element is a productivity app designed to enhance team collaboration and communication.</string>
 	<key>Documentation</key>

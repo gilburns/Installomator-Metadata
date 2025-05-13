@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Autodesk Fusion 360 Admin Install</string>
 	<key>Description</key>
 	<string>Autodesk Fusion 360 Admin Install is a software utility for bulk installation and configuration of Autodesk Fusion 360 software across multiple computers.</string>
 	<key>Documentation</key>

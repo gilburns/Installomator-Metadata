@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Okta Verify</string>
 	<key>Description</key>
 	<string>Okta Verify is a multi-factor authentication app for macOS.</string>
 	<key>Documentation</key>

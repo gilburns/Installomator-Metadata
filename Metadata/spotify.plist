@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Spotify</string>
 	<key>Description</key>
 	<string>Music streaming service offering a vast library of tracks and personalized playlists.</string>
 	<key>Documentation</key>

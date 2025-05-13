@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Aftermath</string>
 	<key>Description</key>
 	<string>Aftermath is a software tool for data analysis and visualization.</string>
 	<key>Documentation</key>

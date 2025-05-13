@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>macOSLAPS</string>
 	<key>Description</key>
 	<string>macOS Local Administrator Password Solution (LAPS) for managing local admin account passwords</string>
 	<key>Documentation</key>

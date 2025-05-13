@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SQLPro for Postgres</string>
 	<key>Description</key>
 	<string>SQLPro for Postgres is a powerful PostgreSQL database management tool for macOS.</string>
 	<key>Documentation</key>

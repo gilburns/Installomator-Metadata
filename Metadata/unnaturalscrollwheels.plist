@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UnnaturalScrollWheels</string>
 	<key>Description</key>
 	<string>Customize scroll wheel behavior on your computer for a smoother experience.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zoho WorkDrive TrueSync</string>
 	<key>Description</key>
 	<string>Zoho WorkDrive TrueSync is a file synchronization tool for macOS.</string>
 	<key>Documentation</key>

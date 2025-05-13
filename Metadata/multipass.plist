@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>multipass</string>
 	<key>Description</key>
 	<string>Multipass provides a CLI to launch and manage VMs on macOS.</string>
 	<key>Documentation</key>

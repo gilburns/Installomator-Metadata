@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Namirial Sign</string>
 	<key>Description</key>
 	<string>Namirial Sign is a digital signature solution for secure document signing.</string>
 	<key>Documentation</key>

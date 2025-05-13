@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Solovox</string>
 	<key>Description</key>
 	<string>Solovox is a music composer and editor software for macOS.</string>
 	<key>Documentation</key>

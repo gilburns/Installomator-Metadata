@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OneDrive</string>
 	<key>Description</key>
 	<string>OneDrive is a file hosting and synchronization service operated by Microsoft.</string>
 	<key>Documentation</key>

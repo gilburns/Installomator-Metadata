@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>BetterDisplay</string>
 	<key>Description</key>
 	<string>BetterDisplay is a user-friendly software for enhancing display settings.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>elasticvue</string>
 	<key>Description</key>
 	<string>Elasticsearch web UI client with an open-source Vue.js framework</string>
 	<key>Documentation</key>

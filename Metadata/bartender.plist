@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Bartender 4</string>
 	<key>Description</key>
 	<string>Bartender 4 is a macOS utility that helps users organize and customize menu bar icons.</string>
 	<key>Documentation</key>

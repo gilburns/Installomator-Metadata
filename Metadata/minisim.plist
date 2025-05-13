@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Minisim</string>
 	<key>Description</key>
 	<string>Minisim is a simulation software for macOS.</string>
 	<key>Documentation</key>

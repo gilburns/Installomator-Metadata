@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>KeyShot</string>
 	<key>Description</key>
 	<string>KeyShot is a real-time rendering software that creates high-quality visuals and animations.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TeamViewer</string>
 	<key>Description</key>
 	<string>TeamViewer is proprietary software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.</string>
 	<key>Documentation</key>

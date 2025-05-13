@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Fantastical</string>
 	<key>Description</key>
 	<string>Fantastical is a popular calendar and scheduling app for macOS.</string>
 	<key>Documentation</key>

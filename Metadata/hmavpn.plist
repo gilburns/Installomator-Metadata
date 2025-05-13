@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>HMA-VPN</string>
 	<key>Description</key>
 	<string>HMA-VPN is a virtual private network software for macOS.</string>
 	<key>Documentation</key>

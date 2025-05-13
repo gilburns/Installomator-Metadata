@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Privileges</string>
 	<key>Description</key>
 	<string>Privileges software provides secure access control management for sensitive information.</string>
 	<key>Documentation</key>

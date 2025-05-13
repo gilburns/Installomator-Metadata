@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Fork</string>
 	<key>Description</key>
 	<string>Fork is a fast and friendly Git client for macOS.</string>
 	<key>Documentation</key>

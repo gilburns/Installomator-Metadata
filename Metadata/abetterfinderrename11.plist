@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>A Better Finder Rename 11</string>
 	<key>Description</key>
 	<string>A Better Finder Rename 11 is a powerful file renaming tool for macOS users.</string>
 	<key>Documentation</key>

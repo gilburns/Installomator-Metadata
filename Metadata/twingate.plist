@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Twingate</string>
 	<key>Description</key>
 	<string>Twingate is a cloud-based service that provides a secure alternative to traditional VPNs (Virtual Private Networks).</string>
 	<key>Documentation</key>

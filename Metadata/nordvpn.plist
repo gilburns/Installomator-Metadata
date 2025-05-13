@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>NordVPN</string>
 	<key>Description</key>
 	<string>NordVPN is a popular Virtual Private Network (VPN) service that helps protect your internet connection and privacy online. It encrypts your data, hides your IP address, and allows you to use public Wi-Fi safely.</string>
 	<key>Documentation</key>

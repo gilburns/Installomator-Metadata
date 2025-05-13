@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Placeit</string>
 	<key>Description</key>
 	<string>Placeit is a web-based design tool for creating mockups, logos, videos, and designs easily.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Brave Browser</string>
 	<key>Description</key>
 	<string>Brave is a privacy-focused browser, which automatically blocks online advertisements and website trackers in its default settings.</string>
 	<key>Documentation</key>

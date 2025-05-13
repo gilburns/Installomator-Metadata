@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Lucifer</string>
 	<key>Description</key>
 	<string>Open-source tool for log management and analysis</string>
 	<key>Documentation</key>

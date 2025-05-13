@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Glip</string>
 	<key>Description</key>
 	<string>Glip is a collaboration platform for teams that offers messaging, file sharing, task management, and video conferencing features.</string>
 	<key>Documentation</key>

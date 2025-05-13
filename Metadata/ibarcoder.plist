@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>iBarcoder</string>
 	<key>Description</key>
 	<string>iBarcoder is a barcode generator and label maker software.</string>
 	<key>Documentation</key>

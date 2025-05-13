@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Google Ads Editor</string>
 	<key>Description</key>
 	<string>Google Ads Editor is a free, offline application that lets you work on your Google Ads campaigns.</string>
 	<key>Documentation</key>

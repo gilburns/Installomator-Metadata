@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>4K Video Downloader+</string>
 	<key>Description</key>
 	<string>4K Video Downloader+ is an enhanced version of the popular 4K Video Downloader app. It allows users to download high-quality videos, audio, and subtitles from various platforms.</string>
 	<key>Documentation</key>

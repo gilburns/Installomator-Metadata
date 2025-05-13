@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sonic Visualiser</string>
 	<key>Description</key>
 	<string>Sonic Visualiser is an application for viewing and analyzing audio files.</string>
 	<key>Documentation</key>

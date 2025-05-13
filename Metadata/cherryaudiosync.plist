@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cherry Audio Sync</string>
 	<key>Description</key>
 	<string>Cherry Audio Sync is a macOS application for synchronizing data.</string>
 	<key>Documentation</key>

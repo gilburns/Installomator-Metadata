@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Gyazo</string>
 	<key>Description</key>
 	<string>Capture, edit, and share screenshots and GIFs effortlessly.</string>
 	<key>Documentation</key>

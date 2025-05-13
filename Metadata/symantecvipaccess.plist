@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VIP Access</string>
 	<key>Description</key>
 	<string>VIP Access is a security app that provides strong authentication for online accounts.</string>
 	<key>Documentation</key>

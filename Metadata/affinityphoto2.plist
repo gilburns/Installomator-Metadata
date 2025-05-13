@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Affinity Photo 2</string>
 	<key>Description</key>
 	<string>Affinity Photo 2 is a powerful photo editing software with advanced features.</string>
 	<key>Documentation</key>

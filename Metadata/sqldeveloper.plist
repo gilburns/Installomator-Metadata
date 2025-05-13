@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SQLDeveloper</string>
 	<key>Description</key>
 	<string>SQLDeveloper is a powerful integrated development environment for Oracle Database on macOS.</string>
 	<key>Documentation</key>

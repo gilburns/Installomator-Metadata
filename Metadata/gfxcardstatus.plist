@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>gfxCardStatus</string>
 	<key>Description</key>
 	<string>Monitor and control GPU usage on macOS systems.</string>
 	<key>Documentation</key>

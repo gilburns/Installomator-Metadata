@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DYMO Connect</string>
 	<key>Description</key>
 	<string>DYMO Connect for Desktop software allows you to quickly create and print labels.</string>
 	<key>Documentation</key>

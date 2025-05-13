@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Java SE Development Kit 20</string>
 	<key>Description</key>
 	<string>Java SE Development Kit 20 for macOS is a software development kit provided by Oracle for building applications in Java programming language.</string>
 	<key>Documentation</key>

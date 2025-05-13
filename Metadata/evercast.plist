@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Evercast</string>
 	<key>Description</key>
 	<string>Evercast is a real-time collaboration platform for content creators.</string>
 	<key>Documentation</key>

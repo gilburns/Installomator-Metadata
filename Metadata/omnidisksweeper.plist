@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OmniDiskSweeper</string>
 	<key>Description</key>
 	<string>OmniDiskSweeper is a macOS utility that helps users free up disk space by identifying large files and folders.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Duo Desktop</string>
 	<key>Description</key>
 	<string>Duo Desktop is a secure multi-factor authentication tool for desktop applications.</string>
 	<key>Documentation</key>

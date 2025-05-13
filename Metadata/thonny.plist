@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Thonny</string>
 	<key>Description</key>
 	<string>Thonny is a Python IDE for beginners that aims to provide a simple and clean interface for learning programming.</string>
 	<key>Documentation</key>

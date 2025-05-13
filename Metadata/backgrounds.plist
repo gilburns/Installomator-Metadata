@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Backgrounds</string>
 	<key>Description</key>
 	<string>Backgrounds is a software that provides high-quality desktop wallpapers for macOS users.</string>
 	<key>Documentation</key>

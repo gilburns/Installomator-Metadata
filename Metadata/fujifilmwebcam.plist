@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>FUJIFILM X Webcam 2</string>
 	<key>Description</key>
 	<string>FUJIFILM X Webcam 2 is a software for macOS that allows Fujifilm cameras to be used as a webcam for online video conferencing.</string>
 	<key>Documentation</key>

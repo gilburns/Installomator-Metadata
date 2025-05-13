@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>STARFACE</string>
 	<key>Description</key>
 	<string>Unified communications (UC) solution for businesses.</string>
 	<key>Documentation</key>

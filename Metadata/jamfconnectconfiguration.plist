@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Jamf Connect Configuration</string>
 	<key>Description</key>
 	<string>Jamf Connect Configuration is a software tool for managing authentication and account provisioning for macOS devices.</string>
 	<key>Documentation</key>

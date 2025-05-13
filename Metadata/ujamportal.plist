@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UJAM</string>
 	<key>Description</key>
 	<string>UJAM is a virtual instrument plug-in for macOS designed for music production.</string>
 	<key>Documentation</key>

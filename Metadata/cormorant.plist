@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cormorant</string>
 	<key>Description</key>
 	<string>Cormorant is a productivity software for macOS.</string>
 	<key>Documentation</key>

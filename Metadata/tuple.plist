@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tuple</string>
 	<key>Description</key>
 	<string>Tuple is a high-performance collaboration app for pair programming on macOS.</string>
 	<key>Documentation</key>

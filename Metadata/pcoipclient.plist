@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PCoIPClient</string>
 	<key>Description</key>
 	<string>PCoIPClient is a client software for macOS to connect to PCoIP remote workstations or virtual desktops.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sipgate CLINQ</string>
 	<key>Description</key>
 	<string>Sipgate CLINQ is a communication software for macOS.</string>
 	<key>Documentation</key>

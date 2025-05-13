@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Poll Everywhere</string>
 	<key>Description</key>
 	<string>https://www.polleverywhere.com/how-it-works</string>
 	<key>Documentation</key>

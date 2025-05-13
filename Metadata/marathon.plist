@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Classic Marathon</string>
 	<key>Description</key>
 	<string>Classic Marathon is a digital version of the well-known endurance race game for macOS.</string>
 	<key>Documentation</key>

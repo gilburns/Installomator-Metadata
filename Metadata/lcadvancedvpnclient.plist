@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>LANCOM Advanced VPN Client</string>
 	<key>Description</key>
 	<string>LANCOM Advanced VPN Client is a software for secure remote access to corporate networks.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>BackgroundMusic</string>
 	<key>Description</key>
 	<string>Control the volume of different apps and background noise on macOS.</string>
 	<key>Documentation</key>

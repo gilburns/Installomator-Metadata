@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MASV</string>
 	<key>Description</key>
 	<string>MASV is a fast and reliable file transfer service for macOS users.</string>
 	<key>Documentation</key>

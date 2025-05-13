@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Podman Desktop</string>
 	<key>Description</key>
 	<string>Podman Desktop is an open-source tool for managing pods, containers, and container images on your desktop.</string>
 	<key>Documentation</key>

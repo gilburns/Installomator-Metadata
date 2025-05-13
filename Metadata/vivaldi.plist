@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Vivaldi</string>
 	<key>Description</key>
 	<string>Your browser matters. Vivaldi is a new browser with unrivaled customization and control. Fast, secure and flexible – this is a browser made for you.</string>
 	<key>Documentation</key>

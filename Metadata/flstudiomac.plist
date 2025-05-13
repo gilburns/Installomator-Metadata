@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>flstudiomac</string>
 	<key>Description</key>
 	<string>FL Studio is a popular digital audio workstation (DAW) for Mac users.</string>
 	<key>Documentation</key>

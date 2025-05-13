@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Aviatrix VPN Client</string>
 	<key>Description</key>
 	<string>Aviatrix VPN Client is a software application for macOS that allows users to securely connect to VPN networks.</string>
 	<key>Documentation</key>

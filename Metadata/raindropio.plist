@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Raindrop.io</string>
 	<key>Description</key>
 	<string>Raindrop.io is a bookmark manager for macOS that helps you organize and save online content.</string>
 	<key>Documentation</key>

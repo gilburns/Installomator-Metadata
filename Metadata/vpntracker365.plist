@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VPN Tracker 365</string>
 	<key>Description</key>
 	<string>VPN Tracker 365 is a powerful VPN client for macOS with secure connections and advanced features.</string>
 	<key>Documentation</key>

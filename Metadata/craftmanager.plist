@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CraftManager</string>
 	<key>Description</key>
 	<string>CraftManager is a macOS application for managing and organizing craft projects.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GDevelop 5</string>
 	<key>Description</key>
 	<string>GDevelop 5 is an open-source, cross-platform 2D game engine designed for novices and indie developers.</string>
 	<key>Documentation</key>

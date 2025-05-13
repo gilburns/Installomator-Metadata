@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sequel Pro</string>
 	<key>Description</key>
 	<string>Sequel Pro is a fast, easy-to-use macOS application for working with MySQL databases.</string>
 	<key>Documentation</key>

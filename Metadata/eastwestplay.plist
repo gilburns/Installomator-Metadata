@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Play</string>
 	<key>Description</key>
 	<string>Play is a versatile software for creating, sharing, and modifying multimedia content.</string>
 	<key>Documentation</key>

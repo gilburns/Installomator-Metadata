@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DBeaver</string>
 	<key>Description</key>
 	<string>DBeaver is free and open source universal database tool for developers and database administrators.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Balsamiq Wireframes</string>
 	<key>Description</key>
 	<string>Balsamiq Wireframes is a wireframing tool for macOS.</string>
 	<key>Documentation</key>

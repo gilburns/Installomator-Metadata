@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Keybase</string>
 	<key>Description</key>
 	<string>Keybase is a secure messaging and file-sharing platform that provides end-to-end encryption for communication and data storage.</string>
 	<key>Documentation</key>

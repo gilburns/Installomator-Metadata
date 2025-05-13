@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hyper</string>
 	<key>Description</key>
 	<string>Hyper is a terminal emulator built with web technologies.</string>
 	<key>Documentation</key>

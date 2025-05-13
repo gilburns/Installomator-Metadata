@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MacPass</string>
 	<key>Description</key>
 	<string>Password manager for macOS</string>
 	<key>Documentation</key>

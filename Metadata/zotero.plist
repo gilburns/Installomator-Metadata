@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zotero</string>
 	<key>Description</key>
 	<string>Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research</string>
 	<key>Documentation</key>

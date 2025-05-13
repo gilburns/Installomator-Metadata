@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PS-3300</string>
 	<key>Description</key>
 	<string>PS-3300 is a software application for macOS used for managing and organizing tasks.</string>
 	<key>Documentation</key>

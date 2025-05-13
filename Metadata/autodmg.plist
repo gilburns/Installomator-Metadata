@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AutoDMG</string>
 	<key>Description</key>
 	<string>AutoDMG is a macOS application that creates deployable system images for Mac computers.</string>
 	<key>Documentation</key>

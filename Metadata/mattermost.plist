@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mattermost</string>
 	<key>Description</key>
 	<string>Mattermost is a secure collaboration platform for connecting your teams, tools and processes to accelerate mission-critical work.</string>
 	<key>Documentation</key>

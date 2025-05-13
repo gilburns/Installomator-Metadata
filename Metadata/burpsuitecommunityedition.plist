@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Burp Suite Community Edition</string>
 	<key>Description</key>
 	<string>Burp Suite Community Edition is an intercepting proxy for web application security testing.</string>
 	<key>Documentation</key>

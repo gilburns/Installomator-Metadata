@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VFX Suite</string>
 	<key>Description</key>
 	<string>VFX Suite is a comprehensive set of plugins designed for visual effects and motion graphics in macOS environments.</string>
 	<key>Documentation</key>

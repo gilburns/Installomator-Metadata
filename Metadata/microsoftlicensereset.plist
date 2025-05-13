@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft License Reset</string>
 	<key>Description</key>
 	<string>Microsoft License Reset tool for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Firefox</string>
 	<key>Description</key>
 	<string>Web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.</string>
 	<key>Documentation</key>

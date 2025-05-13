@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Pacifist</string>
 	<key>Description</key>
 	<string>Pacifist is a macOS application that allows you to browse and extract files from package installers.</string>
 	<key>Documentation</key>

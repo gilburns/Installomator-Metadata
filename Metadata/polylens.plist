@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Poly Lens</string>
 	<key>Description</key>
 	<string>Poly Lens Desktop is an application designed to enhance the functionality of Poly devices, such as headsets, cameras, and speakers.</string>
 	<key>Documentation</key>

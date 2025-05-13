@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft PowerPoint</string>
 	<key>Description</key>
 	<string>Presentation software for macOS from Microsoft.</string>
 	<key>Documentation</key>

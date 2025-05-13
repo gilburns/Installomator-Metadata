@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cursor</string>
 	<key>Description</key>
 	<string>Cursor is an intelligent AI Code Editor that helps developers write, debug, and optimize code more efficiently.</string>
 	<key>Documentation</key>

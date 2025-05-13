@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ApacheDirectoryStudio</string>
 	<key>Description</key>
 	<string>Apache Directory Studio is a complete directory tooling platform intended to be used with any LDAP server.</string>
 	<key>Documentation</key>

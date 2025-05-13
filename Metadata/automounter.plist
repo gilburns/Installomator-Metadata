@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AutoMounter</string>
 	<key>Description</key>
 	<string>AutoMounter is a macOS application that automatically mounts network shares.</string>
 	<key>Documentation</key>

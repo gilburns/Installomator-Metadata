@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mercury-4</string>
 	<key>Description</key>
 	<string>Mercury-4 is a powerful software platform for data analysis and visualization.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RustDesk</string>
 	<key>Description</key>
 	<string>RustDesk is an open-source remote control alternative designed for self-hosting and security. It allows you to access remote computers, provide support, and collaborate online.</string>
 	<key>Documentation</key>

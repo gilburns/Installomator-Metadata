@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GLPI-agent</string>
 	<key>Description</key>
 	<string>An agent software for GLPI asset management system on macOS</string>
 	<key>Documentation</key>

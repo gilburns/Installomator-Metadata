@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Netiquette</string>
 	<key>Description</key>
 	<string>Netiquette is a macOS application for managing and optimizing network settings.</string>
 	<key>Documentation</key>

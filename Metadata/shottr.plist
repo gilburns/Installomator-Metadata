@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Shottr</string>
 	<key>Description</key>
 	<string>Screenshot tool for macOS with advanced editing features</string>
 	<key>Documentation</key>

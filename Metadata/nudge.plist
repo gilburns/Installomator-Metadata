@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Nudge</string>
 	<key>Description</key>
 	<string>Nudge is a multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates.</string>
 	<key>Documentation</key>

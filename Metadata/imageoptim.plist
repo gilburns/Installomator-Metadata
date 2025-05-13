@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>imageoptim</string>
 	<key>Description</key>
 	<string>ImageOptim is a tool that compresses images to reduce file size without losing quality.</string>
 	<key>Documentation</key>

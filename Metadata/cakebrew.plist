@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cakebrew</string>
 	<key>Description</key>
 	<string>Cakebrew is a GUI app for Homebrew on macOS.</string>
 	<key>Documentation</key>

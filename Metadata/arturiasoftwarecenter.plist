@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Arturia Software Center</string>
 	<key>Description</key>
 	<string>Arturia Software Center is a platform for managing and installing Arturia software products.</string>
 	<key>Documentation</key>

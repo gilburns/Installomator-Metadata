@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Jump Desktop</string>
 	<key>Description</key>
 	<string>Remote desktop application for macOS</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Flux</string>
 	<key>Description</key>
 	<string>Flux is a software application for macOS that adjusts the color temperature of your screen based on the time of day.</string>
 	<key>Documentation</key>

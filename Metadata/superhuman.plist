@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>superhuman</string>
 	<key>Description</key>
 	<string>Superhuman is a high-performance email client for macOS.</string>
 	<key>Documentation</key>

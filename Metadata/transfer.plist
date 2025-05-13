@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Transfer</string>
 	<key>Description</key>
 	<string>Transfer is a file sharing software application.</string>
 	<key>Documentation</key>

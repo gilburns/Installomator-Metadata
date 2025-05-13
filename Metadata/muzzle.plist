@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Muzzle</string>
 	<key>Description</key>
 	<string>Muzzle is a macOS app that automatically silences embarrassing notifications during screen sharing.</string>
 	<key>Documentation</key>

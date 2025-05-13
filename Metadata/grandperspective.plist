@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GrandPerspective</string>
 	<key>Description</key>
 	<string>Disk usage utility that helps visualize disk space usage on macOS.</string>
 	<key>Documentation</key>

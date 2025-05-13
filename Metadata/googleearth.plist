@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Google Earth Pro</string>
 	<key>Description</key>
 	<string>Google Earth is a geospatial software application that displays a virtual globe, which offers the ability to analyze and capture geographical data. Google Earth Pro uses the same imagery as the free version of Google Earth.</string>
 	<key>Documentation</key>

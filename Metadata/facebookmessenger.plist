@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Messenger</string>
 	<key>Description</key>
 	<string>Messenger for macOS is a chat application for sending messages and making video calls.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Prism 9</string>
 	<key>Description</key>
 	<string>Prism 9 is a scientific graphing and data analysis software.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SceneBuilder</string>
 	<key>Description</key>
 	<string>SceneBuilder is a visual layout tool for building JavaFX application user interfaces.</string>
 	<key>Documentation</key>

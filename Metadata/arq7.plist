@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Arq7</string>
 	<key>Description</key>
 	<string>Arq7 is a backup software for macOS and Windows with file encryption and cloud storage support.</string>
 	<key>Documentation</key>

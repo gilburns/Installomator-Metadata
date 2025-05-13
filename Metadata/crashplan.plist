@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CrashPlan</string>
 	<key>Description</key>
 	<string>The CrashPlan app is a cloud backup solution designed to protect your data by automatically and continuously backing up files from your devices. It's used by both individuals and businesses to ensure that important data is securely stored and easily recoverable in case of data loss.</string>
 	<key>Documentation</key>

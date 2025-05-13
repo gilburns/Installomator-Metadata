@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Default Folder X</string>
 	<key>Description</key>
 	<string>Enhances Open and Save dialog boxes on macOS.</string>
 	<key>Documentation</key>

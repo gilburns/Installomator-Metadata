@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>calibre</string>
 	<key>Description</key>
 	<string>E-book management software for macOS</string>
 	<key>Documentation</key>

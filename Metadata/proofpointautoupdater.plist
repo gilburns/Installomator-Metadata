@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Proofpoint Auto Updater</string>
 	<key>Description</key>
 	<string>Proofpoint Auto Updater is a macOS software tool for automatic updates of Proofpoint security products.</string>
 	<key>Documentation</key>

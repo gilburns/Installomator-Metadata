@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Dialog</string>
 	<key>Description</key>
 	<string>Dialog is a visual interface editor for macOS applications.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Camtasia 2019</string>
 	<key>Description</key>
 	<string>Camtasia is a software suite, created and published by TechSmith, for creating video tutorials and presentations directly via screencast, or via a direct recording plug-in to Microsoft PowerPoint.</string>
 	<key>Documentation</key>

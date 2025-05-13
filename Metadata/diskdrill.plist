@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Disk Drill</string>
 	<key>Description</key>
 	<string>Disk Drill is a data recovery software for Windows and macOS.</string>
 	<key>Documentation</key>

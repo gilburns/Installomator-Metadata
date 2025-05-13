@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SysEx Librarian</string>
 	<key>Description</key>
 	<string>SysEx Librarian is a Mac application for sending and receiving SysEx messages for MIDI devices.</string>
 	<key>Documentation</key>

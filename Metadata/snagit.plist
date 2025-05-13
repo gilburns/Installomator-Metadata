@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Snagit 2024</string>
 	<key>Description</key>
 	<string>Snagit 2024 is a powerful screen capture and editing software.</string>
 	<key>Documentation</key>

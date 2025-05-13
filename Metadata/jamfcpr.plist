@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>jamfcpr</string>
 	<key>Description</key>
 	<string>Jamf Connect Password Reset (JamfCPR) simplifies and centralizes password-reset workflows for users on Jamf-managed macOS devices.</string>
 	<key>Documentation</key>

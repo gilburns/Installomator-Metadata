@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>RODE Central</string>
 	<key>Description</key>
 	<string>RODE Central is a software application for macOS that facilitates the management of RODE devices.</string>
 	<key>Documentation</key>

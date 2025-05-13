@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Scroll Reverser</string>
 	<key>Description</key>
 	<string>Customizable macOS utility to reverse the direction of scrolling</string>
 	<key>Documentation</key>

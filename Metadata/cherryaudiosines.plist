@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Sines</string>
 	<key>Description</key>
 	<string>Sines is a software application for generating and analyzing sine waves.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ExifRenamer</string>
 	<key>Description</key>
 	<string>A tool for batch renaming image files based on Exif metadata</string>
 	<key>Documentation</key>

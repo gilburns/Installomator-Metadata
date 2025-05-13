@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VMware Horizon Client</string>
 	<key>Description</key>
 	<string>VMware Horizon Client is software that establishes a connection between endpoint devices and Horizon View virtual desktops and applications.</string>
 	<key>Documentation</key>

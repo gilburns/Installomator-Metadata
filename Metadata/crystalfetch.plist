@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CrystalFetch</string>
 	<key>Description</key>
 	<string>CrystalFetch is a macOS software tool for fetching and displaying crystal clear images.</string>
 	<key>Documentation</key>

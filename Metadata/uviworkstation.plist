@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UVIWorksation</string>
 	<key>Description</key>
 	<string>UVIWorkstation is a powerful sample player and multi-timbral instrument for macOS.</string>
 	<key>Documentation</key>

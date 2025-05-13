@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TeXShop</string>
 	<key>Description</key>
 	<string>TeXShop is a LaTeX editor and previewer for macOS.</string>
 	<key>Documentation</key>

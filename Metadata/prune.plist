@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Prune</string>
 	<key>Description</key>
 	<string>Prune is a software tool for optimizing and cleaning up data sets.</string>
 	<key>Documentation</key>

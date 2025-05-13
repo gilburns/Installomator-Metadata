@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OBS</string>
 	<key>Description</key>
 	<string>Free and open source software for video recording and live streaming.</string>
 	<key>Documentation</key>

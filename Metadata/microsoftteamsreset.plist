@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Teams Reset</string>
 	<key>Description</key>
 	<string>Microsoft Teams Reset tool to troubleshoot issues on macOS.</string>
 	<key>Documentation</key>

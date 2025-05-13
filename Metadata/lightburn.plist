@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>LightBurn</string>
 	<key>Description</key>
 	<string>LightBurn is a layout, editing, and control software for laser cutters and engravers.</string>
 	<key>Documentation</key>

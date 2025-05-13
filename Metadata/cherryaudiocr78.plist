@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CR-78</string>
 	<key>Description</key>
 	<string>CR-78 is a drum machine and rhythm programmer produced by Roland Corporation in the late 1970s.</string>
 	<key>Documentation</key>

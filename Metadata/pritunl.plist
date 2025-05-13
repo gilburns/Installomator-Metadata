@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Pritunl</string>
 	<key>Description</key>
 	<string>OpenVPN based virtual private network (VPN) server</string>
 	<key>Documentation</key>

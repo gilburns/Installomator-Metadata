@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>i-Net Clear Reports Designer</string>
 	<key>Description</key>
 	<string>i-Net Clear Reports Designer is a macOS software for creating and designing clear and concise reports.</string>
 	<key>Documentation</key>

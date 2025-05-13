@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TIDAL</string>
 	<key>Description</key>
 	<string>Streaming service offering high-fidelity music for macOS users.</string>
 	<key>Documentation</key>

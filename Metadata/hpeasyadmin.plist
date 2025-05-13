@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>HP Easy Admin</string>
 	<key>Description</key>
 	<string>HP Easy Admin is a software tool for managing HP printers and MFPs.</string>
 	<key>Documentation</key>

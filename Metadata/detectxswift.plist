@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DetectX Swift</string>
 	<key>Description</key>
 	<string>DetectX Swift is a malware and adware removal tool for macOS.</string>
 	<key>Documentation</key>

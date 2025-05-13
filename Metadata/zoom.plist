@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>zoom.us</string>
 	<key>Description</key>
 	<string>Zoom Meetings for desktop and mobile provides the tools to make every meeting a great one. Focus on your meeting – click record to leave the note taking to Zoom’s auto-generated, searchable transcripts. Share and play videos with full audio and video transmit without uploading the content.</string>
 	<key>Documentation</key>

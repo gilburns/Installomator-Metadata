@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zappy</string>
 	<key>Description</key>
 	<string>Zappy is a productivity tool for macOS that helps users organize their tasks and improve efficiency.</string>
 	<key>Documentation</key>

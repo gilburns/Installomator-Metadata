@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>iMazing Profile Editor</string>
 	<key>Description</key>
 	<string>Manage and create profiles for iMazing config editor on macOS</string>
 	<key>Documentation</key>

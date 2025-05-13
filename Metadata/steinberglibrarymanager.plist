@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Steinberg Library Manager</string>
 	<key>Description</key>
 	<string>Steinberg Library Manager is a software application that organizes and manages audio libraries on macOS.</string>
 	<key>Documentation</key>

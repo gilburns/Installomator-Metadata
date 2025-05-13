@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>WhatRoute</string>
 	<key>Description</key>
 	<string>WhatRoute is a network diagnostic utility for macOS.</string>
 	<key>Documentation</key>

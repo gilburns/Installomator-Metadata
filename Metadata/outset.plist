@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Outset</string>
 	<key>Description</key>
 	<string>Outset is a scripting utility for macOS to run commands during startup, login, and network changes.</string>
 	<key>Documentation</key>

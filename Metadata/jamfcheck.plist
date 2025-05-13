@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>jamfcheck</string>
 	<key>Description</key>
 	<string>A macOS utility tool for checking the system's Jamf management status.</string>
 	<key>Documentation</key>

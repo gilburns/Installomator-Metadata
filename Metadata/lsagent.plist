@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>LsAgent-osx</string>
 	<key>Description</key>
 	<string>LsAgent-osx is a software for macOS that enhances system performance and security.</string>
 	<key>Documentation</key>

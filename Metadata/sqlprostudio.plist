@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SQLPro Studio</string>
 	<key>Description</key>
 	<string>SQLPro Studio is a powerful database management tool for macOS.</string>
 	<key>Documentation</key>

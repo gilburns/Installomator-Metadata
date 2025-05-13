@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>EW Installation Center</string>
 	<key>Description</key>
 	<string>Software for managing and installing EW products.</string>
 	<key>Documentation</key>

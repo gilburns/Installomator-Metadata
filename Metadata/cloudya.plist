@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cloudya</string>
 	<key>Description</key>
 	<string>Cloudya is a cloud-based communication platform for businesses.</string>
 	<key>Documentation</key>

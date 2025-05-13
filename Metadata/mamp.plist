@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MAMP</string>
 	<key>Description</key>
 	<string>MAMP is a free local server environment that allows you to run web applications on macOS.</string>
 	<key>Documentation</key>

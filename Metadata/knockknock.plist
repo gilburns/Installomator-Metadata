@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>KnockKnock</string>
 	<key>Description</key>
 	<string>KnockKnock is a secure messaging software for private communication.</string>
 	<key>Documentation</key>

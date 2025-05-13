@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Platypus</string>
 	<key>Description</key>
 	<string>Platypus is a developer tool for creating macOS applications from scripts.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Plex Media Server</string>
 	<key>Description</key>
 	<string>Plex Media Server is a software that allows you to organize and stream your media library.</string>
 	<key>Documentation</key>

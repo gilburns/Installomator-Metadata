@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Collage</string>
 	<key>Description</key>
 	<string>Collage is a macOS application for creating visually stunning photo collages.</string>
 	<key>Documentation</key>

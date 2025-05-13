@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Opera</string>
 	<key>Description</key>
 	<string>Opera is a web browser for Microsoft Windows, Android, iOS, macOS, and Linux operating systems, developed by Chinese-owned company Opera Software AS.</string>
 	<key>Documentation</key>

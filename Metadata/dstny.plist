@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Dstny</string>
 	<key>Description</key>
 	<string>Dstny is a versatile software for managing tasks and projects efficiently.</string>
 	<key>Documentation</key>

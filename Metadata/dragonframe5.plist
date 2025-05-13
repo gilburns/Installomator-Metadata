@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DragonFrame 5</string>
 	<key>Description</key>
 	<string>DragonFrame 5 is a stop-motion animation software for creating professional-quality animations.</string>
 	<key>Documentation</key>

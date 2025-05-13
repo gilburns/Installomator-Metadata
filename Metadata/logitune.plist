@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>LogiTune</string>
 	<key>Description</key>
 	<string>Logi Tune is designed to enhance your experience with Logitech headsets, webcams, and other devices. It allows you to adjust settings like zoom, field of view, and exposure for webcams, as well as customize audio settings for headsets, such as equalizer preferences and microphone levels.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tableau Reader</string>
 	<key>Description</key>
 	<string>Tableau Reader is used to open and interact with packaged workbooks with extracted data sources that have been created in Tableau Desktop.</string>
 	<key>Documentation</key>

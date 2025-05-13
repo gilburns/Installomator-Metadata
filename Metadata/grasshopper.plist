@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Grasshopper</string>
 	<key>Description</key>
 	<string>Grasshopper is a Mac productivity app for learning to code through fun, interactive lessons.</string>
 	<key>Documentation</key>

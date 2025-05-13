@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Inkscape</string>
 	<key>Description</key>
 	<string>Open-source vector graphics editor for creating scalable graphic designs</string>
 	<key>Documentation</key>

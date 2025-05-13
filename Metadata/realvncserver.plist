@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Real VNC Server</string>
 	<key>Description</key>
 	<string>Real VNC Server is a remote desktop software for macOS.</string>
 	<key>Documentation</key>

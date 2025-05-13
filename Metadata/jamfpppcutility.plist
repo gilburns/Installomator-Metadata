@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PPPC Utility</string>
 	<key>Description</key>
 	<string>PPPC Utility is a tool for managing Privacy Preferences Policy Control on macOS systems.</string>
 	<key>Documentation</key>

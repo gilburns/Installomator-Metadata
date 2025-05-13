@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Canva</string>
 	<key>Description</key>
 	<string>Canva is a free graphic design tool that lets you create visual materials like flyers, posters, presentations, and videos using templates, images, and a drag and drop interface.</string>
 	<key>Documentation</key>

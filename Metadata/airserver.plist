@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AirServer</string>
 	<key>Description</key>
 	<string>AirServer is the most advanced screen mirroring receiver for Mac and PC. It allows you to receive AirPlay, Google Cast and Miracast streams, similar to an Apple TV or a Chromecast device.</string>
 	<key>Documentation</key>

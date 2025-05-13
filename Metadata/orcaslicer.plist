@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OrcaSlicer</string>
 	<key>Description</key>
 	<string>OrcaSlicer is a powerful tool for 3D printing enthusiasts to prepare, slice, and print their models with ease.</string>
 	<key>Documentation</key>

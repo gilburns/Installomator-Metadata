@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Debookee</string>
 	<key>Description</key>
 	<string>Debookee is a network traffic analyzer and packet sniffer for macOS.</string>
 	<key>Documentation</key>

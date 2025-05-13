@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Lexar Recovery Tool</string>
 	<key>Description</key>
 	<string>Data recovery tool for macOS developed by Lexar.</string>
 	<key>Documentation</key>

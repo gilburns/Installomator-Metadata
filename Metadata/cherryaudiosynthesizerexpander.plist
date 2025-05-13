@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Synthesizer Expander Module</string>
 	<key>Description</key>
 	<string>A software module for expanding synthesizer capabilities on macOS.</string>
 	<key>Documentation</key>

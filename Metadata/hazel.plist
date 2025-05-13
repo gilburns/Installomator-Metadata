@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hazel</string>
 	<key>Description</key>
 	<string>Hazel is a personal automation for macOS that keeps your files organized.</string>
 	<key>Documentation</key>

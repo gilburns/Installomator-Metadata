@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>JASP</string>
 	<key>Description</key>
 	<string>JASP is a user-friendly statistical software for conducting and interpreting statistical analyses.</string>
 	<key>Documentation</key>

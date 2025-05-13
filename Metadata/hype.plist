@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hype4</string>
 	<key>Description</key>
 	<string>Hype4 is a powerful HTML5 animation builder for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Polymode Synthesizer</string>
 	<key>Description</key>
 	<string>Polymode Synthesizer is a versatile music production software with advanced synthesis capabilities.</string>
 	<key>Documentation</key>

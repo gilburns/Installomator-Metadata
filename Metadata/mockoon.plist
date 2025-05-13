@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mockoon</string>
 	<key>Description</key>
 	<string>Mockoon is a lightweight tool to develop and test APIs, supporting macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Processing</string>
 	<key>Description</key>
 	<string>Processing is a flexible software sketchbook for learning and creating interactive visual art.</string>
 	<key>Documentation</key>

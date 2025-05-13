@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Suspicious Package</string>
 	<key>Description</key>
 	<string>Suspicious Package is a macOS app for examining macOS installer packages.</string>
 	<key>Documentation</key>

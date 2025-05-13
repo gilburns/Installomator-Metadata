@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Resilio Sync</string>
 	<key>Description</key>
 	<string>Resilio Sync is a fast and secure file synchronization solution for individuals and businesses.</string>
 	<key>Documentation</key>

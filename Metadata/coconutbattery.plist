@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>coconutBattery</string>
 	<key>Description</key>
 	<string>Displays live information about the battery in your Apple device.</string>
 	<key>Documentation</key>

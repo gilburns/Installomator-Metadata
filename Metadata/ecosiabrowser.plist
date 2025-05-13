@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ecosia Browser</string>
 	<key>Description</key>
 	<string>Ecosia Browser is a privacy-focused web browser that plants trees with its ad revenue.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Duet</string>
 	<key>Description</key>
 	<string>Duet is a software that allows you to use your iPad as a second display for your macOS device.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zoho WorkDrive Genie</string>
 	<key>Description</key>
 	<string>Zoho WorkDrive Genie is a productivity tool for file management and collaboration.</string>
 	<key>Documentation</key>

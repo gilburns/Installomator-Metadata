@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mist</string>
 	<key>Description</key>
 	<string>Mist is a productivity tool for macOS users.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Android File Transfer</string>
 	<key>Description</key>
 	<string>Transfer files between your Android device and Mac computer.</string>
 	<key>Documentation</key>

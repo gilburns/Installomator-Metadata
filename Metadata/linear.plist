@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Linear</string>
 	<key>Description</key>
 	<string>Linear is a modern productivity tool for project management.</string>
 	<key>Documentation</key>

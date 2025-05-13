@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>iTerm</string>
 	<key>Description</key>
 	<string>iTerm is a terminal emulator for macOS.</string>
 	<key>Documentation</key>

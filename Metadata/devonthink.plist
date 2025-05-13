@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DEVONthink 3</string>
 	<key>Description</key>
 	<string>DEVONthink 3 is a powerful document and information management software for macOS users.</string>
 	<key>Documentation</key>

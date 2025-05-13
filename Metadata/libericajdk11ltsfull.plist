@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Liberica JDK 11 LTS Full</string>
 	<key>Description</key>
 	<string>Liberica JDK is a TCK-verified 100 % open source progressive Java runtime from a major OpenJDK contributor. Liberica JDK supports an extensive range of system configurations and runs seamlessly in multiple virtual and cloud environments.</string>
 	<key>Documentation</key>

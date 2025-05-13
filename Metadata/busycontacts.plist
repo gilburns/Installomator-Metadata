@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>BusyContacts</string>
 	<key>Description</key>
 	<string>Contacts management software for Mac users.</string>
 	<key>Documentation</key>

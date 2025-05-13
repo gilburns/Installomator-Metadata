@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DeepL</string>
 	<key>Description</key>
 	<string>DeepL is a popular online translation service.</string>
 	<key>Documentation</key>

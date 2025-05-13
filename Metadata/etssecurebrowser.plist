@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ETS Secure Browser</string>
 	<key>Description</key>
 	<string>Secure browser for macOS used for high-stakes exams and assessments.</string>
 	<key>Documentation</key>

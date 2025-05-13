@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Novachord</string>
 	<key>Description</key>
 	<string>Virtual analog synthesizer software for macOS.</string>
 	<key>Documentation</key>

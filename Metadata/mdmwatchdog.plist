@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Addigy MDM Watchdog</string>
 	<key>Description</key>
 	<string>Addigy MDM Watchdog is a monitoring tool for macOS devices managed by Addigy MDM.</string>
 	<key>Documentation</key>

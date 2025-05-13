@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Zeplin</string>
 	<key>Description</key>
 	<string>Zeplin is a design collaboration tool for macOS users.</string>
 	<key>Documentation</key>

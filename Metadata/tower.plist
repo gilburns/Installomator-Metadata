@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tower</string>
 	<key>Description</key>
 	<string>Tower is a powerful Git client for Mac and Windows.</string>
 	<key>Documentation</key>

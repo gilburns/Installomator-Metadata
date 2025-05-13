@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Java SE Development Kit 19</string>
 	<key>Description</key>
 	<string>Java SE Development Kit 19 is a software development kit for building applications in the Java programming language, version 19.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>P5</string>
 	<key>Description</key>
 	<string>P5 macOS is a robust backup software for data protection and disaster recovery.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>TaskPaper</string>
 	<key>Description</key>
 	<string>TaskPaper is a plain text to-do list manager for macOS.</string>
 	<key>Documentation</key>

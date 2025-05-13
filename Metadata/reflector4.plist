@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Reflector 4</string>
 	<key>Description</key>
 	<string>Screen mirroring and recording software for macOS.</string>
 	<key>Documentation</key>

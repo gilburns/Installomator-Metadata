@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Harmony 24 Premium</string>
 	<key>Description</key>
 	<string>Harmony 24 Premium is a comprehensive software suite for professional music production and audio editing.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GPG Sync</string>
 	<key>Description</key>
 	<string>GPG Sync is a tool for syncing GPG keys on macOS devices.</string>
 	<key>Documentation</key>

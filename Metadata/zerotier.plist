@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ZeroTier%20One</string>
 	<key>Description</key>
 	<string>ZeroTier One is a lightweight virtual Ethernet switch that allows for encrypted peer-to-peer communication.</string>
 	<key>Documentation</key>

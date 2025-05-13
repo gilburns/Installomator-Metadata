@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Packages</string>
 	<key>Description</key>
 	<string>A package manager for macOS that simplifies installing, updating, and managing software packages.</string>
 	<key>Documentation</key>

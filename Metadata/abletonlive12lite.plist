@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ableton Live 12 Lite</string>
 	<key>Description</key>
 	<string>Ableton Live 12 Lite is a music production software for macOS.</string>
 	<key>Documentation</key>

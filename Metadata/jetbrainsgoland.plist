@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GoLand</string>
 	<key>Description</key>
 	<string>GoLand is an easy-to-use integrated development environment (IDE) designed for the Go programming language. GoLand has tools for database management, front-end design, validation, and diagnostics.</string>
 	<key>Documentation</key>

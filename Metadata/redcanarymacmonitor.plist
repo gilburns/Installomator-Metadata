@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Red Canary Mac Monitor</string>
 	<key>Description</key>
 	<string>Red Canary Mac Monitor is a macOS software for advanced threat detection and response.</string>
 	<key>Documentation</key>

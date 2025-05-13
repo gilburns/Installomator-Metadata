@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MonitorControl</string>
 	<key>Description</key>
 	<string>MonitorControl is a software tool for macOS that allows users to control their external monitors</string>
 	<key>Documentation</key>

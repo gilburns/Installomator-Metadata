@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tableau Desktop</string>
 	<key>Description</key>
 	<string>With Tableau Desktop, you can connect to a variety of data sources and start visualising data.</string>
 	<key>Documentation</key>

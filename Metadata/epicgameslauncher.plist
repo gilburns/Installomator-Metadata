@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Epic Games Launcher</string>
 	<key>Description</key>
 	<string>The Epic Games Launcher is a digital distribution platform developed by Epic Games. It allows you to download and manage video games and software.</string>
 	<key>Documentation</key>

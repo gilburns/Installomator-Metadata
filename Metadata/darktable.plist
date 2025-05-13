@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>darktable</string>
 	<key>Description</key>
 	<string>An open source photography workflow application and raw developer</string>
 	<key>Documentation</key>

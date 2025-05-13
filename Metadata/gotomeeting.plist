@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GoToMeeting</string>
 	<key>Description</key>
 	<string>GoToMeeting is a web-hosted service created and marketed by LogMeIn. It is an online meeting, desktop sharing, and video conferencing software package that enables the user to meet with other computer users, customers, clients or colleagues via the Internet in real time.</string>
 	<key>Documentation</key>

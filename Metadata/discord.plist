@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Discord</string>
 	<key>Description</key>
 	<string>Discord is a communication platform for macOS users to chat, call, and collaborate with friends and communities.</string>
 	<key>Documentation</key>

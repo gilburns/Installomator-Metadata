@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>STARFACE</string>
 	<key>Description</key>
 	<string>STARFACE is a communications software for businesses that offers a comprehensive solution for IP telephony, video conferencing, and messaging.</string>
 	<key>Documentation</key>

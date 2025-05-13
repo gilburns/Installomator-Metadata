@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Adobe Creative Cloud</string>
 	<key>Description</key>
 	<string>Creative Cloud is a suite of software and services for graphic design, video editing, web development, and photography.</string>
 	<key>Documentation</key>

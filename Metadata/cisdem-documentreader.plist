@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>cisdem-documentreader</string>
 	<key>Description</key>
 	<string>Cisdem DocumentReader is a versatile document viewing application for macOS.</string>
 	<key>Documentation</key>

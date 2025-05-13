@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Druva inSync</string>
 	<key>Description</key>
 	<string>Druva inSync is a comprehensive data protection and governance solution for macOS devices.</string>
 	<key>Documentation</key>

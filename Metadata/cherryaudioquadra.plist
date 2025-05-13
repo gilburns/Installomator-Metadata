@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Quadra</string>
 	<key>Description</key>
 	<string>Quadra is a versatile productivity software for macOS users.</string>
 	<key>Documentation</key>

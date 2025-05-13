@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>MicrosoftSharePointPlugin</string>
 	<key>Description</key>
 	<string>Plugin to integrate Microsoft SharePoint with macOS systems</string>
 	<key>Documentation</key>

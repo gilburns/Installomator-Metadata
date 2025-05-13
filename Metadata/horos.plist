@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Horos</string>
 	<key>Description</key>
 	<string>Horos is an open-source medical image viewer for macOS.</string>
 	<key>Documentation</key>

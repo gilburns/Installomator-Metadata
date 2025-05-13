@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Bitwig Studio</string>
 	<key>Description</key>
 	<string>Bitwig Studio is a professional digital audio workstation with innovative features for music production, performance, and sound design.</string>
 	<key>Documentation</key>

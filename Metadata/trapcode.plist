@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Trapcode Suite</string>
 	<key>Description</key>
 	<string>Trapcode Suite is a set of plugins for creating motion graphics and visual effects in Adobe After Effects.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ApE</string>
 	<key>Description</key>
 	<string>Aplikasi Pendukung Eksperimentasi (ApE) is a free plasmid map drawing software for macOS.</string>
 	<key>Documentation</key>

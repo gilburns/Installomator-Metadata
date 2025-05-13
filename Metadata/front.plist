@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Front</string>
 	<key>Description</key>
 	<string>Front is a collaborative inbox for teams that combines emails, SMS, and chat in one workspace.</string>
 	<key>Documentation</key>

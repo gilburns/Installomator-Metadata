@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Elgato Camera Hub</string>
 	<key>Description</key>
 	<string>Elgato Camera Hub is designed to optimize and enhance video capturing using Elgato webcams. It provides extensive customization options to improve the quality of your live broadcasts or recordings.</string>
 	<key>Documentation</key>

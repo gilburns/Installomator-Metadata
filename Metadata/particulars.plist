@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string>net.glencode.Particulars</string>
+	<key>AppName</key>
+	<string>Particulars</string>
 	<key>Description</key>
 	<string>Particulars displays system information about your Mac, including computer name, model, CPU/SoC, RAM, OS version, and network configuration.</string>
 	<key>Documentation</key>

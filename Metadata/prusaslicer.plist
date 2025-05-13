@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PrusaSlicer</string>
 	<key>Description</key>
 	<string>PrusaSlicer is a powerful slicer software for 3D printing that offers advanced features and customization options.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Adium</string>
 	<key>Description</key>
 	<string>Open-source instant messaging client for macOS.</string>
 	<key>Documentation</key>

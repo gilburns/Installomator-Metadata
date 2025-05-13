@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Slack</string>
 	<key>Description</key>
 	<string>Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.</string>
 	<key>Documentation</key>

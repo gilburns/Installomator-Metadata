@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>LaunchControl</string>
 	<key>Description</key>
 	<string>LaunchControl is a powerful launchd(8) frontend for macOS.</string>
 	<key>Documentation</key>

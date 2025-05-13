@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SD Notary</string>
 	<key>Description</key>
 	<string>SD Notary is a macOS application for digitally signing documents.</string>
 	<key>Documentation</key>

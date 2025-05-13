@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GX-80</string>
 	<key>Description</key>
 	<string>Advanced video editing software with customizable effects and transitions</string>
 	<key>Documentation</key>

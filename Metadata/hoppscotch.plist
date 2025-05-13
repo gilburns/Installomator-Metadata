@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hoppscotch</string>
 	<key>Description</key>
 	<string>A free, fast, and beautiful API request builder</string>
 	<key>Documentation</key>

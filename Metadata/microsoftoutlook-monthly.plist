@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Outlook</string>
 	<key>Description</key>
 	<string>Email and personal information manager application by Microsoft.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>QLab</string>
 	<key>Description</key>
 	<string>Live show control for entertainment professions</string>
 	<key>Documentation</key>

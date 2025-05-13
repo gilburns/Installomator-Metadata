@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>IK Product Manager</string>
 	<key>Description</key>
 	<string>IK Product Manager is a software for managing and organizing music production tools and plugins on macOS.</string>
 	<key>Documentation</key>

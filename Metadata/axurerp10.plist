@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Axure RP 10</string>
 	<key>Description</key>
 	<string>Axure RP 10 is a comprehensive tool for UX professionals, designed to create realistic, functional prototypes, specifications, and diagrams.</string>
 	<key>Documentation</key>

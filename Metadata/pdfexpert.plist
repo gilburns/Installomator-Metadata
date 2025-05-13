@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PDF Expert</string>
 	<key>Description</key>
 	<string>PDF Expert is a powerful PDF editor and reader for macOS.</string>
 	<key>Documentation</key>

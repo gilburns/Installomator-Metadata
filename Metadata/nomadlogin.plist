@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>NoMAD Login</string>
 	<key>Description</key>
 	<string>NoMAD Login is a macOS utility for managing Active Directory logins and user accounts.</string>
 	<key>Documentation</key>

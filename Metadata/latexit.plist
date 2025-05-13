@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>LaTeXiT</string>
 	<key>Description</key>
 	<string>LaTeXiT is a macOS app for creating LaTeX equations and graphics in other applications.</string>
 	<key>Documentation</key>

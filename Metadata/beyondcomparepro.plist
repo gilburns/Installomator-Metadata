@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Beyond Compare</string>
 	<key>Description</key>
 	<string>Beyond Compare is a powerful file and folder comparison tool for macOS.</string>
 	<key>Documentation</key>

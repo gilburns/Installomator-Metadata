@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SoapUI</string>
 	<key>Description</key>
 	<string>SoapUI is a powerful API testing tool that allows you to test REST and SOAP APIs.</string>
 	<key>Documentation</key>

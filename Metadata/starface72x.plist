@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>STARFACE</string>
 	<key>Description</key>
 	<string>STARFACE is a software application for macOS that provides a unified communications platform.</string>
 	<key>Documentation</key>

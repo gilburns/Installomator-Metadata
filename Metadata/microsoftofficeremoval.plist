@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Office Removal</string>
 	<key>Description</key>
 	<string>Microsoft Office Removal tool for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GoSign-Desktop</string>
 	<key>Description</key>
 	<string>Digital signature software for macOS desktop</string>
 	<key>Documentation</key>

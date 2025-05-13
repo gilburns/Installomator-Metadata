@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>HP Easy Start</string>
 	<key>Description</key>
 	<string>HP Easy Start is a utility software for setting up HP printers on macOS.</string>
 	<key>Documentation</key>

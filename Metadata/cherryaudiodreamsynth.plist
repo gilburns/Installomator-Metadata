@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Dreamsynth</string>
 	<key>Description</key>
 	<string>Dreamsynth is a powerful music synthesizer software for creating electronic music.</string>
 	<key>Documentation</key>

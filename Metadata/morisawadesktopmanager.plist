@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Morisawa Desktop Manager</string>
 	<key>Description</key>
 	<string>Morisawa Desktop Manager is a software for managing and organizing digital fonts on your computer.</string>
 	<key>Documentation</key>

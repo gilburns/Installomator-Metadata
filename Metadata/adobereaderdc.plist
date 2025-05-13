@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Adobe Acrobat Reader</string>
 	<key>Description</key>
 	<string>Adobe Acrobat is a family of application software and Web services developed by Adobe Inc. to view, create, manipulate, print and manage files in Portable Document Format. The family comprises Acrobat Reader, Acrobat and Acrobat.com</string>
 	<key>Documentation</key>

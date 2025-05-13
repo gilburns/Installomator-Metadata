@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VirtualBox</string>
 	<key>Description</key>
 	<string>VirtualBox is a powerful cross-platform virtualization software for x86 and AMD64/Intel64 architectures.</string>
 	<key>Documentation</key>

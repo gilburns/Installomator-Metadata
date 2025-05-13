@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Karabiner-Elements</string>
 	<key>Description</key>
 	<string>Karabiner-Elements is a powerful and stable keyboard customizer for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>WWDC</string>
 	<key>Description</key>
 	<string>WWDC is Apple's annual conference for software developers.</string>
 	<key>Documentation</key>

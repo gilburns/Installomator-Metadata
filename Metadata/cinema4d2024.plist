@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Cinema 4D</string>
 	<key>Description</key>
 	<string>Cinema 4D is a leading 3D animation software for macOS.</string>
 	<key>Documentation</key>

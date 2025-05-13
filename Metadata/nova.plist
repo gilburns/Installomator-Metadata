@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Nova</string>
 	<key>Description</key>
 	<string>Nova is a powerful code editor for macOS users.</string>
 	<key>Documentation</key>

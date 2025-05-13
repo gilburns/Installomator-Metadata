@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Gather</string>
 	<key>Description</key>
 	<string>Gather is a productivity application for macOS that helps users organize their tasks and notes.</string>
 	<key>Documentation</key>

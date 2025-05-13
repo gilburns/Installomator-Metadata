@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Install Google Software Update</string>
 	<key>Description</key>
 	<string>Utility tool for keeping Google software up-to-date on macOS.</string>
 	<key>Documentation</key>

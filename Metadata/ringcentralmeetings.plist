@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ring Central Meetings</string>
 	<key>Description</key>
 	<string>RingCentral Meetings is a video conferencing and online meeting software for macOS.</string>
 	<key>Documentation</key>

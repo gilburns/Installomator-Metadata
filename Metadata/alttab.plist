@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AltTab</string>
 	<key>Description</key>
 	<string>AltTab is a macOS application that enhances the user's ability to switch between open windows.</string>
 	<key>Documentation</key>

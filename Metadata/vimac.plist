@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Vimac</string>
 	<key>Description</key>
 	<string>Vimac is a macOS app that provides keyboard shortcuts to control all aspects of the system.</string>
 	<key>Documentation</key>

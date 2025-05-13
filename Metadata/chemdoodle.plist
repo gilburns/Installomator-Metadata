@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ChemDoodle</string>
 	<key>Description</key>
 	<string>ChemDoodle is a chemical drawing application for macOS.</string>
 	<key>Documentation</key>

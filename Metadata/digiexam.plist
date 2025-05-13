@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Digiexam</string>
 	<key>Description</key>
 	<string>DigiExam is a comprehensive digital exam platform designed to manage the entire exam workflow, from creating and distributing exams to grading and publishing results. It is widely used by schools and universities for both high-stakes and low-stakes exams.</string>
 	<key>Documentation</key>

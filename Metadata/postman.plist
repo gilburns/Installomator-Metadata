@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Postman</string>
 	<key>Description</key>
 	<string>Postman is a free, complete, API development environment application used by organizations worldwide for monitoring APIs, debugging APIs, running automation tests, and recording documentation all under one roof.</string>
 	<key>Documentation</key>

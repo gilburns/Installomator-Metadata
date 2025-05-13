@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Keka</string>
 	<key>Description</key>
 	<string>Advanced macOS file archiver with high compression ratio.</string>
 	<key>Documentation</key>

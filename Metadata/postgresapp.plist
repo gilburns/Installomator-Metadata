@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Postgres</string>
 	<key>Description</key>
 	<string>Postgres is an open source relational database management system for macOS.</string>
 	<key>Documentation</key>

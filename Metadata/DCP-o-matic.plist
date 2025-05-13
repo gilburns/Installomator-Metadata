@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>DCP-o-matic 2</string>
 	<key>Description</key>
 	<string>DCP-o-matic 2 is a digital cinema package (DCP) creation tool for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Mendeley Reference Manager</string>
 	<key>Description</key>
 	<string>Mendeley Reference Manager is a reference management software for macOS.</string>
 	<key>Documentation</key>

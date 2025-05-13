@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>KeyShot12</string>
 	<key>Description</key>
 	<string>KeyShot 12 is a powerful and user-friendly 3D rendering software.</string>
 	<key>Documentation</key>

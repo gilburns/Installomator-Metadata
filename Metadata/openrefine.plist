@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OpenRefine</string>
 	<key>Description</key>
 	<string>OpenRefine is a powerful tool for cleaning and transforming messy data.</string>
 	<key>Documentation</key>

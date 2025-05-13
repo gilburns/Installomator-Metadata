@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Nanosaur</string>
 	<key>Description</key>
 	<string>Nanosaur is a dinosaur-themed action game for macOS.</string>
 	<key>Documentation</key>

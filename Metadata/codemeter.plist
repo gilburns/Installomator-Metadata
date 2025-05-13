@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CodeMeter</string>
 	<key>Description</key>
 	<string>CodeMeter is a software licensing and protection solution for macOS.</string>
 	<key>Documentation</key>

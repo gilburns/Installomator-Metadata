@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Telnet</string>
 	<key>Description</key>
 	<string>Telnet is a network protocol that allows users to communicate with remote computers over a TCP/IP network.</string>
 	<key>Documentation</key>

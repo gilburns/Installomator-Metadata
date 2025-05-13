@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Ice</string>
 	<key>Description</key>
 	<string>Ice is a modern C++ middleware framework.</string>
 	<key>Documentation</key>

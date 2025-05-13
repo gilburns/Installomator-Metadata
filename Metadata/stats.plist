@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Stats</string>
 	<key>Description</key>
 	<string>Stats is a software for analyzing and visualizing data.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Acronis Cyber Protect Connect Agent</string>
 	<key>Description</key>
 	<string>Acronis Cyber Protect Connect Agent is a software for macOS that provides agent-based file protection and cybersecurity management.</string>
 	<key>Documentation</key>

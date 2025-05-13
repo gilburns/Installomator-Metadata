@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SmartGit</string>
 	<key>Description</key>
 	<string>SmartGit is a Git client with support for Gitflow and Pull Requests.</string>
 	<key>Documentation</key>

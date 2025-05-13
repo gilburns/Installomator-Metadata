@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>WebEx Tools Removal</string>
 	<key>Description</key>
 	<string>Tool for completely removing WebEx software from macOS systems</string>
 	<key>Documentation</key>

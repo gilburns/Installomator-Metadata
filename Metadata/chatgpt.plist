@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>ChatGPT</string>
 	<key>Description</key>
 	<string>ChatGPT is an AI-powered chatbot platform for engaging conversations.</string>
 	<key>Documentation</key>

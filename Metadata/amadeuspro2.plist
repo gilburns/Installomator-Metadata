@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Amadeus Pro</string>
 	<key>Description</key>
 	<string>Amadeus Pro is a powerful audio editing software for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Synergy Video Express</string>
 	<key>Description</key>
 	<string>Synergy Video Express is a video editing software for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Pitch</string>
 	<key>Description</key>
 	<string>Pitch is a collaborative presentation software.</string>
 	<key>Documentation</key>

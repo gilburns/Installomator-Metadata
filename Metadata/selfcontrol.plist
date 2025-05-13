@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SelfControl</string>
 	<key>Description</key>
 	<string>SelfControl is a macOS app that helps users block distracting websites to improve productivity.</string>
 	<key>Documentation</key>

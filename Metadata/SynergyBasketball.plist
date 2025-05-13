@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Synergy Basketball</string>
 	<key>Description</key>
 	<string>Synergy Basketball is a software platform for analyzing basketball game data.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>PopSQL</string>
 	<key>Description</key>
 	<string>PopSQL is a collaborative SQL editor for macOS.</string>
 	<key>Documentation</key>

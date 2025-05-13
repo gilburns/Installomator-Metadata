@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>CraftManager</string>
 	<key>Description</key>
 	<string>CraftManager is a tool for managing plugins and mods for the macOS version of the game Minecraft.</string>
 	<key>Documentation</key>

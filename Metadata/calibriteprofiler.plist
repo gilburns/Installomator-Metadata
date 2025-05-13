@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>calibrite PROFILER</string>
 	<key>Description</key>
 	<string>calibrite PROFILER is a software tool for color calibration and profiling of monitors and displays.</string>
 	<key>Documentation</key>

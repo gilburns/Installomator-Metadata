@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>VMware Fusion</string>
 	<key>Description</key>
 	<string>VMware Fusion is a software that allows users to run Windows applications on macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>SuperCollider</string>
 	<key>Description</key>
 	<string>SuperCollider is an environment and programming language for real-time audio synthesis and algorithmic composition.</string>
 	<key>Documentation</key>

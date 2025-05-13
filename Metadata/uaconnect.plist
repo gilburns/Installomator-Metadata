@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>UA Connect</string>
 	<key>Description</key>
 	<string>UA Connect is a platform for seamless communication and collaboration among users.</string>
 	<key>Documentation</key>

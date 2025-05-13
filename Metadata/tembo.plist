@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Tembo</string>
 	<key>Description</key>
 	<string>Tembo is a powerful search tool for macOS, allowing users to quickly find files and applications.</string>
 	<key>Documentation</key>

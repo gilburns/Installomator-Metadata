@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>AutoPkgr</string>
 	<key>Description</key>
 	<string>AutoPkgr is a macOS application that automates the download, packaging, and deployment of software updates.</string>
 	<key>Documentation</key>

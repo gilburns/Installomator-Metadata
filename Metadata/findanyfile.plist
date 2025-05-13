@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Find Any File</string>
 	<key>Description</key>
 	<string>A powerful search tool to locate files and folders on your Mac quickly and efficiently.</string>
 	<key>Documentation</key>

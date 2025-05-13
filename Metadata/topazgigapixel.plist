@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Topaz Gigapixel AI</string>
 	<key>Description</key>
 	<string>Topaz Gigapixel AI is an advanced image upscaling software for macOS.</string>
 	<key>Documentation</key>

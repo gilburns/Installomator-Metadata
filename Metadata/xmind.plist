@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Xmind</string>
 	<key>Description</key>
 	<string>Mind mapping and brainstorming software for macOS.</string>
 	<key>Documentation</key>

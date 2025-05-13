@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Remote Desktop</string>
 	<key>Description</key>
 	<string>Remote desktop software by Microsoft for connecting to remote PCs.</string>
 	<key>Documentation</key>

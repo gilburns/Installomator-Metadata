@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>diskspace</string>
 	<key>Description</key>
 	<string>View and manage disk space usage on macOS system</string>
 	<key>Documentation</key>

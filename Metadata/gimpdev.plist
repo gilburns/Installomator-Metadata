@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GIMP</string>
 	<key>Description</key>
 	<string>GIMP is a free and open-source raster graphics editor used for image editing and retouching.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Lowdown</string>
 	<key>Description</key>
 	<string>Lowdown is a versatile note-taking software for organizing information.</string>
 	<key>Documentation</key>

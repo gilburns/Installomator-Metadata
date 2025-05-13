@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Rhino 8</string>
 	<key>Description</key>
 	<string>Rhino 8 is a popular 3D modeling software for macOS.</string>
 	<key>Documentation</key>

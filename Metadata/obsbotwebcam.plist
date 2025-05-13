@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>OBSBOT_Center</string>
 	<key>Description</key>
 	<string>OBSBOT_Center is a software for macOS that provides control and settings for OBSBOT AI cameras.</string>
 	<key>Documentation</key>

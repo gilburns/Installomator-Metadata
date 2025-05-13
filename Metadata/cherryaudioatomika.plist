@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Atomika</string>
 	<key>Description</key>
 	<string>Atomika is a powerful text editor designed for macOS users.</string>
 	<key>Documentation</key>

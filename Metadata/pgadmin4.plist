@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>pgAdmin 4</string>
 	<key>Description</key>
 	<string>pgAdmin is a free, open-source management and development platform for PostgreSQL databases.</string>
 	<key>Documentation</key>

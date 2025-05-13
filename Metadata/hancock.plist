@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Hancock</string>
 	<key>Description</key>
 	<string>Hancock is a secure digital signature platform for electronic documents.</string>
 	<key>Documentation</key>

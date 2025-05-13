@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Salesforce CLI</string>
 	<key>Description</key>
 	<string>Salesforce CLI is a command-line interface for interacting with Salesforce services.</string>
 	<key>Documentation</key>

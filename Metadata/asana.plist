@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Asana</string>
 	<key>Description</key>
 	<string>Asana is a software as a service (SaaS) platform that allows you to easily manage and organize projects, prioritize tasks, collaborate with teams, and track progress.</string>
 	<key>Documentation</key>

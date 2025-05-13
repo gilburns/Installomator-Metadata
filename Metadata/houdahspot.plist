@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>HoudahSpot</string>
 	<key>Description</key>
 	<string>File search tool for macOS with advanced features</string>
 	<key>Documentation</key>

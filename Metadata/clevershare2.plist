@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Clevershare</string>
 	<key>Description</key>
 	<string>Screen mirroring software for macOS devices.</string>
 	<key>Documentation</key>

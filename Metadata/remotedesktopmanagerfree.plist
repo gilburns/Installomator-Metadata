@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Remote Desktop Manager</string>
 	<key>Description</key>
 	<string>For individual users who don't need to share remote connections and privileged passwords with other IT professionals.</string>
 	<key>Documentation</key>

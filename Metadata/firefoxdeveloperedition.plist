@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Firefox Developer Edition</string>
 	<key>Description</key>
 	<string>Firefox Developer Edition is a web browser for developers by Mozilla.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Topaz Photo AI</string>
 	<key>Description</key>
 	<string>Topaz Photo AI is a powerful image editing software that uses artificial intelligence to enhance and transform photos.</string>
 	<key>Documentation</key>

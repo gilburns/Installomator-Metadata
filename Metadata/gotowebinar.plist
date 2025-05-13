@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>GoTo</string>
 	<key>Description</key>
 	<string>Screen sharing, remote desktop, and online meetings software for macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Podman</string>
 	<key>Description</key>
 	<string>Podman is a tool for managing containers and pods on macOS.</string>
 	<key>Documentation</key>

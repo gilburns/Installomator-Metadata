@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Notion</string>
 	<key>Description</key>
 	<string>Notion is a productivity and note-taking application that offers many organizational tools including task management, project tracking, to-do lists, bookmarking, and more. Users can also create custom templates, embed videos and web content, and collaborate with others in real-time.</string>
 	<key>Documentation</key>

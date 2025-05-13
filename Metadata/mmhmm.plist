@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>mmhmm</string>
 	<key>Description</key>
 	<string>mmhmm is a virtual video presentation software for macOS.</string>
 	<key>Documentation</key>

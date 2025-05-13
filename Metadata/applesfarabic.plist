@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>San Francisco Arabic</string>
 	<key>Description</key>
 	<string>Language translation software for Arabic speakers in San Francisco</string>
 	<key>Documentation</key>
