@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, synchronization, data, Cherry Audio Sync</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.SyncPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

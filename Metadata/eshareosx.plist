@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>file sharing, secure, business, organizations</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.ncryptedcloud.e-Share.pkg</string>
 	<key>Privacy</key>
 	<string>https://www.e-share.com/privacy-policy</string>
 	<key>Publisher</key>

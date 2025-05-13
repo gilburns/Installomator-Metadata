@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Meeting,Video,Zoom,Zoom Meetings,conferencing</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>us.zoom.pkg.videomeeting</string>
 	<key>Privacy</key>
 	<string>https://zoom.us/privacy</string>
 	<key>Publisher</key>

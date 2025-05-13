@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>AD,Active Directory,Email Signature,Xink,Xink Client</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.emailsignature.Xink</string>
 	<key>Privacy</key>
 	<string>https://www.xink.io/privacy-policy/</string>
 	<key>Publisher</key>

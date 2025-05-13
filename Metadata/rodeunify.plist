@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, software, collaboration, communication</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.rodecentral.installer</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

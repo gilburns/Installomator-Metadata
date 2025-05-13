@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, package manager, software management</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.googlecode.munki.core</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

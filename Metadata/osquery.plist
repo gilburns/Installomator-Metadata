@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, security, tool, osquery, SQL</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>io.osquery.agent</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

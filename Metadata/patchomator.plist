@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, patch management, software tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.option8.patchomator</string>
 	<key>Privacy</key>
 	<string></string>
 </dict>

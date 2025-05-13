@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>RODE Connect, software, macOS, communication</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.rodeconnect.installer</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>cloud, synchronization, management, storage</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.oxygen.odrive.installer-prod.pkg</string>
 	<key>Privacy</key>
 	<string>https://www.odrive.com/privacy</string>
 	<key>Publisher</key>

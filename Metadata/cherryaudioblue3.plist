@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music, plugin, organ, digital</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.Blue3Package-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, productivity, application, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.QuadraPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://quadra-privacy.com</string>
 	<key>Publisher</key>

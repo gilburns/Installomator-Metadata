@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>cloud,drive,storage,synchronization</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.google.drivefs.arm64</string>
 	<key>Privacy</key>
 	<string>https://policies.google.com/privacy?hl=en</string>
 	<key>Publisher</key>

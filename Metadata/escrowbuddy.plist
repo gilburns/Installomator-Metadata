@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>escrow, software, macOS, secure</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.netflix.Escrow-Buddy</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

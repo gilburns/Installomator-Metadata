@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Steinberg, Library Manager, macOS, audio, organize, manage</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.steinberg.SteinbergLibraryManager</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Acronis, Cyber Protect, Connect Agent, macOS, file protection, cybersecurity</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.nulana.rxagentmac</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

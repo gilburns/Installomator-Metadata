@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, software, virtual server, organization, management</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.RackmodePackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

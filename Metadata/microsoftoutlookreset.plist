@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Outlook, Microsoft, Reset, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.reset.Outlook</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

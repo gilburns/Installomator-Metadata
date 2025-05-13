@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, task management, organization</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.PS-3300Package-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://ps-3300-privacy-policy.com</string>
 	<key>Publisher</key>

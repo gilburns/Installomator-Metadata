@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, software, Wurlybird 140B</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.Wurlybird140bPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://wurlybird140b.com/privacy-policy</string>
 	<key>Publisher</key>

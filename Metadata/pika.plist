@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, color picker, design, developer, tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.superhighfives.Pika</string>
 	<key>Privacy</key>
 	<string>https://superpixel.ch/projects/pika/privacy</string>
 	<key>Publisher</key>

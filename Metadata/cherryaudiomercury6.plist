@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>task management, macOS, productivity</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.Mercury-6Package-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://www.mercury-6.com/privacy</string>
 	<key>Publisher</key>

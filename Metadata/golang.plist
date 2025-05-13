@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Go,Language,Programming</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.golang.go</string>
 	<key>Privacy</key>
 	<string>https://proxy.golang.org/privacy</string>
 	<key>Publisher</key>

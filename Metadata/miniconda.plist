@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Python, Conda, package manager, installer</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>io.continuum.pkg.prepare_installation io.continuum.pkg.run_installation io.continuum.pkg.pathupdate</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

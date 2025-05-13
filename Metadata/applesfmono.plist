@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>font, monospaced, San Francisco, typeface</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.apple.pkg.SFMonoFonts</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

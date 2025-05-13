@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Cloudflare,VPN,WARP</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cloudflare.1dot1dot1dot1.macos</string>
 	<key>Privacy</key>
 	<string>https://www.cloudflare.com/privacypolicy/</string>
 	<key>Publisher</key>

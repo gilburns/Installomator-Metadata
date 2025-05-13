@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>AWS,Amazon,CLI,Cloud</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.amazon.aws.cli2</string>
 	<key>Privacy</key>
 	<string>https://aws.amazon.com/privacy/</string>
 	<key>Publisher</key>

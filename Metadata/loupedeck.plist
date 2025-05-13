@@ -4,5 +4,7 @@
 <dict>
 	<key>AppName</key>
 	<string>Loupedeck</string>
+	<key>PackageID</key>
+	<string></string>
 </dict>
 </plist>

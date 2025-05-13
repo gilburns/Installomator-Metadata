@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Softube, Central, macOS, plugins</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.softube.com.softubecentral</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

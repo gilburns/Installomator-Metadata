@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>document converter, markup language, macOS, tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>net.johnmacfarlane.pandoc</string>
 	<key>Privacy</key>
 	<string>https://pandoc.org/demo/privacy.html</string>
 	<key>Publisher</key>

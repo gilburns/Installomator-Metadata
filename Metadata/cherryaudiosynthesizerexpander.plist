@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>synthesizer, expander, module, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.SynthesizerExpanderModulePackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Anaconda,Python</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.anaconda.io</string>
 	<key>Privacy</key>
 	<string>https://legal.anaconda.com/policies/?name=privacy-policy</string>
 	<key>Publisher</key>

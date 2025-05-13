@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Browser,Exam</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.safeexambrowser.SafeExamBrowser</string>
 	<key>Privacy</key>
 	<string>https://www.safeexambrowser.org/about_overview_en.html#privacy-statement</string>
 	<key>Publisher</key>

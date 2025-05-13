@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>3D rendering, visualization, design, rendering software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.luxion.pkg.keyshot12.app</string>
 	<key>Privacy</key>
 	<string>https://www.keyshot.com/privacy-policy</string>
 	<key>Publisher</key>

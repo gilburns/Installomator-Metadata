@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Jabra Direct, macOS, software, audio devices</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.jabra.directonline</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

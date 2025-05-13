@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>GPG, Sync, macOS, encryption</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.firstlook.gpgsync</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

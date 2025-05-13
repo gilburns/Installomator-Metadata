@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, software, vocal processing, synthesis</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.EightVoicePackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

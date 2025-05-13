@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music, composer, editor, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.SolovoxPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

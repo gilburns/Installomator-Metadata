@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Microsoft Office, Factory Reset, macOS, settings</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.reset.Factory</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

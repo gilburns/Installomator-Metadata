@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>user, accounts, tool, system</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.freegeek.pkg.mkuser</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

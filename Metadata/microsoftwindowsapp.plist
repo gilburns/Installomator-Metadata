@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Windows, App, Software, Operating system</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.rdc.macos</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

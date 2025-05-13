@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, interface editor, applications</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>au.csiro.dialogcli</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

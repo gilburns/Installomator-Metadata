@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Synology, Assistant, macOS, NAS, management</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.synology.DSAssistant</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

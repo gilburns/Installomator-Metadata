@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Microsoft Teams, reset, macOS, troubleshooting</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.reset.Teams</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

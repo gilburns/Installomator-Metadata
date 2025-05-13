@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>memory, focus, macOS, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.MemorymodePackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://memorymode.com/privacy-policy</string>
 	<key>Publisher</key>

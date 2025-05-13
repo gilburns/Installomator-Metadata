@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Microsoft, OneDrive, Reset, Sync, Reinstall</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.reset.OneDrive</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, software, monitor, display, settings</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.LGSI.OnScreen-Control</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

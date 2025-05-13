@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Synology, Drive, Client, macOS, sync, access</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.synology.CloudStation</string>
 	<key>Privacy</key>
 	<string>https://www.synology.com/en-global/company/legal/privacy</string>
 	<key>Publisher</key>

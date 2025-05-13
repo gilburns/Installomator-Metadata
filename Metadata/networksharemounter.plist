@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>network, share, mount, tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>de.fau.rrze.NetworkShareMounter</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

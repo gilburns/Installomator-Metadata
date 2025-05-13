@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, Addigy, MDM, monitoring, tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.addigy.mdm-watchdog</string>
 	<key>Privacy</key>
 	<string>https://www.addigy.com/privacy/</string>
 	<key>Publisher</key>

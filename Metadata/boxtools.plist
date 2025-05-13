@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Box,BoxTools</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.box.boxtools.installer.boxedit</string>
 	<key>Privacy</key>
 	<string>https://www.box.com/legal/privacypolicy</string>
 	<key>Publisher</key>

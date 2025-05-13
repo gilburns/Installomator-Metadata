@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Development,Python</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.python.Python.PythonFramework-$shortVersion</string>
 	<key>Privacy</key>
 	<string>https://www.python.org/privacy</string>
 	<key>Publisher</key>

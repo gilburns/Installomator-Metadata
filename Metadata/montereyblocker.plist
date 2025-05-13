@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, monterey, blocker, notifications</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>dk.envo-it.montereyblocker</string>
 	<key>Privacy</key>
 	<string></string>
 </dict>

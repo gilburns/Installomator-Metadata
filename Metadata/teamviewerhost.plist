@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>TeamViewer,TeamViewer Host,conferencing,meetings,remote control,sharing</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.teamviewer.teamviewerhost</string>
 	<key>Privacy</key>
 	<string>https://www.teamviewer.com/en-us/privacy-policy/?page_id=23013&amp;Coupon=Pre5TV15&amp;%3F=p</string>
 	<key>Publisher</key>

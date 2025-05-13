@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>UVI, Portal, macOS, libraries, products</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>net.uvi.pkg.uviportal</string>
 	<key>Privacy</key>
 	<string>https://www.uvi.net/en/privacy-policy.html</string>
 	<key>Publisher</key>

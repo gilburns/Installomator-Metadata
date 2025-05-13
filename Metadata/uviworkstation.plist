@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>UVIWorkstation, sample player, multi-timbral instrument, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>net.uvi.pkg.UVIWorkstation.SA</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

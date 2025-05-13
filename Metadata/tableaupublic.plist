@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>data visualization, analytics, charts, dashboards</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.tableausoftware.tableaudesktop</string>
 	<key>Privacy</key>
 	<string>https://www.tableau.com/trust/privacy-policy</string>
 	<key>Publisher</key>

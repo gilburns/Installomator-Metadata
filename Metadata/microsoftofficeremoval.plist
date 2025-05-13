@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Microsoft, Office, Removal, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.remove.Office</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

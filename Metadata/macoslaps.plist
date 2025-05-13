@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, local admin, password management, security</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>edu.psu.macOSLAPS</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

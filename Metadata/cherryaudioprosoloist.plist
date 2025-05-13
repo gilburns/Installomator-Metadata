@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music production, macOS, software, Pro Soloist</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.ProSoloistPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>audio, codec, macOS, tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.eastwest.pkg.OpusInstaller</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

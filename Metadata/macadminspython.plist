@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Python, macOS, automation, management</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.macadmins.python.recommended</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

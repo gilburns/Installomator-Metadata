@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, utility, scripting, startup, login</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>io.macadmins.Outset</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Azul,JDK,Java,Java Development Toolkit,Zulu</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.azulsystems.zulu.23</string>
 	<key>Privacy</key>
 	<string>https://www.azul.com/privacy-policy/</string>
 	<key>Publisher</key>

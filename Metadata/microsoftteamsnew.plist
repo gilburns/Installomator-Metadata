@@ -11,7 +11,7 @@
 	<key>Keywords</key>
 	<string>Teams,calling,conference,meeting,meetings,telecommunications,video chat</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.teams2</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

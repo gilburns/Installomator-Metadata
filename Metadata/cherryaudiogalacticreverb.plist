@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>audio, effects, space, reverb</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.GalacticPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://galacticreverb.com/privacy</string>
 	<key>Publisher</key>

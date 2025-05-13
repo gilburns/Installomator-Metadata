@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Steinberg, Activation, Manager, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.steinberg.activationmanager</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

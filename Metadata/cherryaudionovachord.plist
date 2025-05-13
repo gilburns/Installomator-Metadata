@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music, synthesizer, macOS, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.NovachordPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

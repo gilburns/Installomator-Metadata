@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>backup, software, macOS, Windows, encryption, cloud storage</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.haystacksoftware.Arq</string>
 	<key>Privacy</key>
 	<string>https://www.arqbackup.com/privacy-policy/</string>
 	<key>Publisher</key>

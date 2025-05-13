@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>DisplayLink,USB graphics,display,video</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.displaylink.displaylinkmanagerapp</string>
 	<key>Privacy</key>
 	<string>https://www.displaylink.com/legal/privacy</string>
 	<key>Publisher</key>

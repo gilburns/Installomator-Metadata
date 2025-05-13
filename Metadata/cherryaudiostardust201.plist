@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>tape echo, vintage, plugin, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.Stardust201Package-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

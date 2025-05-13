@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, cloud storage, kDrive</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.infomaniak.drive.desktopclient</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

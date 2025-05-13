@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music, synthesizer, production, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.PolymodePackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://polymode-synthesizer-privacy-policy.com</string>
 	<key>Publisher</key>

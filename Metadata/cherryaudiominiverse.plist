@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Virtual world, Creation, macOS, Software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.MiniversePackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://miniverse.com/privacy</string>
 	<key>Publisher</key>

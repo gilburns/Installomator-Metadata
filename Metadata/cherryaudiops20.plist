@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>project management, collaboration, software, productivity</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.PS-20Package-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://ps-20privacy.com</string>
 	<key>Publisher</key>

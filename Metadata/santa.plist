@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, security, whitelisting, blacklisting</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.google.santa</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

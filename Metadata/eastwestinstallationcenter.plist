@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>installation, EW products, management</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.eastwest.pkg.installationcenter</string>
 	<key>Privacy</key>
 	<string>https://example.com/privacy-policy</string>
 	<key>Publisher</key>

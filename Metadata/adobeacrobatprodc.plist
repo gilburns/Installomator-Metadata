@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Acrobat,Adobe,PDF</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.adobe.acrobat.DC.viewer.app.pkg.MUI</string>
 	<key>Privacy</key>
 	<string>https://www.adobe.com/privacy/policy.html</string>
 	<key>Publisher</key>

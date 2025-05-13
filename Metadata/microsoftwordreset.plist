@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Microsoft Word, Reset, Tool, Settings</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.reset.Word</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

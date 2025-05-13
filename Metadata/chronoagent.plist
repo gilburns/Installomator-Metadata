@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>syncing, utility, Mac, real-time</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.econtechnologies.preference.chronoagent</string>
 	<key>Privacy</key>
 	<string>https://www.econtechnologies.com/privacy/</string>
 	<key>Publisher</key>

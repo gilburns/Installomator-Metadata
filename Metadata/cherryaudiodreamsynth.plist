@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music, synthesizer, electronic, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.DreamsynthPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://dreamsynthprivacy.com</string>
 	<key>Publisher</key>

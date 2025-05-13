@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Elgato,Stream Deck</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.elgato.StreamDeck</string>
 	<key>Privacy</key>
 	<string>https://www.elgato.com/us/en/s/privacy-policy</string>
 	<key>Publisher</key>

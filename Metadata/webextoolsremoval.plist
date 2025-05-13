@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>WebEx, removal tool, macOS, software, uninstall</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.remove.WebExPT</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>data analysis, visualization, software, tool</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.jamf.aftermath</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

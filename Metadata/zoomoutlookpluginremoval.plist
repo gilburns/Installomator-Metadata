@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Zoom, Outlook, Plugin, Removal, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.remove.ZoomPlugin</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

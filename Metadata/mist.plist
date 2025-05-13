@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, productivity, tool, Mist</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.ninxsoft.pkg.mist</string>
 	<key>Privacy</key>
 	<string>https://mist.com/privacy-policy</string>
 	<key>Publisher</key>

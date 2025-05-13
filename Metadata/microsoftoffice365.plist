@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Productivity, Office Suite, macOS, Microsoft, Cloud Computing</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.pkg.licensing</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

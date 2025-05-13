@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, professional, software, San Francisco Pro</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.apple.pkg.SanFranciscoPro</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

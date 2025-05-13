@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>music, composition, production, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.HarmoniaPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string>https://harmoniasoftware.com/privacy-policy</string>
 	<key>Publisher</key>

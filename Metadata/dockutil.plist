@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, dock, management, command line</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>dockutil.cli.tool</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

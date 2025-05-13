@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>virtual-analog, synthesizer, emulation, plugin</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.MG-1PlusPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

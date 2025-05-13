@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, font, collection, design, Apple, New York</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.apple.pkg.NYFonts</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

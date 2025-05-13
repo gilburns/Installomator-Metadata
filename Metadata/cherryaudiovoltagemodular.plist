@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>modular synthesizer, music production, software, virtual instrument</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.VoltageModularPackageUniversal-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

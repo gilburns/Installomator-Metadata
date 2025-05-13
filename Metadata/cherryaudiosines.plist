@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>sine waves, generator, analyzer</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.cherryaudio.pkg.SinesPackage-StandAlone</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

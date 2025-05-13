@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Backup,CrashPlan</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.crashplan.app.pkg</string>
 	<key>Privacy</key>
 	<string>https://www.crashplan.com/privacy/</string>
 	<key>Publisher</key>

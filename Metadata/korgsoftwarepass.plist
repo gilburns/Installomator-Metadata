@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Korg, Software Pass, manage, access, exclusive content</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>jp.co.korg.pkg.korgsoftwarepass</string>
 	<key>Privacy</key>
 	<string>https://www.korg.com/us/support/privacy-policy/</string>
 	<key>Publisher</key>

@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>IriunWebcam, macOS, webcam, iOS, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.iriun.pkg.multicam</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

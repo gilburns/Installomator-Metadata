@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>media, live performance, installation art</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.troikatronix.isadora-fat-std-installer</string>
 	<key>Privacy</key>
 	<string>https://support.troikatronix.com/support/solutions/articles/13000034497-isadora-learn-and-explore</string>
 	<key>Publisher</key>

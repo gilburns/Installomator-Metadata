@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Outlook, data removal, secure, software</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.remove.Outlook.Data</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/outlook-data-removal</string>
 	<key>Publisher</key>

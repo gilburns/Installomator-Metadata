@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>secure, messaging, team communication, macOS</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>eu.teamwire.app</string>
 	<key>Privacy</key>
 	<string>https://www.teamwire.eu/privacy-policy/</string>
 	<key>Publisher</key>

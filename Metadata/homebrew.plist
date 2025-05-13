@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>macOS, package manager, Homebrew</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>sh.brew.homebrew</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>

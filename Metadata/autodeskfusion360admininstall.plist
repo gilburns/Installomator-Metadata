@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Autodesk, Fusion 360, Admin Install, bulk installation, configuration</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.autodesk.edu.fusion360</string>
 	<key>Privacy</key>
 	<string>https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement</string>
 	<key>Publisher</key>
