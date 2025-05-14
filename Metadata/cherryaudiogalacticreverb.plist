@@ -11,11 +11,11 @@
 	<key>Documentation</key>
 	<string>https://galacticreverb.com/docs</string>
 	<key>Keywords</key>
-	<string>audio, effects, space, reverb</string>
+	<string>music, virtual, plugin, software, effects, space, reverb</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.GalacticPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://galacticreverb.com/privacy</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

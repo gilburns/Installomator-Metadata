@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>A powerful and user-friendly virtual world creation software for macOS users.</string>
 	<key>Documentation</key>
-	<string>https://miniverse.com/docs</string>
+	<string>https://store.cherryaudio.com/bundles/miniverse-synthesizer</string>
 	<key>Keywords</key>
-	<string>Virtual world, Creation, macOS, Software</string>
+	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.MiniversePackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://miniverse.com/privacy</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

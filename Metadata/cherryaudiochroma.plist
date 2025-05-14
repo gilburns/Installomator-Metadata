@@ -7,15 +7,15 @@
 	<key>AppName</key>
 	<string>Chroma</string>
 	<key>Description</key>
-	<string>Chroma is a color picker tool for macOS users.</string>
+	<string>The Rhodes Chroma by Cherry Audio synthesizer is a virtual instrument that brings back the spirit and sounds of the iconic Rhodes Chroma polyphonic analog synthesizer from 1982 with the utmost accuracy.</string>
 	<key>Documentation</key>
-	<string>https://www.chroma.com/docs</string>
+	<string>https://store.cherryaudio.com/bundles/chroma-synthesizer</string>
 	<key>Keywords</key>
-	<string>color picker, macOS, tool, utility</string>
+	<string>virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.ChromaPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://www.chroma.com/privacy-policy</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

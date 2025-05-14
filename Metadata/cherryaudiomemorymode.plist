@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Memorymode is a macOS software for enhancing memory and focus.</string>
 	<key>Documentation</key>
-	<string>https://memorymode.com/docs</string>
+	<string>https://store.cherryaudio.com/bundles/memorymode-synthesizer</string>
 	<key>Keywords</key>
-	<string>memory, focus, macOS, software</string>
+	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.MemorymodePackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://memorymode.com/privacy-policy</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

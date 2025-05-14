@@ -11,11 +11,11 @@
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
-	<string>macOS, software, virtual server, organization, management</string>
+	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.RackmodePackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

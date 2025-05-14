@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Pro Soloist is a music production software for macOS with advanced features.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://store.cherryaudio.com/bundles/pro-soloist-synthesizer</string>
 	<key>Keywords</key>
 	<string>music production, macOS, software, Pro Soloist</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.ProSoloistPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

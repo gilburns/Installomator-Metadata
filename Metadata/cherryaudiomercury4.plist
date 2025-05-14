@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Mercury-4 is a powerful software platform for data analysis and visualization.</string>
 	<key>Documentation</key>
-	<string>https://mercury-4-docs.com</string>
+	<string>https://store.cherryaudio.com/bundles/mercury-4-synthesizer</string>
 	<key>Keywords</key>
-	<string>data, analysis, visualization, software</string>
+	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.Mercury-4Package-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://mercury-4-privacy-policy.com</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

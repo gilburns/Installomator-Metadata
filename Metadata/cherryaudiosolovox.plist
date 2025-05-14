@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Solovox is a music composer and editor software for macOS.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://store.cherryaudio.com/bundles/solovox-synthesizer</string>
 	<key>Keywords</key>
 	<string>music, composer, editor, macOS</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.SolovoxPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

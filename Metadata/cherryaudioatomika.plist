@@ -7,15 +7,15 @@
 	<key>AppName</key>
 	<string>Atomika</string>
 	<key>Description</key>
-	<string>Atomika is a powerful text editor designed for macOS users.</string>
+	<string>Atomika is Cherry Audio's painstakingly crafted emulation of the Polivoks synthesizer manufactured at the Formanta Radio Factory between 1982 and 1990.</string>
 	<key>Documentation</key>
-	<string>https://www.atomika.com/docs</string>
+	<string>https://store.cherryaudio.com/bundles/atomika-synthesizer</string>
 	<key>Keywords</key>
-	<string>text editor, macOS, software, Atomika</string>
+	<string>virtual, synthesizer, plugin, software, Atomika</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.AtomikaPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://www.atomika.com/privacy-policy</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

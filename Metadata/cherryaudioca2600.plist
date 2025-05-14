@@ -7,15 +7,15 @@
 	<key>AppName</key>
 	<string>CA2600</string>
 	<key>Description</key>
-	<string>CA2600 is a software for macOS that enhances system security and performance.</string>
+	<string>The Cherry Audio CA2600 is a powerful, self-contained duophonic synthesizer inspired by the groundbreaking ARP 2600 synthesizer.</string>
 	<key>Documentation</key>
-	<string>https://ca2600-software-docs.com</string>
+	<string>https://store.cherryaudio.com/bundles/ca2600-synthesizer</string>
 	<key>Keywords</key>
-	<string>macOS, security, performance, utility</string>
+	<string>virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.CA2600Package-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://ca2600-privacy-policy.com</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

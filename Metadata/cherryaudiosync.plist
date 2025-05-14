@@ -11,11 +11,11 @@
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
-	<string>macOS, synchronization, data, Cherry Audio Sync</string>
+	<string>music, virtual, synthesizer, plugin, synchronization, data, Cherry Audio Sync</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.SyncPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Polymode Synthesizer is a versatile music production software with advanced synthesis capabilities.</string>
 	<key>Documentation</key>
-	<string>https://polymode-synthesizer-docs.com</string>
+	<string>https://store.cherryaudio.com/bundles/polymode-synthesizer</string>
 	<key>Keywords</key>
 	<string>music, synthesizer, production, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.PolymodePackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://polymode-synthesizer-privacy-policy.com</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

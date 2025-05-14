@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Virtual-analog Synthesizer Emulation Plugin</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://store.cherryaudio.com/bundles/surrealistic-mg-1-plus-synthesizer</string>
 	<key>Keywords</key>
 	<string>virtual-analog, synthesizer, emulation, plugin</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.MG-1PlusPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

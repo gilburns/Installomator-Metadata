@@ -7,15 +7,15 @@
 	<key>AppName</key>
 	<string>GX-80</string>
 	<key>Description</key>
-	<string>Advanced video editing software with customizable effects and transitions</string>
+	<string>GX-80 is a transformative virtual synthesizer that combines the unparalleled sound and features of the fabled GX-1 “Dream Machine” and its renowned descendant the CS-80.</string>
 	<key>Documentation</key>
-	<string>https://gx-80docs.com</string>
+	<string>https://store.cherryaudio.com/bundles/gx-80-synthesizer</string>
 	<key>Keywords</key>
-	<string>video editing, effects, transitions, software</string>
+	<string>music, plugin, transitions, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.GX-80Package-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://gx-80privacy.com</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

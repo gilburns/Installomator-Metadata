@@ -15,7 +15,7 @@
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.Stardust201Package-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

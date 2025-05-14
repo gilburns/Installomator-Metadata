@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Virtual analog synthesizer software for macOS.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://store.cherryaudio.com/bundles/novachord-synthesizer</string>
 	<key>Keywords</key>
 	<string>music, synthesizer, macOS, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.NovachordPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

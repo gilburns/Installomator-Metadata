@@ -11,11 +11,11 @@
 	<key>Documentation</key>
 	<string></string>
 	<key>Keywords</key>
-	<string>Voltage, Module, Designer, macOS</string>
+	<string>Voltage, Module, Designer, music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.VoltageModuleDesigner</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

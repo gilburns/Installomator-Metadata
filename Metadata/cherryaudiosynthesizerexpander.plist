@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>A software module for expanding synthesizer capabilities on macOS.</string>
 	<key>Documentation</key>
-	<string>https://developer.apple.com/documentation/coremidi</string>
+	<string>https://store.cherryaudio.com/bundles/synthesizer-expander-module-synthesizer</string>
 	<key>Keywords</key>
 	<string>synthesizer, expander, module, macOS</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.SynthesizerExpanderModulePackage-StandAlone</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>

@@ -9,13 +9,13 @@
 	<key>Description</key>
 	<string>Lowdown is a versatile note-taking software for organizing information.</string>
 	<key>Documentation</key>
-	<string>https://lowdownapp.com/docs</string>
+	<string>https://store.cherryaudio.com/bundles/lowdown-bass-synthesizer</string>
 	<key>Keywords</key>
-	<string>note-taking, organization, software, information</string>
+	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
 	<string>com.cherryaudio.pkg.LowdownPackage-StandAlone</string>
 	<key>Privacy</key>
-	<string>https://lowdownapp.com/privacy-policy</string>
+	<string>https://cherryaudio.com/privacy</string>
 	<key>Publisher</key>
 	<string>Cherry Audio</string>
 </dict>
