@@ -1,0 +1,1 @@
+## Installomator Metadata
