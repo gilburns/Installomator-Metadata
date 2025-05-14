@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>note-taking, organization, synchronization, productivity</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.package.Microsoft_OneNote.app</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

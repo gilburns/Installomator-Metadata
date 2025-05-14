@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Presentation, Slides, macOS, Microsoft, Office</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.package.Microsoft_PowerPoint.app</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>

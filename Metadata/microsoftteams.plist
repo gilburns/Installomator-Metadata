@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.teams</string>
 	<key>AppName</key>
 	<string>Microsoft Teams classic</string>
 	<key>Description</key>
@@ -15,7 +15,7 @@
 	<key>PackageID</key>
 	<string>com.microsoft.teams</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>
 	<string>Microsoft Corporation</string>
 </dict>

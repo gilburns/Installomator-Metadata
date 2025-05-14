@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.autoupdate2</string>
 	<key>AppName</key>
 	<string>Microsoft AutoUpdate</string>
 	<key>Description</key>
@@ -13,7 +13,7 @@
 	<key>Keywords</key>
 	<string>Microsoft, AutoUpdate, macOS, Microsoft Office, updates</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.package.Microsoft_AutoUpdate.app</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>
