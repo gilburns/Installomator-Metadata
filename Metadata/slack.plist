@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tinyspeck.slackmacgap</string>
 	<key>AppName</key>
 	<string>Slack</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ranchero.NetNewsWire-Evergreen</string>
 	<key>AppName</key>
 	<string>NetNewsWire</string>
 	<key>Description</key>

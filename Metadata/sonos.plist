@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sonos.macController</string>
 	<key>AppName</key>
 	<string>Sonos S1 Controller</string>
 	<key>Description</key>

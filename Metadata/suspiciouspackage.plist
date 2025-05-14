@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mothersruin.SuspiciousPackageApp</string>
 	<key>AppName</key>
 	<string>Suspicious Package</string>
 	<key>Description</key>

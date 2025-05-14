@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.steinberg.SteinbergActivationManager</string>
 	<key>AppName</key>
 	<string>Steinberg Activation Manager</string>
 	<key>Description</key>

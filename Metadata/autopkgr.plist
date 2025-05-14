@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.lindegroup.AutoPkgr</string>
 	<key>AppName</key>
 	<string>AutoPkgr</string>
 	<key>Description</key>

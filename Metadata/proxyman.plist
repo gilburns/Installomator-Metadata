@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.proxyman.NSProxy</string>
 	<key>AppName</key>
 	<string>Proxyman</string>
 	<key>Description</key>

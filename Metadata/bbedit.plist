@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.barebones.bbedit</string>
 	<key>AppName</key>
 	<string>BBEdit</string>
 	<key>Description</key>

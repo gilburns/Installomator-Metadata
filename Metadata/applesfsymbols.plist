@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.apple.SFSymbols</string>
 	<key>AppName</key>
 	<string>SF Symbols</string>
 	<key>Description</key>

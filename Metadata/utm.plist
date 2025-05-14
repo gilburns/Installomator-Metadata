@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.utmapp.UTM</string>
 	<key>AppName</key>
 	<string>UTM</string>
 	<key>Description</key>

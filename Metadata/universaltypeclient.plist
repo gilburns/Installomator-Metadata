@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.extensis.UniversalTypeClient</string>
 	<key>AppName</key>
 	<string>Universal Type Client</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.teams2</string>
 	<key>AppName</key>
 	<string>Microsoft Teams</string>
 	<key>Description</key>

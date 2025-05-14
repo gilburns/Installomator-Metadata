@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.CompanyPortalMac</string>
 	<key>AppName</key>
 	<string>Company Portal</string>
 	<key>Description</key>
