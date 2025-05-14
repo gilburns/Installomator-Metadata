@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.dreamsynth</string>
 	<key>AppName</key>
 	<string>Dreamsynth</string>
 	<key>Description</key>

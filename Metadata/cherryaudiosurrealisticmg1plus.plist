@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.mg1</string>
 	<key>AppName</key>
 	<string>Surrealistic MG-1 Plus</string>
 	<key>Description</key>

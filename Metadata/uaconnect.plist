@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.uaudio.ua-connect</string>
 	<key>AppName</key>
 	<string>UA Connect</string>
 	<key>Description</key>

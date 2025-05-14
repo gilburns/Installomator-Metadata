@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.codemeter.codemetercc</string>
 	<key>AppName</key>
 	<string>CodeMeter</string>
 	<key>Description</key>

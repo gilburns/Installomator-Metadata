@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.VSCode</string>
 	<key>AppName</key>
 	<string>Visual Studio Code</string>
 	<key>Description</key>

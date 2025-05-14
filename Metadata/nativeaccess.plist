@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.native-instruments.nativeaccess2</string>
 	<key>AppName</key>
 	<string>Native Access</string>
 	<key>Description</key>

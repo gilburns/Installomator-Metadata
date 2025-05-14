@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.output.hub</string>
 	<key>AppName</key>
 	<string>Output Hub</string>
 	<key>Description</key>

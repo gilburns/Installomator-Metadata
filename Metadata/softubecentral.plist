@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.softube.com.softubecentral</string>
 	<key>AppName</key>
 	<string>Softube Central</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.steinberg.HALionLibraryManager</string>
 	<key>AppName</key>
 	<string>Steinberg Library Manager</string>
 	<key>Description</key>

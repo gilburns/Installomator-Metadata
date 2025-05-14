@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ikmultimedia.productmanager</string>
 	<key>AppName</key>
 	<string>IK Product Manager</string>
 	<key>Description</key>

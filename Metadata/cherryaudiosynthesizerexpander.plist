@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.synthesizerexpandermodule</string>
 	<key>AppName</key>
 	<string>Synthesizer Expander Module</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>fr.whitebox.Packages</string>
 	<key>AppName</key>
 	<string>Packages</string>
 	<key>Description</key>

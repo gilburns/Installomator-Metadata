@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.CA2600</string>
 	<key>AppName</key>
 	<string>CA2600</string>
 	<key>Description</key>
