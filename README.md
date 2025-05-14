@@ -31,7 +31,7 @@ The plist file will contain multiple keys. Here's an example plist file for the 
 	<key>Keywords</key>
 	<string>Microsoft, Excel, macOS, spreadsheet</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.microsoft.package.Microsoft_Excel.app</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>
@@ -41,3 +41,4 @@ The plist file will contain multiple keys. Here's an example plist file for the 
 ```
 
 The Icons folder will contain the '**microsoftexcel.png**' file.
+
