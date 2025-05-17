@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.videolan.vlc</string>
 	<key>AppName</key>
 	<string>VLC</string>
 	<key>Description</key>

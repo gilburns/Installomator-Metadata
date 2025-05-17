@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.remotehelp</string>
 	<key>AppName</key>
 	<string>Microsoft Remote Help</string>
 	<key>Description</key>

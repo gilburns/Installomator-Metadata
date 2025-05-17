@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jamf.connect.configuration</string>
 	<key>AppName</key>
 	<string>Jamf Connect Configuration</string>
 	<key>Description</key>

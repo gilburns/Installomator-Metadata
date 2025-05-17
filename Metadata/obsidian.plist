@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>md.obsidian</string>
 	<key>AppName</key>
 	<string>Obsidian</string>
 	<key>Description</key>

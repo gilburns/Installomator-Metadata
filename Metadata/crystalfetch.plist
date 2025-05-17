@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>llc.turing.CrystalFetch</string>
 	<key>AppName</key>
 	<string>CrystalFetch</string>
 	<key>Description</key>

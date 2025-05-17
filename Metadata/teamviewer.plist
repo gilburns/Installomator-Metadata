@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.teamviewer.TeamViewer</string>
 	<key>AppName</key>
 	<string>TeamViewer</string>
 	<key>Description</key>

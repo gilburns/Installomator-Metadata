@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.docker.docker</string>
 	<key>AppName</key>
 	<string>Docker</string>
 	<key>Description</key>

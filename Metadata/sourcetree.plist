@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.torusknot.SourceTreeNotMAS</string>
 	<key>AppName</key>
 	<string>Sourcetree</string>
 	<key>Description</key>

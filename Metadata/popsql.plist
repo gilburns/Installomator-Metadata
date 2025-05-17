@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.electron.popsql</string>
 	<key>AppName</key>
 	<string>PopSQL</string>
 	<key>Description</key>

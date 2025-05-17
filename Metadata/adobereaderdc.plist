@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.adobe.Reader</string>
 	<key>AppName</key>
 	<string>Adobe Acrobat Reader</string>
 	<key>Description</key>
