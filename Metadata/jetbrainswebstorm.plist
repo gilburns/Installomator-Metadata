@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.WebStorm</string>
 	<key>AppName</key>
 	<string>Webstorm</string>
 	<key>Description</key>
 	<string>WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/webstorm/</string>
 	<key>Keywords</key>
 	<string>Angular,HTML,IDE,JavaScript,Node.js,React,TypeScript,WebStorm</string>
 	<key>PackageID</key>

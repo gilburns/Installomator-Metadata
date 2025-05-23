@@ -10,6 +10,8 @@
 	<string>Windows App is a versatile software application for the Windows operating system.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://aka.ms/WindowsApp</string>
 	<key>Keywords</key>
 	<string>Windows, App, Software, Operating system</string>
 	<key>PackageID</key>
