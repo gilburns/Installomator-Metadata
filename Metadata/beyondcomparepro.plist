@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ScooterSoftware.BeyondCompare</string>
 	<key>AppName</key>
 	<string>Beyond Compare</string>
 	<key>Description</key>
 	<string>Beyond Compare is a powerful file and folder comparison tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.scootersoftware.com/support.php</string>
+	<key>Homepage</key>
+	<string>https://www.scootersoftware.com/</string>
 	<key>Keywords</key>
 	<string>file comparison, folder comparison, macOS, software tool</string>
 	<key>PackageID</key>

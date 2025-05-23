@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.jkiss.dbeaver.core.product</string>
 	<key>AppName</key>
 	<string>DBeaver</string>
 	<key>Description</key>
 	<string>DBeaver is free and open source universal database tool for developers and database administrators.</string>
 	<key>Documentation</key>
 	<string>https://dbeaver.io/about/</string>
+	<key>Homepage</key>
+	<string>https://dbeaver.io/</string>
 	<key>Keywords</key>
 	<string>database,dbeaver,mysql,sql</string>
 	<key>PackageID</key>

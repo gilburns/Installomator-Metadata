@@ -10,6 +10,8 @@
 	<string>Docker is a full development platform for creating containerized apps, and Docker Desktop for Windows is the best way to get started with Docker on Windows.</string>
 	<key>Documentation</key>
 	<string>https://docs.docker.com/docker-for-windows/</string>
+	<key>Homepage</key>
+	<string>https://www.docker.com/products/docker-desktop</string>
 	<key>Keywords</key>
 	<string>Docker,Docker for Docker,containerized apps</string>
 	<key>PackageID</key>

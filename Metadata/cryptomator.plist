@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.cryptomator</string>
 	<key>AppName</key>
 	<string>Cryptomator</string>
 	<key>Description</key>
 	<string>Cryptomator encrypts your data quickly and easily, so you can safely upload it to your favorite cloud service.</string>
 	<key>Documentation</key>
 	<string>https://docs.cryptomator.org/en/latest/</string>
+	<key>Homepage</key>
+	<string>https://cryptomator.org/</string>
 	<key>Keywords</key>
 	<string>Cryptomator,Encrypt</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.duckduckgo.macos.browser</string>
 	<key>AppName</key>
 	<string>DuckDuckGo</string>
 	<key>Description</key>
 	<string>DuckDuckGo is a privacy-focused search engine for macOS.</string>
 	<key>Documentation</key>
 	<string>https://duckduckgo.com/about</string>
+	<key>Homepage</key>
+	<string>https://duckduckgo.com/</string>
 	<key>Keywords</key>
 	<string>Search engine, Privacy, macOS</string>
 	<key>PackageID</key>

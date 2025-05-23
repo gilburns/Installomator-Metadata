@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.displaylink.displaylinkmanagerapp</string>
 	<key>AppName</key>
 	<string>Elgato Stream Deck</string>
 	<key>Description</key>
 	<string>Elgato Stream Deck allows users to customize the programmable LCD buttons on the Stream Deck, assigning specific actions or macros to streamline and control various functions in streaming, content creation, and other applications. The app supports integration with popular software, enabling users to easily manage scenes, control audio, launch applications, and perform other tasks with a single touch.</string>
 	<key>Documentation</key>
 	<string>https://help.elgato.com/</string>
+	<key>Homepage</key>
+	<string>https://www.elgato.com/ww/en/s/downloads</string>
 	<key>Keywords</key>
 	<string>Elgato,Stream Deck</string>
 	<key>PackageID</key>

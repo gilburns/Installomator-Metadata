@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mothersruin.Apparency</string>
 	<key>AppName</key>
 	<string>Apparency</string>
 	<key>Description</key>
 	<string>Apparency is a macOS application that provides detailed information about installed applications.</string>
 	<key>Documentation</key>
 	<string>https://www.eclecticlight.co/apparency/</string>
+	<key>Homepage</key>
+	<string>https://www.mothersruin.com/software/Apparency/</string>
 	<key>Keywords</key>
 	<string>macOS, application, details, information</string>
 	<key>PackageID</key>

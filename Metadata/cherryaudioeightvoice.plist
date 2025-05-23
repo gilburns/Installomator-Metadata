@@ -10,6 +10,8 @@
 	<string>Cherry Audio’s Eight Voice polyphonic synthesizer meticulously emulates the immense sound of the Oberheim® Eight Voice.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/eight-voice-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>virtual, synthesizer, plugin, software, synthesis</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Wurlybird 140B is a software application designed for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/wurlybird-140b-electric-piano</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>macOS, software, Wurlybird 140B</string>
 	<key>PackageID</key>

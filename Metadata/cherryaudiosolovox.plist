@@ -10,6 +10,8 @@
 	<string>Solovox is a music composer and editor software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/solovox-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, composer, editor, macOS</string>
 	<key>PackageID</key>

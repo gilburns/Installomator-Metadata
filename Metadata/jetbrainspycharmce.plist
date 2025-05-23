@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.pycharm.ce</string>
 	<key>AppName</key>
 	<string>PyCharm CE</string>
 	<key>Description</key>
 	<string>PyCharm is the Python IDE (Integrated Development Environment) for Professional Developers.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/pycharm/</string>
 	<key>Keywords</key>
 	<string>IDE,JetBrains,PyCharm,Python</string>
 	<key>PackageID</key>

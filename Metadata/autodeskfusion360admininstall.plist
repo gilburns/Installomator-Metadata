@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.autodesk.dls.streamer.scriptapp.Autodesk-Fusion</string>
 	<key>AppName</key>
 	<string>Autodesk Fusion 360 Admin Install</string>
 	<key>Description</key>
 	<string>Autodesk Fusion 360 Admin Install is a software utility for bulk installation and configuration of Autodesk Fusion 360 software across multiple computers.</string>
 	<key>Documentation</key>
 	<string>https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Deploying-Fusion.html</string>
+	<key>Homepage</key>
+	<string>https://www.autodesk.com/products/fusion-360/overview</string>
 	<key>Keywords</key>
 	<string>Autodesk, Fusion 360, Admin Install, bulk installation, configuration</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.wulkano.kap</string>
 	<key>AppName</key>
 	<string>Kap</string>
 	<key>Description</key>
 	<string>Video recording and screen capturing software for macOS</string>
 	<key>Documentation</key>
 	<string>https://getkap.co/docs/</string>
+	<key>Homepage</key>
+	<string>https://getkap.co/</string>
 	<key>Keywords</key>
 	<string>video, recording, screen capture, macOS</string>
 	<key>PackageID</key>

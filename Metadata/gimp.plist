@@ -10,6 +10,8 @@
 	<string>GIMP is a free and open-source raster graphics editor used for image editing and retouching.</string>
 	<key>Documentation</key>
 	<string>https://www.gimp.org/docs/</string>
+	<key>Homepage</key>
+	<string>https://www.gimp.org/</string>
 	<key>Keywords</key>
 	<string>image editing, graphics editor, open-source, macOS</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.techsmith.camtasia2023</string>
 	<key>AppName</key>
 	<string>Camtasia 2023</string>
 	<key>Description</key>
 	<string>Camtasia is a software suite, created and published by TechSmith, for creating video tutorials and presentations directly via screencast, or via a direct recording plug-in to Microsoft PowerPoint.</string>
 	<key>Documentation</key>
 	<string>https://support.techsmith.com/</string>
+	<key>Homepage</key>
+	<string>https://www.techsmith.com/video-editor.html</string>
 	<key>Keywords</key>
 	<string>Camtasia,Recorder,Screen Recorder,Video</string>
 	<key>PackageID</key>

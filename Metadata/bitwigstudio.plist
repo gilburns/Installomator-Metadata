@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.bitwig.studio</string>
 	<key>AppName</key>
 	<string>Bitwig Studio</string>
 	<key>Description</key>
 	<string>Bitwig Studio is a professional digital audio workstation with innovative features for music production, performance, and sound design.</string>
 	<key>Documentation</key>
 	<string>https://www.bitwig.com/support.html</string>
+	<key>Homepage</key>
+	<string>https://www.bitwig.com/</string>
 	<key>Keywords</key>
 	<string>music, production, DAW, software, audio, sound</string>
 	<key>PackageID</key>

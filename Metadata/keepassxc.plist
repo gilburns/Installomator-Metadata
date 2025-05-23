@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.keepassxc.keepassxc</string>
 	<key>AppName</key>
 	<string>KeePassXC</string>
 	<key>Description</key>
 	<string>KeePassXC is a free and open-source password manager.</string>
 	<key>Documentation</key>
 	<string>https://keepassxc.org/docs/</string>
+	<key>Homepage</key>
+	<string>https://keepassxc.org/</string>
 	<key>Keywords</key>
 	<string>password manager, open-source, security, encryption</string>
 	<key>PackageID</key>

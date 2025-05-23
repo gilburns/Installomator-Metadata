@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.todesktop.230313mzl4w4u92</string>
 	<key>AppName</key>
 	<string>Cursor</string>
 	<key>Description</key>
 	<string>Cursor is an intelligent AI Code Editor that helps developers write, debug, and optimize code more efficiently.</string>
 	<key>Documentation</key>
 	<string>https://docs.cursor.com/</string>
+	<key>Homepage</key>
+	<string>https://www.cursor.com/</string>
 	<key>Keywords</key>
 	<string>AI,Code Editor,Cursor</string>
 	<key>PackageID</key>

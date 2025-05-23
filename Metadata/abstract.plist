@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.elasticprojects.abstract-desktop</string>
 	<key>AppName</key>
 	<string>Abstract</string>
 	<key>Description</key>
 	<string>Abstract is a design tool that enables collaboration and version control for macOS.</string>
 	<key>Documentation</key>
+	<string>https://www.abstract.com/</string>
+	<key>Homepage</key>
 	<string>https://www.abstract.com/</string>
 	<key>Keywords</key>
 	<string>Design, Collaboration, Version Control, macOS</string>

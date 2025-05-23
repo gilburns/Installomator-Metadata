@@ -10,6 +10,8 @@
 	<string>Virtual-analog Synthesizer Emulation Plugin</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/surrealistic-mg-1-plus-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>virtual-analog, synthesizer, emulation, plugin</string>
 	<key>PackageID</key>

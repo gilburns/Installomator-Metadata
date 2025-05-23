@@ -10,6 +10,8 @@
 	<string>Virtual analog synthesizer software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/novachord-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, synthesizer, macOS, software</string>
 	<key>PackageID</key>

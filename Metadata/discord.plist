@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hnc.Discord</string>
 	<key>AppName</key>
 	<string>Discord</string>
 	<key>Description</key>
 	<string>Discord is a communication platform for macOS users to chat, call, and collaborate with friends and communities.</string>
 	<key>Documentation</key>
 	<string>https://discord.com/developers/docs/intro</string>
+	<key>Homepage</key>
+	<string>https://discord.com/</string>
 	<key>Keywords</key>
 	<string>communication, chat, call, friends, community</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.temurin.21.jdk</string>
 	<key>AppName</key>
 	<string>Temurin 21</string>
 	<key>Description</key>
 	<string>Temurin 21 is a tested, optimized, and free distribution of OpenJDK</string>
 	<key>Documentation</key>
 	<string>https://adoptopenjdk.net/documentation.html</string>
+	<key>Homepage</key>
+	<string>https://adoptium.net/</string>
 	<key>Keywords</key>
 	<string>OpenJDK, Java, distribution, Temurin</string>
 	<key>PackageID</key>

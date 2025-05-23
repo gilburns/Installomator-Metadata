@@ -10,6 +10,8 @@
 	<string>Adobe Acrobat is a family of application software and Web services developed by Adobe Inc. to view, create, manipulate, print and manage files in Portable Document Format. The family comprises Acrobat Reader, Acrobat and Acrobat.com</string>
 	<key>Documentation</key>
 	<string>https://helpx.adobe.com/reader/get-started.html</string>
+	<key>Homepage</key>
+	<string>https://www.adobe.com/acrobat/pdf-reader.html</string>
 	<key>Keywords</key>
 	<string>Acrobat,Adobe,Adobe Reader,PDF</string>
 	<key>PackageID</key>

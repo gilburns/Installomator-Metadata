@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.generalarcade.flycut</string>
 	<key>AppName</key>
 	<string>Flycut</string>
 	<key>Description</key>
 	<string>Flycut is a simple clipboard manager for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://github.com/TermiT/Flycut</string>
 	<key>Keywords</key>
 	<string>macOS, clipboard manager, productivity</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>ChatGPT is an AI-powered chatbot platform for engaging conversations.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://chatgpt.com/</string>
 	<key>Keywords</key>
 	<string>chatbot, AI, conversation, messaging</string>
 	<key>PackageID</key>

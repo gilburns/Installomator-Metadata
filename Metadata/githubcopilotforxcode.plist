@@ -10,6 +10,8 @@
 	<string>GitHub Copilot for Xcode is an AI-powered code completion tool for macOS developers.</string>
 	<key>Documentation</key>
 	<string>https://github.com/apps/copilot</string>
+	<key>Homepage</key>
+	<string>https://github.com/intitni/CopilotForXcode</string>
 	<key>Keywords</key>
 	<string>AI, code completion, Xcode, macOS, development</string>
 	<key>PackageID</key>

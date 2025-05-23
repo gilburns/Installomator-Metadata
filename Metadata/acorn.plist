@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.flyingmeat.Acorn8</string>
 	<key>AppName</key>
 	<string>Acorn</string>
 	<key>Description</key>
 	<string>Acorn is a popular image editing software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://flyingmeat.com/acorn/docs/</string>
+	<key>Homepage</key>
+	<string>https://flyingmeat.com/acorn/</string>
 	<key>Keywords</key>
 	<string>image editing, macOS, graphics, design</string>
 	<key>PackageID</key>

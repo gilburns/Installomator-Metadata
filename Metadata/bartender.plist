@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.surteesstudios.Bartender</string>
 	<key>AppName</key>
 	<string>Bartender 4</string>
 	<key>Description</key>
 	<string>Bartender 4 is a macOS utility that helps users organize and customize menu bar icons.</string>
 	<key>Documentation</key>
 	<string>https://www.macbartender.com/Bartender4/</string>
+	<key>Homepage</key>
+	<string>https://www.macbartender.com/</string>
 	<key>Keywords</key>
 	<string>macOS, utility, organize, customize, menu bar icons</string>
 	<key>PackageID</key>

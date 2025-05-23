@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>pro.betterdisplay.BetterDisplay</string>
 	<key>AppName</key>
 	<string>BetterDisplay</string>
 	<key>Description</key>
 	<string>BetterDisplay is a user-friendly software for enhancing display settings.</string>
 	<key>Documentation</key>
 	<string>https://betterdisplaydocs.com</string>
+	<key>Homepage</key>
+	<string>https://betterdisplay.pro/</string>
 	<key>Keywords</key>
 	<string>display, software, settings, enhancement</string>
 	<key>PackageID</key>

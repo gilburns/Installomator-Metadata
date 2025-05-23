@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.domzilla.caffeine</string>
 	<key>AppName</key>
 	<string>Caffeine</string>
 	<key>Description</key>
 	<string>Caffeine is a macOS utility application that prevents the computer from going to sleep.</string>
 	<key>Documentation</key>
 	<string>https://example.com/caffeine-docs</string>
+	<key>Homepage</key>
+	<string>https://www.caffeine-app.net/</string>
 	<key>Keywords</key>
 	<string>macOS, utility, prevent-sleep</string>
 	<key>PackageID</key>

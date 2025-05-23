@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.google.GoogleUpdater.wake.system</string>
 	<key>AppName</key>
 	<string>chromeremotedesktop</string>
 	<key>Description</key>
 	<string>Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser.</string>
 	<key>Documentation</key>
 	<string>https://remotedesktop.google.com/support</string>
+	<key>Homepage</key>
+	<string>https://chrome.google.com/webstore/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai</string>
 	<key>Keywords</key>
 	<string>remote access, Chrome, browser, computer, desktop</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.daisydiskapp.DaisyDiskAdminHelper</string>
 	<key>AppName</key>
 	<string>DaisyDisk</string>
 	<key>Description</key>
 	<string>Disk space visualizer to free up space on your Mac.</string>
 	<key>Documentation</key>
 	<string>https://daisydiskapp.com/manual/ or </string>
+	<key>Homepage</key>
+	<string>https://daisydiskapp.com/</string>
 	<key>Keywords</key>
 	<string>macOS, disk space, cleanup, visualization</string>
 	<key>PackageID</key>

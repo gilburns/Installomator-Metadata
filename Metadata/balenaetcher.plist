@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.balena.etcher.*</string>
 	<key>AppName</key>
 	<string>balenaEtcher</string>
 	<key>Description</key>
 	<string>balenaEtcher is a powerful OS image flasher built with web technologies to ensure flashing an SDCard or USB drive is a pleasant and safe experience. It protects you from accidentally writing to your hard-drives, ensures every byte of data was written correctly, and much more. It can also directly flash Raspberry Pi devices that support USB device boot mode.</string>
 	<key>Documentation</key>
 	<string>https://github.com/balena-io/etcher#readme</string>
+	<key>Homepage</key>
+	<string>https://balena.io/etcher</string>
 	<key>Keywords</key>
 	<string>balenaEtcher</string>
 	<key>PackageID</key>

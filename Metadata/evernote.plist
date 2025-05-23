@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.evernote.Evernote</string>
 	<key>AppName</key>
 	<string>Evernote</string>
 	<key>Description</key>
 	<string>Evernote gives you everything you need to keep life organized—great note taking, project planning, and easy ways to find what you need, when you need it.</string>
 	<key>Documentation</key>
 	<string>https://help.evernote.com/hc/en-us</string>
+	<key>Homepage</key>
+	<string>https://evernote.com/</string>
 	<key>Keywords</key>
 	<string>Evernote,lists,note taking,notes</string>
 	<key>PackageID</key>

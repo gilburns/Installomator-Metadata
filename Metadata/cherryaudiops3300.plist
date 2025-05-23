@@ -10,6 +10,8 @@
 	<string>PS-3300 is a software application for macOS used for managing and organizing tasks.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/ps-3300-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>

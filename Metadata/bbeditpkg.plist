@@ -10,6 +10,8 @@
 	<string>BBEdit is a powerful text editor for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.barebones.com/products/bbedit/</string>
+	<key>Homepage</key>
+	<string>https://www.barebones.com/products/bbedit/</string>
 	<key>Keywords</key>
 	<string>text editor, macOS, software development</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.federicoterzi.espanso</string>
 	<key>AppName</key>
 	<string>Espanso</string>
 	<key>Description</key>
 	<string>Text expansion tool for macOS</string>
 	<key>Documentation</key>
 	<string>https://espanso.org/docs/</string>
+	<key>Homepage</key>
+	<string>https://espanso.org/</string>
 	<key>Keywords</key>
 	<string>macOS, text expansion, productivity</string>
 	<key>PackageID</key>

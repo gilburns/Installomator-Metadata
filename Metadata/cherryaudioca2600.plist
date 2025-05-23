@@ -10,6 +10,8 @@
 	<string>The Cherry Audio CA2600 is a powerful, self-contained duophonic synthesizer inspired by the groundbreaking ARP 2600 synthesizer.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/ca2600-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>

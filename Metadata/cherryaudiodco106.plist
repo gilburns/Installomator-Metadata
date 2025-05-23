@@ -10,6 +10,8 @@
 	<string>DCO-106 lovingly recreates the unique sonic footprint of one the most iconic 80’s polysynths in exhaustive detail, while adding modern features for massively expanded creativity.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/dco-106-polyphonic-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>virtual, synthesizer, plugin, software, DCO-106</string>
 	<key>PackageID</key>

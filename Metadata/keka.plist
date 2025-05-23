@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.aone.keka</string>
 	<key>AppName</key>
 	<string>Keka</string>
 	<key>Description</key>
 	<string>Advanced macOS file archiver with high compression ratio.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.keka.io/</string>
 	<key>Keywords</key>
 	<string>macOS, file archiver, compression, Keka</string>
 	<key>PackageID</key>

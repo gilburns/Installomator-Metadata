@@ -10,6 +10,8 @@
 	<string>GX-80 is a transformative virtual synthesizer that combines the unparalleled sound and features of the fabled GX-1 “Dream Machine” and its renowned descendant the CS-80.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/gx-80-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, plugin, transitions, software</string>
 	<key>PackageID</key>

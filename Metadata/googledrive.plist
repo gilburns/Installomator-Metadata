@@ -10,6 +10,8 @@
 	<string>Access all of your Google Drive content directly from your PC, without using up disk space</string>
 	<key>Documentation</key>
 	<string>https://support.google.com/a/answer/7491144?hl=en</string>
+	<key>Homepage</key>
+	<string>https://www.google.com/drive/</string>
 	<key>Keywords</key>
 	<string>cloud,drive,storage,synchronization</string>
 	<key>PackageID</key>

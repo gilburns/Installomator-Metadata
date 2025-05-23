@@ -10,6 +10,8 @@
 	<string>A software tool for designing voltage modules on macOS platform.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>Voltage, Module, Designer, music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>CodeRunner is a lightweight and versatile text editor and IDE for macOS that supports multiple programming languages.</string>
 	<key>Documentation</key>
 	<string>https://coderunnerapp.com/documentation/</string>
+	<key>Homepage</key>
+	<string>https://coderunnerapp.com/</string>
 	<key>Keywords</key>
 	<string>macOS, code editor, IDE, programming, text editor</string>
 	<key>PackageID</key>

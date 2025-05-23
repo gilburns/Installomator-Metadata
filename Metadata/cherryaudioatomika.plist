@@ -10,6 +10,8 @@
 	<string>Atomika is Cherry Audio's painstakingly crafted emulation of the Polivoks synthesizer manufactured at the Formanta Radio Factory between 1982 and 1990.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/atomika-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>virtual, synthesizer, plugin, software, Atomika</string>
 	<key>PackageID</key>

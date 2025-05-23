@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.busymac.busycontacts.pkg</string>
 	<key>AppName</key>
 	<string>BusyContacts</string>
 	<key>Description</key>
 	<string>Contacts management software for Mac users.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.busymac.com/busycontacts/index.html</string>
 	<key>Keywords</key>
 	<string>Contacts, Mac, Management, Address Book</string>
 	<key>PackageID</key>

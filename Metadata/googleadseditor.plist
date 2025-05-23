@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.google.googleadseditorlauncher</string>
 	<key>AppName</key>
 	<string>Google Ads Editor</string>
 	<key>Description</key>
 	<string>Google Ads Editor is a free, offline application that lets you work on your Google Ads campaigns.</string>
 	<key>Documentation</key>
 	<string>https://support.google.com/google-ads/editor/answer/59257</string>
+	<key>Homepage</key>
+	<string>https://ads.google.com/home/tools/ads-editor/</string>
 	<key>Keywords</key>
 	<string>Google Ads, Editor, Campaigns, Offline, Management</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.citrix.receiver.nomas</string>
 	<key>AppName</key>
 	<string>Citrix Workspace</string>
 	<key>Description</key>
 	<string>Citrix Workspace is a desktop virtualization software platform developed by Citrix Systems that allows multiple users to remotely access and operate Microsoft Windows desktops running in a datacenter or a public or private cloud, via devices located elsewhere.</string>
 	<key>Documentation</key>
 	<string>https://docs.citrix.com/</string>
+	<key>Homepage</key>
+	<string>https://docs.citrix.com/en-us/citrix-workspace</string>
 	<key>Keywords</key>
 	<string>Citrix,Citrix Workspace,Workspace</string>
 	<key>PackageID</key>

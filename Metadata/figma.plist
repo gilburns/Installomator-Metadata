@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.figma.Desktop</string>
 	<key>AppName</key>
 	<string>Figma</string>
 	<key>Description</key>
 	<string>Figma is a digital design and prototyping tool. It is a UI and UX design application that you can use it to create websites, apps, or smaller user interface components that can be integrated into other projects.</string>
 	<key>Documentation</key>
 	<string>https://help.figma.com/hc/</string>
+	<key>Homepage</key>
+	<string>https://www.figma.com/</string>
 	<key>Keywords</key>
 	<string>Figma,Prototyping,UX Design</string>
 	<key>PackageID</key>

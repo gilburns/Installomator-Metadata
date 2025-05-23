@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.grammarly.keyboard</string>
 	<key>AppName</key>
 	<string>Grammarly Desktop</string>
 	<key>Description</key>
 	<string>Grammarly Desktop is a writing assistant tool for macOS users.</string>
 	<key>Documentation</key>
+	<string>https://www.grammarly.com/desktop</string>
+	<key>Homepage</key>
 	<string>https://www.grammarly.com/desktop</string>
 	<key>Keywords</key>
 	<string>writing, assistant, macOS, grammar, spelling, punctuation</string>

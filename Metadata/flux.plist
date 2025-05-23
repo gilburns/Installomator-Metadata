@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.herf.Flux</string>
 	<key>AppName</key>
 	<string>Flux</string>
 	<key>Description</key>
 	<string>Flux is a software application for macOS that adjusts the color temperature of your screen based on the time of day.</string>
 	<key>Documentation</key>
+	<string>https://justgetflux.com/</string>
+	<key>Homepage</key>
 	<string>https://justgetflux.com/</string>
 	<key>Keywords</key>
 	<string>screen brightness, color temperature, macOS, software</string>

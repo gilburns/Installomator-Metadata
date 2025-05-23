@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.PhpStorm</string>
 	<key>AppName</key>
 	<string>PHPStorm</string>
 	<key>Description</key>
 	<string>PhpStorm is an IDE (Integrated Development Environment) for PHP and web developers. PhpStorm provides smart code completion, syntax highlighting, extended code formatting configuration, on-the-fly error checking, code folding, supports language mixtures and more.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/phpstorm/</string>
 	<key>Keywords</key>
 	<string>IDE,JetBrains,PhpStorm</string>
 	<key>PackageID</key>

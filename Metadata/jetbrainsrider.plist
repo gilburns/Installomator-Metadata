@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.rider</string>
 	<key>AppName</key>
 	<string>Rider</string>
 	<key>Description</key>
 	<string>JetBrains Rider is a powerful, cross-platform Integrated Development Environment (IDE) designed for .NET developers. It supports a wide range of .NET technologies, including .NET Core, .NET Framework, Mono, and game development frameworks like Unity.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/rider/</string>
 	<key>Keywords</key>
 	<string>.NET,IDE,JetBrains,Rider</string>
 	<key>PackageID</key>

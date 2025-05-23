@@ -10,6 +10,8 @@
 	<string>Octave Cat is a virtual synthesizer plugin with a vintage analog sound.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/octave-cat-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, synthesizer, plugin, virtual instrument</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cloudflare.1dot1dot1dot1.macos</string>
 	<key>AppName</key>
 	<string>Cloudflare_WARP</string>
 	<key>Description</key>
 	<string>The Cloudflare WARP client allows individuals and organizations to have a faster, more secure, and more private experience online. The WARP client sits between your device and the Internet, and has several connection modes to better suit different needs.</string>
 	<key>Documentation</key>
 	<string>https://developers.cloudflare.com/warp-client/</string>
+	<key>Homepage</key>
+	<string>https://cloudflarewarp.com/</string>
 	<key>Keywords</key>
 	<string>Cloudflare,VPN,WARP</string>
 	<key>PackageID</key>

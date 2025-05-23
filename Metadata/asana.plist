@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.asana</string>
 	<key>AppName</key>
 	<string>Asana</string>
 	<key>Description</key>
 	<string>Asana is a software as a service (SaaS) platform that allows you to easily manage and organize projects, prioritize tasks, collaborate with teams, and track progress.</string>
 	<key>Documentation</key>
 	<string>https://asana.com/support</string>
+	<key>Homepage</key>
+	<string>https://asana.com/</string>
 	<key>Keywords</key>
 	<string>Asana,Management,Projects,Tasks</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hp.hp-easy-admin</string>
 	<key>AppName</key>
 	<string>HP Easy Admin</string>
 	<key>Description</key>
 	<string>HP Easy Admin is a software tool for managing HP printers and MFPs.</string>
 	<key>Documentation</key>
 	<string>https://support.hp.com</string>
+	<key>Homepage</key>
+	<string>https://support.hp.com/</string>
 	<key>Keywords</key>
 	<string>HP, Easy Admin, printers, MFPs</string>
 	<key>PackageID</key>

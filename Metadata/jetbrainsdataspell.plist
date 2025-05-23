@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.dataspell</string>
 	<key>AppName</key>
 	<string>DataSpell</string>
 	<key>Description</key>
 	<string>JetBrains DataSpell is an IDE (Integrated Development Environment) specifically designed for data analysts and analytics engineers. It provides a comprehensive environment for tasks related to data analysis, exploratory data analysis, and prototyping machine learning models.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/dataspell/</string>
 	<key>Keywords</key>
 	<string>DataSpell,IDE,JetBrains</string>
 	<key>PackageID</key>

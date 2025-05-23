@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.bitwarden.desktop</string>
 	<key>AppName</key>
 	<string>Bitwarden</string>
 	<key>Description</key>
 	<string>Bitwarden is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.</string>
 	<key>Documentation</key>
 	<string>https://bitwarden.com/help</string>
+	<key>Homepage</key>
+	<string>https://bitwarden.com/</string>
 	<key>Keywords</key>
 	<string>Password,Safe,Security,Vault</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>CrystalFetch is a macOS software tool for fetching and displaying crystal clear images.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://github.com/TuringSoftware/CrystalFetch</string>
 	<key>Keywords</key>
 	<string>macOS, software tool, fetch, crystal clear images</string>
 	<key>PackageID</key>

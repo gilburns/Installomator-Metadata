@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.amazon.Amazon-Chime</string>
 	<key>AppName</key>
 	<string>Amazon Chime</string>
 	<key>Description</key>
 	<string>Amazon Chime is a secure, real-time, unified communications service that transforms meetings by making them more efficient and easier to conduct.</string>
 	<key>Documentation</key>
 	<string>https://answers.chime.aws/</string>
+	<key>Homepage</key>
+	<string>https://chime.aws/</string>
 	<key>Keywords</key>
 	<string>Amazon,Chime,Communications</string>
 	<key>PackageID</key>

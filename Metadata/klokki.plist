@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.klokki-launcher</string>
 	<key>AppName</key>
 	<string>Klokki</string>
 	<key>Description</key>
 	<string>Automatic time-tracking app for Mac.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://klokki.com/</string>
 	<key>Keywords</key>
 	<string>time-tracking, productivity, Mac, application</string>
 	<key>PackageID</key>

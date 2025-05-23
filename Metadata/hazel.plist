@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>86Z3GCJ4MF.com.noodlesoft.HazelHelper</string>
 	<key>AppName</key>
 	<string>Hazel</string>
 	<key>Description</key>
 	<string>Hazel is a personal automation for macOS that keeps your files organized.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.noodlesoft.com/</string>
 	<key>Keywords</key>
 	<string>macOS, automation, organization</string>
 	<key>PackageID</key>

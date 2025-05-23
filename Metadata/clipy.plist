@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.clipy-app.Clipy</string>
 	<key>AppName</key>
 	<string>Clipy</string>
 	<key>Description</key>
 	<string>Clipboard manager for macOS</string>
 	<key>Documentation</key>
 	<string>https://clipy-app.com</string>
+	<key>Homepage</key>
+	<string>https://clipy-app.com/</string>
 	<key>Keywords</key>
 	<string>macOS, clipboard, manager</string>
 	<key>PackageID</key>

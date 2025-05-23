@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.intellij.ce</string>
 	<key>AppName</key>
 	<string>IntelliJ IDEA CE</string>
 	<key>Description</key>
 	<string>IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer software written in Java, Kotlin, Groovy, and other JVM-based languages.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/idea/</string>
 	<key>Keywords</key>
 	<string>IDE,IntelliJ,Java,JetBrains</string>
 	<key>PackageID</key>

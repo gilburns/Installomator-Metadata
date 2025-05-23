@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.amazon.corretto.21</string>
 	<key>AppName</key>
 	<string>Amazon Corretto 21 JDK</string>
 	<key>Description</key>
 	<string>Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).</string>
 	<key>Documentation</key>
 	<string>https://aws.amazon.com/corretto/faqs/</string>
+	<key>Homepage</key>
+	<string>https://corretto.aws/</string>
 	<key>Keywords</key>
 	<string>Amazon,Corretto,Java,OpenJDK,Runtime</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.pqrs.Karabiner-DriverKit-VirtualHIDDevice</string>
 	<key>AppName</key>
 	<string>Karabiner-Elements</string>
 	<key>Description</key>
 	<string>Karabiner-Elements is a powerful and stable keyboard customizer for macOS.</string>
 	<key>Documentation</key>
 	<string>https://karabiner-elements.pqrs.org/docs/</string>
+	<key>Homepage</key>
+	<string>https://karabiner-elements.pqrs.org/</string>
 	<key>Keywords</key>
 	<string>macOS, keyboard, customizer</string>
 	<key>PackageID</key>

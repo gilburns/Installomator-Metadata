@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.freemacsoft.AppCleaner</string>
 	<key>AppName</key>
 	<string>AppCleaner</string>
 	<key>Description</key>
 	<string>AppCleaner is a utility software designed to uninstall unwanted applications and their associated files from macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://freemacsoft.net/appcleaner/</string>
 	<key>Keywords</key>
 	<string>macOS, utility, uninstall, applications</string>
 	<key>PackageID</key>

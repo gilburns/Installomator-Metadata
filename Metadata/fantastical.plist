@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.flexibits.fantastical2.mac</string>
 	<key>AppName</key>
 	<string>Fantastical</string>
 	<key>Description</key>
 	<string>Fantastical is a popular calendar and scheduling app for macOS.</string>
 	<key>Documentation</key>
+	<string>https://flexibits.com/fantastical</string>
+	<key>Homepage</key>
 	<string>https://flexibits.com/fantastical</string>
 	<key>Keywords</key>
 	<string>calendar, scheduling, macOS, productivity</string>

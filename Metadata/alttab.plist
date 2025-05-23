@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.lwouis.alt-tab-macos</string>
 	<key>AppName</key>
 	<string>AltTab</string>
 	<key>Description</key>
 	<string>AltTab is a macOS application that enhances the user's ability to switch between open windows.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://alt-tab-macos.netlify.app/</string>
 	<key>Keywords</key>
 	<string>macOS, application, window management</string>
 	<key>PackageID</key>

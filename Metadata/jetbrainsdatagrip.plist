@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.datagrip</string>
 	<key>AppName</key>
 	<string>DataGrip</string>
 	<key>Description</key>
 	<string>DataGrip is a database management environment for developers. It is designed to query, create, and manage databases. Databases can work locally, on a server, or in the cloud. Supports MySQL, PostgreSQL, Microsoft SQL Server, Oracle, and more.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/datagrip/</string>
 	<key>Keywords</key>
 	<string>DataGrip,Database,MySQL,PostgreSQL,SQL</string>
 	<key>PackageID</key>

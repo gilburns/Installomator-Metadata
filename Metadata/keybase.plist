@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>keybase.Helper</string>
 	<key>AppName</key>
 	<string>Keybase</string>
 	<key>Description</key>
 	<string>Keybase is a secure messaging and file-sharing platform that provides end-to-end encryption for communication and data storage.</string>
 	<key>Documentation</key>
 	<string>https://keybase.io/docs</string>
+	<key>Homepage</key>
+	<string>https://keybase.io/</string>
 	<key>Keywords</key>
 	<string>secure messaging, end-to-end encryption, file-sharing, security</string>
 	<key>PackageID</key>

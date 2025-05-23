@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.CLion</string>
 	<key>AppName</key>
 	<string>CLion</string>
 	<key>Description</key>
 	<string>CLion is a cross-platform IDE for C and C++ programming languages developed by JetBrains. It includes all the essentials of everyday development such as VCS (SVN, Git, GitHub, Mercurial, Perforce), Google Test, Catch and Boost. CLion also includes test frameworks for unit testing, Doxygen, Database tools, and Markdown support.</string>
 	<key>Documentation</key>
 	<string>https://www.jetbrains.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.jetbrains.com/clion/</string>
 	<key>Keywords</key>
 	<string>CLion,JetBrains</string>
 	<key>PackageID</key>

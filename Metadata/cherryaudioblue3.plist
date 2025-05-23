@@ -10,6 +10,8 @@
 	<string>Blue3 Organ is a digital tonewheel organ instrument plugin.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/blue3-organ</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, plugin, organ, digital</string>
 	<key>PackageID</key>

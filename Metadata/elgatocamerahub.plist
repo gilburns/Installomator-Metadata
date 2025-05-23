@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.displaylink.displaylinkmanagerapp</string>
 	<key>AppName</key>
 	<string>Elgato Camera Hub</string>
 	<key>Description</key>
 	<string>Elgato Camera Hub is designed to optimize and enhance video capturing using Elgato webcams. It provides extensive customization options to improve the quality of your live broadcasts or recordings.</string>
 	<key>Documentation</key>
 	<string>https://help.elgato.com/</string>
+	<key>Homepage</key>
+	<string>https://www.elgato.com/ww/en/s/downloads</string>
 	<key>Keywords</key>
 	<string>Elgato Camera Hub,Webcam</string>
 	<key>PackageID</key>

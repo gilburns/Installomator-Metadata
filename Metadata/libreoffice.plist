@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.libreoffice.script</string>
 	<key>AppName</key>
 	<string>LibreOffice</string>
 	<key>Description</key>
 	<string>LibreOffice is a free and open-source office suite, a project of The Document Foundation. It was forked from OpenOffice.org in 2010, which was an open-sourced version of the earlier StarOffice.</string>
 	<key>Documentation</key>
 	<string>https://documentation.libreoffice.org/en/english-documentation/getting-started-guide/</string>
+	<key>Homepage</key>
+	<string>https://www.libreoffice.org/</string>
 	<key>Keywords</key>
 	<string>Document,LibreOffice,editor,office</string>
 	<key>PackageID</key>

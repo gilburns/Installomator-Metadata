@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jabra.directonline</string>
 	<key>AppName</key>
 	<string>Jabra Direct</string>
 	<key>Description</key>
 	<string>Jabra Direct is a software application for macOS that allows users to customize and personalize their Jabra audio devices.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.jabra.com/software-and-services/jabra-direct</string>
 	<key>Keywords</key>
 	<string>Jabra Direct, macOS, software, audio devices</string>
 	<key>PackageID</key>

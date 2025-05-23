@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mowglii.ItsycalApp</string>
 	<key>AppName</key>
 	<string>Itsycal</string>
 	<key>Description</key>
 	<string>Itsycal is a tiny calendar for macOS with customizable appearance and advanced features.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.mowglii.com/itsycal/</string>
 	<key>Keywords</key>
 	<string>macOS, calendar, Itsycal, customizable, advanced features</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.adobe.acc.AdobeCreativeCloud</string>
 	<key>AppName</key>
 	<string>Adobe Creative Cloud</string>
 	<key>Description</key>
 	<string>Creative Cloud is a suite of software and services for graphic design, video editing, web development, and photography.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.adobe.com/creativecloud.html</string>
 	<key>Keywords</key>
 	<string>Adobe, Creative Cloud, macOS, design, video editing, photography</string>
 	<key>PackageID</key>

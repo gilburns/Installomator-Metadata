@@ -10,6 +10,8 @@
 	<string>PS-20 is a cutting-edge software application for project management and collaboration.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/ps-20-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>

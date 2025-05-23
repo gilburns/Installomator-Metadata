@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.inkscape.Inkscape</string>
 	<key>AppName</key>
 	<string>Inkscape</string>
 	<key>Description</key>
 	<string>Open-source vector graphics editor for creating scalable graphic designs</string>
 	<key>Documentation</key>
 	<string>https://inkscape.org/doc/</string>
+	<key>Homepage</key>
+	<string>https://inkscape.org/</string>
 	<key>Keywords</key>
 	<string>vector graphics, editor, design, open-source</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Temurin 17 is a version of the Java Development Kit (JDK) for macOS operating systems.</string>
 	<key>Documentation</key>
 	<string>https://adoptopenjdk.net/releases.html</string>
+	<key>Homepage</key>
+	<string>https://adoptium.net/</string>
 	<key>Keywords</key>
 	<string>Java, JDK, Temurin, macOS</string>
 	<key>PackageID</key>

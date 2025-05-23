@@ -10,6 +10,8 @@
 	<string>Mercury-6 is a powerful software application for macOS that helps users manage their tasks efficiently.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/mercury-6-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>

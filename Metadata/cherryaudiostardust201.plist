@@ -10,6 +10,8 @@
 	<string>Vintage tape echo plugin with analog saturation for macOS</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>tape echo, vintage, plugin, macOS</string>
 	<key>PackageID</key>

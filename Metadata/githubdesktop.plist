@@ -10,6 +10,8 @@
 	<string>GitHub Desktop is an application that simplifies your development workflow by providing a graphical user interface (GUI) for interacting with GitHub. Instead of using the command line or a web browser, you can manage your repositories, commit changes, and collaborate with your team directly from your desktop.</string>
 	<key>Documentation</key>
 	<string>https://help.github.com/en/desktop</string>
+	<key>Homepage</key>
+	<string>https://desktop.github.com/</string>
 	<key>Keywords</key>
 	<string>GitHub,Version Control,git</string>
 	<key>PackageID</key>

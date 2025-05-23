@@ -10,6 +10,8 @@
 	<string>Harmonia is a music composition and production software for musicians and producers.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/harmonia-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, composition, production, software</string>
 	<key>PackageID</key>

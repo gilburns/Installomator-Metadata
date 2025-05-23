@@ -10,6 +10,8 @@
 	<string>Elka-X is a powerful music production software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/elka-x-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, software, macOS</string>
 	<key>PackageID</key>

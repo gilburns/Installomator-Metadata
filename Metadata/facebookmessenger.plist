@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.facebook.archon.developerID</string>
 	<key>AppName</key>
 	<string>Messenger</string>
 	<key>Description</key>
 	<string>Messenger for macOS is a chat application for sending messages and making video calls.</string>
 	<key>Documentation</key>
 	<string>https://www.messenger.com</string>
+	<key>Homepage</key>
+	<string>https://www.messenger.com/desktop</string>
 	<key>Keywords</key>
 	<string>Chat, Messaging, Video Calls, Communication</string>
 	<key>PackageID</key>

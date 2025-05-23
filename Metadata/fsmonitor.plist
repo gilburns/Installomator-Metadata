@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tristan.fseventstool</string>
 	<key>AppName</key>
 	<string>FSMonitor</string>
 	<key>Description</key>
 	<string>Real-time file system monitoring tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://fsmonitor.com/docs</string>
+	<key>Homepage</key>
+	<string>https://fsmonitor.com/</string>
 	<key>Keywords</key>
 	<string>macOS, file system, monitor, real-time</string>
 	<key>PackageID</key>

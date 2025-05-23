@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.displaylink.*</string>
 	<key>AppName</key>
 	<string>DisplayLink Manager Graphics Connectivity</string>
 	<key>Description</key>
 	<string>DisplayLink Manager Graphics Connectivity software for macOS allows users to connect multiple displays to their computer for enhanced productivity.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.synaptics.com/products/displaylink-graphics</string>
 	<key>Keywords</key>
 	<string>DisplayLink, Manager, Graphics, Connectivity, macOS</string>
 	<key>PackageID</key>

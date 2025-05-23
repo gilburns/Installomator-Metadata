@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.philandro.anydesk</string>
 	<key>AppName</key>
 	<string>AnyDesk</string>
 	<key>Description</key>
 	<string>AnyDesk is remote desktop software allowing users to connect to a computer remotely from anywhere in the world with Internet access. Being able to connect remotely, is especially helpful for businesses with on-the-go employees, and IT professionals</string>
 	<key>Documentation</key>
 	<string>https://help.anydesk.com/</string>
+	<key>Homepage</key>
+	<string>https://anydesk.com/</string>
 	<key>Keywords</key>
 	<string>AnyDesk,Remote</string>
 	<key>PackageID</key>

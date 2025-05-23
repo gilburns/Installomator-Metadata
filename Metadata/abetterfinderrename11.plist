@@ -10,6 +10,8 @@
 	<string>A Better Finder Rename 11 is a powerful file renaming tool for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://www.publicspace.net/ABetterFinderRename11/</string>
+	<key>Homepage</key>
+	<string>https://www.publicspace.net/ABetterFinderRename/</string>
 	<key>Keywords</key>
 	<string>macOS, file renaming, utility, productivity</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Dreamsynth is a powerful music synthesizer software for creating electronic music.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/dreamsynth-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, synthesizer, electronic, software</string>
 	<key>PackageID</key>

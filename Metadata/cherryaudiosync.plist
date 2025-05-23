@@ -10,6 +10,8 @@
 	<string>Cherry Audio Sync is a macOS application for synchronizing data.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, synchronization, data, Cherry Audio Sync</string>
 	<key>PackageID</key>

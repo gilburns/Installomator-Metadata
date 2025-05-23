@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jgraph.drawio.desktop</string>
 	<key>AppName</key>
 	<string>draw.io</string>
 	<key>Description</key>
 	<string>draw.io is a free online diagram drawing tool that can be used on macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.diagrams.net/documentation/index.html</string>
+	<key>Homepage</key>
+	<string>https://www.diagrams.net/</string>
 	<key>Keywords</key>
 	<string>diagram, drawing, tool, macOS</string>
 	<key>PackageID</key>

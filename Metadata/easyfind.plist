@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.grunenberg.EasyFind</string>
 	<key>AppName</key>
 	<string>EasyFind</string>
 	<key>Description</key>
 	<string>EasyFind is a user-friendly search tool for quickly locating files and folders on your computer.</string>
 	<key>Documentation</key>
 	<string>https://www.easyfind.com/docs</string>
+	<key>Homepage</key>
+	<string>https://www.devontechnologies.com/apps/freeware</string>
 	<key>Keywords</key>
 	<string>search tool, file finder, quick search, user-friendly</string>
 	<key>PackageID</key>

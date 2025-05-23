@@ -10,6 +10,8 @@
 	<string>Galactic Reverb is a digital audio effect that simulates reverberation in outer space.</string>
 	<key>Documentation</key>
 	<string>https://galacticreverb.com/docs</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, plugin, software, effects, space, reverb</string>
 	<key>PackageID</key>

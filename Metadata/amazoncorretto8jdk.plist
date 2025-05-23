@@ -10,6 +10,8 @@
 	<string>Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).</string>
 	<key>Documentation</key>
 	<string>https://docs.aws.amazon.com/corretto/</string>
+	<key>Homepage</key>
+	<string>https://corretto.aws/</string>
 	<key>Keywords</key>
 	<string>Amazon,Corretto,Java,Runtime</string>
 	<key>PackageID</key>

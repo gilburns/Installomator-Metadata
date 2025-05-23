@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.colliderli.iina</string>
 	<key>AppName</key>
 	<string>IINA</string>
 	<key>Description</key>
 	<string>Modern media player for macOS with a clean and intuitive interface.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://iina.io/</string>
 	<key>Keywords</key>
 	<string>macOS, media player, IINA, video player</string>
 	<key>PackageID</key>

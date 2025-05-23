@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jordanbaird.Ice</string>
 	<key>AppName</key>
 	<string>Ice</string>
 	<key>Description</key>
 	<string>Ice is a modern C++ middleware framework.</string>
 	<key>Documentation</key>
 	<string>https://doc.zeroc.com/display/Ice37/Ice+Manual</string>
+	<key>Homepage</key>
+	<string>https://icemenubar.app/</string>
 	<key>Keywords</key>
 	<string>C++, middleware, framework</string>
 	<key>PackageID</key>

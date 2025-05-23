@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.basecamp.basecamp3</string>
 	<key>AppName</key>
 	<string>Basecamp 3</string>
 	<key>Description</key>
 	<string>Project management and team collaboration software.</string>
 	<key>Documentation</key>
 	<string>https://basecamp.com/help/3/guides/getting-started</string>
+	<key>Homepage</key>
+	<string>https://basecamp.com/help/3,2.4.2/guides/apps/mac</string>
 	<key>Keywords</key>
 	<string>Project Management, Team Collaboration, Task Tracking, Communication</string>
 	<key>PackageID</key>

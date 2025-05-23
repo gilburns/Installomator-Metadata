@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>company.thebrowser.Browser</string>
 	<key>AppName</key>
 	<string>Arc</string>
 	<key>Description</key>
 	<string>Arc is a software tool for creating and managing cloud-based data pipelines.</string>
 	<key>Documentation</key>
 	<string>https://example.com/docs/arc</string>
+	<key>Homepage</key>
+	<string>https://arc.net/</string>
 	<key>Keywords</key>
 	<string>data, pipelines, cloud, management</string>
 	<key>PackageID</key>

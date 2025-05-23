@@ -10,6 +10,8 @@
 	<string>Manage and create profiles for iMazing config editor on macOS</string>
 	<key>Documentation</key>
 	<string>https://imazing.com/profile-editor</string>
+	<key>Homepage</key>
+	<string>https://imazing.com/profile-editor</string>
 	<key>Keywords</key>
 	<string>Profile, Editor, macOS, Configure, Manage</string>
 	<key>PackageID</key>

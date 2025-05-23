@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.insomnia.app</string>
 	<key>AppName</key>
 	<string>Insomnia</string>
 	<key>Description</key>
 	<string>Open-source REST client tool for testing REST API requests</string>
 	<key>Documentation</key>
 	<string>https://support.insomnia.rest/</string>
+	<key>Homepage</key>
+	<string>https://insomnia.rest/</string>
 	<key>Keywords</key>
 	<string>REST API, client, testing, requests</string>
 	<key>PackageID</key>

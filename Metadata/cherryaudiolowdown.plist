@@ -10,6 +10,8 @@
 	<string>Lowdown is a versatile note-taking software for organizing information.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/lowdown-bass-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>

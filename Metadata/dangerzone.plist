@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>media.firstlook.dangerzone</string>
 	<key>AppName</key>
 	<string>Dangerzone</string>
 	<key>Description</key>
 	<string>A tool for secure file conversion on macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://dangerzone.rocks/</string>
 	<key>Keywords</key>
 	<string>macOS, security, file conversion</string>
 	<key>PackageID</key>

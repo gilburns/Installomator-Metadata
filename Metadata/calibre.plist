@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.kovidgoyal.calibre</string>
 	<key>AppName</key>
 	<string>calibre</string>
 	<key>Description</key>
 	<string>E-book management software for macOS</string>
 	<key>Documentation</key>
 	<string>https://manual.calibre-ebook.com/</string>
+	<key>Homepage</key>
+	<string>https://calibre-ebook.com/</string>
 	<key>Keywords</key>
 	<string>E-book, Management, Reading, macOS</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.FormaGrid.Airtable</string>
 	<key>AppName</key>
 	<string>Airtable</string>
 	<key>Description</key>
 	<string>Airtable is a spreadsheet-database hybrid tool for macOS users.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://airtable.com/</string>
 	<key>Keywords</key>
 	<string>Database, Spreadsheet, macOS, Tool</string>
 	<key>PackageID</key>

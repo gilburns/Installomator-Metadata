@@ -10,6 +10,8 @@
 	<string>Quadra is a versatile productivity software for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://store.cherryaudio.com/bundles/quadra-synthesizer</string>
+	<key>Homepage</key>
+	<string>https://cherryaudio.com</string>
 	<key>Keywords</key>
 	<string>music, virtual, synthesizer, plugin, software</string>
 	<key>PackageID</key>
