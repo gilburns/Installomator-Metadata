@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mcneel.rhinoceros.7</string>
 	<key>AppName</key>
 	<string>Rhino 7</string>
 	<key>Description</key>
 	<string>3D modeling software for macOS</string>
 	<key>Documentation</key>
 	<string>https://www.rhino3d.com/7</string>
+	<key>Homepage</key>
+	<string>https://www.rhino3d.com/</string>
 	<key>Keywords</key>
 	<string>macOS, 3D modeling, design, engineering</string>
 	<key>PackageID</key>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.rancherdesktop.app</string>
 	<key>AppName</key>
 	<string>Rancher Desktop</string>
 	<key>Description</key>
 	<string>Rancher Desktop is a tool that enables you to run Kubernetes clusters on your local machine.</string>
 	<key>Documentation</key>
+	<string>https://rancherdesktop.io/</string>
+	<key>Homepage</key>
 	<string>https://rancherdesktop.io/</string>
 	<key>Keywords</key>
 	<string>Kubernetes, clusters, macOS, local machine</string>

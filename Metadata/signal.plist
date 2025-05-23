@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.whispersystems.signal-desktop</string>
 	<key>AppName</key>
 	<string>Signal</string>
 	<key>Description</key>
 	<string>Encrypted messaging app for secure communication.</string>
 	<key>Documentation</key>
 	<string>https://support.signal.org/hc/en-us/categories/360000851171-Signal-Desktop</string>
+	<key>Homepage</key>
+	<string>https://signal.org/</string>
 	<key>Keywords</key>
 	<string>secure, messaging, encrypted, macOS</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.carriez.rustdesk</string>
 	<key>AppName</key>
 	<string>RustDesk</string>
 	<key>Description</key>
 	<string>RustDesk is an open-source remote control alternative designed for self-hosting and security. It allows you to access remote computers, provide support, and collaborate online.</string>
 	<key>Documentation</key>
 	<string>https://rustdesk.com/docs</string>
+	<key>Homepage</key>
+	<string>https://rustdesk.com/</string>
 	<key>Keywords</key>
 	<string>Remote Control,RustDesk</string>
 	<key>PackageID</key>

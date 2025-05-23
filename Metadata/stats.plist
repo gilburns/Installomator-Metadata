@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>eu.exelban.Stats</string>
 	<key>AppName</key>
 	<string>Stats</string>
 	<key>Description</key>
 	<string>Stats is a software for analyzing and visualizing data.</string>
 	<key>Documentation</key>
 	<string>https://statsdocs.com</string>
+	<key>Homepage</key>
+	<string>https://github.com/exelban/stats</string>
 	<key>Keywords</key>
 	<string>statistics, analysis, visualization, data</string>
 	<key>PackageID</key>

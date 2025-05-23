@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sequel-ace.sequel-ace</string>
 	<key>AppName</key>
 	<string>Sequel Ace</string>
 	<key>Description</key>
 	<string>Sequel Ace is a MySQL database management tool for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://github.com/Sequel-Ace/Sequel-Ace</string>
 	<key>Keywords</key>
 	<string>MySQL, database, macOS</string>
 	<key>PackageID</key>

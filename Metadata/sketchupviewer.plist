@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sketchup.SketchUp.2025</string>
 	<key>AppName</key>
 	<string>SketchUpViewer</string>
 	<key>Description</key>
 	<string>SketchUp Viewer is a multimedia application that allows you to effortlessly view and print 3D models designed in SketchUp. You can inspect computer-generated models without needing the complete SketchUp software suite.</string>
 	<key>Documentation</key>
 	<string>https://help.sketchup.com</string>
+	<key>Homepage</key>
+	<string>https://www.sketchup.com/</string>
 	<key>Keywords</key>
 	<string>SketchUp,SketchUp Viewer</string>
 	<key>PackageID</key>

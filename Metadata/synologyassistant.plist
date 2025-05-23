@@ -10,6 +10,8 @@
 	<string>SynologyAssistant is a utility tool for managing Synology NAS devices on macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.synology.com/en-global/support/download/SynologyAssistant</string>
+	<key>Homepage</key>
+	<string>https://www.synology.com/</string>
 	<key>Keywords</key>
 	<string>Synology, Assistant, macOS, NAS, management</string>
 	<key>PackageID</key>

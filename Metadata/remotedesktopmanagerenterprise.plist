@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.devolutions.remotedesktopmanager</string>
 	<key>AppName</key>
 	<string>Remote Desktop Manager</string>
 	<key>Description</key>
 	<string>IT departments are responsible for managing and controlling access to an ever-growing inventory of on-site and off-site servers, computers and devices. Yet relying on multiple remote connection tools and password managers is inefficient, frustrating and unsecure. Instead of being treated to streamlined clarity, IT pros, sysadmins and help desk technicians struggle with ongoing chaos. The solution is to centralize remote connection technologies, remote machine data, password management, and access control on a platform that is secure, scalable, and refreshingly simple to use.</string>
 	<key>Documentation</key>
 	<string>https://help.remotedesktopmanager.com/documents.htm</string>
+	<key>Homepage</key>
+	<string>https://mac.remotedesktopmanager.com/</string>
 	<key>Keywords</key>
 	<string>RDP,Remote Desktop Manager,connection,remote desktop</string>
 	<key>PackageID</key>

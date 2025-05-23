@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hankinsoft.osx.SQLProPostgres</string>
 	<key>AppName</key>
 	<string>SQLPro for Postgres</string>
 	<key>Description</key>
 	<string>SQLPro for Postgres is a powerful PostgreSQL database management tool for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.macpostgresclient.com/SQLProPostgres</string>
 	<key>Keywords</key>
 	<string>PostgreSQL, database, macOS</string>
 	<key>PackageID</key>

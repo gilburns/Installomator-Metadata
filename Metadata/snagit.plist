@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.TechSmith.Snagit2024</string>
 	<key>AppName</key>
 	<string>Snagit 2024</string>
 	<key>Description</key>
 	<string>Snagit 2024 is a powerful screen capture and editing software.</string>
 	<key>Documentation</key>
 	<string>https://www.techsmith.com/documentation/snagit/</string>
+	<key>Homepage</key>
+	<string>https://www.techsmith.com/screen-capture.html</string>
 	<key>Keywords</key>
 	<string>screen capture, editing, software, Snagit, TechSmith</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.realvnc.vncviewer</string>
 	<key>AppName</key>
 	<string>Real VNC Viewer</string>
 	<key>Description</key>
 	<string>The original and best for remote access across desktop and mobile. VNC software enables you to remotely access and securely control your desktop or mobile.</string>
 	<key>Documentation</key>
 	<string>https://www.realvnc.com/docs/</string>
+	<key>Homepage</key>
+	<string>https://www.realvnc.com/</string>
 	<key>Keywords</key>
 	<string>RDP,RealVNC,remote access</string>
 	<key>PackageID</key>

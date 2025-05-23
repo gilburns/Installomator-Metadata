@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hankinsoft.osx.sqlprostudio</string>
 	<key>AppName</key>
 	<string>SQLPro Studio</string>
 	<key>Description</key>
 	<string>SQLPro Studio is a powerful database management tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://macos.sqlpro.com/</string>
+	<key>Homepage</key>
+	<string>https://www.sqlprostudio.com/</string>
 	<key>Keywords</key>
 	<string>SQL, database, management, macOS</string>
 	<key>PackageID</key>

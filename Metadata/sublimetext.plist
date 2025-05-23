@@ -10,6 +10,8 @@
 	<string>A sophisticated text editor used for code, markup, and prose</string>
 	<key>Documentation</key>
 	<string>https://www.sublimetext.com/docs/</string>
+	<key>Homepage</key>
+	<string>https://www.sublimetext.com/</string>
 	<key>Keywords</key>
 	<string>text editor, code editor, macOS, Sublime Text</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.rstudio.desktop</string>
 	<key>AppName</key>
 	<string>RStudio</string>
 	<key>Description</key>
 	<string>Studio is a free and open-source integrated development environment for R, a programming language for statistical computing and graphics. RStudio was founded by JJ Allaire, creator of the programming language ColdFusion. Hadley Wickham is the Chief Scientist at RStudio.</string>
 	<key>Documentation</key>
 	<string>https://support.rstudio.com/hc/en-us/categories/200035113-Documentation</string>
+	<key>Homepage</key>
+	<string>https://posit.co/products/open-source/rstudio/</string>
 	<key>Keywords</key>
 	<string>RStudio,SDE,SDK,development,programming</string>
 	<key>PackageID</key>

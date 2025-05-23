@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.squirrels.Reflector-4</string>
 	<key>AppName</key>
 	<string>Reflector 4</string>
 	<key>Description</key>
 	<string>Screen mirroring and recording software for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.airsquirrels.com/reflector/</string>
 	<key>Keywords</key>
 	<string>macOS, screen mirroring, recording, software</string>
 	<key>PackageID</key>

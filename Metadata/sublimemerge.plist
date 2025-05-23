@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sublimemerge</string>
 	<key>AppName</key>
 	<string>Sublime Merge</string>
 	<key>Description</key>
 	<string>Sublime Merge is a Git client with a powerful feature set.</string>
 	<key>Documentation</key>
 	<string>https://www.sublimemerge.com/docs/</string>
+	<key>Homepage</key>
+	<string>https://www.sublimemerge.com/</string>
 	<key>Keywords</key>
 	<string>Git, client, macOS, Sublime Merge</string>
 	<key>PackageID</key>

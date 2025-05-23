@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.sourceforge.skim-app.skim</string>
 	<key>AppName</key>
 	<string>Skim</string>
 	<key>Description</key>
 	<string>Skim is a PDF reader and note-taker for macOS.</string>
 	<key>Documentation</key>
 	<string>https://skim-app.sourceforge.io/manual/SkimHelp_38.xhtml</string>
+	<key>Homepage</key>
+	<string>https://skim-app.sourceforge.io/</string>
 	<key>Keywords</key>
 	<string>PDF, reader, note-taker, macOS</string>
 	<key>PackageID</key>

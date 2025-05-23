@@ -10,6 +10,8 @@
 	<string>Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.</string>
 	<key>Documentation</key>
 	<string>https://slack.com/help</string>
+	<key>Homepage</key>
+	<string>https://slack.com/</string>
 	<key>Keywords</key>
 	<string>Slack,chat,collaboration,share</string>
 	<key>PackageID</key>

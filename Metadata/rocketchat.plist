@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>chat.rocket</string>
 	<key>AppName</key>
 	<string>Rocket.Chat</string>
 	<key>Description</key>
 	<string>Explore Rocket.Chat, where we put data privacy into every conversation and enable teams to collaborate seamlessly.</string>
 	<key>Documentation</key>
 	<string>https://desk.rocket.chat/portal/en/home</string>
+	<key>Homepage</key>
+	<string>https://rocket.chat/</string>
 	<key>Keywords</key>
 	<string>Chat,Collaboration,Conversation,Rocket.Chat</string>
 	<key>PackageID</key>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.knollsoft.Rectangle</string>
 	<key>AppName</key>
 	<string>Rectangle</string>
 	<key>Description</key>
 	<string>Rectangle is a window management app for macOS.</string>
 	<key>Documentation</key>
+	<string>https://rectangleapp.com/</string>
+	<key>Homepage</key>
 	<string>https://rectangleapp.com/</string>
 	<key>Keywords</key>
 	<string>macOS, window management, productivity</string>

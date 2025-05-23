@@ -10,6 +10,8 @@
 	<string>Real VNC Server is a remote desktop software for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.realvnc.com/</string>
 	<key>Keywords</key>
 	<string>remote desktop, VNC, macOS</string>
 	<key>PackageID</key>

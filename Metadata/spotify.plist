@@ -10,6 +10,8 @@
 	<string>Music streaming service offering a vast library of tracks and personalized playlists.</string>
 	<key>Documentation</key>
 	<string>https://developer.spotify.com/documentation/web-api/</string>
+	<key>Homepage</key>
+	<string>https://www.spotify.com/</string>
 	<key>Keywords</key>
 	<string>music, streaming, playlists, albums</string>
 	<key>PackageID</key>

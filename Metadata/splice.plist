@@ -10,6 +10,8 @@
 	<string>Splice is a music production platform for macOS.</string>
 	<key>Documentation</key>
 	<string>https://splice.com/</string>
+	<key>Homepage</key>
+	<string>https://splice.com/</string>
 	<key>Keywords</key>
 	<string>music, production, macOS, software</string>
 	<key>PackageID</key>

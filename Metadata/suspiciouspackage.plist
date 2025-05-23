@@ -10,6 +10,8 @@
 	<string>Suspicious Package is a macOS app for examining macOS installer packages.</string>
 	<key>Documentation</key>
 	<string>https://www.mothersruin.com/software/SuspiciousPackage/Documentation.html</string>
+	<key>Homepage</key>
+	<string>https://www.mothersruin.com/software/SuspiciousPackage/</string>
 	<key>Keywords</key>
 	<string>macOS, app, installer packages</string>
 	<key>PackageID</key>

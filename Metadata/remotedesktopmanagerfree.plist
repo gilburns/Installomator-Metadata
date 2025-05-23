@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.devolutions.remotedesktopmanager</string>
 	<key>AppName</key>
 	<string>Remote Desktop Manager</string>
 	<key>Description</key>
 	<string>For individual users who don't need to share remote connections and privileged passwords with other IT professionals.</string>
 	<key>Documentation</key>
 	<string>https://help.remotedesktopmanager.com/documents.htm</string>
+	<key>Homepage</key>
+	<string>https://mac.remotedesktopmanager.com/</string>
 	<key>Keywords</key>
 	<string>RDMFree,RDP,Remote Desktop Manager,connection,remote desktop</string>
 	<key>PackageID</key>

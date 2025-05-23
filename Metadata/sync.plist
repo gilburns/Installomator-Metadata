@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sync.desktop</string>
 	<key>AppName</key>
 	<string>Sync</string>
 	<key>Description</key>
 	<string>Sync app for macOS allows users to seamlessly synchronize files and data across multiple devices.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.sync.com/</string>
 	<key>Keywords</key>
 	<string>Sync, macOS, files, data, synchronization</string>
 	<key>PackageID</key>

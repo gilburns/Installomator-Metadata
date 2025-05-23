@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.splashtop.splashtopBusiness.*</string>
 	<key>AppName</key>
 	<string>Splashtop Business</string>
 	<key>Description</key>
 	<string>Remote desktop software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.splashtop.com/docs</string>
+	<key>Homepage</key>
+	<string>https://www.splashtop.com/business</string>
 	<key>Keywords</key>
 	<string>remote desktop, macOS, Splashtop, business</string>
 	<key>PackageID</key>

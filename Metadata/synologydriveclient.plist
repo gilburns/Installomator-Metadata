@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.synology.CloudStation</string>
 	<key>AppName</key>
 	<string>Synology Drive Client</string>
 	<key>Description</key>
 	<string>Sync and access files on your Synology NAS from a macOS device.</string>
 	<key>Documentation</key>
 	<string>https://www.synology.com/en-global/knowledgebase/DSM/help/SynologyDriveClient/desktopclient</string>
+	<key>Homepage</key>
+	<string>https://www.synology.com/</string>
 	<key>Keywords</key>
 	<string>Synology, Drive, Client, macOS, sync, access</string>
 	<key>PackageID</key>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.matthewpalmer.Rocket</string>
 	<key>AppName</key>
 	<string>Rocket</string>
 	<key>Description</key>
 	<string>Rocket is a macOS app for quickly accessing emoji characters.</string>
 	<key>Documentation</key>
+	<string>https://matthewpalmer.net/rocket/</string>
+	<key>Homepage</key>
 	<string>https://matthewpalmer.net/rocket/</string>
 	<key>Keywords</key>
 	<string>macOS, app, emoji, characters</string>

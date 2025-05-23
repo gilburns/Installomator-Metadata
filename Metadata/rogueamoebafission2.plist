@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.rogueamoeba.Fission</string>
 	<key>AppName</key>
 	<string>Fission</string>
 	<key>Description</key>
 	<string>Fission is an open-source framework for serverless functions on Kubernetes.</string>
 	<key>Documentation</key>
 	<string>https://docs.fission.io</string>
+	<key>Homepage</key>
+	<string>https://rogueamoeba.com/fission/</string>
 	<key>Keywords</key>
 	<string>serverless, functions, Kubernetes</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Snagit is a screenshot program that captures video display and audio output.</string>
 	<key>Documentation</key>
 	<string>http://www.techsmith.com</string>
+	<key>Homepage</key>
+	<string>https://www.techsmith.com/screen-capture.html</string>
 	<key>Keywords</key>
 	<string>Snagit,screen capture,screencapture,screenshot</string>
 	<key>PackageID</key>

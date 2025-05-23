@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.sourceforge.sqlitebrowser</string>
 	<key>AppName</key>
 	<string>DB Browser for SQLite</string>
 	<key>Description</key>
 	<string>DB Browser for SQLite is a high-quality, visual, open-source tool to create, design, and edit SQLite databases for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://sqlitebrowser.org</string>
+	<key>Homepage</key>
+	<string>https://sqlitebrowser.org/</string>
 	<key>Keywords</key>
 	<string>SQLite, database, macOS, open-source, design, edit</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.rodecentral.installer</string>
 	<key>AppName</key>
 	<string>RODE Central</string>
 	<key>Description</key>
 	<string>RODE Central is a software application for macOS that facilitates the management of RODE devices.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://rode.com/en/apps/rode-central</string>
 	<key>Keywords</key>
 	<string>RODE, Central, macOS, management, devices</string>
 	<key>PackageID</key>

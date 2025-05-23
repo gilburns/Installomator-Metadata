@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.raycast.macos</string>
 	<key>AppName</key>
 	<string>Raycast</string>
 	<key>Description</key>
 	<string>Raycast is a productivity tool for macOS that helps you perform tasks faster with customizable scripts and actions.</string>
 	<key>Documentation</key>
 	<string>https://raycast.com/docs</string>
+	<key>Homepage</key>
+	<string>https://raycast.com/</string>
 	<key>Keywords</key>
 	<string>productivity, macOS, scripts, actions</string>
 	<key>PackageID</key>
