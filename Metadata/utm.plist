@@ -10,6 +10,8 @@
 	<string>UTM is an open-source virtual machine emulator that allows users to run Windows, Linux, and BSD software on macOS devices.</string>
 	<key>Documentation</key>
 	<string>https://mac.getutm.app/docs/</string>
+	<key>Homepage</key>
+	<string>https://mac.getutm.app/</string>
 	<key>Keywords</key>
 	<string>Emulator, Virtual Machine, macOS, Windows, Linux, BSD</string>
 	<key>PackageID</key>

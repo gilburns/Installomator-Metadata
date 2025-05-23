@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.twingate.macos</string>
 	<key>AppName</key>
 	<string>Twingate</string>
 	<key>Description</key>
 	<string>Twingate is a cloud-based service that provides a secure alternative to traditional VPNs (Virtual Private Networks).</string>
 	<key>Documentation</key>
 	<string>https://help.twingate.com/</string>
+	<key>Homepage</key>
+	<string>https://twingate.com/</string>
 	<key>Keywords</key>
 	<string>Twingate,VPN</string>
 	<key>PackageID</key>

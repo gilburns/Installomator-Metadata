@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.mozilla.thunderbird</string>
 	<key>AppName</key>
 	<string>Thunderbird</string>
 	<key>Description</key>
 	<string>Thunderbird is a free and open-source email application that’s easy to set up and customize.</string>
 	<key>Documentation</key>
 	<string>https://support.mozilla.org/en-US/products/thunderbird</string>
+	<key>Homepage</key>
+	<string>https://www.thunderbird.net/en-US/</string>
 	<key>Keywords</key>
 	<string>email, open-source, macOS, Thunderbird</string>
 	<key>PackageID</key>

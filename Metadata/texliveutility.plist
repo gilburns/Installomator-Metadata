@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.googlecode.mactlmgr.tlu</string>
 	<key>AppName</key>
 	<string>TeX Live Utility</string>
 	<key>Description</key>
 	<string>TeX Live Utility is a macOS graphical user interface for managing TeX Live installations.</string>
 	<key>Documentation</key>
 	<string>https://www.tug.org/texlive/tlmgr.html</string>
+	<key>Homepage</key>
+	<string>https://github.com/amaxwell/tlutility</string>
 	<key>Keywords</key>
 	<string>TeX, macOS, utility, TeX Live, LaTeX</string>
 	<key>PackageID</key>

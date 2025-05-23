@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.tunnelblick.tunnelblick</string>
 	<key>AppName</key>
 	<string>Tunnelblick</string>
 	<key>Description</key>
 	<string>Open-source VPN client for macOS</string>
 	<key>Documentation</key>
 	<string>https://tunnelblick.net/docs/Unofficial_Documentation.html</string>
+	<key>Homepage</key>
+	<string>https://www.tunnelblick.net/</string>
 	<key>Keywords</key>
 	<string>VPN, macOS, open-source</string>
 	<key>PackageID</key>

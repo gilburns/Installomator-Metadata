@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.macromates.TextMate</string>
 	<key>AppName</key>
 	<string>TextMate</string>
 	<key>Description</key>
 	<string>A versatile text editor for macOS users.</string>
 	<key>Documentation</key>
+	<string>https://macromates.com/</string>
+	<key>Homepage</key>
 	<string>https://macromates.com/</string>
 	<key>Keywords</key>
 	<string>Text editor, macOS, coding, development</string>

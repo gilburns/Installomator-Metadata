@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.panic.Transmit</string>
 	<key>AppName</key>
 	<string>Transmit</string>
 	<key>Description</key>
 	<string>Transmit is a powerful and user-friendly FTP client for macOS.</string>
 	<key>Documentation</key>
+	<string>https://panic.com/transmit/</string>
+	<key>Homepage</key>
 	<string>https://panic.com/transmit/</string>
 	<key>Keywords</key>
 	<string>FTP, client, macOS, file transfer</string>

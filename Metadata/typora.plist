@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>abnerworks.Typora</string>
 	<key>AppName</key>
 	<string>Typora</string>
 	<key>Description</key>
 	<string>Typora is a minimal markdown editor with integrated live preview</string>
 	<key>Documentation</key>
 	<string>https://support.typora.io/Support/</string>
+	<key>Homepage</key>
+	<string>https://typora.io/</string>
 	<key>Keywords</key>
 	<string>markdown, editor, live preview</string>
 	<key>PackageID</key>

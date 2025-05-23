@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.thonny.Thonny.component</string>
 	<key>AppName</key>
 	<string>Thonny</string>
 	<key>Description</key>
 	<string>Thonny is a Python IDE for beginners that aims to provide a simple and clean interface for learning programming.</string>
 	<key>Documentation</key>
 	<string>https://thonny.org/documentation</string>
+	<key>Homepage</key>
+	<string>https://thonny.org/</string>
 	<key>Keywords</key>
 	<string>Python, IDE, beginners, programming</string>
 	<key>PackageID</key>

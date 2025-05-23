@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.todoist.mac.Todoist</string>
 	<key>AppName</key>
 	<string>Todoist</string>
 	<key>Description</key>
 	<string>Todoist is a popular task management app that helps you to organize and prioritize your tasks effectively.</string>
 	<key>Documentation</key>
 	<string>https://get.todoist.help/hc/en-us</string>
+	<key>Homepage</key>
+	<string>https://todoist.com/home</string>
 	<key>Keywords</key>
 	<string>task management, productivity, organization</string>
 	<key>PackageID</key>

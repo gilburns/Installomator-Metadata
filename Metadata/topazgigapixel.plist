@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.topazlabs.TopazGigapixelAI</string>
 	<key>AppName</key>
 	<string>Topaz Gigapixel AI</string>
 	<key>Description</key>
 	<string>Topaz Gigapixel AI is an advanced image upscaling software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://help.topazlabs.com/hc/en-us/categories/360002903652-Topaz-Gigapixel-AI</string>
+	<key>Homepage</key>
+	<string>https://www.topazlabs.com/gigapixel-ai</string>
 	<key>Keywords</key>
 	<string>image upscaling, Topaz Gigapixel AI, macOS, software</string>
 	<key>PackageID</key>

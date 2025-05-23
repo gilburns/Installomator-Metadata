@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.teamviewer.TeamViewerQS</string>
 	<key>AppName</key>
 	<string>TeamViewerQS</string>
 	<key>Description</key>
 	<string>QuickSupport module for remote control and support for TeamViewer</string>
 	<key>Documentation</key>
 	<string>https://www.teamviewer.com/en/support/documentation/</string>
+	<key>Homepage</key>
+	<string>https://www.teamviewer.com/</string>
 	<key>Keywords</key>
 	<string>remote control, support, QuickSupport, TeamViewer</string>
 	<key>PackageID</key>

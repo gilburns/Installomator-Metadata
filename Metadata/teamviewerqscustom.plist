@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.teamviewer.TeamViewerQS</string>
 	<key>AppName</key>
 	<string>TeamViewerQS</string>
 	<key>Description</key>
 	<string>TeamViewerQS is a remote control and desktop sharing software for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.teamviewer.com/</string>
 	<key>Keywords</key>
 	<string>remote control, desktop sharing, macOS</string>
 	<key>PackageID</key>

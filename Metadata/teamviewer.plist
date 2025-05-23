@@ -10,6 +10,8 @@
 	<string>TeamViewer is proprietary software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.</string>
 	<key>Documentation</key>
 	<string>https://www.teamviewer.com/en-us/documents/</string>
+	<key>Homepage</key>
+	<string>https://www.teamviewer.com/</string>
 	<key>Keywords</key>
 	<string>TeamViewer,conferencing,meetings,remote control,sharing</string>
 	<key>PackageID</key>

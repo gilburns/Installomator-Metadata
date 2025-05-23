@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.teamviewer.TeamViewerHost</string>
 	<key>AppName</key>
 	<string>TeamViewerHost</string>
 	<key>Description</key>
 	<string>TeamViewerHost is remote control software for easy desktop sharing and file transfer.</string>
 	<key>Documentation</key>
 	<string>https://www.teamviewer.com/en/support/documentation/</string>
+	<key>Homepage</key>
+	<string>https://www.teamviewer.com/</string>
 	<key>Keywords</key>
 	<string>remote control, desktop sharing, file transfer</string>
 	<key>PackageID</key>

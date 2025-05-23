@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tailscale.ipn.macsys</string>
 	<key>AppName</key>
 	<string>Tailscale</string>
 	<key>Description</key>
 	<string>Tailscale is a VPN service that makes the devices and applications you own accessible anywhere in the world, securely and effortlessly. It enables encrypted point-to-point connections using the open source WireGuard protocol, which means only devices on your private network can communicate with each other.</string>
 	<key>Documentation</key>
 	<string>https://tailscale.com/contact/support/</string>
+	<key>Homepage</key>
+	<string>https://tailscale.com/</string>
 	<key>Keywords</key>
 	<string>IPN,Tailscale,VPN</string>
 	<key>PackageID</key>
