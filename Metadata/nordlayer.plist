@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.nordvpn.macos.teams</string>
 	<key>AppName</key>
 	<string>NordLayer</string>
 	<key>Description</key>
 	<string>Get simple and secure business network protection with our easy-to-use Windows app.</string>
 	<key>Documentation</key>
 	<string>https://help.nordlayer.com/docs</string>
+	<key>Homepage</key>
+	<string>https://nordlayer.com/</string>
 	<key>Keywords</key>
 	<string>NordLayer,VPN</string>
 	<key>PackageID</key>

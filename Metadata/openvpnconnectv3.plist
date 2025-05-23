@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.openvpn.client.app</string>
 	<key>AppName</key>
 	<string>OpenVPN Connect</string>
 	<key>Description</key>
 	<string>OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.</string>
 	<key>Documentation</key>
 	<string>https://openvpn.net/community/</string>
+	<key>Homepage</key>
+	<string>https://openvpn.net/client-connect-vpn-for-mac-os/</string>
 	<key>Keywords</key>
 	<string>Networking,OpenVPN,Security,VPN</string>
 	<key>PackageID</key>

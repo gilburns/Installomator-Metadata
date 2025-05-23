@@ -10,6 +10,8 @@
 	<string>OneDrive is a file hosting and synchronization service operated by Microsoft.</string>
 	<key>Documentation</key>
 	<string>https://support.microsoft.com/en-us/onedrive</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage</string>
 	<key>Keywords</key>
 	<string>file hosting, synchronization, Microsoft, cloud storage</string>
 	<key>PackageID</key>

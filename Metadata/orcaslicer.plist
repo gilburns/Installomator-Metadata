@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.softfever3d.orca-slicer</string>
 	<key>AppName</key>
 	<string>OrcaSlicer</string>
 	<key>Description</key>
 	<string>OrcaSlicer is a powerful tool for 3D printing enthusiasts to prepare, slice, and print their models with ease.</string>
 	<key>Documentation</key>
 	<string>https://orcaslicer.com/docs</string>
+	<key>Homepage</key>
+	<string>https://github.com/SoftFever/OrcaSlicer</string>
 	<key>Keywords</key>
 	<string>3D printing, slicing, modeling, software</string>
 	<key>PackageID</key>

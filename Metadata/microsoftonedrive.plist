@@ -10,6 +10,8 @@
 	<string>Help users in your organization store, sync, and share files in Microsoft 365.</string>
 	<key>Documentation</key>
 	<string>http://go.microsoft.com/fwlink/?LinkID=215117</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage</string>
 	<key>Keywords</key>
 	<string>Microsoft,OneDrive,sync</string>
 	<key>PackageID</key>

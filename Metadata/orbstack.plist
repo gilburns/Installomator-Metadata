@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dev.kdrag0n.MacVirt</string>
 	<key>AppName</key>
 	<string>OrbStack</string>
 	<key>Description</key>
 	<string>OrbStack is a versatile software for macOS that streamlines data management and synchronization.</string>
 	<key>Documentation</key>
 	<string>https://orbstack.com/docs</string>
+	<key>Homepage</key>
+	<string>https://orbstack.dev/</string>
 	<key>Keywords</key>
 	<string>data management, synchronization, macOS, software</string>
 	<key>PackageID</key>

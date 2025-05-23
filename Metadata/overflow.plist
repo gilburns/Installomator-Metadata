@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.overflow.mac.app</string>
 	<key>AppName</key>
 	<string>Overflow</string>
 	<key>Description</key>
 	<string>A powerful stack-based calculator app for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://overflowapp.com/docs</string>
+	<key>Homepage</key>
+	<string>https://stuntsoftware.com/overflow/</string>
 	<key>Keywords</key>
 	<string>calculator, macOS, stack-based, powerful</string>
 	<key>PackageID</key>

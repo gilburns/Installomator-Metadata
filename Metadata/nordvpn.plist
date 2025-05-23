@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.nordvpn.macos</string>
 	<key>AppName</key>
 	<string>NordVPN</string>
 	<key>Description</key>
 	<string>NordVPN is a popular Virtual Private Network (VPN) service that helps protect your internet connection and privacy online. It encrypts your data, hides your IP address, and allows you to use public Wi-Fi safely.</string>
 	<key>Documentation</key>
 	<string>https://support.nordvpn.com/</string>
+	<key>Homepage</key>
+	<string>https://nordvpn.com/</string>
 	<key>Keywords</key>
 	<string>NordVPN,VPN,Virtual Private Network</string>
 	<key>PackageID</key>

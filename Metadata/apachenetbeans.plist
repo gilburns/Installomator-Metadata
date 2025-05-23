@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.apache.netbeans</string>
 	<key>AppName</key>
 	<string>Apache NetBeans</string>
 	<key>Description</key>
 	<string>An open-source integrated development environment for Java, JavaScript, PHP, HTML, and other programming languages.</string>
 	<key>Documentation</key>
 	<string>https://netbeans.apache.org/kb/index.html</string>
+	<key>Homepage</key>
+	<string>https://netbeans.apache.org/</string>
 	<key>Keywords</key>
 	<string>IDE, Java, JavaScript, PHP, HTML</string>
 	<key>PackageID</key>

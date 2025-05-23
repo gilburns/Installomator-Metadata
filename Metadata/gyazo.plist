@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.gyazo.pkg</string>
 	<key>AppName</key>
 	<string>Gyazo</string>
 	<key>Description</key>
 	<string>Capture, edit, and share screenshots and GIFs effortlessly.</string>
 	<key>Documentation</key>
 	<string>https://gyazo.com/support/mac</string>
+	<key>Homepage</key>
+	<string>https://gyazo.com/</string>
 	<key>Keywords</key>
 	<string>screenshot, GIF, capture, share</string>
 	<key>PackageID</key>

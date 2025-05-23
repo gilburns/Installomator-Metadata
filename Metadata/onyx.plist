@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.titanium.OnyX</string>
 	<key>AppName</key>
 	<string>OnyX</string>
 	<key>Description</key>
 	<string>OnyX is a multifunctional maintenance and optimization tool for macOS.</string>
 	<key>Documentation</key>
+	<string>https://www.titanium-software.fr/en/onyx.html</string>
+	<key>Homepage</key>
 	<string>https://www.titanium-software.fr/en/onyx.html</string>
 	<key>Keywords</key>
 	<string>macOS, maintenance, optimization, utility</string>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.github.macadmins.Nudge</string>
 	<key>AppName</key>
 	<string>Nudge Suite</string>
 	<key>Description</key>
 	<string>Nudge is a multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates.</string>
 	<key>Documentation</key>
+	<string>https://github.com/macadmins/nudge</string>
+	<key>Homepage</key>
 	<string>https://github.com/macadmins/nudge</string>
 	<key>Keywords</key>
 	<string>macOS, software update, patching, updates</string>

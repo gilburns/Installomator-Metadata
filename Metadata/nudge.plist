@@ -10,6 +10,8 @@
 	<string>Nudge is a multi-linguistic application, offering custom user deferrals, which strongly encourages macOS updates.</string>
 	<key>Documentation</key>
 	<string>https://github.com/macadmins/nudge</string>
+	<key>Homepage</key>
+	<string>https://github.com/macadmins/nudge</string>
 	<key>Keywords</key>
 	<string>macOS, software update, patching, updates</string>
 	<key>PackageID</key>

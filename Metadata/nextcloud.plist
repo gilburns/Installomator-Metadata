@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.nextcloud.desktopclient</string>
 	<key>AppName</key>
 	<string>nextcloud</string>
 	<key>Description</key>
 	<string>Nextcloud is a suite of client-server software for creating and using file hosting services. Nextcloud application functionally is similar to Dropbox. Unlike Dropbox Nextcloud does not offer off-premises file storage hosting.</string>
 	<key>Documentation</key>
 	<string>https://portal.nextcloud.com/</string>
+	<key>Homepage</key>
+	<string>https://nextcloud.com/</string>
 	<key>Keywords</key>
 	<string>Nextcloud,cloud,file hosting,hosting,storage</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.objective-see.Netiquette</string>
 	<key>AppName</key>
 	<string>Netiquette</string>
 	<key>Description</key>
 	<string>Netiquette is a macOS application for managing and optimizing network settings.</string>
 	<key>Documentation</key>
 	<string>https://netiquette.app/docs</string>
+	<key>Homepage</key>
+	<string>https://objective-see.org/products/netiquette.html</string>
 	<key>Keywords</key>
 	<string>macOS, network, settings, management</string>
 	<key>PackageID</key>

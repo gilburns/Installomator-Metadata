@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.omnigroup.OmniOutliner5</string>
 	<key>AppName</key>
 	<string>OmniOutliner</string>
 	<key>Description</key>
 	<string>OmniOutliner is a flexible outlining and organizational tool for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://support.omnigroup.com/omnioutliner</string>
+	<key>Homepage</key>
+	<string>https://www.omnigroup.com/omnioutliner/</string>
 	<key>Keywords</key>
 	<string>macOS, outlining, organization, tool</string>
 	<key>PackageID</key>

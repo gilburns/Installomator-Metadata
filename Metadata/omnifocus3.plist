@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.omnigroup.OmniFocus3</string>
 	<key>AppName</key>
 	<string>OmniFocus</string>
 	<key>Description</key>
 	<string>OmniFocus is a task management application for macOS.</string>
 	<key>Documentation</key>
+	<string>https://www.omnigroup.com/omnifocus/</string>
+	<key>Homepage</key>
 	<string>https://www.omnigroup.com/omnifocus/</string>
 	<key>Keywords</key>
 	<string>task management, macOS, productivity</string>

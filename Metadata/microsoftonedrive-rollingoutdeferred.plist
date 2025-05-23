@@ -10,6 +10,8 @@
 	<string>OneDrive is a cloud storage service provided by Microsoft for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://support.microsoft.com/en-us/onedrive</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage</string>
 	<key>Keywords</key>
 	<string>Microsoft, cloud storage, macOS, files, documents</string>
 	<key>PackageID</key>

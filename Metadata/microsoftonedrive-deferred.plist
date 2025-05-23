@@ -10,6 +10,8 @@
 	<string>Cloud storage and file synchronization service by Microsoft</string>
 	<key>Documentation</key>
 	<string>https://support.office.com/onedrive</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage</string>
 	<key>Keywords</key>
 	<string>Cloud storage, File synchronization, Microsoft, Data backup</string>
 	<key>PackageID</key>

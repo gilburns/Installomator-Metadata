@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.ollama</string>
 	<key>AppName</key>
 	<string>Ollama</string>
 	<key>Description</key>
 	<string>Ollama is a productivity software for macOS that helps users organize their tasks efficiently.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://ollama.ai/</string>
 	<key>Keywords</key>
 	<string>Productivity, macOS, Tasks, Organization</string>
 	<key>PackageID</key>

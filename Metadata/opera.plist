@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.operasoftware.Opera</string>
 	<key>AppName</key>
 	<string>Opera</string>
 	<key>Description</key>
 	<string>Opera is a web browser for Microsoft Windows, Android, iOS, macOS, and Linux operating systems, developed by Chinese-owned company Opera Software AS.</string>
 	<key>Documentation</key>
 	<string>https://help.opera.com/en/get-started/</string>
+	<key>Homepage</key>
+	<string>https://www.opera.com/</string>
 	<key>Keywords</key>
 	<string>Opera,browser,web,web browser</string>
 	<key>PackageID</key>

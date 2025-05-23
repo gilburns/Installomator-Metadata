@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.obsproject.obs-studio</string>
 	<key>AppName</key>
 	<string>OBS</string>
 	<key>Description</key>
 	<string>Free and open source software for video recording and live streaming.</string>
 	<key>Documentation</key>
 	<string>https://obsproject.com/help</string>
+	<key>Homepage</key>
+	<string>https://obsproject.com/</string>
 	<key>Keywords</key>
 	<string>Recording,Screen Capture,Screen Recording,Streaming</string>
 	<key>PackageID</key>
