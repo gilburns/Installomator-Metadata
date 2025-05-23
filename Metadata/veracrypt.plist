@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.idrix.pkg.veracrypt</string>
 	<key>AppName</key>
 	<string>VeraCrypt</string>
 	<key>Description</key>
 	<string>Open-source disk encryption software</string>
 	<key>Documentation</key>
 	<string>https://www.veracrypt.fr/en/Documentation.html</string>
+	<key>Homepage</key>
+	<string>https://www.veracrypt.fr/</string>
 	<key>Keywords</key>
 	<string>Security, Encryption, Disk Encryption, Privacy</string>
 	<key>PackageID</key>

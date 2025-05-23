@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>us.zoom.xos</string>
+	<string>us.zoom.pkg.videomeeting</string>
 	<key>AppName</key>
 	<string>zoom.us</string>
 	<key>Description</key>
 	<string>Zoom Meetings for desktop and mobile provides the tools to make every meeting a great one. Focus on your meeting – click record to leave the note taking to Zoom’s auto-generated, searchable transcripts. Share and play videos with full audio and video transmit without uploading the content.</string>
 	<key>Documentation</key>
 	<string>https://support.zoom.us/hc/en-us</string>
+	<key>Homepage</key>
+	<string>https://www.zoom.us/</string>
 	<key>Keywords</key>
 	<string>Meeting,Video,Zoom,Zoom Meetings,conferencing</string>
 	<key>PackageID</key>

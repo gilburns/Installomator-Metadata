@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tencent.xinWeChat</string>
 	<key>AppName</key>
 	<string>WeChat</string>
 	<key>Description</key>
 	<string>WeChat provides text messaging, hold-to-talk voice messaging, broadcast (one-to-many) messaging, video conferencing, video games, sharing of photographs and videos and location sharing.</string>
 	<key>Documentation</key>
 	<string>http://weixin.qq.com</string>
+	<key>Homepage</key>
+	<string>https://mac.weixin.qq.com/</string>
 	<key>Keywords</key>
 	<string>Chat,Messaging</string>
 	<key>PackageID</key>

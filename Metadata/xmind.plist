@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.xmind.vana.app</string>
 	<key>AppName</key>
 	<string>Xmind</string>
 	<key>Description</key>
 	<string>Mind mapping and brainstorming software for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.xmind.net/</string>
 	<key>Keywords</key>
 	<string>Mind mapping, brainstorming, macOS, software</string>
 	<key>PackageID</key>

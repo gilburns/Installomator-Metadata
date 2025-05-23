@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.azulsystems.zulu.23</string>
 	<key>AppName</key>
 	<string>Zulu JDK 23</string>
 	<key>Description</key>
 	<string>Azul Zulu builds of OpenJDK are open source, TCK-tested and certified builds of OpenJDK. Azul Zulu is available for a wide range of hardware platforms and operating systems.</string>
 	<key>Documentation</key>
 	<string>https://docs.azul.com/core</string>
+	<key>Homepage</key>
+	<string>https://www.azul.com/downloads/</string>
 	<key>Keywords</key>
 	<string>Azul,JDK,Java,Java Development Toolkit,Zulu</string>
 	<key>PackageID</key>

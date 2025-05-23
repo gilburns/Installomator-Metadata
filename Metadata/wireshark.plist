@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>org.wireshark.Wireshark</string>
+	<string>org.wireshark.*</string>
 	<key>AppName</key>
 	<string>Wireshark</string>
 	<key>Description</key>
 	<string>Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. Originally named Ethereal, the project was renamed Wireshark in May 2006 due to trademark issues.</string>
 	<key>Documentation</key>
 	<string>https://www.wireshark.org/docs/</string>
+	<key>Homepage</key>
+	<string>https://www.wireshark.org/</string>
 	<key>Keywords</key>
 	<string>Wireshark,network,packet,protocol</string>
 	<key>PackageID</key>

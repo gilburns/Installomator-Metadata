@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.vscodium</string>
 	<key>AppName</key>
 	<string>VSCodium</string>
 	<key>Description</key>
 	<string>VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s VSCode for macOS.</string>
 	<key>Documentation</key>
 	<string>https://vscodium.com/</string>
+	<key>Homepage</key>
+	<string>https://github.com/VSCodium/vscodium</string>
 	<key>Keywords</key>
 	<string>VSCodium, macOS, free, open-source, VSCode, community-driven</string>
 	<key>PackageID</key>

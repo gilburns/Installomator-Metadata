@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.vivaldi.Vivaldi</string>
 	<key>AppName</key>
 	<string>Vivaldi</string>
 	<key>Description</key>
 	<string>Your browser matters. Vivaldi is a new browser with unrivaled customization and control. Fast, secure and flexible – this is a browser made for you.</string>
 	<key>Documentation</key>
 	<string>https://help.vivaldi.com/</string>
+	<key>Homepage</key>
+	<string>https://vivaldi.com/</string>
 	<key>Keywords</key>
 	<string>Vivaldi,browser,web browser</string>
 	<key>PackageID</key>

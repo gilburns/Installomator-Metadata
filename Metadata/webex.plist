@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>Cisco-Systems.Spark</string>
 	<key>AppName</key>
 	<string>Webex</string>
 	<key>Description</key>
 	<string>Webex by Cisco is the leading enterprise solution for video conferencing, online meetings, screen share, and webinars. Web conferencing, cloud calling, and equipment.</string>
 	<key>Documentation</key>
 	<string>https://help.webex.com/ld-4ew3r4-CiscoWebexSupport/Webex-Support</string>
+	<key>Homepage</key>
+	<string>https://www.webex.com/</string>
 	<key>Keywords</key>
 	<string>Cisco,Conferencing,Meeting,Screen Share,WebEx,Webinar</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.whatsapp.WhatsApp</string>
 	<key>AppName</key>
 	<string>WhatsApp</string>
 	<key>Description</key>
 	<string>WhatsApp for macOS is a popular messaging app that allows users to send text messages, make voice and video calls, and share media.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.whatsapp.com/</string>
 	<key>Keywords</key>
 	<string>Messaging, Communication, macOS, Chat, Video Calls</string>
 	<key>PackageID</key>
