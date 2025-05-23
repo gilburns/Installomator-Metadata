@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.mountainduck</string>
 	<key>AppName</key>
 	<string>Mountain Duck</string>
 	<key>Description</key>
 	<string>Mount remote storage server on macOS as a local disk.</string>
 	<key>Documentation</key>
 	<string>https://mountainduck.io/documentation/</string>
+	<key>Homepage</key>
+	<string>https://mountainduck.io/</string>
 	<key>Keywords</key>
 	<string>macOS, mount, remote server, storage, local disk</string>
 	<key>PackageID</key>

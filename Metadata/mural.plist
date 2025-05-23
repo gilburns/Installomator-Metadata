@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>co.mural.macOS</string>
 	<key>AppName</key>
 	<string>Mural</string>
 	<key>Description</key>
 	<string>Mural is a digital workspace for visual collaboration.</string>
 	<key>Documentation</key>
 	<string>https://support.mural.co/en/</string>
+	<key>Homepage</key>
+	<string>https://mural.co/</string>
 	<key>Keywords</key>
 	<string>digital workspace, collaboration, macOS, software</string>
 	<key>PackageID</key>

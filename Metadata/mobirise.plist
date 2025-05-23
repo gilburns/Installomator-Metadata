@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mobirise.Mobirise</string>
 	<key>AppName</key>
 	<string>mobirise</string>
 	<key>Description</key>
 	<string>Free website builder software for macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://mobirise.com/</string>
 	<key>Keywords</key>
 	<string>website builder, macOS, mobirise</string>
 	<key>PackageID</key>

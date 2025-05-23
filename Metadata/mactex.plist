@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.tug.mactex.gui2024</string>
 	<key>AppName</key>
 	<string>MacTeX</string>
 	<key>Description</key>
 	<string>MacTeX is a full TeX distribution for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.tug.org/mactex/doc.html</string>
+	<key>Homepage</key>
+	<string>https://www.tug.org/mactex/</string>
 	<key>Keywords</key>
 	<string>TeX, LaTeX, typesetting, macOS</string>
 	<key>PackageID</key>

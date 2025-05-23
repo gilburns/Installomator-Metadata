@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mindjet.mindmanager.24</string>
 	<key>AppName</key>
 	<string>MindManager</string>
 	<key>Description</key>
 	<string>MindManager is a visual thinking and mind mapping software that allows users to organize ideas, tasks, and information in a hierarchical structure. It enables individuals and teams to create interactive diagrams, project plans, and visually capture and present complex information.</string>
 	<key>Documentation</key>
 	<string>https://www.mindmanager.com/support</string>
+	<key>Homepage</key>
+	<string>https://www.mindjet.com/mindmanager/</string>
 	<key>Keywords</key>
 	<string>Mind Mapping,MindManager</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Microsoft AutoUpdate for macOS is a tool that helps you keep your Microsoft Office suite up to date.</string>
 	<key>Documentation</key>
 	<string>https://docs.microsoft.com/en-us/officeupdates/about-microsoft-autoupdate</string>
+	<key>Homepage</key>
+	<string>https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate</string>
 	<key>Keywords</key>
 	<string>Microsoft, AutoUpdate, macOS, Microsoft Office, updates</string>
 	<key>PackageID</key>

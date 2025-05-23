@@ -10,6 +10,8 @@
 	<string>World-class performance with more privacy, more productivity, and more value while you browse.</string>
 	<key>Documentation</key>
 	<string>https://docs.microsoft.com/en-us/microsoft-edge/</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/edge?form=</string>
 	<key>Keywords</key>
 	<string>Browser,Edge,Microsoft Edge</string>
 	<key>PackageID</key>

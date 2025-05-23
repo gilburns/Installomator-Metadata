@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mockoon.app</string>
 	<key>AppName</key>
 	<string>Mockoon</string>
 	<key>Description</key>
 	<string>Mockoon is a lightweight tool to develop and test APIs, supporting macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://mockoon.com/</string>
 	<key>Keywords</key>
 	<string>API, development, testing, macOS</string>
 	<key>PackageID</key>

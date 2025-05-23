@@ -10,6 +10,8 @@
 	<string>Microsoft Office Business Pro is a suite of productivity tools for businesses.</string>
 	<key>Documentation</key>
 	<string>https://www.microsoft.com/en-us/microsoft-365/business/office-365-business</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/microsoft-365/mac/microsoft-365-for-mac/</string>
 	<key>Keywords</key>
 	<string>Microsoft, Office, Business, Pro, Productivity</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Microsoft Teams classic is a communication and collaboration platform for teams.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en/microsoft-teams/group-chat-software/</string>
 	<key>Keywords</key>
 	<string>communication, collaboration, platform, teams</string>
 	<key>PackageID</key>

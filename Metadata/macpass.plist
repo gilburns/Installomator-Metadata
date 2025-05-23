@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hicknhacksoftware.MacPass</string>
 	<key>AppName</key>
 	<string>MacPass</string>
 	<key>Description</key>
 	<string>Password manager for macOS</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://macpass.github.io/</string>
 	<key>Keywords</key>
 	<string>Password, Manager, macOS</string>
 	<key>PackageID</key>

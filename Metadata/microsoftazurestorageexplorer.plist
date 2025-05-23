@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.StorageExplorer</string>
 	<key>AppName</key>
 	<string>Microsoft Azure Storage Explorer</string>
 	<key>Description</key>
 	<string>Microsoft Azure Storage Explorer is a tool for managing and accessing Azure cloud storage services.</string>
 	<key>Documentation</key>
 	<string>https://docs.microsoft.com/en-us/azure/vs-azr/azure-storage-explorer</string>
+	<key>Homepage</key>
+	<string>https://azure.microsoft.com/en-us/features/storage-explorer/</string>
 	<key>Keywords</key>
 	<string>Azure, Storage, Explorer, Cloud Storage</string>
 	<key>PackageID</key>

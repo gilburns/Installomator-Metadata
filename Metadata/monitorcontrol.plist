@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>app.monitorcontrol.MonitorControl</string>
 	<key>AppName</key>
 	<string>MonitorControl</string>
 	<key>Description</key>
 	<string>MonitorControl is a software tool for macOS that allows users to control their external monitors</string>
 	<key>Documentation</key>
+	<string>https://github.com/MonitorControl/MonitorControl</string>
+	<key>Homepage</key>
 	<string>https://github.com/MonitorControl/MonitorControl</string>
 	<key>Keywords</key>
 	<string>macOS, monitor, control, external monitor</string>

@@ -10,6 +10,8 @@
 	<string>Visual Studio Code is a lightweight but powerful source code editor for macOS.</string>
 	<key>Documentation</key>
 	<string>https://code.visualstudio.com/docs</string>
+	<key>Homepage</key>
+	<string>https://code.visualstudio.com/</string>
 	<key>Keywords</key>
 	<string>Code editor, macOS, Source code, Lightweight</string>
 	<key>PackageID</key>

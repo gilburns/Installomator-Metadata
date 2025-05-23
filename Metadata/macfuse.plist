@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.macfuse.installer.components.core</string>
 	<key>AppName</key>
 	<string>FUSE for macOS</string>
 	<key>Description</key>
 	<string>FUSE for macOS allows you to extend macOS by adding support for additional file systems.</string>
 	<key>Documentation</key>
 	<string>https://osxfuse.github.io/</string>
+	<key>Homepage</key>
+	<string>https://macfuse.github.io/</string>
 	<key>Keywords</key>
 	<string>macOS, file system, FUSE, extension</string>
 	<key>PackageID</key>

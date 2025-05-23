@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.mozilla.firefoxdeveloperedition</string>
 	<key>AppName</key>
 	<string>Firefox Developer Edition</string>
 	<key>Description</key>
 	<string>Firefox Developer Edition is a web browser for developers by Mozilla.</string>
 	<key>Documentation</key>
 	<string>https://developer.mozilla.org/en-US/docs/Tools</string>
+	<key>Homepage</key>
+	<string>https://www.mozilla.org/firefox/developer/</string>
 	<key>Keywords</key>
 	<string>web browser, developer tools, Firefox, macOS</string>
 	<key>PackageID</key>

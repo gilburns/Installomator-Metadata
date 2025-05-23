@@ -10,6 +10,8 @@
 	<string>Microsoft Office 365 is a suite of productivity applications for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/microsoft-365/mac/microsoft-365-for-mac/</string>
 	<key>Keywords</key>
 	<string>Productivity, Office Suite, macOS, Microsoft, Cloud Computing</string>
 	<key>PackageID</key>

@@ -10,6 +10,8 @@
 	<string>Company Portal is a secure platform for employees to access company resources and collaborate.</string>
 	<key>Documentation</key>
 	<string>https://companyportal.com/docs</string>
+	<key>Homepage</key>
+	<string>https://docs.microsoft.com/en-us/mem/intune/user-help/enroll-your-device-in-intune-macos-cp</string>
 	<key>Keywords</key>
 	<string>portal, employee, access, collaborate</string>
 	<key>PackageID</key>

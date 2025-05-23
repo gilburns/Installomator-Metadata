@@ -10,6 +10,8 @@
 	<string>Web browser developed by Mozilla Foundation and its subsidiary, Mozilla Corporation.</string>
 	<key>Documentation</key>
 	<string>https://developer.mozilla.org/en-US/docs/Mozilla/Firefox</string>
+	<key>Homepage</key>
+	<string>https://www.mozilla.org/firefox/</string>
 	<key>Keywords</key>
 	<string>Web browser, Mozilla, Internet, Open source</string>
 	<key>PackageID</key>

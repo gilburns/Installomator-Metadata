@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>Mattermost.Desktop</string>
 	<key>AppName</key>
 	<string>Mattermost</string>
 	<key>Description</key>
 	<string>Mattermost is a secure collaboration platform for connecting your teams, tools and processes to accelerate mission-critical work.</string>
 	<key>Documentation</key>
 	<string>https://mattermost.com/support/</string>
+	<key>Homepage</key>
+	<string>https://mattermost.com/</string>
 	<key>Keywords</key>
 	<string>Chat,Collaboration,Mattermost,Orchestration</string>
 	<key>PackageID</key>

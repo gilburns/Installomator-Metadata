@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.p0deje.Maccy</string>
 	<key>AppName</key>
 	<string>Maccy</string>
 	<key>Description</key>
 	<string>Clipboard manager for macOS</string>
 	<key>Documentation</key>
 	<string>https://maccy.app/documentation</string>
+	<key>Homepage</key>
+	<string>https://maccy.app/</string>
 	<key>Keywords</key>
 	<string>macOS, clipboard manager, productivity</string>
 	<key>PackageID</key>
