@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dev.pulsar-edit.pulsar</string>
 	<key>AppName</key>
 	<string>Pulsar</string>
 	<key>Description</key>
 	<string>Real-time analytics and data processing tool</string>
 	<key>Documentation</key>
 	<string>https://pulsar.apache.org/docs/en/pulsar-2.9.0/</string>
+	<key>Homepage</key>
+	<string>https://pulsar-edit.dev/</string>
 	<key>Keywords</key>
 	<string>real-time, analytics, data processing, Apache Pulsar</string>
 	<key>PackageID</key>

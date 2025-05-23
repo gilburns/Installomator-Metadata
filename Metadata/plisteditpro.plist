@@ -10,6 +10,8 @@
 	<string>PlistEdit Pro is a macOS application for viewing and editing property list files.</string>
 	<key>Documentation</key>
 	<string>https://www.fatcatsoftware.com/plisteditpro/</string>
+	<key>Homepage</key>
+	<string>https://www.fatcatsoftware.com/plisteditpro/</string>
 	<key>Keywords</key>
 	<string>macOS, plist, editor</string>
 	<key>PackageID</key>

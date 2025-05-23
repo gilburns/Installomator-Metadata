@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>ch.protonvpn.mac</string>
 	<key>AppName</key>
 	<string>ProtonVPN</string>
 	<key>Description</key>
 	<string>Proton VPN is a secure and fast virtual private network (VPN) service.</string>
 	<key>Documentation</key>
 	<string>https://protonvpn.com/support/</string>
+	<key>Homepage</key>
+	<string>https://protonvpn.com/</string>
 	<key>Keywords</key>
 	<string>Proton,Proton VPN,VPN</string>
 	<key>PackageID</key>

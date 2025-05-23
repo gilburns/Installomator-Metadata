@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>corp.sap.privileges.pkg</string>
 	<key>AppName</key>
 	<string>Privileges</string>
 	<key>Description</key>
 	<string>Privileges software provides secure access control management for sensitive information.</string>
 	<key>Documentation</key>
 	<string>https://privilegesoftware.com/docs</string>
+	<key>Homepage</key>
+	<string>https://github.com/SAP/macOS-enterprise-privileges</string>
 	<key>Keywords</key>
 	<string>access control, security, authorization, management</string>
 	<key>PackageID</key>

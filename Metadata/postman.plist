@@ -10,6 +10,8 @@
 	<string>Postman is a free, complete, API development environment application used by organizations worldwide for monitoring APIs, debugging APIs, running automation tests, and recording documentation all under one roof.</string>
 	<key>Documentation</key>
 	<string>https://learning.postman.com/</string>
+	<key>Homepage</key>
+	<string>https://www.postman.com/</string>
 	<key>Keywords</key>
 	<string>Postman,Programming,Utilities</string>
 	<key>PackageID</key>

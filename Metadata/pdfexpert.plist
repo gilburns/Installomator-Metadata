@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.readdle.PDFExpert-Mac</string>
 	<key>AppName</key>
 	<string>PDF Expert</string>
 	<key>Description</key>
 	<string>PDF Expert is a powerful PDF editor and reader for macOS.</string>
 	<key>Documentation</key>
 	<string>https://pdfexpert.com/help</string>
+	<key>Homepage</key>
+	<string>https://pdfexpert.com/</string>
 	<key>Keywords</key>
 	<string>PDF, editor, reader, macOS</string>
 	<key>PackageID</key>

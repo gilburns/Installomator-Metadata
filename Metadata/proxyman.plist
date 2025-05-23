@@ -10,6 +10,8 @@
 	<string>Proxyman is a modern debug tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://proxyman.io/</string>
+	<key>Homepage</key>
+	<string>https://proxyman.com/</string>
 	<key>Keywords</key>
 	<string>Proxy, Debugging, Tool, macOS</string>
 	<key>PackageID</key>

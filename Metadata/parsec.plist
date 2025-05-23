@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>tv.parsec.www</string>
 	<key>AppName</key>
 	<string>Parsec</string>
 	<key>Description</key>
 	<string>Remote desktop software for gaming and collaboration on macOS</string>
 	<key>Documentation</key>
 	<string>https://parsec.app/docs/getting-started/macos/</string>
+	<key>Homepage</key>
+	<string>https://parsec.app/</string>
 	<key>Keywords</key>
 	<string>remote desktop, gaming, macOS, collaboration</string>
 	<key>PackageID</key>

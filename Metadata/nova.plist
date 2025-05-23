@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.panic.Nova</string>
 	<key>AppName</key>
 	<string>Nova</string>
 	<key>Description</key>
 	<string>Nova is a powerful code editor for macOS users.</string>
 	<key>Documentation</key>
 	<string>https://nova.app/documentation</string>
+	<key>Homepage</key>
+	<string>https://nova.app/</string>
 	<key>Keywords</key>
 	<string>macOS, code editor, development, software</string>
 	<key>PackageID</key>

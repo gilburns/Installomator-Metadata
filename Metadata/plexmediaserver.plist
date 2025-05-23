@@ -10,6 +10,8 @@
 	<string>Plex Media Server is a software that allows you to organize and stream your media library.</string>
 	<key>Documentation</key>
 	<string>https://support.plex.tv/articles/categories/plex-media-server/</string>
+	<key>Homepage</key>
+	<string>https://www.plex.tv/</string>
 	<key>Keywords</key>
 	<string>media, server, macOS, stream, organize</string>
 	<key>PackageID</key>

@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.sveinbjorn.Platypus</string>
 	<key>AppName</key>
 	<string>Platypus</string>
 	<key>Description</key>
 	<string>Platypus is a developer tool for creating macOS applications from scripts.</string>
 	<key>Documentation</key>
+	<string>https://sveinbjorn.org/platypus</string>
+	<key>Homepage</key>
 	<string>https://sveinbjorn.org/platypus</string>
 	<key>Keywords</key>
 	<string>macOS, developer tool, create applications, scripts</string>

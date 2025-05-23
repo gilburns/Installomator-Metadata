@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.2X.Client.Mac</string>
 	<key>AppName</key>
 	<string>Parallels Client</string>
 	<key>Description</key>
 	<string>Parallels Client is a remote application that allows users to securely access virtual desktops and applications on macOS.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.parallels.com/products/ras/features/rdp-client/</string>
 	<key>Keywords</key>
 	<string>Remote access, Virtual desktop, macOS, Parallels</string>
 	<key>PackageID</key>

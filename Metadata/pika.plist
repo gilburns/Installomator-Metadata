@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.superhighfives.Pika</string>
 	<key>AppName</key>
 	<string>Pika</string>
 	<key>Description</key>
 	<string>Pika is a powerful color picker tool for macOS.</string>
 	<key>Documentation</key>
 	<string>https://superpixel.ch/projects/pika</string>
+	<key>Homepage</key>
+	<string>https://superhighfives.com/pika</string>
 	<key>Keywords</key>
 	<string>macOS, color picker, design, developer, tool</string>
 	<key>PackageID</key>

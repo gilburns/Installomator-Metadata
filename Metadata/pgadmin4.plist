@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.pgadmin.pgadmin4</string>
 	<key>AppName</key>
 	<string>pgAdmin 4</string>
 	<key>Description</key>
 	<string>pgAdmin is a free, open-source management and development platform for PostgreSQL databases.</string>
 	<key>Documentation</key>
 	<string>https://www.pgadmin.org/docs/pgadmin4/latest/index.html</string>
+	<key>Homepage</key>
+	<string>https://www.pgadmin.org/</string>
 	<key>Keywords</key>
 	<string>Database, PostgreSQL, Management, Development</string>
 	<key>PackageID</key>

@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.figure53.QLab.5</string>
 	<key>AppName</key>
 	<string>QLab</string>
 	<key>Description</key>
 	<string>Live show control for entertainment professions</string>
 	<key>Documentation</key>
 	<string>https://qlab.app/docs/</string>
+	<key>Homepage</key>
+	<string>https://qlab.app/</string>
 	<key>Keywords</key>
 	<string>live show, control, entertainment, professional</string>
 	<key>PackageID</key>

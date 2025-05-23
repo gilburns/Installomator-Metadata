@@ -3,13 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.podmandesktop.PodmanDesktop</string>
 	<key>AppName</key>
 	<string>Podman Desktop</string>
 	<key>Description</key>
 	<string>Podman Desktop is an open source graphical tool enabling you to seamlessly work with containers and Kubernetes from your local environment.</string>
 	<key>Documentation</key>
 	<string>https://podman-desktop.io/docs/intro</string>
+	<key>Homepage</key>
+	<string>https://podman-desktop.io/</string>
 	<key>Keywords</key>
 	<string>Containers,Kubernetes,Podman Desktop</string>
 	<key>PackageID</key>
