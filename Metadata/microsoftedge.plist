@@ -7,9 +7,9 @@
 	<key>AppName</key>
 	<string>Microsoft Edge</string>
 	<key>Description</key>
-	<string>World-class performance with more privacy, more productivity, and more value while you browse.</string>
+	<string>Microsoft Edge is the browser for business with modern and legacy web compatibility, new privacy features such as Tracking prevention, and built-in productivity tools such as enterprise-grade PDF support and access to Office and corporate search right from a new tab.</string>
 	<key>Documentation</key>
-	<string>https://docs.microsoft.com/en-us/microsoft-edge/</string>
+	<string>https://www.microsoft.com/windows/microsoft-edge</string>
 	<key>Homepage</key>
 	<string>https://www.microsoft.com/en-us/edge?form=</string>
 	<key>Keywords</key>
@@ -17,7 +17,7 @@
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy</string>
+	<string>https://privacy.microsoft.com/privacystatement</string>
 	<key>Publisher</key>
 	<string>Microsoft Corporation</string>
 </dict>
