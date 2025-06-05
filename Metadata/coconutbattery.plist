@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.coconut-flavour.coconutBattery</string>
 	<key>AppName</key>
 	<string>coconutBattery</string>
 	<key>Description</key>
 	<string>Displays live information about the battery in your Apple device.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.coconut-flavour.com</string>
 	<key>Keywords</key>
 	<string>battery, health information, macOS, iOS</string>
 	<key>PackageID</key>
