@@ -7,15 +7,15 @@
 	<key>AppName</key>
 	<string>Microsoft Defender</string>
 	<key>Description</key>
-	<string>Microsoft Defender is an antivirus program developed by Microsoft to protect against malware and other threats.</string>
+	<string>Microsoft Defender for Endpoint is a unified platform for preventative protection, post-breach detection, automated investigation, and response. Microsoft Defender for Endpoint protects endpoints from cyber threats; detects advanced attacks and data breaches, automates security incidents and improves security posture.</string>
 	<key>Documentation</key>
-	<string>https://docs.microsoft.com/en-us/microsoft-365/security/defender/</string>
+	<string>https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection​</string>
 	<key>Keywords</key>
 	<string>antivirus, Microsoft, Defender, malware, security</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<string>https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/mac-privacy​</string>
 	<key>Publisher</key>
 	<string>Microsoft Corporation</string>
 </dict>
