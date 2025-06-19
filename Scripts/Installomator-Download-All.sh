@@ -7,13 +7,15 @@ input_dir="${1:-/path/to/your/GitHub/Installomator}"
 runner_script="${input_dir}/utils/assemble.sh"
 
 # Folder containing the Installomator fragment label files
-input_dir="${input_dir}/fragments/labels"
+labels_dir="${input_dir}/fragments/labels"
 
 # Create log output folder
-mkdir -p "${input_dir}/build_results"
+log_dir="${input_dir}/build_results"
+echo "Creating dir: ${log_dir}"
+mkdir -p "${log_dir}"
 
 # Loop over each file in the folder
-for file_path in "$input_dir"/*; do
+for file_path in "$labels_dir"/*; do
     # Skip if not a regular file
     [[ -f "$file_path" ]] || continue
 
