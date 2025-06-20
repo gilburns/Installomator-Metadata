@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.codykrieger.gfxCardStatus</string>
 	<key>AppName</key>
 	<string>gfxCardStatus</string>
 	<key>Description</key>

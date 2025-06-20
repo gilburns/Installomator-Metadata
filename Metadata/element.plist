@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>im.riot.app</string>
 	<key>AppName</key>
 	<string>Element</string>
 	<key>Description</key>

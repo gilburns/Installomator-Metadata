@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.filemaker.client.pro12</string>
 	<key>AppName</key>
 	<string>FileMaker Pro</string>
 	<key>Description</key>

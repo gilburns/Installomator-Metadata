@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.displaylink.displaylinkmanagerapp</string>
+	<string>com.elgato.CameraHub</string>
 	<key>AppName</key>
 	<string>Elgato Camera Hub</string>
 	<key>Description</key>

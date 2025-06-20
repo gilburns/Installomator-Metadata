@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.biomatters.Geneious</string>
 	<key>AppName</key>
 	<string>Geneious Prime</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.displaylink.displaylinkmanagerapp</string>
+	<string>com.elgato.StreamDeck</string>
 	<key>AppName</key>
 	<string>Elgato Stream Deck</string>
 	<key>Description</key>

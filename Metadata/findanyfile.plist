@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.tempel.findanyfile</string>
 	<key>AppName</key>
 	<string>Find Any File</string>
 	<key>Description</key>

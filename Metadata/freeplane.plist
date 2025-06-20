@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.freeplane.launcher</string>
 	<key>AppName</key>
 	<string>Freeplane</string>
 	<key>Description</key>

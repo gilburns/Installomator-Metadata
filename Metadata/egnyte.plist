@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.egnyte.Egnyte-Drive</string>
 	<key>AppName</key>
 	<string>Egnyte Connect</string>
 	<key>Description</key>

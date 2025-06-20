@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.fellow</string>
 	<key>AppName</key>
 	<string>Fellow</string>
 	<key>Description</key>

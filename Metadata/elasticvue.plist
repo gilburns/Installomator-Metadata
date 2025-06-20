@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.elasticvue.app</string>
 	<key>AppName</key>
 	<string>elasticvue</string>
 	<key>Description</key>

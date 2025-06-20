@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.gaosun.eul</string>
 	<key>AppName</key>
 	<string>eul</string>
 	<key>Description</key>

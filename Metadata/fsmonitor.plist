@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.tristan.fseventstool</string>
+	<string>com.tristan.FSMonitor</string>
 	<key>AppName</key>
 	<string>FSMonitor</string>
 	<key>Description</key>

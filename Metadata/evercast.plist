@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>us.evercast.Evercast</string>
 	<key>AppName</key>
 	<string>Evercast</string>
 	<key>Description</key>

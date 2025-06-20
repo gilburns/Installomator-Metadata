@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.GeorgSeifert.Glyphs3</string>
 	<key>AppName</key>
 	<string>Glyphs 3</string>
 	<key>Description</key>

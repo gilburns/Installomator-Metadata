@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.garmin.renu.client</string>
 	<key>AppName</key>
 	<string>Garmin Express</string>
 	<key>Description</key>

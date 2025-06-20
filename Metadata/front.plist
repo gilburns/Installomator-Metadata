@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.frontapp.Front</string>
 	<key>AppName</key>
 	<string>Front</string>
 	<key>Description</key>

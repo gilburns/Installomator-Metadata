@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.ets.RP</string>
 	<key>AppName</key>
 	<string>ETS Secure Browser</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.filezilla-project.filezilla</string>
 	<key>AppName</key>
 	<string>FileZilla</string>
 	<key>Description</key>

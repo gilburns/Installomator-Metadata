@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.EPOSConnect.app</string>
 	<key>AppName</key>
 	<string>EPOS Connect</string>
 	<key>Description</key>
