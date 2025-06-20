@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.jor.ottomatic</string>
 	<key>AppName</key>
 	<string>Otto Matic</string>
 	<key>Description</key>

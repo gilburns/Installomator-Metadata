@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.charlessoft.pacifist</string>
 	<key>AppName</key>
 	<string>Pacifist</string>
 	<key>Description</key>

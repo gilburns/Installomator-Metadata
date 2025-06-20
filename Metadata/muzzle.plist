@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.incident57.Muzzle</string>
 	<key>AppName</key>
 	<string>Muzzle</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.pingman.pingplotter.mac</string>
 	<key>AppName</key>
 	<string>PingPlotter</string>
 	<key>Description</key>

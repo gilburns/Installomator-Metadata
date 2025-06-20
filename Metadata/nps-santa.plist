@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.northpolesec.santa</string>
 	<key>AppName</key>
 	<string>Santa</string>
 	<key>Description</key>

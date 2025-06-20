@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dk.mochasoft.tn5250</string>
 	<key>AppName</key>
 	<string>TN5250</string>
 	<key>Description</key>

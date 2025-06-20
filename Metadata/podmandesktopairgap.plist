@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.podmandesktop.PodmanDesktop</string>
 	<key>AppName</key>
 	<string>Podman Desktop</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.pitch.pitch-macos</string>
 	<key>AppName</key>
 	<string>Pitch</string>
 	<key>Description</key>

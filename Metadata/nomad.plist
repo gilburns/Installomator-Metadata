@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.trusourcelabs.NoMAD</string>
 	<key>AppName</key>
 	<string>NoMAD</string>
 	<key>Description</key>

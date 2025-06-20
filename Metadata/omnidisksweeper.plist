@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.omnigroup.OmniDiskSweeper</string>
 	<key>AppName</key>
 	<string>OmniDiskSweeper</string>
 	<key>Description</key>

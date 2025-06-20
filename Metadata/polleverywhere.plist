@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.polleverywhere.PollEv-Presenter</string>
 	<key>AppName</key>
 	<string>Poll Everywhere</string>
 	<key>Description</key>

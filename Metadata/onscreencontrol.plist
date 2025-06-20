@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.LGSI.OnScreen-Control</string>
 	<key>AppName</key>
 	<string>OnScreen Control</string>
 	<key>Description</key>

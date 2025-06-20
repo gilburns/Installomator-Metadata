@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.jor.mightymike</string>
 	<key>AppName</key>
 	<string>Mighty Mike</string>
 	<key>Description</key>

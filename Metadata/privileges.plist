@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>corp.sap.privileges.pkg</string>
+	<string>corp.sap.privileges</string>
 	<key>AppName</key>
 	<string>Privileges</string>
 	<key>Description</key>
@@ -15,7 +15,7 @@
 	<key>Keywords</key>
 	<string>access control, security, authorization, management</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>corp.sap.privileges.pkg</string>
 	<key>Privacy</key>
 	<string>https://privilegesoftware.com/privacy-policy</string>
 	<key>Publisher</key>

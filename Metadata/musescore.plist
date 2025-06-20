@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.musescore.MuseScore</string>
 	<key>AppName</key>
 	<string>MuseScore 4</string>
 	<key>Description</key>

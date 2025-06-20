@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.ninxsoft.pkg.mist</string>
+	<string>com.ninxsoft.mist</string>
 	<key>AppName</key>
 	<string>Mist</string>
 	<key>Description</key>

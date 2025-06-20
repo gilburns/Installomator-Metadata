@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.Output.Arcade</string>
 	<key>AppName</key>
 	<string>Arcade</string>
 	<key>Description</key>

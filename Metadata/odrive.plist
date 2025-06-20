@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.oxygencloud.odrive</string>
 	<key>AppName</key>
 	<string>odrive</string>
 	<key>Description</key>

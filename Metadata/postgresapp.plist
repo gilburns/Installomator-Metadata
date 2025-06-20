@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.postgresapp.Postgres2</string>
 	<key>AppName</key>
 	<string>Postgres</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>corp.sap.PowerMonitor</string>
 	<key>AppName</key>
 	<string>Power Monitor</string>
 	<key>Description</key>

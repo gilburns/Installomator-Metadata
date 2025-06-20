@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.paulthetall.portingkit</string>
 	<key>AppName</key>
 	<string>Porting Kit</string>
 	<key>Description</key>

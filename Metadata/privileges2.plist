@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>corp.sap.privileges</string>
 	<key>AppName</key>
 	<string>Privileges</string>
 	<key>Description</key>

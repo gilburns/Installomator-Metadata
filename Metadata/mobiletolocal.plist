@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>pse.jamf.mobile-to-local</string>
 	<key>AppName</key>
 	<string>Mobile to Local</string>
 	<key>Description</key>

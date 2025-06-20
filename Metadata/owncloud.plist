@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.owncloud.desktopclient</string>
 	<key>AppName</key>
 	<string>ownCloud</string>
 	<key>Description</key>
