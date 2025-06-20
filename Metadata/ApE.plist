@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tcltk.ape</string>
 	<key>AppName</key>
 	<string>ApE</string>
 	<key>Description</key>

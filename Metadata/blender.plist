@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>org.blenderfoundation.blender.savedState</string>
+	<string>org.blenderfoundation.blender</string>
 	<key>AppName</key>
 	<string>Blender</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sqwarq.DetectX-Swift</string>
 	<key>AppName</key>
 	<string>DetectX Swift</string>
 	<key>Description</key>

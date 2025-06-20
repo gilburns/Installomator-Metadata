@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.balsamiq.wireframes</string>
 	<key>AppName</key>
 	<string>Balsamiq Wireframes</string>
 	<key>Description</key>

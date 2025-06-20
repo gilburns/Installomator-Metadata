@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.airtame.airtame-application</string>
 	<key>AppName</key>
 	<string>Airtame</string>
 	<key>Description</key>

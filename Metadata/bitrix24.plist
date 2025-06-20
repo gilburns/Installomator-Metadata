@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.bitrixsoft.bitrix24desktop</string>
 	<key>AppName</key>
 	<string>Bitrix24</string>
 	<key>Description</key>

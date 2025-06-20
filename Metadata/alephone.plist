@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.bungie.source.AlephOne</string>
 	<key>AppName</key>
 	<string>Aleph One</string>
 	<key>Description</key>

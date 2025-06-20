@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.busymac.busycontacts.pkg</string>
+	<string>com.busymac.busycontacts</string>
 	<key>AppName</key>
 	<string>BusyContacts</string>
 	<key>Description</key>

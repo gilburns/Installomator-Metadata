@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.crashplan.desktop</string>
 	<key>AppName</key>
 	<string>CrashPlan</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.gnu.Aquamacs</string>
 	<key>AppName</key>
 	<string>Aquamacs</string>
 	<key>Description</key>

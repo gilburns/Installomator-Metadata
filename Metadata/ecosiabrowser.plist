@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.ecosia.browser</string>
 	<key>AppName</key>
 	<string>Ecosia Browser</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>pw.buttercup.desktop</string>
 	<key>AppName</key>
 	<string>Buttercup</string>
 	<key>Description</key>

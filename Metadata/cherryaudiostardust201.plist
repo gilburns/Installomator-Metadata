@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.stardust201</string>
 	<key>AppName</key>
 	<string>Stardust 201 Tape Echo</string>
 	<key>Description</key>

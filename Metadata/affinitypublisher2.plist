@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.seriflabs.affinitypublisher2</string>
 	<key>AppName</key>
 	<string>Affinity Publisher 2</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.catonetworks.mac.CatoClient</string>
 	<key>AppName</key>
 	<string>CatoClient</string>
 	<key>Description</key>

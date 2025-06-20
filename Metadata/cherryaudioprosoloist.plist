@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.prosoloist</string>
 	<key>AppName</key>
 	<string>Pro Soloist</string>
 	<key>Description</key>

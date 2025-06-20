@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.droplr.Desktop</string>
 	<key>AppName</key>
 	<string>Droplr</string>
 	<key>Description</key>

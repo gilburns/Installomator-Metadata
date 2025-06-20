@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.druva.inSync</string>
 	<key>AppName</key>
 	<string>Druva inSync</string>
 	<key>Description</key>

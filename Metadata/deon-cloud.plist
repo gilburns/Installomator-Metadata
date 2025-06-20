@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>de.deon.macos</string>
 	<key>AppName</key>
 	<string>Deon</string>
 	<key>Description</key>

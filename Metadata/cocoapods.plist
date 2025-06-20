@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.cocoapods.CocoaPods</string>
 	<key>AppName</key>
 	<string>CocoaPods</string>
 	<key>Description</key>

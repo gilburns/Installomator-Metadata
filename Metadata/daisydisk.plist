@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.daisydiskapp.DaisyDiskAdminHelper</string>
+	<string>com.daisydiskapp.DaisyDiskStandAlone</string>
 	<key>AppName</key>
 	<string>DaisyDisk</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.displaylink.DisplayLinkUserAgent</string>
 	<key>AppName</key>
 	<string>DisplayLink Manager</string>
 	<key>Description</key>

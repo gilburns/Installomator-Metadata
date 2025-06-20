@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.gx80</string>
 	<key>AppName</key>
 	<string>GX-80</string>
 	<key>Description</key>

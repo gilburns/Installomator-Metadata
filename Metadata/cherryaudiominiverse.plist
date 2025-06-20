@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cherryaudio.minimode</string>
 	<key>AppName</key>
 	<string>Miniverse</string>
 	<key>Description</key>

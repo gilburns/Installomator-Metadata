@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.box.sync</string>
 	<key>AppName</key>
 	<string>Box Sync</string>
 	<key>Description</key>

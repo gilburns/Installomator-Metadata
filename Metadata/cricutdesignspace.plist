@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cricut.design</string>
 	<key>AppName</key>
 	<string>Cricut Design Space</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>menu.nomad.DEPNotify</string>
 	<key>AppName</key>
 	<string>DEPNotify</string>
 	<key>Description</key>

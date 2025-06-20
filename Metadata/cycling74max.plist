@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cycling74.Max</string>
 	<key>AppName</key>
 	<string>Max</string>
 	<key>Description</key>

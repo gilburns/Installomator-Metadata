@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.dcpomatic</string>
 	<key>AppName</key>
 	<string>DCP-o-matic 2</string>
 	<key>Description</key>

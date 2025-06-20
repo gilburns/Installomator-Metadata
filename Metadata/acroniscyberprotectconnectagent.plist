@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.nulana.rxagentmac</string>
 	<key>AppName</key>
 	<string>Acronis Cyber Protect Connect Agent</string>
 	<key>Description</key>

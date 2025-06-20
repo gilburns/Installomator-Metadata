@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>edu.ucsd.cs.mmccrack.bibdesk</string>
 	<key>AppName</key>
 	<string>BibDesk</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>se.digiexam.DigiExam</string>
 	<key>AppName</key>
 	<string>Digiexam</string>
 	<key>Description</key>

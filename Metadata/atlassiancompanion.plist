@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.companion</string>
 	<key>AppName</key>
 	<string>Atlassian Companion</string>
 	<key>Description</key>

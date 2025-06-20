@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ableton.live</string>
 	<key>AppName</key>
 	<string>Ableton Live 12 Standard</string>
 	<key>Description</key>

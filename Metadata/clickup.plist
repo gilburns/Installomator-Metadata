@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.clickup.desktop-app</string>
 	<key>AppName</key>
 	<string>ClickUp</string>
 	<key>Description</key>

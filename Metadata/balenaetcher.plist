@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>io.balena.etcher.*</string>
+	<string>io.balena.etcher</string>
 	<key>AppName</key>
 	<string>balenaEtcher</string>
 	<key>Description</key>

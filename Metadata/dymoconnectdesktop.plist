@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.dymo.dymo-connect</string>
 	<key>AppName</key>
 	<string>DYMO Connect</string>
 	<key>Description</key>

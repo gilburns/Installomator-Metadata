@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cvte.cleartouch.mac</string>
 	<key>AppName</key>
 	<string>Collage</string>
 	<key>Description</key>

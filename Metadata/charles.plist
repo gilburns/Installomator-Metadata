@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.xk72.Charles</string>
 	<key>AppName</key>
 	<string>Charles</string>
 	<key>Description</key>

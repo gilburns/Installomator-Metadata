@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.dynalist</string>
 	<key>AppName</key>
 	<string>Dynalist</string>
 	<key>Description</key>

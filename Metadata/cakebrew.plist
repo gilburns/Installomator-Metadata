@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.brunophilipe.Cakebrew</string>
 	<key>AppName</key>
 	<string>Cakebrew</string>
 	<key>Description</key>

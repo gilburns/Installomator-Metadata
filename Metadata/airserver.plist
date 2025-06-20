@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.pratikkumar.airserver-mac</string>
 	<key>AppName</key>
 	<string>AirServer</string>
 	<key>Description</key>

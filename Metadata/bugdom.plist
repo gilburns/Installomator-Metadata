@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.jor.bugdom</string>
 	<key>AppName</key>
 	<string>Bugdom</string>
 	<key>Description</key>

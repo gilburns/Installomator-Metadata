@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.adiumX.adiumX</string>
 	<key>AppName</key>
 	<string>Adium</string>
 	<key>Description</key>

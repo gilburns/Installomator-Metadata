@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.adobe.adobedigitaleditions.app</string>
 	<key>AppName</key>
 	<string>Adobe Digital Editions</string>
 	<key>Description</key>

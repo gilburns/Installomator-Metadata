@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>net.domzilla.caffeine</string>
+	<string>com.intelliscapesolutions.caffeine</string>
 	<key>AppName</key>
 	<string>Caffeine</string>
 	<key>Description</key>

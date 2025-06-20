@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.pythonmac.unspecified.AviatrixVPNClient</string>
 	<key>AppName</key>
 	<string>Aviatrix VPN Client</string>
 	<key>Description</key>
