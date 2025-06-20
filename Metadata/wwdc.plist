@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.wwdc.app</string>
 	<key>AppName</key>
 	<string>WWDC</string>
 	<key>Description</key>

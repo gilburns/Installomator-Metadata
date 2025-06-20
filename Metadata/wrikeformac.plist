@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.wrike.Wrike</string>
 	<key>AppName</key>
 	<string>Wrike for Mac</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>app.tuple.app</string>
 	<key>AppName</key>
 	<string>Tuple</string>
 	<key>Description</key>

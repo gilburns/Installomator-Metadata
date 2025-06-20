@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.grunenberg.WordService</string>
 	<key>AppName</key>
 	<string>WordService</string>
 	<key>Description</key>

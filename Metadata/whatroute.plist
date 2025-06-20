@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.whatroute.whatroute2</string>
 	<key>AppName</key>
 	<string>WhatRoute</string>
 	<key>Description</key>

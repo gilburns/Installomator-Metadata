@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.yworks.yEd</string>
 	<key>AppName</key>
 	<string>yEd</string>
 	<key>Description</key>

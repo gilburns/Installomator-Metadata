@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.blackbeltlabs.Zappy</string>
 	<key>AppName</key>
 	<string>Zappy</string>
 	<key>Description</key>

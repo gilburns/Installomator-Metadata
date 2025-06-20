@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.criminalbird.typeface.standalone</string>
 	<key>AppName</key>
 	<string>Typeface</string>
 	<key>Description</key>

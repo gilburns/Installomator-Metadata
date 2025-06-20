@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.zsa.wally</string>
 	<key>AppName</key>
 	<string>Wally</string>
 	<key>Description</key>

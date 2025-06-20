@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.zoho.ZohoWorkDrive</string>
 	<key>AppName</key>
 	<string>Zoho WorkDrive</string>
 	<key>Description</key>

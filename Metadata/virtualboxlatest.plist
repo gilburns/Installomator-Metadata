@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>org.virtualbox.pkg.*</string>
+	<string>org.virtualbox.app.VirtualBox</string>
 	<key>AppName</key>
 	<string>VirtualBox</string>
 	<key>Description</key>

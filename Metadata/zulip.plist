@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.zulip.zulip-electron</string>
 	<key>AppName</key>
 	<string>Zulip</string>
 	<key>Description</key>

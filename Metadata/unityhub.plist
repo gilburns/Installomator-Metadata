@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.unity3d.unityhub</string>
 	<key>AppName</key>
 	<string>Unity Hub</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>us.zoom.pkg.videomeeting</string>
+	<string>us.zoom.xos</string>
 	<key>AppName</key>
 	<string>zoom.us</string>
 	<key>Description</key>

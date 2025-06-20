@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.viscosityvpn.Viscosity</string>
 	<key>AppName</key>
 	<string>Viscosity</string>
 	<key>Description</key>

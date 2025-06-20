@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.zipwhip</string>
 	<key>AppName</key>
 	<string>Zipwhip</string>
 	<key>Description</key>

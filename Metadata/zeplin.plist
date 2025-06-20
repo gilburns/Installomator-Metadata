@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.zeplin.osx</string>
 	<key>AppName</key>
 	<string>Zeplin</string>
 	<key>Description</key>

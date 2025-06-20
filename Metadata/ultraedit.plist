@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.idmcomp.uex</string>
 	<key>AppName</key>
 	<string>UltraEdit</string>
 	<key>Description</key>
