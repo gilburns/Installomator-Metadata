@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>keybase.Helper</string>
+	<string>keybase.Electron</string>
 	<key>AppName</key>
 	<string>Keybase</string>
 	<key>Description</key>

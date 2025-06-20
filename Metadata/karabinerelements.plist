@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>org.pqrs.Karabiner-DriverKit-VirtualHIDDevice</string>
+	<string>org.pqrs.Karabiner-Elements.Settings</string>
 	<key>AppName</key>
 	<string>Karabiner-Elements</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>info.marcel-dierkes.KeepingYouAwake</string>
 	<key>AppName</key>
 	<string>KeepingYouAwake</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.longsys.lexar.DiskDataRecover</string>
 	<key>AppName</key>
 	<string>Lexar Recovery Tool</string>
 	<key>Description</key>

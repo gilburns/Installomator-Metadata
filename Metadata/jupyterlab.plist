@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.jupyter.jupyterlab-desktop</string>
 	<key>AppName</key>
 	<string>JupyterLab</string>
 	<key>Description</key>

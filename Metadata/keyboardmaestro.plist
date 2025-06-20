@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.stairways.keyboardmaestro.editor</string>
 	<key>AppName</key>
 	<string>Keyboard Maestro</string>
 	<key>Description</key>

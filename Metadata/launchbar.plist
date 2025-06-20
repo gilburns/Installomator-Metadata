@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>at.obdev.LaunchBar</string>
 	<key>AppName</key>
 	<string>LaunchBar</string>
 	<key>Description</key>

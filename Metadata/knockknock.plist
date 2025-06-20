@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.objective-see.KnockKnock</string>
 	<key>AppName</key>
 	<string>KnockKnock</string>
 	<key>Description</key>

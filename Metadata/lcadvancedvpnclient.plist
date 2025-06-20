@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ncp-e.ncpmon</string>
 	<key>AppName</key>
 	<string>LANCOM Advanced VPN Client</string>
 	<key>Description</key>

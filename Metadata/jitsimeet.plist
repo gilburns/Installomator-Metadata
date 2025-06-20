@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.jitsi.jitsi-meet</string>
 	<key>AppName</key>
 	<string>Jitsi Meet</string>
 	<key>Description</key>

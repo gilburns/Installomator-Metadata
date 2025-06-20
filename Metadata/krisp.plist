@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>ai.krisp.krispMac*</string>
+	<string>ai.krisp.krispMac</string>
 	<key>AppName</key>
 	<string>Krisp</string>
 	<key>Description</key>

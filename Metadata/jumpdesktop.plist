@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.p5sys.jump.mac.viewer.web</string>
 	<key>AppName</key>
 	<string>Jump Desktop</string>
 	<key>Description</key>
