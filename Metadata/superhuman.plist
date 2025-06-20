@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.superhuman.electron</string>
 	<key>AppName</key>
 	<string>superhuman</string>
 	<key>Description</key>

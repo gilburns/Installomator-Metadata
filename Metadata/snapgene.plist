@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.gslbiotech.snapgene</string>
 	<key>AppName</key>
 	<string>SnapGene</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sawgrass.printmate</string>
 	<key>AppName</key>
 	<string>Sawgrass Print Utility</string>
 	<key>Description</key>

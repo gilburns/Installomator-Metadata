@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.suite.suitefs</string>
 	<key>AppName</key>
 	<string>Suite</string>
 	<key>Description</key>

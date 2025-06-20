@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.synology.activebackup-agent</string>
 	<key>AppName</key>
 	<string>Synology Active Backup for Business Agent</string>
 	<key>Description</key>

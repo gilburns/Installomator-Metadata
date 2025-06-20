@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.signiant.Signiant-App</string>
 	<key>AppName</key>
 	<string>Signiant App</string>
 	<key>Description</key>

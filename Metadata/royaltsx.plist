@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.lemonmojo.RoyalTSX.App</string>
 	<key>AppName</key>
 	<string>Royal TSX</string>
 	<key>Description</key>

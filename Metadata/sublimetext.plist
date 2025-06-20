@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sublimetext.4</string>
 	<key>AppName</key>
 	<string>Sublime Text</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.rode.rodeunify</string>
 	<key>AppName</key>
 	<string>RODE UNIFY</string>
 	<key>Description</key>

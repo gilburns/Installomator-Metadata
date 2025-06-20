@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>at.EternalStorms.SiriMote-nonappstore</string>
 	<key>AppName</key>
 	<string>SiriMote</string>
 	<key>Description</key>

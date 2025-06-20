@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.scribus</string>
 	<key>AppName</key>
 	<string>Scribus</string>
 	<key>Description</key>

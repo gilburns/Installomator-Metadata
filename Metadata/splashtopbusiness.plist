@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.splashtop.splashtopBusiness.*</string>
+	<string>com.splashtop.stb.macosx</string>
 	<key>AppName</key>
 	<string>Splashtop Business</string>
 	<key>Description</key>

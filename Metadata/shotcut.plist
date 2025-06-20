@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.Meltytech.Shotcut</string>
 	<key>AppName</key>
 	<string>shotcut</string>
 	<key>Description</key>

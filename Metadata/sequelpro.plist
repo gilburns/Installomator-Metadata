@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.sequelpro.SequelPro</string>
 	<key>AppName</key>
 	<string>Sequel Pro</string>
 	<key>Description</key>

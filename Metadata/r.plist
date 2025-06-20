@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.R-project.R</string>
 	<key>AppName</key>
 	<string>R</string>
 	<key>Description</key>

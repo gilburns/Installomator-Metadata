@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ringcentral.ringcentralformac</string>
 	<key>AppName</key>
 	<string>RingCentral for Mac</string>
 	<key>Description</key>

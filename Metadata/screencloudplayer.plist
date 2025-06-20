@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.screencloud-player</string>
 	<key>AppName</key>
 	<string>ScreenCloud Player</string>
 	<key>Description</key>

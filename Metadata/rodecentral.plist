@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.rodecentral.installer</string>
+	<string>com.rode.rodecentral</string>
 	<key>AppName</key>
 	<string>RODE Central</string>
 	<key>Description</key>

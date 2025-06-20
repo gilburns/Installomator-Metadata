@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.splashtop.Splashtop-SOS</string>
 	<key>AppName</key>
 	<string>Splashtop SOS</string>
 	<key>Description</key>

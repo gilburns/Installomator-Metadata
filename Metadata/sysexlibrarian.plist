@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.snoize.SysExLibrarian</string>
 	<key>AppName</key>
 	<string>SysEx Librarian</string>
 	<key>Description</key>

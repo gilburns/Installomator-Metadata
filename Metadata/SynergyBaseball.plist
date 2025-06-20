@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>synergy.baseball</string>
 	<key>AppName</key>
 	<string>Synergy Baseball</string>
 	<key>Description</key>

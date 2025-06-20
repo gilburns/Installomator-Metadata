@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.oracle.SQLDeveloper</string>
 	<key>AppName</key>
 	<string>SQLDeveloper</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>synergy.video.express.production</string>
 	<key>AppName</key>
 	<string>Synergy Video Express</string>
 	<key>Description</key>

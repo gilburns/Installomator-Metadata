@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>uk.co.screamingfrog.seo.spider</string>
 	<key>AppName</key>
 	<string>Screaming Frog SEO Spider</string>
 	<key>Description</key>

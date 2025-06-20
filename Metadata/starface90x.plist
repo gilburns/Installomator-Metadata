@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>de.starface.STARFACE-Client</string>
 	<key>AppName</key>
 	<string>STARFACE</string>
 	<key>Description</key>

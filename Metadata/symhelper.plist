@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>jamf.ie.SYM-Helper</string>
 	<key>AppName</key>
 	<string>SYM-Helper</string>
 	<key>Description</key>
