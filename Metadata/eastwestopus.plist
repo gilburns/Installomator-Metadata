@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.eastwest.Opus</string>
 	<key>AppName</key>
 	<string>Opus</string>
 	<key>Description</key>

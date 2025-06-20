@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.x-rite.i1Profiler</string>
 	<key>AppName</key>
 	<string>i1Profiler</string>
 	<key>Description</key>

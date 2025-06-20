@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.maxon.cinema4d</string>
 	<key>AppName</key>
 	<string>Cinema 4D</string>
 	<key>Description</key>

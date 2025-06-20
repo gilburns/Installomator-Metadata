@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.iChemLabs.ChemDoodle</string>
 	<key>AppName</key>
 	<string>ChemDoodle</string>
 	<key>Description</key>

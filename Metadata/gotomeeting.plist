@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.logmein.GoToMeeting</string>
 	<key>AppName</key>
 	<string>GoToMeeting</string>
 	<key>Description</key>

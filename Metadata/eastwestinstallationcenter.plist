@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.eastwest.ic</string>
 	<key>AppName</key>
 	<string>EW Installation Center</string>
 	<key>Description</key>
