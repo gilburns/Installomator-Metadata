@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.firstlook.gpgsync</string>
 	<key>AppName</key>
 	<string>GPG Sync</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.GroundControl.Hancock</string>
 	<key>AppName</key>
 	<string>Hancock</string>
 	<key>Description</key>

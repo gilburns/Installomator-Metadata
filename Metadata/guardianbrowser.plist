@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.proctoru.guardian-browser</string>
 	<key>AppName</key>
 	<string>Guardian Browser</string>
 	<key>Description</key>

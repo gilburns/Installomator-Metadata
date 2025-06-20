@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.hoppscotch.desktop</string>
 	<key>AppName</key>
 	<string>Hoppscotch</string>
 	<key>Description</key>

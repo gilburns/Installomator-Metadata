@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hp.hp-easy-start</string>
 	<key>AppName</key>
 	<string>HP Easy Start</string>
 	<key>Description</key>

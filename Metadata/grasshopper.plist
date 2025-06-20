@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.grasshopper.ghclient</string>
 	<key>AppName</key>
 	<string>Grasshopper</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.huddly</string>
 	<key>AppName</key>
 	<string>Huddly</string>
 	<key>Description</key>

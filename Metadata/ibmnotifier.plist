@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ibm.cio.notifier</string>
 	<key>AppName</key>
 	<string>IBM Notifier</string>
 	<key>Description</key>

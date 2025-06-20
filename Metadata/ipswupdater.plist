@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.freegeek.IPSW-Updater</string>
 	<key>AppName</key>
 	<string>IPSW Updater</string>
 	<key>Description</key>

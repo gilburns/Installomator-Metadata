@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>nu.hennig.InstallomatorMate</string>
 	<key>AppName</key>
 	<string>InstallomatorMate</string>
 	<key>Description</key>

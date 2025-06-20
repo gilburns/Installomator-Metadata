@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.bjango.istatmenus</string>
 	<key>AppName</key>
 	<string>iStat Menus</string>
 	<key>Description</key>

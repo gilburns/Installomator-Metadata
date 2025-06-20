@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>jamf.ie.jamfcpr</string>
 	<key>AppName</key>
 	<string>jamfcpr</string>
 	<key>Description</key>

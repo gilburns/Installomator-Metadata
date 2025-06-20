@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.grammarly.keyboard</string>
+	<string>com.grammarly.ProjectLlama</string>
 	<key>AppName</key>
 	<string>Grammarly Desktop</string>
 	<key>Description</key>

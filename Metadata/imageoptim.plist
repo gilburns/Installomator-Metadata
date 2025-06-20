@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.pornel.ImageOptim</string>
 	<key>AppName</key>
 	<string>imageoptim</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jamf.ce.printermanager</string>
 	<key>AppName</key>
 	<string>Jamf Printer Manager</string>
 	<key>Description</key>

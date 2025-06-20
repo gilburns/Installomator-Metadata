@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.xs-labs.Hot</string>
 	<key>AppName</key>
 	<string>Hot</string>
 	<key>Description</key>

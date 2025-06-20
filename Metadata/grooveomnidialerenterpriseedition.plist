@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.omnidialer</string>
 	<key>AppName</key>
 	<string>Groove Omnidialer Enterprise Edition</string>
 	<key>Description</key>
