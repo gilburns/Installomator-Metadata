@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.topazlabs.TopazPhotoAI</string>
 	<key>AppName</key>
 	<string>Topaz Photo AI</string>
 	<key>Description</key>

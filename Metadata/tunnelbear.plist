@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tunnelbear.mac.TunnelBear</string>
 	<key>AppName</key>
 	<string>TunnelBear</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.tailscale.ipn.macsys</string>
+	<string>io.tailscale.ipn.macsys</string>
 	<key>AppName</key>
 	<string>Tailscale</string>
 	<key>Description</key>

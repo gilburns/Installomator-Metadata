@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>org.thonny.Thonny.component</string>
+	<string>org.thonny.Thonny</string>
 	<key>AppName</key>
 	<string>Thonny</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ameba.TRex</string>
 	<key>AppName</key>
 	<string>TRex</string>
 	<key>Description</key>

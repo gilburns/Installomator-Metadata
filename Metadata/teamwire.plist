@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>eu.teamwire.app</string>
 	<key>AppName</key>
 	<string>Teamwire</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tableausoftware.tableaupublic</string>
 	<key>AppName</key>
 	<string>Tableau Public</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.torproject.torbrowser</string>
 	<key>AppName</key>
 	<string>Tor Browser</string>
 	<key>Description</key>

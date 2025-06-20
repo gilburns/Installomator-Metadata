@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hogbaysoftware.TaskPaper3.direct</string>
 	<key>AppName</key>
 	<string>TaskPaper</string>
 	<key>Description</key>
