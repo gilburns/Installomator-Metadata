@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.lucidlink</string>
 	<key>AppName</key>
 	<string>Lucid</string>
 	<key>Description</key>

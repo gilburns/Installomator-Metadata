@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.bungie.source.Marathon</string>
 	<key>AppName</key>
 	<string>Classic Marathon</string>
 	<key>Description</key>

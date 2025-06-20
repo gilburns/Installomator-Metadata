@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.projectwizards.merlinproject</string>
 	<key>AppName</key>
 	<string>Merlin Project</string>
 	<key>Description</key>

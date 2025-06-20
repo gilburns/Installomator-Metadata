@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ninxsoft.lowprofile</string>
 	<key>AppName</key>
 	<string>Low Profile</string>
 	<key>Description</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.maxon.app-manager</string>
 	<key>AppName</key>
 	<string>Maxon</string>
 	<key>Description</key>

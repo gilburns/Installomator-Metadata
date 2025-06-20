@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.elsevier.mendeley</string>
 	<key>AppName</key>
 	<string>Mendeley Reference Manager</string>
 	<key>Description</key>
