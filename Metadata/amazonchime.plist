@@ -6,6 +6,8 @@
 	<string>com.amazon.Amazon-Chime</string>
 	<key>AppName</key>
 	<string>Amazon Chime</string>
+	<key>Category</key>
+	<string>Communication</string>
 	<key>Description</key>
 	<string>Amazon Chime is a secure, real-time, unified communications service that transforms meetings by making them more efficient and easier to conduct.</string>
 	<key>Documentation</key>
