@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>net.publicspace.abfr12</string>
+	<key>AppName</key>
+	<string>A Better Finder Rename 12</string>
+	<key>Description</key>
+	<string>A Better Finder Rename has long been the file renamer of choice for tens of thousands of professionals, businesses and hobbyists across the world, but that hasn't stopped us from continuing to perfect our product culminating now in the brand-new version 12.</string>
+	<key>Documentation</key>
+	<string>https://www.publicspace.net/ABetterFinderRename/v12/index.html</string>
+	<key>Homepage</key>
+	<string>https://www.publicspace.net/ABetterFinderRename/</string>
+	<key>Keywords</key>
+	<string>macOS, file renaming, utility, productivity</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.publicspace.net/privacy.html</string>
+	<key>Publisher</key>
+	<string>publicspace.net</string>
+</dict>
+</plist>
