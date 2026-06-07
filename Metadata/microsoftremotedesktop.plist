@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Microsoft Remote Desktop</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Remote desktop software by Microsoft for connecting to remote PCs.</string>
 	<key>Documentation</key>

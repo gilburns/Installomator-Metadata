@@ -6,6 +6,8 @@
 	<string>com.jetbrains.WebStorm</string>
 	<key>AppName</key>
 	<string>Webstorm</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>WebStorm is an integrated development environment for coding in JavaScript and its related technologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets.</string>
 	<key>Documentation</key>

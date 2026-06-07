@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>8x8 Work</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>8x8 Work is a communication and collaboration tool for macOS users.</string>
 	<key>Documentation</key>

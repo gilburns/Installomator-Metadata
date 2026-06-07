@@ -6,6 +6,8 @@
 	<string>net.matthewpalmer.Rocket</string>
 	<key>AppName</key>
 	<string>Rocket</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Rocket is a macOS app for quickly accessing emoji characters.</string>
 	<key>Documentation</key>

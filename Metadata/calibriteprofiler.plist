@@ -6,6 +6,8 @@
 	<string>com.calibrite.profiler</string>
 	<key>AppName</key>
 	<string>calibrite PROFILER</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>calibrite PROFILER is a software tool for color calibration and profiling of monitors and displays.</string>
 	<key>Documentation</key>

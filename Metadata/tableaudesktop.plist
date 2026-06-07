@@ -6,6 +6,8 @@
 	<string>com.tableausoftware.tableaudesktop</string>
 	<key>AppName</key>
 	<string>Tableau Desktop</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>With Tableau Desktop, you can connect to a variety of data sources and start visualising data.</string>
 	<key>Documentation</key>

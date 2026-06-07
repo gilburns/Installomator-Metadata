@@ -6,6 +6,8 @@
 	<string>com.barebones.bbedit</string>
 	<key>AppName</key>
 	<string>BBEdit</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>BBEdit is a professional HTML and text editor for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>WebEx Tools Removal</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Tool for completely removing WebEx software from macOS systems</string>
 	<key>Documentation</key>

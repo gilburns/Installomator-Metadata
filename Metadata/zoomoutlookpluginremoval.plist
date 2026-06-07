@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Zoom Outlook Plugin Removal</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Tool for completely removing Zoom Outlook Plugin from macOS systems.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.prosoloist</string>
 	<key>AppName</key>
 	<string>Pro Soloist</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Pro Soloist is a music production software for macOS with advanced features.</string>
 	<key>Documentation</key>

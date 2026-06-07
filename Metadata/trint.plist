@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Trint</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Trint is an AI-powered transcription and content collaboration platform that converts audio and video into searchable, editable, and shareable text.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://trint.com/help</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://trint.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Trint,transcription,AI,audio,video,content creation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://trint.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Trint Ltd.</string>
 </dict>
 </plist>

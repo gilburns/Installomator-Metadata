@@ -6,6 +6,8 @@
 	<string>com.rileytestut.AltServer</string>
 	<key>AppName</key>
 	<string>AltServer</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>AltServer is a desktop application for macOS that allows users to sideload apps onto their iOS devices.</string>
 	<key>Documentation</key>

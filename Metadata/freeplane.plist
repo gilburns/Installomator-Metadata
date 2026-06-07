@@ -6,6 +6,8 @@
 	<string>org.freeplane.launcher</string>
 	<key>AppName</key>
 	<string>Freeplane</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Freeplane is a free and open-source software for mind mapping and brainstorming.</string>
 	<key>Documentation</key>

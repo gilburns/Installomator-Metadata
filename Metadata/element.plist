@@ -6,6 +6,8 @@
 	<string>im.riot.app</string>
 	<key>AppName</key>
 	<string>Element</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Element is a productivity app designed to enhance team collaboration and communication.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>fr.whitebox.Packages</string>
 	<key>AppName</key>
 	<string>Packages</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>A package manager for macOS that simplifies installing, updating, and managing software packages.</string>
 	<key>Documentation</key>

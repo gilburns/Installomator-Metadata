@@ -6,6 +6,8 @@
 	<string>com.zsa.wally</string>
 	<key>AppName</key>
 	<string>Wally</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Wally is a desktop wallpaper management application for macOS.</string>
 	<key>Documentation</key>

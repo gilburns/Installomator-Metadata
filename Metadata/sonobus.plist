@@ -6,6 +6,8 @@
 	<string>com.Sonosaurus.SonoBus</string>
 	<key>AppName</key>
 	<string>Sonobus</string>
+	<key>Category</key>
+	<string>Media Players</string>
 	<key>Description</key>
 	<string>Real-time audio streaming and collaboration software for macOS.</string>
 	<key>Documentation</key>

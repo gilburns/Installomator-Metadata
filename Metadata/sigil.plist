@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Sigil</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Sigil is a free, open-source, multi-platform ebook editor for creating and editing EPUB files with a visual interface and code editor.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://sigil-ebook.com/sigil/user_guide/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://sigil-ebook.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Sigil,ebook editor,EPUB,open source,publishing</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Sigil-Ebook</string>
 </dict>
 </plist>

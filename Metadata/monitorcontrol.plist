@@ -6,6 +6,8 @@
 	<string>app.monitorcontrol.MonitorControl</string>
 	<key>AppName</key>
 	<string>MonitorControl</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>MonitorControl is a software tool for macOS that allows users to control their external monitors</string>
 	<key>Documentation</key>

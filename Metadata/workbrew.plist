@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Workbrew</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Workbrew is a productivity software for macOS.</string>
 	<key>Documentation</key>

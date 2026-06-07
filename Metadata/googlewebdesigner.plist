@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.google.WebDesigner</string>
 	<key>AppName</key>
 	<string>Google Web Designer</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>Google Web Designer is a free professional tool for creating interactive HTML5-based animations and interactive elements using a visual interface.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.google.com/webdesigner/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://webdesigner.withgoogle.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Google Web Designer,HTML5,animation,interactive,web design</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://policies.google.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Google LLC</string>
 </dict>
 </plist>

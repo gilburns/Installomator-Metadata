@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Doctolib</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>Doctolib is a healthcare platform for medical appointment booking and practice management, widely used by healthcare professionals in Europe.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://pro.doctolib.fr/aide/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.doctolib.fr/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Doctolib,healthcare,appointment,medical,practice management</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.doctolib.fr/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Doctolib SAS</string>
 </dict>
 </plist>

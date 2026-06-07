@@ -6,6 +6,8 @@
 	<string>org.zotero.zotero</string>
 	<key>AppName</key>
 	<string>Zotero</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research</string>
 	<key>Documentation</key>

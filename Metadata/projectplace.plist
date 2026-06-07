@@ -6,6 +6,8 @@
 	<string>com.projectplace.watson</string>
 	<key>AppName</key>
 	<string>Projectplace</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Project management software for macOS users.</string>
 	<key>Documentation</key>

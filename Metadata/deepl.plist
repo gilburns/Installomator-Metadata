@@ -6,6 +6,8 @@
 	<string>com.linguee.DeepLCopyTranslator</string>
 	<key>AppName</key>
 	<string>DeepL</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>DeepL is a popular online translation service.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Papers</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Papers is a reference management and PDF organization app for researchers, offering smart search, citation import, and manuscript writing tools.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.papersapp.com/support</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.papersapp.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Papers,reference manager,research,citations,PDF,academic</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.digitalscience.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Digital Science &amp; Research Solutions Ltd.</string>
 </dict>
 </plist>

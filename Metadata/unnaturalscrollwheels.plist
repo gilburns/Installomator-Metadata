@@ -6,6 +6,8 @@
 	<string>com.theron.UnnaturalScrollWheels</string>
 	<key>AppName</key>
 	<string>UnnaturalScrollWheels</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Customize scroll wheel behavior on your computer for a smoother experience.</string>
 	<key>Documentation</key>

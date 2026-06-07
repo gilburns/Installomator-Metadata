@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Addigy MDM Watchdog</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Addigy MDM Watchdog is a monitoring tool for macOS devices managed by Addigy MDM.</string>
 	<key>Documentation</key>

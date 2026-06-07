@@ -6,6 +6,8 @@
 	<string>com.astro-hq.LunaDisplayMac</string>
 	<key>AppName</key>
 	<string>Luna Display</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Turn your iPad into a second display for your Mac with Luna Display.</string>
 	<key>Documentation</key>

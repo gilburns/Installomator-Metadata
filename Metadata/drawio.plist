@@ -6,6 +6,8 @@
 	<string>com.jgraph.drawio.desktop</string>
 	<key>AppName</key>
 	<string>draw.io</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>draw.io is a free online diagram drawing tool that can be used on macOS.</string>
 	<key>Documentation</key>

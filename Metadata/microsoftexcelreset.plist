@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Microsoft Excel Reset</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Microsoft Excel Reset is a tool for resetting preferences and settings in Microsoft Excel on macOS.</string>
 	<key>Documentation</key>

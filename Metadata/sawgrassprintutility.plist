@@ -6,6 +6,8 @@
 	<string>com.sawgrass.printmate</string>
 	<key>AppName</key>
 	<string>Sawgrass Print Utility</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Sawgrass Print Utility is a software for macOS that allows users to manage and print designs for Sawgrass printers.</string>
 	<key>Documentation</key>

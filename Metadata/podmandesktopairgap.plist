@@ -6,6 +6,8 @@
 	<string>io.podmandesktop.PodmanDesktop</string>
 	<key>AppName</key>
 	<string>Podman Desktop</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Podman Desktop is an open-source tool for managing pods, containers, and container images on your desktop.</string>
 	<key>Documentation</key>

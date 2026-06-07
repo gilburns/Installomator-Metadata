@@ -6,6 +6,8 @@
 	<string>pw.buttercup.desktop</string>
 	<key>AppName</key>
 	<string>Buttercup</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Secure password manager for macOS</string>
 	<key>Documentation</key>

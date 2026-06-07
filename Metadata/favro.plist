@@ -6,6 +6,8 @@
 	<string>com.favro.desktop-app</string>
 	<key>AppName</key>
 	<string>Favro</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Favro is a planning and collaboration app for macOS users.</string>
 	<key>Documentation</key>

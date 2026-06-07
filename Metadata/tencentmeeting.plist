@@ -6,6 +6,8 @@
 	<string>com.tencent.meeting</string>
 	<key>AppName</key>
 	<string>TencentMeeting</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>TencentMeeting for macOS is a video conferencing software developed by Tencent.</string>
 	<key>Documentation</key>

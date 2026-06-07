@@ -6,6 +6,8 @@
 	<string>com.lindegroup.AutoPkgr</string>
 	<key>AppName</key>
 	<string>AutoPkgr</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>AutoPkgr is a macOS application that automates the download, packaging, and deployment of software updates.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>desktoppr</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>desktoppr is a tool for managing desktop wallpapers.</string>
 	<key>Documentation</key>

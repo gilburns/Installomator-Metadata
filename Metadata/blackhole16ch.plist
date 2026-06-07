@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>audio.existential.BlackHole16ch</string>
 	<key>AppName</key>
 	<string>BlackHole16ch.driver</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>BlackHole is a free macOS audio loopback driver that passes audio between applications with zero additional latency. The 16-channel version provides 16 audio channels.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/ExistentialAudio/BlackHole</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://existential.audio/blackhole/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>BlackHole,audio,loopback,virtual audio,macOS driver</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>audio.existential.BlackHole16ch</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Existential Audio Inc.</string>
 </dict>
 </plist>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Granola</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Granola is an AI-powered meeting notes application that captures and organizes notes from your meetings with context from your calendar.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.granola.so/help</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.granola.so/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Granola,meeting notes,AI,transcription,productivity</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.granola.so/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Granola Inc.</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>com.lujjjh.LinearMouse</string>
 	<key>AppName</key>
 	<string>LinearMouse</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>LinearMouse is a productivity tool for macOS that enhances mouse movement precision.</string>
 	<key>Documentation</key>

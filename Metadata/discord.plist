@@ -6,6 +6,8 @@
 	<string>com.hnc.Discord</string>
 	<key>AppName</key>
 	<string>Discord</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Discord is a communication platform for macOS users to chat, call, and collaborate with friends and communities.</string>
 	<key>Documentation</key>

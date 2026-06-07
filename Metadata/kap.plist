@@ -6,6 +6,8 @@
 	<string>com.wulkano.kap</string>
 	<key>AppName</key>
 	<string>Kap</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Video recording and screen capturing software for macOS</string>
 	<key>Documentation</key>

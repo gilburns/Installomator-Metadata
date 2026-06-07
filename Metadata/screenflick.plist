@@ -6,6 +6,8 @@
 	<string>com.araeliumgroup.screenflick</string>
 	<key>AppName</key>
 	<string>Screenflick</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Screenflick is a powerful screen recording application for macOS.</string>
 	<key>Documentation</key>

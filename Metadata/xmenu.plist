@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>XMenu</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>XMenu is a customizable menu bar application for macOS.</string>
 	<key>Documentation</key>

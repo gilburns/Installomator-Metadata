@@ -6,6 +6,8 @@
 	<string>com.soundly.Soundly</string>
 	<key>AppName</key>
 	<string>Soundly</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Soundly is a professional sound effects library and management tool for macOS.</string>
 	<key>Documentation</key>

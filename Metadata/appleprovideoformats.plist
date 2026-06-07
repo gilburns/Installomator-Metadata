@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.apple.pkg.ProVideoFormats</string>
 	<key>AppName</key>
 	<string>ProVideoFormats</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Apple Pro Video Formats adds support for reading and writing professional video codecs including ProRes RAW, used in production workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.apple.com/en-us/106396</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://support.apple.com/en-us/106396</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ProRes,RAW,video formats,Apple,professional video</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.apple.pkg.ProVideoFormats</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.apple.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Apple Inc.</string>
 </dict>
 </plist>

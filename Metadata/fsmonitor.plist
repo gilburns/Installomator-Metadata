@@ -6,6 +6,8 @@
 	<string>com.tristan.FSMonitor</string>
 	<key>AppName</key>
 	<string>FSMonitor</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Real-time file system monitoring tool for macOS.</string>
 	<key>Documentation</key>

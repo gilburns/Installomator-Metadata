@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.mercury4</string>
 	<key>AppName</key>
 	<string>Mercury-4</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Mercury-4 is a powerful software platform for data analysis and visualization.</string>
 	<key>Documentation</key>

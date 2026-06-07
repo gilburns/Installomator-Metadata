@@ -6,6 +6,8 @@
 	<string>org.zoho.ZohoWorkDrive</string>
 	<key>AppName</key>
 	<string>Zoho WorkDrive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Zoho WorkDrive is a cloud-based document management and file sharing platform for teams.</string>
 	<key>Documentation</key>

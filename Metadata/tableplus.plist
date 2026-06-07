@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.tinyapp.TablePlus</string>
 	<key>AppName</key>
 	<string>TablePlus</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>TablePlus is a modern, native database management tool for relational databases including MySQL, PostgreSQL, SQLite, SQL Server, and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.tableplus.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://tableplus.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>TablePlus,database,SQL,MySQL,PostgreSQL,SQLite,SQL Server</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://tableplus.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>TablePlus Inc.</string>
 </dict>
 </plist>

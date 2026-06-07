@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Ulbow</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Ulbow is a free macOS utility by Howard Oakley for browsing and analyzing the Unified Log, making it easier to view, filter, and understand log entries.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://eclecticlight.co/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://eclecticlight.co/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Ulbow,Unified Log,macOS,log browser,diagnostics,Howard Oakley</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Howard Oakley</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>AWSCLI</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>The AWS Command Line Interface (AWS CLI) is an open source tool that enables you to interact with AWS services using commands in your command-line shell.</string>
 	<key>Documentation</key>

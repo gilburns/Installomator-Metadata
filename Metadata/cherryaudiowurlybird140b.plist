@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.wb140b</string>
 	<key>AppName</key>
 	<string>Wurlybird 140B</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Wurlybird 140B is a software application designed for macOS users.</string>
 	<key>Documentation</key>

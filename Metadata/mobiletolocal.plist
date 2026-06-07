@@ -6,6 +6,8 @@
 	<string>pse.jamf.mobile-to-local</string>
 	<key>AppName</key>
 	<string>Mobile to Local</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Mobile to Local is a macOS software for syncing data between mobile devices and local storage.</string>
 	<key>Documentation</key>

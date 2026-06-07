@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>DrRacket</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>DrRacket is the integrated development environment for the Racket programming language, designed for both teaching and professional programming.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.racket-lang.org/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://racket-lang.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>DrRacket,Racket,IDE,programming,Lisp,Scheme</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>PLT Inc.</string>
 </dict>
 </plist>

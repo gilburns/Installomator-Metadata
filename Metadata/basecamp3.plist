@@ -6,6 +6,8 @@
 	<string>com.basecamp.basecamp3</string>
 	<key>AppName</key>
 	<string>Basecamp 3</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Project management and team collaboration software.</string>
 	<key>Documentation</key>

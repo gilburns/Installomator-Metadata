@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.anthropic.claudefordesktop</string>
 	<key>AppName</key>
 	<string>Claude</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Claude is an AI assistant developed by Anthropic, offering helpful, harmless, and honest conversation for writing, analysis, coding, research, and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.anthropic.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://claude.ai/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Claude,Anthropic,AI,assistant,LLM,chat</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.anthropic.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Anthropic, PBC</string>
 </dict>
 </plist>

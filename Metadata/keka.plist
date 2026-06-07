@@ -6,6 +6,8 @@
 	<string>com.aone.keka</string>
 	<key>AppName</key>
 	<string>Keka</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Advanced macOS file archiver with high compression ratio.</string>
 	<key>Documentation</key>

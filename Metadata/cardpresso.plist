@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>cardpresso</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>cardpresso is card design and printing software for creating ID cards, badges, membership cards, and loyalty cards with barcode and database connectivity.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.cardpresso.com/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.cardpresso.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>cardpresso,ID card,badge,card design,printing</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.cardpresso.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>cardpresso</string>
 </dict>
 </plist>

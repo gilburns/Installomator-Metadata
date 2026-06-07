@@ -6,6 +6,8 @@
 	<string>org.cryptomator</string>
 	<key>AppName</key>
 	<string>Cryptomator</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Cryptomator encrypts your data quickly and easily, so you can safely upload it to your favorite cloud service.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.rogueamoeba.Loopback</string>
 	<key>AppName</key>
 	<string>Loopback</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Loopback is a powerful audio routing application for macOS.</string>
 	<key>Documentation</key>

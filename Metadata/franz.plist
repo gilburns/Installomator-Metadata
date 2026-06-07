@@ -6,6 +6,8 @@
 	<string>com.meetfranz.franz</string>
 	<key>AppName</key>
 	<string>Franz</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Franz is a messaging app that combines chat and messaging services into one application.</string>
 	<key>Documentation</key>

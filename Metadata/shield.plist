@@ -6,6 +6,8 @@
 	<string>com.csaba.fitzl.shield</string>
 	<key>AppName</key>
 	<string>Shield</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>A comprehensive security software program for macOS systems.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Browserosaurus</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Browserosaurus is a macOS browser picker that prompts you to choose which browser to open a link in, making it easy to use multiple browsers for different purposes.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/will-stone/browserosaurus</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://browserosaurus.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Browserosaurus,browser picker,browser chooser,macOS</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Will Stone</string>
 </dict>
 </plist>

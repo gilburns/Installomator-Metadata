@@ -6,6 +6,8 @@
 	<string>com.omnigroup.OmniPlan3</string>
 	<key>AppName</key>
 	<string>OmniPlan</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>OmniPlan is a project management software for macOS users.</string>
 	<key>Documentation</key>

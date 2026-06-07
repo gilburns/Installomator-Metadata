@@ -6,6 +6,8 @@
 	<string>llc.turing.CrystalFetch</string>
 	<key>AppName</key>
 	<string>CrystalFetch</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>CrystalFetch is a macOS software tool for fetching and displaying crystal clear images.</string>
 	<key>Documentation</key>

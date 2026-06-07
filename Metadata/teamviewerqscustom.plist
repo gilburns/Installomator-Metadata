@@ -6,6 +6,8 @@
 	<string>com.teamviewer.TeamViewerQS</string>
 	<key>AppName</key>
 	<string>TeamViewerQS</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>TeamViewerQS is a remote control and desktop sharing software for macOS.</string>
 	<key>Documentation</key>

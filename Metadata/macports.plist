@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MacPorts</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>MacPorts is a package management tool for macOS.</string>
 	<key>Documentation</key>

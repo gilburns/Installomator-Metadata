@@ -6,6 +6,8 @@
 	<string>com.Glip.Glip</string>
 	<key>AppName</key>
 	<string>Glip</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Glip is a collaboration platform for teams that offers messaging, file sharing, task management, and video conferencing features.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.filemaker.client.pro12</string>
 	<key>AppName</key>
 	<string>FileMaker Pro</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>A powerful relational database program for creating custom solutions</string>
 	<key>Documentation</key>

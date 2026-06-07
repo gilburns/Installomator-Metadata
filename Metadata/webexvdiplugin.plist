@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Cisco Webex VDI Plugin</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>The Cisco Webex VDI Plugin enables high-quality Webex meetings from virtual desktop infrastructure environments by offloading media processing to the endpoint device.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.webex.com/en-us/article/ntp1us7/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://help.webex.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Cisco Webex,VDI,virtual desktop,video conferencing,Thin Client</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.cisco.com/c/en/us/about/legal/privacy-full.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Cisco Systems, Inc.</string>
 </dict>
 </plist>

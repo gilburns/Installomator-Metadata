@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>STARFACE</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>STARFACE is a VoIP communication platform offering softphone clients for unified communications, video conferencing, and business telephony.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.starface.com/en/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.starface.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>STARFACE,VoIP,PBX,unified communications,telephony,softphone</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.starface.com/en/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>STARFACE GmbH</string>
 </dict>
 </plist>

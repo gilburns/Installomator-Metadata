@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MIDI Control Center</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Arturia MIDI Control Center is a software application for configuring, managing, and updating Arturia hardware synthesizers and MIDI controllers.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.arturia.com/support/documentation</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.arturia.com/products/software-apps/midi-control-center/overview</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Arturia,MIDI,synthesizer,controller,music hardware</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.arturia.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Arturia SA</string>
 </dict>
 </plist>

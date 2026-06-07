@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>jamf-migrator</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Tool for migrating data from one Jamf Pro server to another</string>
 	<key>Documentation</key>

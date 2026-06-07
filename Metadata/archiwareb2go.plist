@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>P5 Workstation</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>P5 Workstation is a versatile software tool for audio production and editing.</string>
 	<key>Documentation</key>

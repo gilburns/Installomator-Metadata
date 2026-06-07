@@ -6,6 +6,8 @@
 	<string>com.etwok.netspotwifi</string>
 	<key>AppName</key>
 	<string>NetSpot</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>NetSpot is a professional app for analyzing and troubleshooting Wi-Fi networks.</string>
 	<key>Documentation</key>

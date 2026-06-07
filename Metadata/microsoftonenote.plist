@@ -6,6 +6,8 @@
 	<string>com.microsoft.onenote.mac</string>
 	<key>AppName</key>
 	<string>Microsoft OneNote</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Microsoft OneNote is a digital notebook application for capturing, organizing, and sharing notes.</string>
 	<key>Documentation</key>

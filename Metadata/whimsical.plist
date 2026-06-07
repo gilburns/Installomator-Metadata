@@ -6,6 +6,8 @@
 	<string>com.whimsical.desktop</string>
 	<key>AppName</key>
 	<string>Whimsical</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Whimsical is a collaborative visual workspace for creating flowcharts, wireframes, and sticky notes.</string>
 	<key>Documentation</key>

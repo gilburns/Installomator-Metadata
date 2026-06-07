@@ -6,6 +6,8 @@
 	<string>com.amazon.corretto.22</string>
 	<key>AppName</key>
 	<string>Amazon Corretto 22 JDK</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Amazon Corretto is a no-cost, multiplatform, production-ready distribution of the Open Java Development Kit (OpenJDK).</string>
 	<key>Documentation</key>

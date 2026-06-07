@@ -6,6 +6,8 @@
 	<string>uk.co.neutral.Clue</string>
 	<key>AppName</key>
 	<string>Clue</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Clue is a period tracker and ovulation app that helps you keep track of your menstrual cycles.</string>
 	<key>Documentation</key>

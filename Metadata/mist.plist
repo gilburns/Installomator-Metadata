@@ -6,6 +6,8 @@
 	<string>com.ninxsoft.mist</string>
 	<key>AppName</key>
 	<string>Mist</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Mist is a productivity tool for macOS users.</string>
 	<key>Documentation</key>

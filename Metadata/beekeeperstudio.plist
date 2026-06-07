@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Beekeeper Studio</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Beekeeper Studio is a modern, easy-to-use SQL client and database manager for MySQL, Postgres, SQLite, SQL Server, and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.beekeeperstudio.io/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.beekeeperstudio.io/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Beekeeper Studio,SQL,database,MySQL,Postgres,SQLite</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.beekeeperstudio.io/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Beekeeper Studio Inc.</string>
 </dict>
 </plist>

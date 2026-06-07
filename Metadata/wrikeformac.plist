@@ -6,6 +6,8 @@
 	<string>com.wrike.Wrike</string>
 	<key>AppName</key>
 	<string>Wrike for Mac</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Wrike for Mac is a project management software that helps users collaborate and manage tasks efficiently on their Mac devices.</string>
 	<key>Documentation</key>

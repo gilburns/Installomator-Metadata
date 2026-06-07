@@ -6,6 +6,8 @@
 	<string>com.jetbrains.gateway</string>
 	<key>AppName</key>
 	<string>JetBrains Gateway</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>JetBrains Gateway is a productivity-focused tool for macOS users.</string>
 	<key>Documentation</key>

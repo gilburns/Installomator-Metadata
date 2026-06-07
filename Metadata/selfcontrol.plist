@@ -6,6 +6,8 @@
 	<string>org.eyebeam.SelfControl</string>
 	<key>AppName</key>
 	<string>SelfControl</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>SelfControl is a macOS app that helps users block distracting websites to improve productivity.</string>
 	<key>Documentation</key>

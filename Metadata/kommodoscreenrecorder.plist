@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Kommodo Screen Recorder</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>Kommodo Screen Recorder is a screen recording application by KomodoDecks for creating tutorials, demos, and bug reports with annotation capabilities.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.komododecks.com/support</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.komododecks.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Kommodo,screen recording,tutorial,demo,video capture</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.komododecks.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>KomodoDecks</string>
 </dict>
 </plist>

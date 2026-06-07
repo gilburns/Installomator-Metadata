@@ -6,6 +6,8 @@
 	<string>com.logmein.GoToMeeting</string>
 	<key>AppName</key>
 	<string>GoToMeeting</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>GoToMeeting is a web-hosted service created and marketed by LogMeIn. It is an online meeting, desktop sharing, and video conferencing software package that enables the user to meet with other computer users, customers, clients or colleagues via the Internet in real time.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Codex</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Codex is an AI-powered coding agent from OpenAI that can autonomously write, test, and debug code across a wide range of programming tasks.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://platform.openai.com/docs/codex</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://openai.com/codex</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Codex,OpenAI,AI coding,code agent,developer</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://openai.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>OpenAI, L.L.C.</string>
 </dict>
 </plist>

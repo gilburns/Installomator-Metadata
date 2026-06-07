@@ -6,6 +6,8 @@
 	<string>com.duckduckgo.macos.browser</string>
 	<key>AppName</key>
 	<string>DuckDuckGo</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>DuckDuckGo is a privacy-focused search engine for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.philandro.anydesk</string>
 	<key>AppName</key>
 	<string>AnyDesk</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>AnyDesk is remote desktop software allowing users to connect to a computer remotely from anywhere in the world with Internet access. Being able to connect remotely, is especially helpful for businesses with on-the-go employees, and IT professionals</string>
 	<key>Documentation</key>

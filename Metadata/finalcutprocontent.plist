@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.apple.pkg.FCPContent</string>
 	<key>AppName</key>
 	<string>FCPContent</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>Final Cut Pro Content provides additional templates, titles, transitions, and generators for video production in Final Cut Pro.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.apple.com/final-cut-pro</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://support.apple.com/en-us/106574</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Final Cut Pro,content,templates,Apple,video production</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.apple.pkg.FCPContent</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.apple.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Apple Inc.</string>
 </dict>
 </plist>

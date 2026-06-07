@@ -6,6 +6,8 @@
 	<string>org.musescore.MuseScore</string>
 	<key>AppName</key>
 	<string>MuseScore 4</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>MuseScore 4 is a powerful music notation software for macOS users.</string>
 	<key>Documentation</key>

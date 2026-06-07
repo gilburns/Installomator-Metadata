@@ -6,6 +6,8 @@
 	<string>com.googlecode.iterm2</string>
 	<key>AppName</key>
 	<string>iTerm</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>iTerm is a terminal emulator for macOS.</string>
 	<key>Documentation</key>

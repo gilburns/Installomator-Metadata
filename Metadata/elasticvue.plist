@@ -6,6 +6,8 @@
 	<string>com.elasticvue.app</string>
 	<key>AppName</key>
 	<string>elasticvue</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Elasticsearch web UI client with an open-source Vue.js framework</string>
 	<key>Documentation</key>

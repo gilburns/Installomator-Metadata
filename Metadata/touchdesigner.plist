@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>TouchDesigner</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>TouchDesigner is a node-based visual programming language for real-time interactive multimedia content, used for performances, installations, and generative art.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://derivative.ca/UserGuide/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://derivative.ca/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>TouchDesigner,visual programming,real-time,interactive,multimedia,generative art</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://derivative.ca/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Derivative</string>
 </dict>
 </plist>

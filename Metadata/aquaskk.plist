@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>aquaskk</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>aquaskk is a software for macOS that enhances typing experience with a customizable virtual keyboard.</string>
 	<key>Documentation</key>

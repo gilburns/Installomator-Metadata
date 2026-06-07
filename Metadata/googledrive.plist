@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Google Drive File Stream</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Access all of your Google Drive content directly from your PC, without using up disk space</string>
 	<key>Documentation</key>

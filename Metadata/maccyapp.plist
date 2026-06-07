@@ -6,6 +6,8 @@
 	<string>org.p0deje.Maccy</string>
 	<key>AppName</key>
 	<string>Maccy</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Clipboard manager for macOS</string>
 	<key>Documentation</key>

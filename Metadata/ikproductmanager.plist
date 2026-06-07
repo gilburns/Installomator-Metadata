@@ -6,6 +6,8 @@
 	<string>com.ikmultimedia.productmanager</string>
 	<key>AppName</key>
 	<string>IK Product Manager</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>IK Product Manager is a software for managing and organizing music production tools and plugins on macOS.</string>
 	<key>Documentation</key>

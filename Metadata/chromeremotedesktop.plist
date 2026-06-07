@@ -6,6 +6,8 @@
 	<string>com.google.GoogleUpdater.wake.system</string>
 	<key>AppName</key>
 	<string>chromeremotedesktop</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>Chrome Remote Desktop allows users to remotely access another computer through the Chrome browser.</string>
 	<key>Documentation</key>

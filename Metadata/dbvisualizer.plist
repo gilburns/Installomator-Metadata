@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>DbVisualizer</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>DbVisualizer is a universal database tool for developers, DBAs, and analysts supporting all major databases including MySQL, PostgreSQL, Oracle, and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.dbvis.com/documentation/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.dbvis.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>DbVisualizer,database,SQL,MySQL,PostgreSQL,Oracle,DBA</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.dbvis.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>DbVis Software AB</string>
 </dict>
 </plist>

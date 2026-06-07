@@ -6,6 +6,8 @@
 	<string>com.expandrive.strongsync</string>
 	<key>AppName</key>
 	<string>Strongsync</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Strongsync is a secure file synchronization software for macOS users.</string>
 	<key>Documentation</key>

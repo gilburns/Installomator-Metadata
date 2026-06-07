@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Amazon Q</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Amazon Q is an AI assistant from Amazon Web Services designed to help developers build, transform, and understand applications using generative AI.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.aws.amazon.com/amazonq/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://aws.amazon.com/q/developer/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Amazon Q,AWS,AI,developer,assistant,code</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://aws.amazon.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Amazon Web Services, Inc.</string>
 </dict>
 </plist>

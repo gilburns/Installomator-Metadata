@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>dockutil</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Command line tool for managing dock items on macOS.</string>
 	<key>Documentation</key>

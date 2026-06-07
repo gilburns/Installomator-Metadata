@@ -6,6 +6,8 @@
 	<string>de.clipgrab.ClipGrab</string>
 	<key>AppName</key>
 	<string>ClipGrab</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>ClipGrab is a free software to download and convert videos from various websites.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>silentknight214/SilentKnight</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
-	<string></string>
+	<string>SilentKnight is a free macOS utility by Howard Oakley for checking whether your Mac's security systems and databases are fully up to date.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://eclecticlight.co/lockrattler-silentknight/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://eclecticlight.co/lockrattler-silentknight/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>SilentKnight,security,macOS,updates,XProtect,MRT</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Howard Oakley</string>
 </dict>
 </plist>

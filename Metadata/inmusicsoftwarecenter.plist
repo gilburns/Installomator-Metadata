@@ -6,6 +6,8 @@
 	<string>com.electron.inmusic-software-center</string>
 	<key>AppName</key>
 	<string>inMusic Software Center</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>inMusic Software Center is a platform for managing and updating inMusic brand software on macOS.</string>
 	<key>Documentation</key>

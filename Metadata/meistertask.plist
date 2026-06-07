@@ -6,6 +6,8 @@
 	<string>com.meisterlabs.meistertask.desktop</string>
 	<key>AppName</key>
 	<string>MeisterTask</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>MeisterTask is a task management software for macOS.</string>
 	<key>Documentation</key>

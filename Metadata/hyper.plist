@@ -6,6 +6,8 @@
 	<string>co.zeit.hyper</string>
 	<key>AppName</key>
 	<string>Hyper</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Hyper is a terminal emulator built with web technologies.</string>
 	<key>Documentation</key>

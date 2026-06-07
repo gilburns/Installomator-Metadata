@@ -6,6 +6,8 @@
 	<string>com.bitwarden.desktop</string>
 	<key>AppName</key>
 	<string>Bitwarden</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Bitwarden is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.</string>
 	<key>Documentation</key>

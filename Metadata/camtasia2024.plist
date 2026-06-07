@@ -6,6 +6,8 @@
 	<string>com.techsmith.camtasia2024</string>
 	<key>AppName</key>
 	<string>Camtasia 2024</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Camtasia is a software suite, created and published by TechSmith, for creating video tutorials and presentations directly via screencast, or via a direct recording plug-in to Microsoft PowerPoint.</string>
 	<key>Documentation</key>

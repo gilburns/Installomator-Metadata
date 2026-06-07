@@ -6,6 +6,8 @@
 	<string>org.grunenberg.CalcService</string>
 	<key>AppName</key>
 	<string>CalcService</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>CalcService is a macOS application that provides advanced calculator functionalities.</string>
 	<key>Documentation</key>

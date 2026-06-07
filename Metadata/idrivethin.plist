@@ -6,6 +6,8 @@
 	<string>com.prosoftnet.IDrive</string>
 	<key>AppName</key>
 	<string>IDrive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>IDrive is a cloud backup and sync service for macOS devices.</string>
 	<key>Documentation</key>

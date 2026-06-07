@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Vanilla</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Vanilla is a powerful utility app for macOS that helps to manage and organize menu bar items.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.utmapp.UTM</string>
 	<key>AppName</key>
 	<string>UTM</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>UTM is an open-source virtual machine emulator that allows users to run Windows, Linux, and BSD software on macOS devices.</string>
 	<key>Documentation</key>

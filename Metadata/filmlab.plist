@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>FilmLab</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>FilmLab is a mobile and desktop app for scanning and viewing film negatives, converting them to positive images with accurate, film-correct colors.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://filmlabapp.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://filmlabapp.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>FilmLab,film scanning,negative,photography,analog film</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://filmlabapp.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Filmlabapp LLC</string>
 </dict>
 </plist>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Thorium</string>
+	<key>Category</key>
+	<string>Books &amp; Reference</string>
 	<key>Description</key>
-	<string></string>
+	<string>Thorium Reader is a free, accessible ebook reader for macOS developed by EDRLab, supporting EPUB, PDF, and audiobook formats with full accessibility.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.edrlab.org/software/thorium-reader/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.edrlab.org/software/thorium-reader/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Thorium Reader,ebook,EPUB,PDF,audiobook,accessible</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.edrlab.org/legal-privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>EDRLab</string>
 </dict>
 </plist>

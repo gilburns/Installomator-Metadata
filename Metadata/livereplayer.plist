@@ -6,6 +6,8 @@
 	<string>com.fsm.mac.LiveReplayer</string>
 	<key>AppName</key>
 	<string>LiveReplayer</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>LiveReplayer is a software that allows users to record and replay their screen activity on macOS.</string>
 	<key>Documentation</key>

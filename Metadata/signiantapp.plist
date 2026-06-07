@@ -6,6 +6,8 @@
 	<string>com.signiant.Signiant-App</string>
 	<key>AppName</key>
 	<string>Signiant App</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Signiant App is a file transfer software for macOS.</string>
 	<key>Documentation</key>

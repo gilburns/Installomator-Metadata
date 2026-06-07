@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Renew-NoAgent</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Renew-NoAgent is a software designed to help automate the renewal process without the need for an agent.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.extensis.SuitcaseFusion</string>
 	<key>AppName</key>
 	<string>Connect Fonts</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Connect Fonts is a font management software for designers and developers.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.ranchero.NetNewsWire-Evergreen</string>
 	<key>AppName</key>
 	<string>NetNewsWire</string>
+	<key>Category</key>
+	<string>Books &amp; Reference</string>
 	<key>Description</key>
 	<string>NetNewsWire is a free and open-source RSS reader for macOS and iOS devices.</string>
 	<key>Documentation</key>

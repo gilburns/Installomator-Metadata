@@ -6,6 +6,8 @@
 	<string>com.iriun.macwebcam</string>
 	<key>AppName</key>
 	<string>IriunWebcam</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>IriunWebcam is a software that allows you to use your iOS device as a webcam on macOS.</string>
 	<key>Documentation</key>

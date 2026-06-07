@@ -6,6 +6,8 @@
 	<string>com.ameba.TRex</string>
 	<key>AppName</key>
 	<string>TRex</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>TRex is a powerful network traffic generator tool for macOS.</string>
 	<key>Documentation</key>

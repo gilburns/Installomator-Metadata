@@ -6,6 +6,8 @@
 	<string>io.ente.auth.mac</string>
 	<key>AppName</key>
 	<string>Ente Auth</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Ente Auth is a secure authentication tool for macOS systems.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.apphousekitchen.aldente-pro</string>
 	<key>AppName</key>
 	<string>AlDente</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>AlDente is a productivity software for time management and task organization.</string>
 	<key>Documentation</key>

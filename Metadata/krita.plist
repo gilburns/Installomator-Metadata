@@ -6,6 +6,8 @@
 	<string>org.krita</string>
 	<key>AppName</key>
 	<string>krita</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>Krita is a free and open-source raster graphics editor designed primarily for digital art and 2D animation.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.grasshopper.ghclient</string>
 	<key>AppName</key>
 	<string>Grasshopper</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Grasshopper is a Mac productivity app for learning to code through fun, interactive lessons.</string>
 	<key>Documentation</key>

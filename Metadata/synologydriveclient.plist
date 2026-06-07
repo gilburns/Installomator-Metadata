@@ -6,6 +6,8 @@
 	<string>com.synology.CloudStation</string>
 	<key>AppName</key>
 	<string>Synology Drive Client</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Sync and access files on your Synology NAS from a macOS device.</string>
 	<key>Documentation</key>

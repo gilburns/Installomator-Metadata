@@ -6,6 +6,8 @@
 	<string>com.electron.omnidialer</string>
 	<key>AppName</key>
 	<string>Groove Omnidialer Enterprise Edition</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Groove Omnidialer Enterprise Edition is a comprehensive calling solution for businesses.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.objective-see.Netiquette</string>
 	<key>AppName</key>
 	<string>Netiquette</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>Netiquette is a macOS application for managing and optimizing network settings.</string>
 	<key>Documentation</key>

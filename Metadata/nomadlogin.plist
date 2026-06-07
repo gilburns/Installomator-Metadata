@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>NoMAD Login</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>NoMAD Login is a macOS utility for managing Active Directory logins and user accounts.</string>
 	<key>Documentation</key>

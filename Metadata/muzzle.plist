@@ -6,6 +6,8 @@
 	<string>com.incident57.Muzzle</string>
 	<key>AppName</key>
 	<string>Muzzle</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Muzzle is a macOS app that automatically silences embarrassing notifications during screen sharing.</string>
 	<key>Documentation</key>

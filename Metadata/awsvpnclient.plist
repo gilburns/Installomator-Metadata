@@ -6,6 +6,8 @@
 	<string>com.amazon.awsvpnclient</string>
 	<key>AppName</key>
 	<string>AWS VPN Client</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>AWS Client VPN is a fully-managed remote access VPN solution used by your remote workforce to securely access resources within both AWS and your on-premises network. Fully elastic, it automatically scales up, or down, based on demand. When migrating applications to AWS, your users access them the same way before, during, and after the move. AWS Client VPN, including the software client, supports the OpenVPN protocol.</string>
 	<key>Documentation</key>

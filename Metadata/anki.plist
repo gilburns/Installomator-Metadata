@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.ankiweb.dtop</string>
 	<key>AppName</key>
 	<string>Anki</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Anki is a free and open-source flashcard program using spaced repetition to help users memorize information effectively.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.ankiweb.net/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://apps.ankiweb.net/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Anki,flashcards,spaced repetition,learning,memory</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://ankiweb.net/account/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Ankitects Pty Ltd</string>
 </dict>
 </plist>

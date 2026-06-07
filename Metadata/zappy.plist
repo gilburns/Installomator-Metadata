@@ -6,6 +6,8 @@
 	<string>com.blackbeltlabs.Zappy</string>
 	<key>AppName</key>
 	<string>Zappy</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Zappy is a productivity tool for macOS that helps users organize their tasks and improve efficiency.</string>
 	<key>Documentation</key>

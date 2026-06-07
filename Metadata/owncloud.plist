@@ -6,6 +6,8 @@
 	<string>com.owncloud.desktopclient</string>
 	<key>AppName</key>
 	<string>ownCloud</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>ownCloud is a self-hosted file sync and share server for macOS users.</string>
 	<key>Documentation</key>

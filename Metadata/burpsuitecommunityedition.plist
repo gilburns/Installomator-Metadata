@@ -6,6 +6,8 @@
 	<string>com.install4j.9806-1938-4586-6531.70</string>
 	<key>AppName</key>
 	<string>Burp Suite Community Edition</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Burp Suite Community Edition is an intercepting proxy for web application security testing.</string>
 	<key>Documentation</key>

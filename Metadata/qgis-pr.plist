@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>QGIS</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>QGIS is a free and open source desktop geographic information system (GIS) application that supports viewing, editing, printing, and analysis of geospatial data.</string>
 	<key>Documentation</key>

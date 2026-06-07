@@ -6,6 +6,8 @@
 	<string>com.knollsoft.Rectangle</string>
 	<key>AppName</key>
 	<string>Rectangle</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Rectangle is a window management app for macOS.</string>
 	<key>Documentation</key>

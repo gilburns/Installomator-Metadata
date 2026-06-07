@@ -6,6 +6,8 @@
 	<string>com.postgresapp.Postgres2</string>
 	<key>AppName</key>
 	<string>Postgres</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Postgres is an open source relational database management system for macOS.</string>
 	<key>Documentation</key>

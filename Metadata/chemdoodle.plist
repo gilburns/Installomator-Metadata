@@ -6,6 +6,8 @@
 	<string>com.iChemLabs.ChemDoodle</string>
 	<key>AppName</key>
 	<string>ChemDoodle</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>ChemDoodle is a chemical drawing application for macOS.</string>
 	<key>Documentation</key>

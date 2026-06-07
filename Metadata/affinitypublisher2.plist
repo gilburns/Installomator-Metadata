@@ -6,6 +6,8 @@
 	<string>com.seriflabs.affinitypublisher2</string>
 	<key>AppName</key>
 	<string>Affinity Publisher 2</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Affinity Publisher 2 is a professional desktop publishing software for creating various types of documents.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.ringcentral.glip</string>
 	<key>AppName</key>
 	<string>RingCentral</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>RingCentral is the leading provider of global enterprise cloud communications and collaboration solutions</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.splashtop.Splashtop-SOS</string>
 	<key>AppName</key>
 	<string>Splashtop SOS</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Remote support solution for IT, help desk, and support professionals.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Extensis Connect</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Extensis Connect is a cloud-based font management platform for creative teams to organize, activate, and share fonts across projects.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.extensis.com/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.extensis.com/connect</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Extensis Connect,font management,fonts,creative,typography</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.extensis.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Extensis</string>
 </dict>
 </plist>

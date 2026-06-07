@@ -6,6 +6,8 @@
 	<string>com.visualzstudio.visualz.macos</string>
 	<key>AppName</key>
 	<string>Visualz</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>Visualz is a powerful graphics editing software for macOS users.</string>
 	<key>Documentation</key>

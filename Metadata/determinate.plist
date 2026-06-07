@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Determinate</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Determinate is a managed Nix distribution and platform by Determinate Systems, providing reliable Nix installation and management for macOS.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://determinate.systems/posts/determinate-nix-installer</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://determinate.systems/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Determinate,Nix,package manager,macOS,developer</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>systems.determinate.Determinate</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://determinate.systems/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Determinate Systems, Inc.</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>com.electron.dialpad</string>
 	<key>AppName</key>
 	<string>Dialpad</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Dialpad Meetings is a versatile video conferencing platform that offers seamless communication and collaboration.</string>
 	<key>Documentation</key>

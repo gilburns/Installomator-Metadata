@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>montereyblocker</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>A software tool for blocking macOS Monterey update notifications.</string>
 	<key>Documentation</key>

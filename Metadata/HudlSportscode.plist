@@ -6,6 +6,8 @@
 	<string>com.hudl.Sportscode64</string>
 	<key>AppName</key>
 	<string>Hudl Sportscode</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Video analysis software for sports teams and athletes</string>
 	<key>Documentation</key>

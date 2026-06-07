@@ -6,6 +6,8 @@
 	<string>org.jaspstats.jasp</string>
 	<key>AppName</key>
 	<string>JASP</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>JASP is a user-friendly statistical software for conducting and interpreting statistical analyses.</string>
 	<key>Documentation</key>

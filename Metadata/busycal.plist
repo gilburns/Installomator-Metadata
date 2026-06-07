@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.busymac.busycal3</string>
 	<key>AppName</key>
 	<string>BusyCal</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>BusyCal is a powerful calendar app for macOS that syncs with iCloud, Google, Exchange, and other calendar services, with robust features for power users.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.busymac.com/busycal/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.busymac.com/busycal/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>BusyCal,calendar,scheduling,iCloud,Google Calendar</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.busymac.com/privacy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>BusyMac LLC</string>
 </dict>
 </plist>

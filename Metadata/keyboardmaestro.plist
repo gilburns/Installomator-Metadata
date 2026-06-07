@@ -6,6 +6,8 @@
 	<string>com.stairways.keyboardmaestro.editor</string>
 	<key>AppName</key>
 	<string>Keyboard Maestro</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Keyboard Maestro is a powerful automation software for macOS that allows users to create custom macros and automate repetitive tasks.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Kiro CLI</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Kiro CLI is the command-line interface for Amazon Kiro, providing developer tooling for AI-assisted software development workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://kiro.dev/docs/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://kiro.dev/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Kiro CLI,Amazon,AI,CLI,developer tools</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://aws.amazon.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Amazon Web Services, Inc.</string>
 </dict>
 </plist>

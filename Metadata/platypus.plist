@@ -6,6 +6,8 @@
 	<string>org.sveinbjorn.Platypus</string>
 	<key>AppName</key>
 	<string>Platypus</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Platypus is a developer tool for creating macOS applications from scripts.</string>
 	<key>Documentation</key>

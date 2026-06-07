@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.shopify.tophat</string>
 	<key>AppName</key>
 	<string>tophat</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>tophat is an open-source developer tool by Shopify for testing and previewing mobile app builds directly on physical devices.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/shopify/tophat</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/shopify/tophat</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>tophat,Shopify,mobile testing,iOS,Android,developer tools</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.shopify.tophat</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.shopify.com/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Shopify Inc.</string>
 </dict>
 </plist>

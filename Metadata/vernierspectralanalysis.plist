@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Vernier Spectral Analysis</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>Vernier Spectral Analysis is a data collection application for use with Vernier spectrometers in science education and laboratory settings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.vernier.com/product/spectral-analysis/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.vernier.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Vernier,spectral analysis,spectrometer,science education,lab</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.vernier.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Vernier Science Education</string>
 </dict>
 </plist>

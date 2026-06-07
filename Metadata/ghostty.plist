@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mitchellh.ghostty</string>
 	<key>AppName</key>
-	<string>ghostty</string>
+	<string>Ghostty</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Ghostty is a fast, feature-rich, and native macOS terminal emulator using platform-native UI and a GPU-accelerated renderer for a high-performance terminal experience.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://ghostty.org/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://ghostty.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Ghostty,terminal,terminal emulator,GPU,macOS,shell</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Mitchell Hashimoto</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>de.qdev.ExifRenamer</string>
 	<key>AppName</key>
 	<string>ExifRenamer</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>A tool for batch renaming image files based on Exif metadata</string>
 	<key>Documentation</key>

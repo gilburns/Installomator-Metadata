@@ -6,6 +6,8 @@
 	<string>org.sonicvisualiser.SonicVisualiser</string>
 	<key>AppName</key>
 	<string>Sonic Visualiser</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Sonic Visualiser is an application for viewing and analyzing audio files.</string>
 	<key>Documentation</key>

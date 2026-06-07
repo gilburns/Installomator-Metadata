@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Spark</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Apache Spark is a distributed computing system for big data processing.</string>
 	<key>Documentation</key>

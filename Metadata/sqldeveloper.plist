@@ -6,6 +6,8 @@
 	<string>com.oracle.SQLDeveloper</string>
 	<key>AppName</key>
 	<string>SQLDeveloper</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>SQLDeveloper is a powerful integrated development environment for Oracle Database on macOS.</string>
 	<key>Documentation</key>

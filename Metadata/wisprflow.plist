@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Wispr Flow</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Wispr Flow is an AI-powered voice-to-text tool that enables users to dictate text in any application with high accuracy and very low latency.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.wisprflow.ai/help</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.wisprflow.ai/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Wispr Flow,voice to text,dictation,AI,transcription,speech</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.wisprflow.ai/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Wispr AI</string>
 </dict>
 </plist>

@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.devolutions.remotedesktopmanager</string>
 	<key>AppName</key>
 	<string>Remote Desktop Manager</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Remote Desktop Manager is a powerful remote connection management solution supporting RDP, SSH, VNC, web, and many other connection types for IT teams.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.devolutions.net/rdm/mac/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://devolutions.net/remote-desktop-manager/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Remote Desktop Manager,RDP,SSH,VNC,remote access,Devolutions</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://devolutions.net/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Devolutions Inc.</string>
 </dict>
 </plist>

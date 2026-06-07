@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Sipgate CLINQ</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Sipgate CLINQ is a communication software for macOS.</string>
 	<key>Documentation</key>

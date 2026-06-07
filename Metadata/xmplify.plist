@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Xmplify</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Xmplify is a powerful XML editor for macOS that provides XML editing, validation, and transformation with XPath evaluation and XSLT support.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://xmplifyapp.com/release-notes/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://xmplifyapp.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Xmplify,XML editor,XML,XPath,XSLT,validation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://xmplifyapp.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Xmplify</string>
 </dict>
 </plist>

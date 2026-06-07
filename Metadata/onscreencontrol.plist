@@ -6,6 +6,8 @@
 	<string>com.LGSI.OnScreen-Control</string>
 	<key>AppName</key>
 	<string>OnScreen Control</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>OnScreen Control is a software for macOS that allows users to manage their monitors and display settings.</string>
 	<key>Documentation</key>

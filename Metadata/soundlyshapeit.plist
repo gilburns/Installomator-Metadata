@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Shapeit</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Shapeit is an audio plugin by Soundly for adaptive spectral shaping and intelligent EQ, designed to complement and blend audio tracks in mixing workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.soundly.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.soundly.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Shapeit,Soundly,audio plugin,EQ,spectral shaping,mixing</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.soundly.pkg.au.shapeit</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.soundly.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Soundly AS</string>
 </dict>
 </plist>

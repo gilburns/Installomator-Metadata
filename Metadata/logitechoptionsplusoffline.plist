@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>logioptionsplus</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Logi Options+ is the customization software for Logitech productivity mice and keyboards, enabling button remapping, gestures, and application-specific settings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.logi.com/hc/en-us</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.logitech.com/en-us/software/logi-options-plus.html</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Logi Options+,Logitech,mouse,keyboard,customization,productivity</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.logitech.com/en-us/legal/privacy-policy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Logitech</string>
 </dict>
 </plist>

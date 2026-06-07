@@ -6,6 +6,8 @@
 	<string>workplace-desktop</string>
 	<key>AppName</key>
 	<string>Workplace Chat</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Workplace Chat is a messaging and collaboration tool designed for teams to communicate and work together.</string>
 	<key>Documentation</key>

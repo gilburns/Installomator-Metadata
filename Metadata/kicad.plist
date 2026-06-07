@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>KiCad/KiCad</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>KiCad is a free and open-source electronics design automation (EDA) suite for schematic design and PCB layout used by engineers and hobbyists worldwide.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.kicad.org/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.kicad.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>KiCad,PCB,schematic,EDA,electronics,circuit design</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>KiCad EDA</string>
 </dict>
 </plist>

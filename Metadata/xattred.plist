@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>xattred17/xattred</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>xattred is a macOS utility by Howard Oakley for viewing and editing extended attributes (xattrs) of files, with a graphical interface for this low-level file metadata.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://eclecticlight.co/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://eclecticlight.co/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>xattred,extended attributes,xattr,macOS,file metadata,Howard Oakley</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Howard Oakley</string>
 </dict>
 </plist>

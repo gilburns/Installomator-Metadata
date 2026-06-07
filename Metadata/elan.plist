@@ -5,20 +5,22 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string>ELAN_7.1</string>
+	<string>ELAN</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>ELAN is a linguistic annotation tool for the creation, editing, visualization, and searching of annotations for audio and video recordings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://archive.mpi.nl/tla/elan/download</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://archive.mpi.nl/tla/elan</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ELAN,linguistic annotation,speech,transcription,video annotation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Max Planck Institute for Psycholinguistics</string>
 </dict>
 </plist>

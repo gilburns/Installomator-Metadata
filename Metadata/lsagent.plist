@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>LsAgent-osx</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>LsAgent-osx is a software for macOS that enhances system performance and security.</string>
 	<key>Documentation</key>

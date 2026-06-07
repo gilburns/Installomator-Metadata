@@ -6,6 +6,8 @@
 	<string>com.busymac.busycontacts</string>
 	<key>AppName</key>
 	<string>BusyContacts</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Contacts management software for Mac users.</string>
 	<key>Documentation</key>

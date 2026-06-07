@@ -6,6 +6,8 @@
 	<string>com.xs-labs.Hot</string>
 	<key>AppName</key>
 	<string>Hot</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Real-time communication application for teams</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>strongDM</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>strongDM is a secure access platform that enables teams to manage and audit access to databases, servers, and Kubernetes clusters.</string>
 	<key>Documentation</key>

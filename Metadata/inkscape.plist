@@ -6,6 +6,8 @@
 	<string>org.inkscape.Inkscape</string>
 	<key>AppName</key>
 	<string>Inkscape</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Open-source vector graphics editor for creating scalable graphic designs</string>
 	<key>Documentation</key>

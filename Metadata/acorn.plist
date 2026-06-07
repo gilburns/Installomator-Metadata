@@ -6,6 +6,8 @@
 	<string>com.flyingmeat.Acorn8</string>
 	<key>AppName</key>
 	<string>Acorn</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>Acorn is a popular image editing software for macOS.</string>
 	<key>Documentation</key>

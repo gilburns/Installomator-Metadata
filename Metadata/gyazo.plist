@@ -6,6 +6,8 @@
 	<string>com.gyazo.pkg</string>
 	<key>AppName</key>
 	<string>Gyazo</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Capture, edit, and share screenshots and GIFs effortlessly.</string>
 	<key>Documentation</key>

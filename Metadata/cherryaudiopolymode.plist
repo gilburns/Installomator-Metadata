@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.polymode</string>
 	<key>AppName</key>
 	<string>Polymode Synthesizer</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Polymode Synthesizer is a versatile music production software with advanced synthesis capabilities.</string>
 	<key>Documentation</key>

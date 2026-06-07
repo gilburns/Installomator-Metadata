@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Escrow Buddy</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Escrow Buddy is a secure escrow software for macOS users.</string>
 	<key>Documentation</key>

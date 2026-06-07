@@ -6,6 +6,8 @@
 	<string>org.horosproject.horos</string>
 	<key>AppName</key>
 	<string>Horos</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Horos is an open-source medical image viewer for macOS.</string>
 	<key>Documentation</key>

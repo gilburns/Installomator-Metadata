@@ -6,6 +6,8 @@
 	<string>com.clipy-app.Clipy</string>
 	<key>AppName</key>
 	<string>Clipy</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Clipboard manager for macOS</string>
 	<key>Documentation</key>

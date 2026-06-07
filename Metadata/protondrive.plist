@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Proton Drive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Proton Drive is an end-to-end encrypted cloud storage service by Proton that ensures your files are protected with zero-knowledge encryption.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://proton.me/support/drive</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://proton.me/drive</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Proton Drive,cloud storage,encrypted,privacy,end-to-end encryption</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://proton.me/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Proton AG</string>
 </dict>
 </plist>

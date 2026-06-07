@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Foxit PDF Editor</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>Foxit PDF Editor is a feature-rich PDF solution for creating, editing, reviewing, and securing PDF documents in professional business environments.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.foxit.com/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.foxit.com/pdf-editor/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Foxit,PDF Editor,PDF,editing,business productivity</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.foxit.com/privacy-policy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Foxit Software Inc.</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>keybase.Electron</string>
 	<key>AppName</key>
 	<string>Keybase</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Keybase is a secure messaging and file-sharing platform that provides end-to-end encryption for communication and data storage.</string>
 	<key>Documentation</key>

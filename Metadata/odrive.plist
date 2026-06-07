@@ -6,6 +6,8 @@
 	<string>com.oxygencloud.odrive</string>
 	<key>AppName</key>
 	<string>odrive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Cloud storage synchronization and management tool.</string>
 	<key>Documentation</key>

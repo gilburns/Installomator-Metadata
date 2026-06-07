@@ -6,6 +6,8 @@
 	<string>com.citrix.receiver.nomas</string>
 	<key>AppName</key>
 	<string>Citrix Workspace</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Citrix Workspace is a desktop virtualization software platform developed by Citrix Systems that allows multiple users to remotely access and operate Microsoft Windows desktops running in a datacenter or a public or private cloud, via devices located elsewhere.</string>
 	<key>Documentation</key>

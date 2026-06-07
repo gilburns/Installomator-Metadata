@@ -6,6 +6,8 @@
 	<string>com.twocanoes.xcreds</string>
 	<key>AppName</key>
 	<string>XCreds</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>XCreds is a secure password manager for macOS users.</string>
 	<key>Documentation</key>

@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.webcatalog.jordan</string>
 	<key>AppName</key>
 	<string>WebCatalog</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>WebCatalog is a macOS application that turns web apps into dedicated desktop apps, creating focused browser environments for each web application.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.webcatalog.io/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://webcatalog.io/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>WebCatalog,web apps,desktop apps,productivity,site-specific browser</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.webcatalog.jordan</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://webcatalog.io/en/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>WebCatalog Ltd.</string>
 </dict>
 </plist>

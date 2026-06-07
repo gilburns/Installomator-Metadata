@@ -6,6 +6,8 @@
 	<string>com.autodesk.dls.streamer.scriptapp.Autodesk-Fusion</string>
 	<key>AppName</key>
 	<string>Autodesk Fusion 360 Admin Install</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Autodesk Fusion 360 Admin Install is a software utility for bulk installation and configuration of Autodesk Fusion 360 software across multiple computers.</string>
 	<key>Documentation</key>

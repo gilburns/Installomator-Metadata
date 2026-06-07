@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.digidna.iMazing3</string>
 	<key>AppName</key>
 	<string>iMazing</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>iMazing is a powerful iOS device management solution for Mac and PC enabling users to transfer and backup data from iPhones and iPads with precision.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://imazing.com/guides</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://imazing.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>iMazing,iOS,iPhone,iPad,backup,device management</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://imazing.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>DigiDNA SARL</string>
 </dict>
 </plist>

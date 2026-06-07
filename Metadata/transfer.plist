@@ -6,6 +6,8 @@
 	<string>com.adriangranados.Transfer</string>
 	<key>AppName</key>
 	<string>Transfer</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Transfer is a file sharing software application.</string>
 	<key>Documentation</key>

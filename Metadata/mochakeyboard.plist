@@ -6,6 +6,8 @@
 	<string>dk.mochasoft.mochakeyboardwithlicense</string>
 	<key>AppName</key>
 	<string>Mocha Keyboard</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Mocha Keyboard is a customizable keyboard app for macOS users.</string>
 	<key>Documentation</key>

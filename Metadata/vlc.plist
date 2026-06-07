@@ -6,6 +6,8 @@
 	<string>org.videolan.vlc</string>
 	<key>AppName</key>
 	<string>VLC</string>
+	<key>Category</key>
+	<string>Media Players</string>
 	<key>Description</key>
 	<string>VLC media player is a free and open-source, portable, cross-platform media player and streaming media server developed by the VideoLAN project.</string>
 	<key>Documentation</key>

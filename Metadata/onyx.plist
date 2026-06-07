@@ -6,6 +6,8 @@
 	<string>com.titanium.OnyX</string>
 	<key>AppName</key>
 	<string>OnyX</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>OnyX is a multifunctional maintenance and optimization tool for macOS.</string>
 	<key>Documentation</key>

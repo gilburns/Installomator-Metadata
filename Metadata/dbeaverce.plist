@@ -6,6 +6,8 @@
 	<string>org.jkiss.dbeaver.core.product</string>
 	<key>AppName</key>
 	<string>DBeaver</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>DBeaver is free and open source universal database tool for developers and database administrators.</string>
 	<key>Documentation</key>

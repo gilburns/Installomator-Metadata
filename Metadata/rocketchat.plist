@@ -6,6 +6,8 @@
 	<string>chat.rocket</string>
 	<key>AppName</key>
 	<string>Rocket.Chat</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Explore Rocket.Chat, where we put data privacy into every conversation and enable teams to collaborate seamlessly.</string>
 	<key>Documentation</key>

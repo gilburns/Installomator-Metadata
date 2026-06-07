@@ -6,6 +6,8 @@
 	<string>org.weasis.launcher</string>
 	<key>AppName</key>
 	<string>Weasis</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Weasis is a free and open-source web viewer for medical images.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>app.mmhmm.app</string>
 	<key>AppName</key>
 	<string>mmhmm Studio</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Virtual video production studio software for enhancing presentations and video calls</string>
 	<key>Documentation</key>

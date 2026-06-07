@@ -6,6 +6,8 @@
 	<string>com.linear</string>
 	<key>AppName</key>
 	<string>Linear</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Linear is a modern productivity tool for project management.</string>
 	<key>Documentation</key>

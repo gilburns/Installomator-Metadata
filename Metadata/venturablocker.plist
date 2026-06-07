@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>venturablocker</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>venturablocker is a macOS software for blocking unwanted content on websites.</string>
 	<key>Documentation</key>

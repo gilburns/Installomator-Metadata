@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>NDI Access Manager</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>NDI Tools is a collection of free applications for working with NDI (Network Device Interface) video, enabling IP-based video production workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://ndi.video/tools/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://ndi.video/tools/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>NDI,NDI Tools,video,IP video,production,Vizrt</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://ndi.video/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Vizrt Group</string>
 </dict>
 </plist>

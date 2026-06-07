@@ -6,6 +6,8 @@
 	<string>com.druva.inSync</string>
 	<key>AppName</key>
 	<string>Druva inSync</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Druva inSync is a comprehensive data protection and governance solution for macOS devices.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.HairerSoft.AmadeusPro</string>
 	<key>AppName</key>
 	<string>Amadeus Pro</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Amadeus Pro is a powerful audio editing software for macOS.</string>
 	<key>Documentation</key>

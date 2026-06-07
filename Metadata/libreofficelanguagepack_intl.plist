@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>LibreOffice Language Pack</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Language pack for LibreOffice on macOS.</string>
 	<key>Documentation</key>

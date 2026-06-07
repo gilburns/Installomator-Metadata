@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Cisdem Document Reader</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Cisdem Document Reader is a macOS application for viewing multiple document formats including PDF, Word, Pages, WPS, and other file types.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.cisdem.com/document-reader-mac.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.cisdem.com/document-reader-mac.html</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Cisdem,document reader,PDF,Word,Pages,viewer</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.cisdem.com/privacy-policy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Cisdem Inc.</string>
 </dict>
 </plist>

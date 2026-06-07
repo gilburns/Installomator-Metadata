@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>BetterZip</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>BetterZip is a macOS archiving utility for working with zip, rar, 7-zip, tar, xz, and other archive formats with a simple, intuitive interface.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://macitbetter.com/BetterZip-Support-Guide/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://macitbetter.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>BetterZip,archive,zip,rar,7-zip,tar,compression</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://macitbetter.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>MacItBetter</string>
 </dict>
 </plist>

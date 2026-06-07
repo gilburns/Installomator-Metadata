@@ -6,6 +6,8 @@
 	<string>us.zoom.xos</string>
 	<key>AppName</key>
 	<string>zoom.us</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Video conferencing software for macOS</string>
 	<key>Documentation</key>

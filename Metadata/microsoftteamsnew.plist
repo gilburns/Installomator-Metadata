@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>The hub for teamwork in Office 365. Invite everyone you work with to chat, meet, call, and collaborate all in one place, no matter where you are.</string>
 	<key>Documentation</key>

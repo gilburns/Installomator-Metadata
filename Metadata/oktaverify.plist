@@ -6,6 +6,8 @@
 	<string>com.okta.mobile</string>
 	<key>AppName</key>
 	<string>Okta Verify</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Okta Verify is a multi-factor authentication app for macOS.</string>
 	<key>Documentation</key>

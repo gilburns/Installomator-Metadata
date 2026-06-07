@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>A Better Finder Attributes 7</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>A Better Finder Attributes 7 is a macOS batch file attribute manager for changing file dates, editing metadata, modifying Finder flags, and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.publicspace.net/ABetterFinderAttributes/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.publicspace.net/ABetterFinderAttributes/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>file attributes,batch,metadata,finder,dates</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.publicspace.net/legal-privacy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>publicspace.net</string>
 </dict>
 </plist>

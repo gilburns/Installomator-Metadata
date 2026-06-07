@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Toon Boom Harmony 25 Premium/Harmony 25 Premium</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>Toon Boom Harmony Premium is the industry-standard professional 2D animation software for cut-out and traditional animation productions.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.toonboom.com/help/harmony-25/premium/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.toonboom.com/products/harmony</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Toon Boom Harmony,2D animation,cut-out animation,professional,studio</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.toonboom.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Toon Boom Animation Inc.</string>
 </dict>
 </plist>

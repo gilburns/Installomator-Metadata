@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>LM Studio</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>LM Studio is a desktop application for discovering, downloading, and running large language models locally on your Mac, providing a private local AI experience.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://lmstudio.ai/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://lmstudio.ai/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>LM Studio,LLM,local AI,language model,AI,inference</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://lmstudio.ai/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>LM Studio</string>
 </dict>
 </plist>

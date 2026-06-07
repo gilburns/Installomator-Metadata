@@ -6,6 +6,8 @@
 	<string>com.ableton.live</string>
 	<key>AppName</key>
 	<string>Ableton Live 12 Intro</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Ableton Live 12 Intro is a music production software designed for macOS.</string>
 	<key>Documentation</key>

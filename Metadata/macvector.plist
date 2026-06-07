@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MacVector/MacVector</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>MacVector is a comprehensive DNA and protein sequence analysis software for molecular biologists, providing tools for primer design, alignment, and genome analysis.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://macvector.com/downloads/documentation.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://macvector.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>MacVector,DNA,bioinformatics,sequence analysis,molecular biology,primer design</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://macvector.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>MacVector, Inc.</string>
 </dict>
 </plist>

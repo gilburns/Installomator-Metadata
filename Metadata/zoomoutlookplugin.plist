@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Zoom Outlook Plugin</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Zoom Outlook Plugin allows users to schedule Zoom meetings directly within Outlook.</string>
 	<key>Documentation</key>

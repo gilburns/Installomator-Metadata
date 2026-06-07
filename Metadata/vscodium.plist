@@ -6,6 +6,8 @@
 	<string>com.vscodium</string>
 	<key>AppName</key>
 	<string>VSCodium</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s VSCode for macOS.</string>
 	<key>Documentation</key>

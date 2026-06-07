@@ -6,6 +6,8 @@
 	<string>com.microsoft.Outlook</string>
 	<key>AppName</key>
 	<string>Microsoft Outlook</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Microsoft Outlook is a popular email client and personal information manager for macOS.</string>
 	<key>Documentation</key>

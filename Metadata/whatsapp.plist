@@ -6,6 +6,8 @@
 	<string>net.whatsapp.WhatsApp</string>
 	<key>AppName</key>
 	<string>WhatsApp</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>WhatsApp for macOS is a popular messaging app that allows users to send text messages, make voice and video calls, and share media.</string>
 	<key>Documentation</key>

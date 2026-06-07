@@ -6,6 +6,8 @@
 	<string>dk.mochasoft.tn3270</string>
 	<key>AppName</key>
 	<string>TN3270</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>TN3270 emulator for macOS</string>
 	<key>Documentation</key>

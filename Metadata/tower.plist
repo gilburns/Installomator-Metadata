@@ -6,6 +6,8 @@
 	<string>com.fournova.Tower3</string>
 	<key>AppName</key>
 	<string>Tower</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Tower is a powerful Git client for Mac and Windows.</string>
 	<key>Documentation</key>

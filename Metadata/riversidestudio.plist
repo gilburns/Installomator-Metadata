@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Riverside Studio</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Riverside Studio is a professional recording platform for podcasters and content creators enabling high-quality remote audio and video recording.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.riverside.fm/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://riverside.fm/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Riverside,podcast,recording,remote recording,video,audio</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://riverside.fm/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Riverside FM Ltd.</string>
 </dict>
 </plist>

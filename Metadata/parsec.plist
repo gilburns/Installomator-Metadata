@@ -6,6 +6,8 @@
 	<string>tv.parsec.www</string>
 	<key>AppName</key>
 	<string>Parsec</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Remote desktop software for gaming and collaboration on macOS</string>
 	<key>Documentation</key>

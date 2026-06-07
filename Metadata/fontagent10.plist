@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>FontAgent</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>FontAgent is a professional font manager for macOS that enables designers and creative teams to organize, activate, and preview fonts.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.insidersoftware.com/font-agent/help/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.insidersoftware.com/font-agent/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>FontAgent,font management,typography,design,fonts</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.insidersoftware.fontagent10.pkg</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.insidersoftware.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Insider Software, Inc.</string>
 </dict>
 </plist>

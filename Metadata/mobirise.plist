@@ -6,6 +6,8 @@
 	<string>com.mobirise.Mobirise</string>
 	<key>AppName</key>
 	<string>mobirise</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Free website builder software for macOS.</string>
 	<key>Documentation</key>

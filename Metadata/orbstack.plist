@@ -6,6 +6,8 @@
 	<string>dev.kdrag0n.MacVirt</string>
 	<key>AppName</key>
 	<string>OrbStack</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>OrbStack is a versatile software for macOS that streamlines data management and synchronization.</string>
 	<key>Documentation</key>

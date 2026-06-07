@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Zen</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
-	<string></string>
+	<string>Zen Browser is a privacy-focused, open-source web browser based on Firefox with a modern interface and built-in features for distraction-free browsing.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.zen-browser.app/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://zen-browser.app/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Zen Browser,privacy,Firefox,open source,browser,focus</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://zen-browser.app/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Zen Browser</string>
 </dict>
 </plist>

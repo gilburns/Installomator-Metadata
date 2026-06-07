@@ -6,6 +6,8 @@
 	<string>app.mmhmm.hybrid</string>
 	<key>AppName</key>
 	<string>mmhmm</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>mmhmm is a virtual video presentation software for macOS.</string>
 	<key>Documentation</key>

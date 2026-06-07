@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Renew</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Renew is a macOS software for automating license renewal tasks.</string>
 	<key>Documentation</key>

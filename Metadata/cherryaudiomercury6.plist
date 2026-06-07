@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.mercury6</string>
 	<key>AppName</key>
 	<string>Mercury-6</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Mercury-6 is a powerful software application for macOS that helps users manage their tasks efficiently.</string>
 	<key>Documentation</key>

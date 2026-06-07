@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.ModuleDesigner</string>
 	<key>AppName</key>
 	<string>Voltage Module Designer</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>A software tool for designing voltage modules on macOS platform.</string>
 	<key>Documentation</key>

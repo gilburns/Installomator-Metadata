@@ -6,6 +6,8 @@
 	<string>com.rogueamoeba.audiohijack</string>
 	<key>AppName</key>
 	<string>Audio Hijack</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Record any audio on your Mac</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.TechSmith.Snagit2024</string>
 	<key>AppName</key>
 	<string>Snagit 2024</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Snagit is a screenshot program that captures video display and audio output.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Orka Desktop</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Orka Desktop enables developers to create and manage macOS virtual machines in MacStadium's Orka cloud platform from their local Mac.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.macstadium.com/docs/orka-desktop</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.macstadium.com/orka</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Orka,MacStadium,macOS VM,virtualization,cloud,Apple</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.macstadium.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>MacStadium, Inc.</string>
 </dict>
 </plist>

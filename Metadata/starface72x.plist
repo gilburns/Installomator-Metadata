@@ -6,6 +6,8 @@
 	<string>de.starface.STARFACE-Client</string>
 	<key>AppName</key>
 	<string>STARFACE</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>STARFACE is a software application for macOS that provides a unified communications platform.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.sqwarq.DetectX-Swift</string>
 	<key>AppName</key>
 	<string>DetectX Swift</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>DetectX Swift is a malware and adware removal tool for macOS.</string>
 	<key>Documentation</key>

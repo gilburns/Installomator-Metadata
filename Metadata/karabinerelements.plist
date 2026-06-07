@@ -6,6 +6,8 @@
 	<string>org.pqrs.Karabiner-Elements.Settings</string>
 	<key>AppName</key>
 	<string>Karabiner-Elements</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Karabiner-Elements is a powerful and stable keyboard customizer for macOS.</string>
 	<key>Documentation</key>

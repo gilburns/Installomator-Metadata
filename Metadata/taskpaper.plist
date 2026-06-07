@@ -6,6 +6,8 @@
 	<string>com.hogbaysoftware.TaskPaper3.direct</string>
 	<key>AppName</key>
 	<string>TaskPaper</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>TaskPaper is a plain text to-do list manager for macOS.</string>
 	<key>Documentation</key>

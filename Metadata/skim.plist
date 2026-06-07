@@ -6,6 +6,8 @@
 	<string>net.sourceforge.skim-app.skim</string>
 	<key>AppName</key>
 	<string>Skim</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Skim is a PDF reader and note-taker for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Jamf Connect</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Jamf Connect is a tool for streamlining user authentication and account provisioning on macOS.</string>
 	<key>Documentation</key>

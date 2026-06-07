@@ -6,6 +6,8 @@
 	<string>com.gaosun.eul</string>
 	<key>AppName</key>
 	<string>eul</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>eul is a software application for macOS that enables users to manage and control their system's energy usage.</string>
 	<key>Documentation</key>

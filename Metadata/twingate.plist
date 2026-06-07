@@ -6,6 +6,8 @@
 	<string>com.twingate.macos</string>
 	<key>AppName</key>
 	<string>Twingate</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Twingate is a cloud-based service that provides a secure alternative to traditional VPNs (Virtual Private Networks).</string>
 	<key>Documentation</key>

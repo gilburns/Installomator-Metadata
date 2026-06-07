@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Capture One</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>Capture One is professional-grade photo editing software and digital asset management known for exceptional raw file processing and advanced color tools.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.captureone.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.captureone.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Capture One,RAW,photo editing,digital asset management,color grading</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.captureone.com/en/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Capture One A/S</string>
 </dict>
 </plist>

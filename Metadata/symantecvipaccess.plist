@@ -6,6 +6,8 @@
 	<string>com.symantec.VIP-Access</string>
 	<key>AppName</key>
 	<string>VIP Access</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>VIP Access is a security app that provides strong authentication for online accounts.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>ipvision Connect</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>ipvision Connect is a software for macOS that provides seamless integration of IP cameras for surveillance purposes.</string>
 	<key>Documentation</key>

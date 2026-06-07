@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.stardust201</string>
 	<key>AppName</key>
 	<string>Stardust 201 Tape Echo</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Vintage tape echo plugin with analog saturation for macOS</string>
 	<key>Documentation</key>

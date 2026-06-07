@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Nextcloud Talk</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>Nextcloud Talk is a self-hosted video and audio conferencing, messaging, and chat application integrated into the Nextcloud platform.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://nextcloud.com/talk/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://nextcloud.com/talk/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Nextcloud Talk,video conferencing,messaging,self-hosted,privacy</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://nextcloud.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Nextcloud GmbH</string>
 </dict>
 </plist>

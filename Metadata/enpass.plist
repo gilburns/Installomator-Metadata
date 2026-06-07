@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>in.sinew.Enpass-Desktop</string>
 	<key>AppName</key>
 	<string>Enpass</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
-	<string></string>
+	<string>Enpass is an offline-first password manager that stores encrypted data locally, with optional sync to your preferred cloud service for cross-device access.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.enpass.io/docs/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.enpass.io/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Enpass,password manager,security,encryption,offline</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.enpass.io/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Sinew Software Systems Pvt. Ltd.</string>
 </dict>
 </plist>

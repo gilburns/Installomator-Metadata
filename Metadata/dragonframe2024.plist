@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Dragonframe 2024</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>Dragonframe is professional stop-motion animation software used by studios worldwide for frame-by-frame capture and production.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.dragonframe.com/downloads/#documentation</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.dragonframe.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Dragonframe,stop motion,animation,frame capture,production</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.dragonframe.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Dzed Systems LLC</string>
 </dict>
 </plist>

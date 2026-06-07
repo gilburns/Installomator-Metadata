@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>osquery-*</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>osquery-* is a powerful macOS security tool for querying operating system information using SQL.</string>
 	<key>Documentation</key>

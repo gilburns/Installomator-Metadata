@@ -6,6 +6,8 @@
 	<string>com.insomnia.app</string>
 	<key>AppName</key>
 	<string>Insomnia</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Open-source REST client tool for testing REST API requests</string>
 	<key>Documentation</key>

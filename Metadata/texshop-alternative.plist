@@ -6,6 +6,8 @@
 	<string>TeXShop</string>
 	<key>AppName</key>
 	<string>TeXShop</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>TeXShop is a TeX/LaTeX editor for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>mkuser</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>A tool to create user accounts in a system.</string>
 	<key>Documentation</key>

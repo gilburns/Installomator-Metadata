@@ -6,6 +6,8 @@
 	<string>com.hp.roamsetup</string>
 	<key>AppName</key>
 	<string>Print</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Print software for managing and organizing documents</string>
 	<key>Documentation</key>

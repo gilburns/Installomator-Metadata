@@ -6,6 +6,8 @@
 	<string>com.splashtop.stb.macosx</string>
 	<key>AppName</key>
 	<string>Splashtop Business</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Remote desktop software for macOS.</string>
 	<key>Documentation</key>

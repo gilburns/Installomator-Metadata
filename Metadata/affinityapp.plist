@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Affinity</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>Affinity is a suite of professional creative applications for macOS from Serif, including Affinity Designer, Photo, and Publisher in one unified app.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://affinity.serif.com/en-us/learn/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://affinity.serif.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Affinity,design,photo editing,publishing,creative suite</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://affinity.serif.com/en-us/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Serif Europe Ltd.</string>
 </dict>
 </plist>

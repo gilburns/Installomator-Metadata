@@ -6,6 +6,8 @@
 	<string>cc.arduino.IDE2</string>
 	<key>AppName</key>
 	<string>Arduino IDE</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>This new IDE provides a modern user interface thanks to its responsive interface, as well as a completely overhauled backend supplied by the Arduino CLI.</string>
 	<key>Documentation</key>

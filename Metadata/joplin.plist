@@ -6,6 +6,8 @@
 	<string>net.cozic.joplin-desktop</string>
 	<key>AppName</key>
 	<string>Joplin</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Joplin is an open-source note-taking application with synchronization capabilities.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>io.dynalist</string>
 	<key>AppName</key>
 	<string>Dynalist</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Dynalist is a versatile productivity tool for macOS.</string>
 	<key>Documentation</key>

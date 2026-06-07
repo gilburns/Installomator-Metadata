@@ -6,6 +6,8 @@
 	<string>com.tcltk.ape</string>
 	<key>AppName</key>
 	<string>ApE</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Aplikasi Pendukung Eksperimentasi (ApE) is a free plasmid map drawing software for macOS.</string>
 	<key>Documentation</key>

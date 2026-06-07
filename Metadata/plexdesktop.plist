@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>tv.plex.Plex</string>
 	<key>AppName</key>
 	<string>Plex</string>
+	<key>Category</key>
+	<string>Media Players</string>
 	<key>Description</key>
-	<string></string>
+	<string>Plex is a media server and streaming application that organizes your personal collection of videos, music, and photos making them available anywhere.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.plex.tv/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.plex.tv/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Plex,media server,streaming,movies,music,photos,HTPC</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.plex.tv/about/privacy-legal/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Plex, Inc.</string>
 </dict>
 </plist>

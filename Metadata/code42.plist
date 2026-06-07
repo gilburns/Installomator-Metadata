@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Code42</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Code42 is a modern data management solution designed for macOS devices.</string>
 	<key>Documentation</key>

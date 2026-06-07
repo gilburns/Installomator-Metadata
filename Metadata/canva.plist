@@ -6,6 +6,8 @@
 	<string>com.canva.CanvaDesktop</string>
 	<key>AppName</key>
 	<string>Canva</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Canva is a free graphic design tool that lets you create visual materials like flyers, posters, presentations, and videos using templates, images, and a drag and drop interface.</string>
 	<key>Documentation</key>

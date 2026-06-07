@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Poly Lens</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Poly Lens Desktop is an application designed to enhance the functionality of Poly devices, such as headsets, cameras, and speakers.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>ChronoAgent</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>ChronoAgent is a real-time syncing utility for Mac computers.</string>
 	<key>Documentation</key>

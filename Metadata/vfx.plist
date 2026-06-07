@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>VFX Suite</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>VFX Suite is a comprehensive set of plugins designed for visual effects and motion graphics in macOS environments.</string>
 	<key>Documentation</key>

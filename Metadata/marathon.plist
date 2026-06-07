@@ -6,6 +6,8 @@
 	<string>org.bungie.source.Marathon</string>
 	<key>AppName</key>
 	<string>Classic Marathon</string>
+	<key>Category</key>
+	<string>Other</string>
 	<key>Description</key>
 	<string>Classic Marathon is a digital version of the well-known endurance race game for macOS.</string>
 	<key>Documentation</key>

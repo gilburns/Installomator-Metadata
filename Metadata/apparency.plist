@@ -6,6 +6,8 @@
 	<string>com.mothersruin.Apparency</string>
 	<key>AppName</key>
 	<string>Apparency</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Apparency is a macOS application that provides detailed information about installed applications.</string>
 	<key>Documentation</key>

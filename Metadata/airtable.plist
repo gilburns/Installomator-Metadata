@@ -6,6 +6,8 @@
 	<string>com.FormaGrid.Airtable</string>
 	<key>AppName</key>
 	<string>Airtable</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Airtable is a spreadsheet-database hybrid tool for macOS users.</string>
 	<key>Documentation</key>

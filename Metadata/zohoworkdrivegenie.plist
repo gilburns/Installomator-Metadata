@@ -6,6 +6,8 @@
 	<string>com.zoho.workdrive.genie</string>
 	<key>AppName</key>
 	<string>Zoho WorkDrive Genie</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Zoho WorkDrive Genie is a productivity tool for file management and collaboration.</string>
 	<key>Documentation</key>

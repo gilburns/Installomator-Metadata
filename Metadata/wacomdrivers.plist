@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Wacom Center</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Software application for managing Wacom tablets on macOS systems.</string>
 	<key>Documentation</key>

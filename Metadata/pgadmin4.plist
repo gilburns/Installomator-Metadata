@@ -6,6 +6,8 @@
 	<string>org.pgadmin.pgadmin4</string>
 	<key>AppName</key>
 	<string>pgAdmin 4</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>pgAdmin is a free, open-source management and development platform for PostgreSQL databases.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>pro.betterdisplay.BetterDisplay</string>
 	<key>AppName</key>
 	<string>BetterDisplay</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>BetterDisplay is a user-friendly software for enhancing display settings.</string>
 	<key>Documentation</key>

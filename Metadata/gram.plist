@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Gram</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Gram Editor is an open-source text editor focused on simplicity and speed for writing and code editing.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://codeberg.org/GramEditor/gram</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://codeberg.org/GramEditor/gram</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Gram Editor,text editor,open source,writing,code</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>GramEditor</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>com.synergysportstech.maceditor</string>
 	<key>AppName</key>
 	<string>Synergy Editor</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Synergy Editor is a powerful tool for code editing and collaboration.</string>
 	<key>Documentation</key>

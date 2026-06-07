@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MAXQDA24</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>MAXQDA is a professional software for qualitative and mixed methods research, enabling analysis of text, audio, video, and survey data.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.maxqda.com/help-mx24</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.maxqda.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>MAXQDA,qualitative research,data analysis,mixed methods,survey</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.maxqda.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>VERBI Software</string>
 </dict>
 </plist>

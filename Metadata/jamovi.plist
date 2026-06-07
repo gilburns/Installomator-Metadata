@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>jamovi</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>Statistical software for macOS</string>
 	<key>Documentation</key>

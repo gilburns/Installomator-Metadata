@@ -6,6 +6,8 @@
 	<string>com.schrodinger.pymol</string>
 	<key>AppName</key>
 	<string>PyMOL</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>PyMOL is a molecular visualization software used for viewing and analyzing molecular structures.</string>
 	<key>Documentation</key>

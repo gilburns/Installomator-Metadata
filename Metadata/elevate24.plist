@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Elevate24</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>Elevate24 is a device management and monitoring tool developed by Jigsaw24 for Apple device fleet administration.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/Jigsaw24/Elevate24</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/Jigsaw24/Elevate24</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Elevate24,Jigsaw24,device management,Apple,MDM</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Jigsaw24</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>com.Wondershare.Video-Converter-Ultimate</string>
 	<key>AppName</key>
 	<string>Wondershare UniConverter</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Wondershare UniConverter is a versatile video converter software for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.namirial.namirialsign</string>
 	<key>AppName</key>
 	<string>Namirial Sign</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Namirial Sign is a digital signature solution for secure document signing.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>TorTalk</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>TorTalk is an assistive text-to-speech reading tool that helps users with reading difficulties or visual impairments access text on their computer.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://tortalk.se/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://tortalk.se/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>TorTalk,text to speech,accessibility,reading,assistive technology</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://tortalk.se/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>SayIT AB</string>
 </dict>
 </plist>

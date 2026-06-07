@@ -6,6 +6,8 @@
 	<string>com.emailsignature.Xink</string>
 	<key>AppName</key>
 	<string>Xink</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>The Xink Client for Active Directory (AD) simplifies email signature management in domain environments.</string>
 	<key>Documentation</key>

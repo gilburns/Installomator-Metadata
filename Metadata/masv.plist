@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MASV</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>MASV is a fast and reliable file transfer service for macOS users.</string>
 	<key>Documentation</key>

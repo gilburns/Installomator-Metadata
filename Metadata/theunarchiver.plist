@@ -6,6 +6,8 @@
 	<string>com.macpaw.site.theunarchiver</string>
 	<key>AppName</key>
 	<string>The Unarchiver</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>The Unarchiver is a popular file extraction tool for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.mcneel.rhinoceros.7</string>
 	<key>AppName</key>
 	<string>Rhino 7</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>3D modeling software for macOS</string>
 	<key>Documentation</key>

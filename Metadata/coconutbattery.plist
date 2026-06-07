@@ -6,6 +6,8 @@
 	<string>com.coconut-flavour.coconutBattery</string>
 	<key>AppName</key>
 	<string>coconutBattery</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Displays live information about the battery in your Apple device.</string>
 	<key>Documentation</key>

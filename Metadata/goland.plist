@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jetbrains.goland</string>
 	<key>AppName</key>
 	<string>GoLand</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>GoLand is a cross-platform IDE by JetBrains for Go development, providing intelligent code analysis, built-in debugger, and integrated tools.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.jetbrains.com/help/go/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.jetbrains.com/go/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>GoLand,JetBrains,Go,Golang,IDE,development</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.jetbrains.com/legal/docs/privacy/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>JetBrains s.r.o.</string>
 </dict>
 </plist>

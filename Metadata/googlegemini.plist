@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Gemini</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Google Gemini is Google's AI assistant for macOS powered by Google's multimodal large language model, supporting text, code, images, and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.google.com/gemini/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://gemini.google.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Gemini,Google,AI,assistant,LLM,chat</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://policies.google.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Google LLC</string>
 </dict>
 </plist>

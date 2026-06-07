@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>AverTouch</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>AverTouch is a powerful software tool for advanced touch gesture analysis.</string>
 	<key>Documentation</key>

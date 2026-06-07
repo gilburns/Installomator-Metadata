@@ -6,6 +6,8 @@
 	<string>nu.hennig.InstallomatorMate</string>
 	<key>AppName</key>
 	<string>InstallomatorMate</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>A tool for managing and customizing Installomator scripts.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>org.torproject.torbrowser</string>
 	<key>AppName</key>
 	<string>Tor Browser</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>A secure web browser that protects your privacy by routing internet traffic through the Tor network.</string>
 	<key>Documentation</key>

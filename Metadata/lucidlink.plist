@@ -6,6 +6,8 @@
 	<string>com.lucidlink</string>
 	<key>AppName</key>
 	<string>Lucid</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>The LucidLink Client is a powerful software application that enables seamless data access and management across various cloud storage services.</string>
 	<key>Documentation</key>

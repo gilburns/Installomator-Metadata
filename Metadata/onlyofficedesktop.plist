@@ -6,6 +6,8 @@
 	<string>asc.onlyoffice.ONLYOFFICE</string>
 	<key>AppName</key>
 	<string>ONLYOFFICE</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>ONLYOFFICE is an office suite software for macOS.</string>
 	<key>Documentation</key>

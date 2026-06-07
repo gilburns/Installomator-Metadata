@@ -6,6 +6,8 @@
 	<string>org.cocoapods.CocoaPods</string>
 	<key>AppName</key>
 	<string>CocoaPods</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects.</string>
 	<key>Documentation</key>

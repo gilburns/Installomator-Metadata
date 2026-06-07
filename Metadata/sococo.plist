@@ -6,6 +6,8 @@
 	<string>com.electron.sococo</string>
 	<key>AppName</key>
 	<string>Sococo</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Sococo is a virtual office collaboration software.</string>
 	<key>Documentation</key>

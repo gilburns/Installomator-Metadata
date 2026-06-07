@@ -6,6 +6,8 @@
 	<string>io.podmandesktop.PodmanDesktop</string>
 	<key>AppName</key>
 	<string>Podman Desktop</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Podman Desktop is an open source graphical tool enabling you to seamlessly work with containers and Kubernetes from your local environment.</string>
 	<key>Documentation</key>

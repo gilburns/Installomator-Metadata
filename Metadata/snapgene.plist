@@ -6,6 +6,8 @@
 	<string>com.gslbiotech.snapgene</string>
 	<key>AppName</key>
 	<string>SnapGene</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Molecular biology software for DNA analysis and cloning</string>
 	<key>Documentation</key>

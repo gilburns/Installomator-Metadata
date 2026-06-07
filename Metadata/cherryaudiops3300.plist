@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.ps-3300</string>
 	<key>AppName</key>
 	<string>PS-3300</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>PS-3300 is a software application for macOS used for managing and organizing tasks.</string>
 	<key>Documentation</key>

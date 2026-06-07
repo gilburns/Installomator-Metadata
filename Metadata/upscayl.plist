@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.upscayl.Upscayl</string>
 	<key>AppName</key>
 	<string>Upscayl</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>Upscayl is a free and open-source AI image upscaler that uses advanced neural network algorithms to enlarge images while preserving and enhancing detail.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/upscayl/upscayl</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://upscayl.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Upscayl,AI upscaling,image enhancement,super resolution,open source</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.upscayl.Upscayl</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Upscayl</string>
 </dict>
 </plist>

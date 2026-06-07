@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Real VNC Server</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Real VNC Server is a remote desktop software for macOS.</string>
 	<key>Documentation</key>

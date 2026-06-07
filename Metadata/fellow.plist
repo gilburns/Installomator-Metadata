@@ -6,6 +6,8 @@
 	<string>com.electron.fellow</string>
 	<key>AppName</key>
 	<string>Fellow</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Fellow is a productivity app for macOS that helps you stay organized and focused.</string>
 	<key>Documentation</key>

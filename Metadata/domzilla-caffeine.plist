@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>net.domzilla.caffeine</string>
 	<key>AppName</key>
 	<string>Caffeine</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Caffeine is a macOS menu bar utility that prevents your Mac from automatically going to sleep, dimming the screen, or starting the screensaver.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/domzilla/caffeine</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/domzilla/caffeine</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Caffeine,sleep prevention,screen,menu bar,utility</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>net.domzilla.caffeine</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Dominik Wagner</string>
 </dict>
 </plist>

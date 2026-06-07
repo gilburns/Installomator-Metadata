@@ -6,6 +6,8 @@
 	<string>com.talkdesk.atlas</string>
 	<key>AppName</key>
 	<string>Talkdesk</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Talkdesk is a contact center software for macOS users.</string>
 	<key>Documentation</key>

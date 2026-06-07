@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>RICOH THETA</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>RICOH THETA is the desktop application for managing and editing 360-degree photos and videos captured with RICOH THETA 360-degree cameras.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://theta360.com/en/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://theta360.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>RICOH THETA,360 degree,panoramic,camera,photo management</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.ricoh.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Ricoh Company, Ltd.</string>
 </dict>
 </plist>

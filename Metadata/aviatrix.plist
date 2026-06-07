@@ -6,6 +6,8 @@
 	<string>org.pythonmac.unspecified.AviatrixVPNClient</string>
 	<key>AppName</key>
 	<string>Aviatrix VPN Client</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Aviatrix VPN Client is a software application for macOS that allows users to securely connect to VPN networks.</string>
 	<key>Documentation</key>

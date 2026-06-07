@@ -6,6 +6,8 @@
 	<string>com.surteesstudios.Bartender</string>
 	<key>AppName</key>
 	<string>Bartender 4</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Bartender 4 is a macOS utility that helps users organize and customize menu bar icons.</string>
 	<key>Documentation</key>

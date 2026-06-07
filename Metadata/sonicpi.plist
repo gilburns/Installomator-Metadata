@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Sonic Pi</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Sonic Pi is a live coding music creation and performance tool that enables you to synthesize and create music using code, designed for education and live performance.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://sonic-pi.net/tutorial.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://sonic-pi.net/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Sonic Pi,live coding,music,programming,education,synthesis</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Sam Aaron</string>
 </dict>
 </plist>

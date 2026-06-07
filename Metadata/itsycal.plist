@@ -6,6 +6,8 @@
 	<string>com.mowglii.ItsycalApp</string>
 	<key>AppName</key>
 	<string>Itsycal</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Itsycal is a tiny calendar for macOS with customizable appearance and advanced features.</string>
 	<key>Documentation</key>

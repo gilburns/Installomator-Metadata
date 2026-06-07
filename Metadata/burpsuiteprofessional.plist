@@ -6,6 +6,8 @@
 	<string>com.install4j.7318-9294-3757-1226.70</string>
 	<key>AppName</key>
 	<string>Burp Suite Professional</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Web security testing tool for finding vulnerabilities in web applications.</string>
 	<key>Documentation</key>

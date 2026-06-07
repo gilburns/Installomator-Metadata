@@ -6,6 +6,8 @@
 	<string>com.ibm.cio.notifier</string>
 	<key>AppName</key>
 	<string>IBM Notifier</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>IBM Notifier is a software tool that provides real-time notifications for IBM products and services.</string>
 	<key>Documentation</key>

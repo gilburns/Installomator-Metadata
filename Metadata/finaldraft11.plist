@@ -6,6 +6,8 @@
 	<string>com.finaldraft.finaldraft.v11</string>
 	<key>AppName</key>
 	<string>Final Draft 11</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Professional screenwriting software for macOS</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.egnyte.Egnyte-Drive</string>
 	<key>AppName</key>
 	<string>Egnyte Connect</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Robust encryption and access controls protects your files.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>OpenLens</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>OpenLens is an open-source Kubernetes IDE and cluster manager providing a graphical interface for managing Kubernetes workloads and resources.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/MuhammedKalkan/OpenLens</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/MuhammedKalkan/OpenLens</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>OpenLens,Kubernetes,K8s,cluster management,DevOps,open source</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>MuhammedKalkan</string>
 </dict>
 </plist>

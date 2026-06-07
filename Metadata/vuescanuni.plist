@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>VueScan</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>VueScan is a scanner application by Hamrick Software supporting over 6000 scanners, with advanced features for professionals and home users. This is the universal (Apple Silicon) build.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.hamrick.com/vuescan/vuescan.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.hamrick.com/vuescan/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>VueScan,scanner,scanning,photo scanning,Hamrick,OCR,Apple Silicon</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.hamrick.com/privacy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Hamrick Software</string>
 </dict>
 </plist>

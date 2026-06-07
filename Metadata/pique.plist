@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>io.macadmins.Pique</string>
 	<key>AppName</key>
 	<string>Pique</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Pique is a macOS tool for querying and managing Privacy Preferences Policy Control (PPPC) configuration for macOS applications and services.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/macadmins/pique</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/macadmins/pique</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Pique,PPPC,privacy,TCC,macOS admin,permissions</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>io.macadmins.Pique</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Mac Admins</string>
 </dict>
 </plist>

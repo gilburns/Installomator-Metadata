@@ -6,6 +6,8 @@
 	<string>com.houdah.Tembo2</string>
 	<key>AppName</key>
 	<string>Tembo</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Tembo is a powerful search tool for macOS, allowing users to quickly find files and applications.</string>
 	<key>Documentation</key>

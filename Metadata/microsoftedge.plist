@@ -6,6 +6,8 @@
 	<string>com.microsoft.edgemac</string>
 	<key>AppName</key>
 	<string>Microsoft Edge</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>Microsoft Edge is the browser for business with modern and legacy web compatibility, new privacy features such as Tracking prevention, and built-in productivity tools such as enterprise-grade PDF support and access to Office and corporate search right from a new tab.</string>
 	<key>Documentation</key>

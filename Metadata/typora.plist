@@ -6,6 +6,8 @@
 	<string>abnerworks.Typora</string>
 	<key>AppName</key>
 	<string>Typora</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Typora is a minimal markdown editor with integrated live preview</string>
 	<key>Documentation</key>

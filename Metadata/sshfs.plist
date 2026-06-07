@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>sshfs-3.7.3-ccb6821</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
-	<string></string>
+	<string>SSHFS allows you to mount a remote filesystem using SSH as the transport, enabling transparent access to remote files over a secure connection.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/libfuse/sshfs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/libfuse/sshfs</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>SSHFS,SSH,filesystem,remote mount,secure shell,macFUSE</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>io.macfuse.installer.components.sshfs</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Miklos Szeredi</string>
 </dict>
 </plist>

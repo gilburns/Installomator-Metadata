@@ -6,6 +6,8 @@
 	<string>com.intelliscapesolutions.caffeine</string>
 	<key>AppName</key>
 	<string>Caffeine</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Caffeine is a macOS utility application that prevents the computer from going to sleep.</string>
 	<key>Documentation</key>

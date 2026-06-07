@@ -6,6 +6,8 @@
 	<string>com.microsoft.Excel</string>
 	<key>AppName</key>
 	<string>Microsoft Excel</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Microsoft Excel is a popular spreadsheet software for macOS.</string>
 	<key>Documentation</key>

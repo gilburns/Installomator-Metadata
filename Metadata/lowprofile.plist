@@ -6,6 +6,8 @@
 	<string>com.ninxsoft.lowprofile</string>
 	<key>AppName</key>
 	<string>Low Profile</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Low Profile is a minimalist task manager for macOS.</string>
 	<key>Documentation</key>

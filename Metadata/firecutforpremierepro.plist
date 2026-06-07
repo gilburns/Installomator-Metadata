@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>FireCut for Premiere Pro</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>FireCut is an AI-powered video editing extension for Adobe Premiere Pro that automates repetitive tasks such as removing silences and adding chapter markers.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://firecut.ai/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://firecut.ai/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>FireCut,Premiere Pro,AI editing,video editor,automation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://firecut.ai/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>FireCut</string>
 </dict>
 </plist>

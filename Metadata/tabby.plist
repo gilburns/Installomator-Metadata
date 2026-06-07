@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Tabby</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Tabby is a highly configurable, open-source terminal emulator and SSH client for macOS, Windows, and Linux with support for tabs, themes, and plugins.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/Eugeny/tabby</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://tabby.sh/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Tabby,terminal emulator,SSH,open source,shell,cross-platform</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Eugene Pankov</string>
 </dict>
 </plist>

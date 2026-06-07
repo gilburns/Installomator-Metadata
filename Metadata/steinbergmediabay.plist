@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Steinberg Media Bay</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Steinberg Media Bay is a media management software for macOS.</string>
 	<key>Documentation</key>

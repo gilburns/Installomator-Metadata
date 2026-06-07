@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.quadra</string>
 	<key>AppName</key>
 	<string>Quadra</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Quadra is a versatile productivity software for macOS users.</string>
 	<key>Documentation</key>

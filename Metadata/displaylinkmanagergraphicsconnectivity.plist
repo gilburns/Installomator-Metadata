@@ -6,6 +6,8 @@
 	<string>com.displaylink.*</string>
 	<key>AppName</key>
 	<string>DisplayLink Manager Graphics Connectivity</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>DisplayLink Manager Graphics Connectivity software for macOS allows users to connect multiple displays to their computer for enhanced productivity.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>eu.teamwire.app</string>
 	<key>AppName</key>
 	<string>Teamwire</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Teamwire is a secure messaging and team communication platform for macOS users.</string>
 	<key>Documentation</key>

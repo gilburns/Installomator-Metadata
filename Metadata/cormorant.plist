@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Cormorant</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Cormorant is a productivity software for macOS.</string>
 	<key>Documentation</key>

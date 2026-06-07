@@ -6,6 +6,8 @@
 	<string>com.Arturia.ArturiaSoftwareCenter</string>
 	<key>AppName</key>
 	<string>Arturia Software Center</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Arturia Software Center is a platform for managing and installing Arturia software products.</string>
 	<key>Documentation</key>

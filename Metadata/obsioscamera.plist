@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>iOS Camera for OBS Studio</string>
+	<key>Category</key>
+	<string>Media Players</string>
 	<key>Description</key>
-	<string></string>
+	<string>iOS Camera for OBS Studio is a plugin that enables using an iPhone or iPad as a high-quality USB webcam source directly in OBS Studio.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://obs.camera/docs/getting-started/ios-camera-plugin-usb/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://obs.camera/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>OBS,iOS camera,webcam,iPhone,iPad,streaming</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://obs.camera/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>obs.camera</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>us.evercast.Evercast</string>
 	<key>AppName</key>
 	<string>Evercast</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Evercast is a real-time collaboration platform for content creators.</string>
 	<key>Documentation</key>

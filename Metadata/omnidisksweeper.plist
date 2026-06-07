@@ -6,6 +6,8 @@
 	<string>com.omnigroup.OmniDiskSweeper</string>
 	<key>AppName</key>
 	<string>OmniDiskSweeper</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>OmniDiskSweeper is a macOS utility that helps users free up disk space by identifying large files and folders.</string>
 	<key>Documentation</key>

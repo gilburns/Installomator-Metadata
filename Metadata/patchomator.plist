@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>patchomator</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Patchomator is a software tool for managing and applying patches on macOS systems.</string>
 	<key>Documentation</key>

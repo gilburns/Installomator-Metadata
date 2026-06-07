@@ -6,6 +6,8 @@
 	<string>com.duosecurity.duo-device-health</string>
 	<key>AppName</key>
 	<string>Duo Desktop</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Duo Desktop is a secure multi-factor authentication tool for desktop applications.</string>
 	<key>Documentation</key>

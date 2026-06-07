@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cycling74.max</string>
 	<key>AppName</key>
 	<string>Max</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Max is a visual programming language for music and multimedia by Cycling '74, used by artists, musicians, and researchers to create interactive audiovisual works.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.cycling74.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://cycling74.com/products/max</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Max,Cycling 74,visual programming,music,multimedia,interactive</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cycling74.com/legal/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Cycling '74</string>
 </dict>
 </plist>

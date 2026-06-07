@@ -6,6 +6,8 @@
 	<string>com.teamviewer.TeamViewerHost</string>
 	<key>AppName</key>
 	<string>TeamViewerHost</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>TeamViewerHost is remote control software for easy desktop sharing and file transfer.</string>
 	<key>Documentation</key>

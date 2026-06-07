@@ -6,6 +6,8 @@
 	<string>synergy.baseball</string>
 	<key>AppName</key>
 	<string>Synergy Baseball</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Synergy Baseball is a macOS software for managing and analyzing baseball data.</string>
 	<key>Documentation</key>

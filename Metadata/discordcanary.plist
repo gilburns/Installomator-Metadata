@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.hnc.Discord.canary</string>
 	<key>AppName</key>
 	<string>Discord Canary</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>Discord Canary is the experimental test build of Discord, giving early access to new features before they roll out to the stable release.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.discord.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://discord.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Discord Canary,Discord,chat,voice,video,gaming</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://discord.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Discord Inc.</string>
 </dict>
 </plist>

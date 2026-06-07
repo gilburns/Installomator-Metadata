@@ -6,6 +6,8 @@
 	<string>com.paulthetall.portingkit</string>
 	<key>AppName</key>
 	<string>Porting Kit</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Porting Kit is an application that helps users to easily install and play Windows games on macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.google.googleadseditorlauncher</string>
 	<key>AppName</key>
 	<string>Google Ads Editor</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Google Ads Editor is a free, offline application that lets you work on your Google Ads campaigns.</string>
 	<key>Documentation</key>

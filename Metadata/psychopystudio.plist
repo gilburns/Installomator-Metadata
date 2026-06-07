@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>PsychoPy Studio</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>PsychoPy Studio is an open-source application for creating behavioral experiments in psychology and neuroscience with builder and coder environments.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.psychopy.org/documentation.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.psychopy.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>PsychoPy,psychology,neuroscience,experiment,behavioral research</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Open Science Tools Ltd.</string>
 </dict>
 </plist>

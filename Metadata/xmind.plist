@@ -6,6 +6,8 @@
 	<string>net.xmind.vana.app</string>
 	<key>AppName</key>
 	<string>Xmind</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Mind mapping and brainstorming software for macOS.</string>
 	<key>Documentation</key>

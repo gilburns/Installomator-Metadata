@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>OnionShare</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>OnionShare is an open-source tool that allows you to securely and anonymously share files over the Tor network.</string>
 	<key>Documentation</key>

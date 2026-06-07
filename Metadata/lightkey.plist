@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Lightkey</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Lightkey is an AI-powered text prediction tool for macOS that suggests completions as you type in any application, improving writing speed and accuracy.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.lightkey.io/support</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.lightkey.io/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Lightkey,text prediction,autocomplete,AI,typing,productivity</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.lightkey.io/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Lightkey Ltd.</string>
 </dict>
 </plist>

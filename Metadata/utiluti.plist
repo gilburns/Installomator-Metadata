@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.scriptingosx.utiluti</string>
 	<key>AppName</key>
 	<string>utiluti</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>utiluti is a command-line tool for managing macOS URL scheme handlers and UTI (Uniform Type Identifier) associations.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/scriptingosx/utiluti</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/scriptingosx/utiluti</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>utiluti,UTI,URL scheme,macOS,command line,scriptingosx</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.scriptingosx.utiluti</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Armin Briegel</string>
 </dict>
 </plist>

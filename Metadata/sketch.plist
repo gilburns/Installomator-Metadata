@@ -6,6 +6,8 @@
 	<string>com.bohemiancoding.sketch3</string>
 	<key>AppName</key>
 	<string>Sketch</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Design tool for macOS users.</string>
 	<key>Documentation</key>

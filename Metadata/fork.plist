@@ -6,6 +6,8 @@
 	<string>com.DanPristupov.Fork</string>
 	<key>AppName</key>
 	<string>Fork</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Fork is a fast and friendly Git client for macOS.</string>
 	<key>Documentation</key>

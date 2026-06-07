@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.nikolaeu.numi</string>
 	<key>AppName</key>
 	<string>Numi</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Numi is a calculator application for macOS that combines natural language processing with calculations, making complex computations intuitive and simple.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://numi.app/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://numi.app/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Numi,calculator,natural language,math,productivity,macOS</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://numi.app/privacy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Nikolai Lazarev</string>
 </dict>
 </plist>

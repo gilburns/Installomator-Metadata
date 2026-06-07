@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>San Francisco Arabic</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Language translation software for Arabic speakers in San Francisco</string>
 	<key>Documentation</key>

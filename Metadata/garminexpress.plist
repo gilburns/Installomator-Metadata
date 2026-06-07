@@ -6,6 +6,8 @@
 	<string>com.garmin.renu.client</string>
 	<key>AppName</key>
 	<string>Garmin Express</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Garmin Express is an application designed to manage Garmin devices. It is used for device registration, map updates and software updates, syncing Fitness data with Garmin Connect, and much more.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Skype for Business</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Skype for Business is a communication tool for macOS users.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>org.thonny.Thonny</string>
 	<key>AppName</key>
 	<string>Thonny</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Thonny is a Python IDE for beginners that aims to provide a simple and clean interface for learning programming.</string>
 	<key>Documentation</key>

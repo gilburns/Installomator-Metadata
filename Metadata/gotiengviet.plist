@@ -6,6 +6,8 @@
 	<string>com.trankynam.GoTiengViet</string>
 	<key>AppName</key>
 	<string>GoTiengViet</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>GoTiengViet is a Vietnamese input method editor software for macOS.</string>
 	<key>Documentation</key>

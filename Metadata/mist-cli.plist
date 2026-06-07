@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Mist-CLI</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Mist-CLI is a command-line tool for managing Mist services on macOS.</string>
 	<key>Documentation</key>

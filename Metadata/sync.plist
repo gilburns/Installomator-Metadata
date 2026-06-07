@@ -6,6 +6,8 @@
 	<string>com.sync.desktop</string>
 	<key>AppName</key>
 	<string>Sync</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Sync app for macOS allows users to seamlessly synchronize files and data across multiple devices.</string>
 	<key>Documentation</key>

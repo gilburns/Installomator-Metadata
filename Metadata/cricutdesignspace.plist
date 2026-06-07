@@ -6,6 +6,8 @@
 	<string>com.cricut.design</string>
 	<key>AppName</key>
 	<string>Cricut Design Space</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Design software for Cricut cutting machines.</string>
 	<key>Documentation</key>

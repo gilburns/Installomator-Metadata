@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>GDevelop 5</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>GDevelop 5 is an open-source, cross-platform 2D game engine designed for novices and indie developers.</string>
 	<key>Documentation</key>

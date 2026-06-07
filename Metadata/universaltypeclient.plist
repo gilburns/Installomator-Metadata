@@ -6,6 +6,8 @@
 	<string>com.extensis.UniversalTypeClient</string>
 	<key>AppName</key>
 	<string>Universal Type Client</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Universal Type Client is a font management software for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>org.gnu.Emacs</string>
 	<key>AppName</key>
 	<string>Emacs</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Emacs is a customizable and extensible text editor for developers.</string>
 	<key>Documentation</key>

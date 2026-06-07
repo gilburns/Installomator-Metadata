@@ -6,6 +6,8 @@
 	<string>com.sequel-ace.sequel-ace</string>
 	<key>AppName</key>
 	<string>Sequel Ace</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Sequel Ace is a MySQL database management tool for macOS.</string>
 	<key>Documentation</key>

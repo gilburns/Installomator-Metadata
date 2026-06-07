@@ -6,6 +6,8 @@
 	<string>com.DigiDNA.iMazingProfileEditorMac</string>
 	<key>AppName</key>
 	<string>iMazing Profile Editor</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Manage and create profiles for iMazing config editor on macOS</string>
 	<key>Documentation</key>

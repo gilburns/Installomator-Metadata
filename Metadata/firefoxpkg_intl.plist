@@ -6,6 +6,8 @@
 	<string>org.mozilla.firefox</string>
 	<key>AppName</key>
 	<string>Firefox</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>Firefox is a popular web browser developed by Mozilla.</string>
 	<key>Documentation</key>

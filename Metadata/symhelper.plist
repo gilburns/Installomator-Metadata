@@ -6,6 +6,8 @@
 	<string>jamf.ie.SYM-Helper</string>
 	<key>AppName</key>
 	<string>SYM-Helper</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>SYM-Helper is a macOS application that assists users with organizing and managing their system files.</string>
 	<key>Documentation</key>

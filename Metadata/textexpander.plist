@@ -6,6 +6,8 @@
 	<string>com.smileonmymac.textexpander</string>
 	<key>AppName</key>
 	<string>TextExpander</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>TextExpander is a productivity tool that helps you type faster and smarter on macOS.</string>
 	<key>Documentation</key>

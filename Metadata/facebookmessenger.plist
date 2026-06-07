@@ -6,6 +6,8 @@
 	<string>com.facebook.archon.developerID</string>
 	<key>AppName</key>
 	<string>Messenger</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Messenger for macOS is a chat application for sending messages and making video calls.</string>
 	<key>Documentation</key>

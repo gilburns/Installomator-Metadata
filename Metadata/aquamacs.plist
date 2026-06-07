@@ -6,6 +6,8 @@
 	<string>org.gnu.Aquamacs</string>
 	<key>AppName</key>
 	<string>Aquamacs</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>An Emacs text editor for Mac OS X with extensive customization options.</string>
 	<key>Documentation</key>

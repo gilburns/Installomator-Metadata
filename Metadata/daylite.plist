@@ -6,6 +6,8 @@
 	<string>com.marketcircle.daylite</string>
 	<key>AppName</key>
 	<string>Daylite</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Daylite is a business productivity app for Mac and iOS devices.</string>
 	<key>Documentation</key>

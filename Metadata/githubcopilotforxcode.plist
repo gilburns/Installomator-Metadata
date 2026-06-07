@@ -6,6 +6,8 @@
 	<string>com.github.CopilotForXcode</string>
 	<key>AppName</key>
 	<string>GitHub Copilot for Xcode</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>GitHub Copilot for Xcode is an AI-powered code completion tool for macOS developers.</string>
 	<key>Documentation</key>

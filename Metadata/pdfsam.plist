@@ -6,6 +6,8 @@
 	<string>org.pdfsam.basic</string>
 	<key>AppName</key>
 	<string>PDFsam Basic</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>PDFsam Basic is a free and open-source software for splitting, merging, and rotating PDF files.</string>
 	<key>Documentation</key>

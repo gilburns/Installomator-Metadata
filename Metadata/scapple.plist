@@ -6,6 +6,8 @@
 	<string>com.literatureandlatte.scapple</string>
 	<key>AppName</key>
 	<string>Scapple</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Scapple is a versatile mind-mapping tool for organizing ideas and thoughts visually.</string>
 	<key>Documentation</key>

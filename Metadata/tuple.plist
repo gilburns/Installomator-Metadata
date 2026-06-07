@@ -6,6 +6,8 @@
 	<string>app.tuple.app</string>
 	<key>AppName</key>
 	<string>Tuple</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Tuple is a high-performance collaboration app for pair programming on macOS.</string>
 	<key>Documentation</key>

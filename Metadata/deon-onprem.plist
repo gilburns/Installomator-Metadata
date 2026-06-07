@@ -6,6 +6,8 @@
 	<string>de.deon.macos</string>
 	<key>AppName</key>
 	<string>Deon</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Deon is a code of ethics generator tool for macOS users.</string>
 	<key>Documentation</key>

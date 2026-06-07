@@ -6,6 +6,8 @@
 	<string>menu.nomad.DEPNotify</string>
 	<key>AppName</key>
 	<string>DEPNotify</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>DEPNotify is a macOS tool that helps automate the deployment process for IT administrators.</string>
 	<key>Documentation</key>

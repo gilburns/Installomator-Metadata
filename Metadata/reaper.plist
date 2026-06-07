@@ -6,6 +6,8 @@
 	<string>com.cockos.reaper</string>
 	<key>AppName</key>
 	<string>REAPER</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>REAPER is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.</string>
 	<key>Documentation</key>

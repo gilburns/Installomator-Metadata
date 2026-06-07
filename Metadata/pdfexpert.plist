@@ -6,6 +6,8 @@
 	<string>com.readdle.PDFExpert-Mac</string>
 	<key>AppName</key>
 	<string>PDF Expert</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>PDF Expert is a powerful PDF editor and reader for macOS.</string>
 	<key>Documentation</key>

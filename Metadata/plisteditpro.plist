@@ -6,6 +6,8 @@
 	<string>com.fatcatsoftware.pledpro</string>
 	<key>AppName</key>
 	<string>PlistEdit Pro</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>PlistEdit Pro is a macOS application for viewing and editing property list files.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.elsevier.mendeley</string>
 	<key>AppName</key>
 	<string>Mendeley Reference Manager</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>Mendeley Reference Manager is a reference management software for macOS.</string>
 	<key>Documentation</key>

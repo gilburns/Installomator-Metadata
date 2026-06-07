@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.memorymode</string>
 	<key>AppName</key>
 	<string>Memorymode</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Memorymode is a macOS software for enhancing memory and focus.</string>
 	<key>Documentation</key>

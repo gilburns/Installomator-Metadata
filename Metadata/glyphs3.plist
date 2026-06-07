@@ -6,6 +6,8 @@
 	<string>com.GeorgSeifert.Glyphs3</string>
 	<key>AppName</key>
 	<string>Glyphs 3</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Glyphs 3 is a professional font design software for macOS.</string>
 	<key>Documentation</key>

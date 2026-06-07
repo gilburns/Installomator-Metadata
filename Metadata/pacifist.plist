@@ -6,6 +6,8 @@
 	<string>com.charlessoft.pacifist</string>
 	<key>AppName</key>
 	<string>Pacifist</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>Pacifist is a macOS application that allows you to browse and extract files from package installers.</string>
 	<key>Documentation</key>

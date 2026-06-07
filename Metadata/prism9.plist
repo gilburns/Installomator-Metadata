@@ -6,6 +6,8 @@
 	<string>com.GraphPad.Prism</string>
 	<key>AppName</key>
 	<string>Prism 9</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Prism 9 is a scientific graphing and data analysis software.</string>
 	<key>Documentation</key>

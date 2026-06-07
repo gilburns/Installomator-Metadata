@@ -6,6 +6,8 @@
 	<string>com.biomatters.Geneious</string>
 	<key>AppName</key>
 	<string>Geneious Prime</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Geneious Prime is a powerful bioinformatics software for macOS.</string>
 	<key>Documentation</key>

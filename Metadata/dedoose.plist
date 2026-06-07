@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Dedoose</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>Qualitative data analysis software for managing, analyzing, and presenting mixed-methods research data</string>
 	<key>Documentation</key>

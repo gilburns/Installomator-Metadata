@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dev.k8slens.OpenLens</string>
 	<key>AppName</key>
 	<string>Lens</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Lens is the most popular Kubernetes IDE, enabling developers and DevOps engineers to manage and navigate Kubernetes clusters with a powerful visual interface.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.k8slens.dev/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://k8slens.dev/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Lens,Kubernetes,IDE,K8s,DevOps,cluster management</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.mirantis.com/company/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Mirantis, Inc.</string>
 </dict>
 </plist>

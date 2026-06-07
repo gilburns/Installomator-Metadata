@@ -6,6 +6,8 @@
 	<string>com.latenightsw.Script-Notary</string>
 	<key>AppName</key>
 	<string>SD Notary</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>SD Notary is a macOS application for digitally signing documents.</string>
 	<key>Documentation</key>

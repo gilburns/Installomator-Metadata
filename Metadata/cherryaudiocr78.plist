@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.cr-78</string>
 	<key>AppName</key>
 	<string>CR-78</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>CR-78 is a drum machine and rhythm programmer produced by Roland Corporation in the late 1970s.</string>
 	<key>Documentation</key>

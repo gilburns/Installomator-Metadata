@@ -6,6 +6,8 @@
 	<string>com.cvte.cleartouch.mac</string>
 	<key>AppName</key>
 	<string>Collage</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>Collage is a macOS application for creating visually stunning photo collages.</string>
 	<key>Documentation</key>

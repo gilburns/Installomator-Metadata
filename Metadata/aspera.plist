@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>IBM Aspera</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>IBM Aspera is a high-speed file transfer technology for moving large data files in media, entertainment, and enterprise environments over any distance.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.ibm.com/docs/en/aspera-on-cloud</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.ibm.com/products/aspera</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>IBM Aspera,file transfer,high speed,enterprise,media</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.ibm.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>IBM</string>
 </dict>
 </plist>

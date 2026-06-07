@@ -6,6 +6,8 @@
 	<string>com.catonetworks.mac.CatoClient</string>
 	<key>AppName</key>
 	<string>CatoClient</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>The Cato VPN Client is software that enables secure connectivity from devices used by businesses to the Cato Cloud service. Traveling business users can easily connect to corporate resources on premise and in the cloud from everywhere.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.trusourcelabs.NoMAD</string>
 	<key>AppName</key>
 	<string>NoMAD</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>NoMAD is a macOS application that simplifies Active Directory user authentication and management.</string>
 	<key>Documentation</key>

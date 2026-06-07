@@ -6,6 +6,8 @@
 	<string>com.polleverywhere.PollEv-Presenter</string>
 	<key>AppName</key>
 	<string>Poll Everywhere</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>https://www.polleverywhere.com/how-it-works</string>
 	<key>Documentation</key>

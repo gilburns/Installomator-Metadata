@@ -6,6 +6,8 @@
 	<string>com.teradici.pcoipclient</string>
 	<key>AppName</key>
 	<string>PCoIPClient</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>PCoIPClient is a client software for macOS to connect to PCoIP remote workstations or virtual desktops.</string>
 	<key>Documentation</key>

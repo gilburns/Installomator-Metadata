@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Modern CSV</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Modern CSV is a powerful CSV editor for macOS users.</string>
 	<key>Documentation</key>

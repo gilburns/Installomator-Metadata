@@ -6,6 +6,8 @@
 	<string>com.mersive.solstice.client</string>
 	<key>AppName</key>
 	<string>Mersive Solstice</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Wireless presentation and collaboration software for meeting spaces.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>lghub</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Logi G HUB is a software platform for Logitech G gaming peripherals enabling users to customize lighting, set macros, and configure device settings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.logi.com/hc/en-us</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.logitechg.com/en-us/innovation/g-hub.html</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Logi G HUB,Logitech,gaming,peripherals,RGB,macros</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.logitech.com/en-us/legal/privacy-policy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Logitech</string>
 </dict>
 </plist>

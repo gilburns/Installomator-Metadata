@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>macOS InstantView</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>macOS InstantView is a display utility by Silicon Motion that enables USB-based external display connections and dock adapter functionality on macOS.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.siliconmotion.com/downloads/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.siliconmotion.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>InstantView,Silicon Motion,USB display,display adapter,dock</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.siliconmotion.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Silicon Motion Technology Corporation</string>
 </dict>
 </plist>

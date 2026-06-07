@@ -6,6 +6,8 @@
 	<string>com.topazlabs.TopazGigapixelAI</string>
 	<key>AppName</key>
 	<string>Topaz Gigapixel AI</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>Topaz Gigapixel AI is an advanced image upscaling software for macOS.</string>
 	<key>Documentation</key>

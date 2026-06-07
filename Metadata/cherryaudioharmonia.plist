@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.harmonia</string>
 	<key>AppName</key>
 	<string>Harmonia</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Harmonia is a music composition and production software for musicians and producers.</string>
 	<key>Documentation</key>

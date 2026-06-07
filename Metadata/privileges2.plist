@@ -6,6 +6,8 @@
 	<string>corp.sap.privileges</string>
 	<key>AppName</key>
 	<string>Privileges</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Privileges is a software tool for managing user access permissions.</string>
 	<key>Documentation</key>

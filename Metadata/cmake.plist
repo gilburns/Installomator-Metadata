@@ -6,6 +6,8 @@
 	<string>org.cmake.cmake</string>
 	<key>AppName</key>
 	<string>CMake</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Cross-platform free and open-source software for managing the build process</string>
 	<key>Documentation</key>

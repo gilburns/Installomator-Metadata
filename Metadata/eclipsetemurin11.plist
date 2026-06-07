@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Temurin 11</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Temurin 11 is a distribution of the OpenJDK 11 that's supported by AdoptOpenJDK.</string>
 	<key>Documentation</key>

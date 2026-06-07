@@ -6,6 +6,8 @@
 	<string>com.omnigroup.OmniPlan4</string>
 	<key>AppName</key>
 	<string>OmniPlan</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Project management software for macOS and iOS devices.</string>
 	<key>Documentation</key>

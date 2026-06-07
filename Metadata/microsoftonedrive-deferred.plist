@@ -6,6 +6,8 @@
 	<string>com.microsoft.OneDrive</string>
 	<key>AppName</key>
 	<string>OneDrive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Cloud storage and file synchronization service by Microsoft</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Session</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Session is a decentralized, end-to-end encrypted messaging app that does not require a phone number or email, ensuring user anonymity and privacy.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://getsession.org/faq</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://getsession.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Session,messenger,privacy,encrypted,decentralized,anonymous</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://getsession.org/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Oxen Privacy Tech Foundation</string>
 </dict>
 </plist>

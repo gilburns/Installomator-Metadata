@@ -6,6 +6,8 @@
 	<string>com.stclairsoft.DefaultFolderX5</string>
 	<key>AppName</key>
 	<string>Default Folder X</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Enhances Open and Save dialog boxes on macOS.</string>
 	<key>Documentation</key>

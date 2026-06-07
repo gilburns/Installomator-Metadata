@@ -6,6 +6,8 @@
 	<string>anastasiy.safari.installer</string>
 	<key>AppName</key>
 	<string>ExtensionManager</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>ExtensionManager is a macOS software for managing and organizing system extensions.</string>
 	<key>Documentation</key>

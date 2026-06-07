@@ -6,6 +6,8 @@
 	<string>com.adobe.adobeconnectinstaller.app</string>
 	<key>AppName</key>
 	<string>AdobeConnectInstaller</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Adobe Connect is a suite of software for remote training, web conferencing, presentation, and desktop sharing.</string>
 	<key>Documentation</key>

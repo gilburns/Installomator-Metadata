@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Rokoko Studio Preview</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>Rokoko Studio Preview is a motion capture and animation preview tool for reviewing and refining motion capture data from Rokoko hardware.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.rokoko.com/support</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.rokoko.com/products/studio</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Rokoko,motion capture,animation,mocap,3D animation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.rokoko.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Rokoko Electronics ApS</string>
 </dict>
 </plist>

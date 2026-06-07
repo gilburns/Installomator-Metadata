@@ -6,6 +6,8 @@
 	<string>com.archimatetool.editor</string>
 	<key>AppName</key>
 	<string>Archi</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Archi is a free and open-source software tool to create architectural models and documentation.</string>
 	<key>Documentation</key>

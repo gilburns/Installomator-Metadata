@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Dracoon</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Dracoon is a European cloud storage platform focused on data sovereignty, security, and compliance for enterprise file management.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.dracoon.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.dracoon.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Dracoon,cloud storage,enterprise,security,compliance,GDPR</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.dracoon.com/en/privacy-notice</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Dracoon GmbH</string>
 </dict>
 </plist>

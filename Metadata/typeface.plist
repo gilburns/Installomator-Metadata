@@ -6,6 +6,8 @@
 	<string>com.criminalbird.typeface.standalone</string>
 	<key>AppName</key>
 	<string>Typeface</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Typeface is a font manager for macOS.</string>
 	<key>Documentation</key>

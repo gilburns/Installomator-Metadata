@@ -6,6 +6,8 @@
 	<string>com.steinberg.HALionLibraryManager</string>
 	<key>AppName</key>
 	<string>Steinberg Library Manager</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Steinberg Library Manager is a software application that organizes and manages audio libraries on macOS.</string>
 	<key>Documentation</key>

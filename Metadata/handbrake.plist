@@ -6,6 +6,8 @@
 	<string>fr.handbrake.HandBrake</string>
 	<key>AppName</key>
 	<string>HandBrake</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>HandBrake is a free and open-source transcoder for digital video files, originally developed in 2003 by Eric Petit to make ripping a film from a DVD to a data storage device easier. Since then, it has undergone many changes and revisions. HandBrake is available for Linux, macOS, and Windows.</string>
 	<key>Documentation</key>

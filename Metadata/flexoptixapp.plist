@@ -6,6 +6,8 @@
 	<string>net.flexoptix.flexoptix.app</string>
 	<key>AppName</key>
 	<string>FLEXOPTIX App</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>FLEXOPTIX App is a macOS application for managing and configuring optical transceivers.</string>
 	<key>Documentation</key>

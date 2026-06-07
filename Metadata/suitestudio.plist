@@ -6,6 +6,8 @@
 	<string>io.suite.suitefs</string>
 	<key>AppName</key>
 	<string>Suite</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Suite is a comprehensive software suite designed to streamline business processes and increase productivity.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MacAdmins Python</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Python automation and management tools for macOS administrators</string>
 	<key>Documentation</key>

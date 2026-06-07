@@ -6,6 +6,8 @@
 	<string>de.codingmonkeys.SubEthaEdit.MacFULL</string>
 	<key>AppName</key>
 	<string>SubEthaEdit</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Real-time collaborative text editing for macOS.</string>
 	<key>Documentation</key>

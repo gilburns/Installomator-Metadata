@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Microsoft OneNote Reset</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Reset utility for Microsoft OneNote on macOS.</string>
 	<key>Documentation</key>

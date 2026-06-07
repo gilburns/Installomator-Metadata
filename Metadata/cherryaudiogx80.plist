@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.gx80</string>
 	<key>AppName</key>
 	<string>GX-80</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>GX-80 is a transformative virtual synthesizer that combines the unparalleled sound and features of the fabled GX-1 “Dream Machine” and its renowned descendant the CS-80.</string>
 	<key>Documentation</key>

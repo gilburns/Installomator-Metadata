@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.techsmith.snagit</string>
 	<key>AppName</key>
 	<string>Snagit</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>Snagit is a professional screen capture and recording tool by TechSmith for creating visual content including screenshots, GIFs, and short video recordings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.techsmith.com/hc/en-us/categories/115000169291</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.techsmith.com/snagit.html</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Snagit,screen capture,screenshot,recording,TechSmith,annotation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.techsmith.com/privacy-policy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>TechSmith Corporation</string>
 </dict>
 </plist>

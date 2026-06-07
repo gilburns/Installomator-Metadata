@@ -6,6 +6,8 @@
 	<string>com.ttinc.sc-menu</string>
 	<key>AppName</key>
 	<string>SC Menu</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>SC Menu is a menu bar utility app for macOS that allows users to quickly access and manage their screen capture tools.</string>
 	<key>Documentation</key>

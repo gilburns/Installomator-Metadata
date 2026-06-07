@@ -6,6 +6,8 @@
 	<string>com.red-sweater.fastscripts3</string>
 	<key>AppName</key>
 	<string>FastScripts</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>FastScripts is a utility for macOS that provides keyboard shortcuts to help you run scripts and automate tasks.</string>
 	<key>Documentation</key>

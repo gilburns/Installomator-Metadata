@@ -6,6 +6,8 @@
 	<string>com.EPOSConnect.app</string>
 	<key>AppName</key>
 	<string>EPOS Connect</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Software for managing EPOS systems remotely</string>
 	<key>Documentation</key>

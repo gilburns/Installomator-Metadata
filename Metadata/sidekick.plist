@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Sidekick</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Sidekick is a productivity tool for managing tasks and project timelines.</string>
 	<key>Documentation</key>

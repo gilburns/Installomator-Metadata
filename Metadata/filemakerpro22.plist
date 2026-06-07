@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.filemaker.client.advanced12</string>
 	<key>AppName</key>
 	<string>FileMaker Pro</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>FileMaker Pro is a relational database application by Claris International for creating custom apps that work seamlessly across iPad, iPhone, Mac, and the web.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.claris.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.claris.com/filemaker/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>FileMaker Pro,database,Claris,custom app,relational database</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.claris.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Claris International Inc.</string>
 </dict>
 </plist>

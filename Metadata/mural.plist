@@ -6,6 +6,8 @@
 	<string>co.mural.macOS</string>
 	<key>AppName</key>
 	<string>Mural</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Mural is a digital workspace for visual collaboration.</string>
 	<key>Documentation</key>

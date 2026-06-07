@@ -6,6 +6,8 @@
 	<string>org.softube.com.softubecentral</string>
 	<key>AppName</key>
 	<string>Softube Central</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Software tool for managing and updating Softube plugins on macOS.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Goose</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Goose is an open-source AI agent by Block that runs on your local machine and can autonomously complete software development tasks.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://block.github.io/goose/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/block/goose</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Goose,AI agent,Block,developer,automation,coding</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://block.xyz/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Block, Inc.</string>
 </dict>
 </plist>

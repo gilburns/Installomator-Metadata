@@ -6,6 +6,8 @@
 	<string>com.CherryAudio.CherryAudioSync</string>
 	<key>AppName</key>
 	<string>Cherry Audio Sync</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Cherry Audio Sync is a macOS application for synchronizing data.</string>
 	<key>Documentation</key>

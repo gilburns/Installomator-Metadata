@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>GoSign-Desktop</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Digital signature software for macOS desktop</string>
 	<key>Documentation</key>

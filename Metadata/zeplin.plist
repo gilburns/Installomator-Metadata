@@ -6,6 +6,8 @@
 	<string>io.zeplin.osx</string>
 	<key>AppName</key>
 	<string>Zeplin</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Zeplin is a design collaboration tool for macOS users.</string>
 	<key>Documentation</key>

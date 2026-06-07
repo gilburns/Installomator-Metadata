@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.lowdown</string>
 	<key>AppName</key>
 	<string>Lowdown</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Lowdown is a versatile note-taking software for organizing information.</string>
 	<key>Documentation</key>

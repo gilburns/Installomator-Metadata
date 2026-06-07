@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Cinema 4D</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>Cinema 4D is a professional 3D modeling, animation, simulation, and rendering software application developed by Maxon Computer.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.maxon.net/en/cinema-4d/whats-new</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.maxon.net/cinema-4d</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Cinema 4D,3D modeling,animation,rendering,Maxon,VFX</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.maxon.net/en/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Maxon Computer GmbH</string>
 </dict>
 </plist>

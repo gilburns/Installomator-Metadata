@@ -6,6 +6,8 @@
 	<string>com.jamf.pse.prune</string>
 	<key>AppName</key>
 	<string>Prune</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Prune is a software tool for optimizing and cleaning up data sets.</string>
 	<key>Documentation</key>

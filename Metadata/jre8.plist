@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Java Runtime Environment 8</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Java Runtime Environment 8 for macOS enables running Java applications on Mac computers.</string>
 	<key>Documentation</key>

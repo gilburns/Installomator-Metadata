@@ -6,6 +6,8 @@
 	<string>org.apache.directory.studio.product</string>
 	<key>AppName</key>
 	<string>ApacheDirectoryStudio</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Apache Directory Studio is a complete directory tooling platform intended to be used with any LDAP server.</string>
 	<key>Documentation</key>

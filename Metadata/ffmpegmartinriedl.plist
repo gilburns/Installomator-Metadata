@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>FFmpeg</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>FFmpeg is a leading multimedia framework for decoding, encoding, transcoding, and streaming audio and video. This build is maintained by Martin Riedl for macOS.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://ffmpeg.martin-riedl.de/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://ffmpeg.martin-riedl.de/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>FFmpeg,video,audio,encoding,transcoding,multimedia</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Martin Riedl</string>
 </dict>
 </plist>

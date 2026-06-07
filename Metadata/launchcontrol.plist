@@ -6,6 +6,8 @@
 	<string>com.soma-zone.LaunchControl</string>
 	<key>AppName</key>
 	<string>LaunchControl</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>LaunchControl is a powerful launchd(8) frontend for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.xk72.Charles</string>
 	<key>AppName</key>
 	<string>Charles</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Web debugging proxy application for macOS.</string>
 	<key>Documentation</key>

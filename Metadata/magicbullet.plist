@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Magic Bullet Suite</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Magic Bullet Suite is a collection of high-end plugins for color correction, finishing, and film looks for filmmakers.</string>
 	<key>Documentation</key>

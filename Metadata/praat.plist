@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Praat</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>Praat is free scientific software for the analysis of speech, widely used in phonetics research for acoustic analysis and phonetic measurements.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.fon.hum.uva.nl/praat/manual/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.praat.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Praat,phonetics,speech analysis,acoustics,linguistics</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Paul Boersma and David Weenink</string>
 </dict>
 </plist>

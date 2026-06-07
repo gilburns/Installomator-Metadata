@@ -6,6 +6,8 @@
 	<string>cc.ffitch.shottr</string>
 	<key>AppName</key>
 	<string>Shottr</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Screenshot tool for macOS with advanced editing features</string>
 	<key>Documentation</key>

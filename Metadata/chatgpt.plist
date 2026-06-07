@@ -6,6 +6,8 @@
 	<string>com.openai.chat</string>
 	<key>AppName</key>
 	<string>ChatGPT</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>ChatGPT is an AI-powered chatbot platform for engaging conversations.</string>
 	<key>Documentation</key>

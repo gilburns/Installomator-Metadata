@@ -6,6 +6,8 @@
 	<string>corp.sap.Icons</string>
 	<key>AppName</key>
 	<string>Icons</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Icons is a utility software for managing and organizing icons on macOS systems.</string>
 	<key>Documentation</key>

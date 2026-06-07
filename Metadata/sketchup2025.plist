@@ -5,20 +5,22 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string>SketchUp 2025/SketchUp</string>
+	<string>SketchUp</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>SketchUp is an intuitive 3D modeling software for architecture, interior design, and construction by Trimble, known for its ease of use.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.sketchup.com/en</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.sketchup.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>SketchUp,3D modeling,architecture,design,Trimble,CAD</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.trimble.com/en/legal/trimble-privacy-statement</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Trimble Inc.</string>
 </dict>
 </plist>

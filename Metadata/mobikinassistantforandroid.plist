@@ -6,6 +6,8 @@
 	<string>com.mobikin.SiteAndroidAssistant</string>
 	<key>AppName</key>
 	<string>MobiKin Assistant for Android</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>MobiKin Assistant for Android is a professional Android data management tool.</string>
 	<key>Documentation</key>

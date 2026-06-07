@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Kiro</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Kiro is an AI-powered integrated development environment by Amazon built for spec-driven development with agentic AI coding capabilities.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://kiro.dev/docs/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://kiro.dev/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Kiro,Amazon,AI IDE,developer,agentic,coding</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://aws.amazon.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Amazon Web Services, Inc.</string>
 </dict>
 </plist>

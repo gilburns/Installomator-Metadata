@@ -6,6 +6,8 @@
 	<string>com.econtechnologies.chronosync</string>
 	<key>AppName</key>
 	<string>ChronoSync</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Backup and synchronization software for macOS</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.panic.Nova</string>
 	<key>AppName</key>
 	<string>Nova</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Nova is a powerful code editor for macOS users.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.noodlesoft.Hazel</string>
 	<key>AppName</key>
 	<string>Hazel</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Hazel is a personal automation for macOS that keeps your files organized.</string>
 	<key>Documentation</key>

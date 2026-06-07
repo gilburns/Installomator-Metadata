@@ -6,6 +6,8 @@
 	<string>com.daisydiskapp.DaisyDiskStandAlone</string>
 	<key>AppName</key>
 	<string>DaisyDisk</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Disk space visualizer to free up space on your Mac.</string>
 	<key>Documentation</key>

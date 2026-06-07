@@ -6,6 +6,8 @@
 	<string>com.splashtop.Splashtop-Streamer</string>
 	<key>AppName</key>
 	<string>Splashtop Streamer</string>
+	<key>Category</key>
+	<string>Media Players</string>
 	<key>Description</key>
 	<string>Splashtop Streamer allows you to remotely access your macOS computer from other devices.</string>
 	<key>Documentation</key>

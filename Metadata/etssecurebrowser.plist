@@ -6,6 +6,8 @@
 	<string>org.ets.RP</string>
 	<key>AppName</key>
 	<string>ETS Secure Browser</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
 	<string>Secure browser for macOS used for high-stakes exams and assessments.</string>
 	<key>Documentation</key>

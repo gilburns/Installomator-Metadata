@@ -6,6 +6,8 @@
 	<string>com.native-instruments.nativeaccess2</string>
 	<key>AppName</key>
 	<string>Native Access</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Native Access is a software tool for managing and updating your Native Instruments products on macOS.</string>
 	<key>Documentation</key>

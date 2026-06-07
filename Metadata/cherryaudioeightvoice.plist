@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.eightvoice</string>
 	<key>AppName</key>
 	<string>Eight Voice</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Cherry Audio’s Eight Voice polyphonic synthesizer meticulously emulates the immense sound of the Oberheim® Eight Voice.</string>
 	<key>Documentation</key>

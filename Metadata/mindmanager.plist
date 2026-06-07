@@ -6,6 +6,8 @@
 	<string>com.mindjet.mindmanager.24</string>
 	<key>AppName</key>
 	<string>MindManager</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>MindManager is a visual thinking and mind mapping software that allows users to organize ideas, tasks, and information in a hierarchical structure. It enables individuals and teams to create interactive diagrams, project plans, and visually capture and present complex information.</string>
 	<key>Documentation</key>

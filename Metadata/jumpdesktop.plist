@@ -6,6 +6,8 @@
 	<string>com.p5sys.jump.mac.viewer.web</string>
 	<key>AppName</key>
 	<string>Jump Desktop</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Remote desktop application for macOS</string>
 	<key>Documentation</key>

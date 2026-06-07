@@ -6,6 +6,8 @@
 	<string>com.flyingmeat.Retrobatch</string>
 	<key>AppName</key>
 	<string>Retrobatch</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>Retrobatch is a powerful batch image processor for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>net.maxon.app-manager</string>
 	<key>AppName</key>
 	<string>Maxon</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>Maxon is a professional 3D modeling, animation, and rendering software for macOS.</string>
 	<key>Documentation</key>

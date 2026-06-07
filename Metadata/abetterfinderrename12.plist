@@ -6,6 +6,8 @@
 	<string>net.publicspace.abfr12</string>
 	<key>AppName</key>
 	<string>A Better Finder Rename 12</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>A Better Finder Rename has long been the file renamer of choice for tens of thousands of professionals, businesses and hobbyists across the world, but that hasn't stopped us from continuing to perfect our product culminating now in the brand-new version 12.</string>
 	<key>Documentation</key>

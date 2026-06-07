@@ -6,6 +6,8 @@
 	<string>com.panic.Transmit</string>
 	<key>AppName</key>
 	<string>Transmit</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>Transmit is a powerful and user-friendly FTP client for macOS.</string>
 	<key>Documentation</key>

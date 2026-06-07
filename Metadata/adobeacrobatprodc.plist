@@ -6,6 +6,8 @@
 	<string>com.adobe.Acrobat.Pro</string>
 	<key>AppName</key>
 	<string>Adobe Acrobat Pro DC</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Adobe Acrobat Pro DC makes your job easier every day with the trusted PDF converter. Acrobat Pro is the complete PDF solution for working anywhere.</string>
 	<key>Documentation</key>

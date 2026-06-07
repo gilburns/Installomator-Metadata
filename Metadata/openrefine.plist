@@ -6,6 +6,8 @@
 	<string>com.google.refine.Refine</string>
 	<key>AppName</key>
 	<string>OpenRefine</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>OpenRefine is a powerful tool for cleaning and transforming messy data.</string>
 	<key>Documentation</key>

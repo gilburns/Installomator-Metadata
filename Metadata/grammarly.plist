@@ -6,6 +6,8 @@
 	<string>com.grammarly.ProjectLlama</string>
 	<key>AppName</key>
 	<string>Grammarly Desktop</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Grammarly Desktop is a writing assistant tool for macOS users.</string>
 	<key>Documentation</key>

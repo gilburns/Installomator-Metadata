@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Setup Manager</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Jamf Setup Manager is an open-source tool for managing and automating the macOS setup experience during device enrollment and provisioning.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/jamf/Setup-Manager</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/jamf/Setup-Manager</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Jamf,Setup Manager,enrollment,provisioning,macOS,MDM</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.jamf.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Jamf</string>
 </dict>
 </plist>

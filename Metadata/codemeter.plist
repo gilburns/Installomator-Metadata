@@ -6,6 +6,8 @@
 	<string>com.codemeter.codemetercc</string>
 	<key>AppName</key>
 	<string>CodeMeter</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>CodeMeter is a software licensing and protection solution for macOS.</string>
 	<key>Documentation</key>

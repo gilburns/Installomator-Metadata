@@ -6,6 +6,8 @@
 	<string>com.krill.CodeRunner</string>
 	<key>AppName</key>
 	<string>CodeRunner</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>CodeRunner is a lightweight and versatile text editor and IDE for macOS that supports multiple programming languages.</string>
 	<key>Documentation</key>

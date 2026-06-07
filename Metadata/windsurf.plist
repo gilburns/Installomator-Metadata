@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Windsurf</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Windsurf is an AI-powered code editor by Codeium that combines deep contextual understanding with agentic AI assistance for modern software development.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://windsurf.com/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://windsurf.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Windsurf,Codeium,AI code editor,developer,IDE,agentic</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://codeium.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Codeium</string>
 </dict>
 </plist>

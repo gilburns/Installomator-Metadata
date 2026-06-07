@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dev.warp.Warp-Stable</string>
 	<key>AppName</key>
 	<string>Warp</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Warp is a fast, Rust-based terminal for macOS and Linux that brings IDE-like features to the command line, including AI-powered command search and editing.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.warp.dev/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.warp.dev/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Warp,terminal,Rust,AI,command line,IDE,shell</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.warp.dev/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Warp</string>
 </dict>
 </plist>

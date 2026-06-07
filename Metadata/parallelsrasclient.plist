@@ -6,6 +6,8 @@
 	<string>com.2X.Client.Mac</string>
 	<key>AppName</key>
 	<string>Parallels Client</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Parallels Client is a remote application that allows users to securely access virtual desktops and applications on macOS.</string>
 	<key>Documentation</key>

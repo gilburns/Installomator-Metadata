@@ -6,6 +6,8 @@
 	<string>net.whatroute.whatroute2</string>
 	<key>AppName</key>
 	<string>WhatRoute</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>WhatRoute is a network diagnostic utility for macOS.</string>
 	<key>Documentation</key>

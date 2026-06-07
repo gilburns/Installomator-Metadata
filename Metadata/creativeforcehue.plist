@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Hue</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>Hue is a color management and image review tool by CreativeForce for professional product photography workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.creativeforce.io/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.creativeforce.io/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Hue,CreativeForce,color management,product photography</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.creativeforce.io/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>CreativeForce</string>
 </dict>
 </plist>

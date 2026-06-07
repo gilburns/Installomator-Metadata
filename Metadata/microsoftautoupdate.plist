@@ -6,6 +6,8 @@
 	<string>com.microsoft.autoupdate2</string>
 	<key>AppName</key>
 	<string>Microsoft AutoUpdate</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Microsoft AutoUpdate for macOS is a tool that helps you keep your Microsoft Office suite up to date.</string>
 	<key>Documentation</key>

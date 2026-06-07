@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>kDrive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>kDrive is a cloud storage solution for macOS users.</string>
 	<key>Documentation</key>

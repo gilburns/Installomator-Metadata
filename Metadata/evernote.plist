@@ -6,6 +6,8 @@
 	<string>com.evernote.Evernote</string>
 	<key>AppName</key>
 	<string>Evernote</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Evernote gives you everything you need to keep life organized—great note taking, project planning, and easy ways to find what you need, when you need it.</string>
 	<key>Documentation</key>

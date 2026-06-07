@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mojang.minecraftpe.edu</string>
 	<key>AppName</key>
 	<string>minecraft-edu</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Minecraft Education is a game-based learning platform promoting creativity, collaboration, and problem-solving for students and educators.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://education.minecraft.net/en-us/resources/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://education.minecraft.net/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Minecraft Education,education,learning,game-based,creativity</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://privacy.microsoft.com/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Microsoft Corporation</string>
 </dict>
 </plist>

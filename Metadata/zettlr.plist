@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Zettlr</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Zettlr is a free and open-source markdown editor for researchers, academics, and writers, supporting the Zettelkasten method and academic citation management.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.zettlr.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.zettlr.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Zettlr,markdown,Zettelkasten,academic writing,notes,research</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.zettlr.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Hendrik Erz</string>
 </dict>
 </plist>

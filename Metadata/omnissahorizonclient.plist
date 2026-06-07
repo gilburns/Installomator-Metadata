@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Omnissa Horizon Client</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Omnissa Horizon Client allows users to connect to virtual desktops and published applications in their corporate network from macOS devices.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.omnissa.com/bundle/HorizonClientUserGuideMac/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.omnissa.com/horizon/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Omnissa Horizon,VDI,virtual desktop,remote desktop,enterprise</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.omnissa.com/trust/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Omnissa, LLC</string>
 </dict>
 </plist>

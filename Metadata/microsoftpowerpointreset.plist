@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Microsoft PowerPoint Reset</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Microsoft PowerPoint Reset is a tool for resetting preferences and settings in PowerPoint on macOS.</string>
 	<key>Documentation</key>

@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>On-Demand-Assist is a software tool for macOS that provides real-time assistance and support.</string>
 	<key>Documentation</key>

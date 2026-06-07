@@ -6,6 +6,8 @@
 	<string>com.sublimetext.4</string>
 	<key>AppName</key>
 	<string>Sublime Text</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>A sophisticated text editor used for code, markup, and prose</string>
 	<key>Documentation</key>

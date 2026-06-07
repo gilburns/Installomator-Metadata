@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Globus Connect Personal</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Globus Connect Personal enables a personal computer to act as a Globus endpoint, allowing researchers to reliably transfer large scientific datasets.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.globus.org/how-to/globus-connect-personal-mac/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.globus.org/globus-connect-personal</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Globus,file transfer,research,scientific data,endpoint</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.globus.org/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>The University of Chicago</string>
 </dict>
 </plist>

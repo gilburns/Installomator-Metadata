@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>RawTherapee</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>RawTherapee is a powerful cross-platform raw image processing software.</string>
 	<key>Documentation</key>

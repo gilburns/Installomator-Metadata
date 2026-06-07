@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.getdropbox.dropbox</string>
 	<key>AppName</key>
 	<string>Dropbox</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Dropbox Enterprise provides cloud storage, file synchronization, and collaboration tools for enterprise businesses with advanced security and admin controls.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.dropbox.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.dropbox.com/enterprise</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Dropbox,cloud storage,file sync,collaboration,enterprise</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.dropbox.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Dropbox, Inc.</string>
 </dict>
 </plist>

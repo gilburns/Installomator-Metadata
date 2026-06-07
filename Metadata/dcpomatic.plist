@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>DCP-o-matic 2</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>DCP-o-matic is a free, open-source tool for creating Digital Cinema Packages (DCP) from video, audio, and subtitle files for cinema projection.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://dcpomatic.com/manual/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://dcpomatic.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>DCP,digital cinema,DCP-o-matic,cinema package,video</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Carl Hetherington</string>
 </dict>
 </plist>

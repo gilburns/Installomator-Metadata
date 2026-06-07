@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dev.zed.Zed</string>
 	<key>AppName</key>
 	<string>Zed</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Zed is a high-performance, multiplayer code editor built in Rust by the creators of Atom, designed for modern collaborative software development.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://zed.dev/docs/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://zed.dev/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Zed,code editor,Rust,collaborative,developer,IDE</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://zed.dev/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Zed Industries, Inc.</string>
 </dict>
 </plist>

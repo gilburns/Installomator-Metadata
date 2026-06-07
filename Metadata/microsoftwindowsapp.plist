@@ -6,6 +6,8 @@
 	<string>com.microsoft.rdc.macos</string>
 	<key>AppName</key>
 	<string>Windows App</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Windows App is a versatile software application for the Windows operating system.</string>
 	<key>Documentation</key>

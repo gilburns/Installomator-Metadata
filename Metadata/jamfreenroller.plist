@@ -6,6 +6,8 @@
 	<string>com.jamf.pse.ReEnroller</string>
 	<key>AppName</key>
 	<string>ReEnroller</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>ReEnroller is a software tool for managing enrollments and registrations.</string>
 	<key>Documentation</key>

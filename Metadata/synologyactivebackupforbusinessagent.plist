@@ -6,6 +6,8 @@
 	<string>com.synology.activebackup-agent</string>
 	<key>AppName</key>
 	<string>Synology Active Backup for Business Agent</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Backup agent for macOS systems by Synology Active Backup for Business.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.teamviewer.TeamViewerHost</string>
 	<key>AppName</key>
 	<string>TeamViewerHost</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>TeamViewer Host is used for 24/7 access to remote computers, which makes it an ideal solution for uses such as remote monitoring, server maintenance, or connecting to a PC or Mac in the office or at home.</string>
 	<key>Documentation</key>

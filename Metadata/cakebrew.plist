@@ -6,6 +6,8 @@
 	<string>com.brunophilipe.Cakebrew</string>
 	<key>AppName</key>
 	<string>Cakebrew</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Cakebrew is a GUI app for Homebrew on macOS.</string>
 	<key>Documentation</key>

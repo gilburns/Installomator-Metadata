@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MailToOutlook</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>MailToOutlook is a macOS application for sending emails directly to Outlook.</string>
 	<key>Documentation</key>

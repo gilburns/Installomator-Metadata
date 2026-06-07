@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>nodejs</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.</string>
 	<key>Documentation</key>

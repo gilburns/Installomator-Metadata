@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>XeroxWorkCentre</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Xerox WorkCentre software for macOS enables printing and scanning capabilities.</string>
 	<key>Documentation</key>

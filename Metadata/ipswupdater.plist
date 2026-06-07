@@ -6,6 +6,8 @@
 	<string>org.freegeek.IPSW-Updater</string>
 	<key>AppName</key>
 	<string>IPSW Updater</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>IPSW Updater is a software tool for macOS that allows users to easily update their iOS device firmware.</string>
 	<key>Documentation</key>

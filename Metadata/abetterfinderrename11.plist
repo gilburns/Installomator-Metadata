@@ -6,6 +6,8 @@
 	<string>net.publicspace.abfr11</string>
 	<key>AppName</key>
 	<string>A Better Finder Rename 11</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>A Better Finder Rename 11 is a powerful file renaming tool for macOS users.</string>
 	<key>Documentation</key>

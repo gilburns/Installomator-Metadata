@@ -6,6 +6,8 @@
 	<string>com.Youlean.standalone.Youlean-Loudness-Meter-2</string>
 	<key>AppName</key>
 	<string>Youlean Loudness Meter 2</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Youlean Loudness Meter 2 is a professional audio tool for measuring loudness and true peak levels on macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>nl.surfdrive</string>
 	<key>AppName</key>
 	<string>SURFdrive</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>SURFdrive is a cloud storage service for macOS users.</string>
 	<key>Documentation</key>

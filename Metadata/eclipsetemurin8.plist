@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Temurin 8</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Temurin 8 is a distribution of OpenJDK 8 for macOS.</string>
 	<key>Documentation</key>

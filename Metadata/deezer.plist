@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Deezer</string>
+	<key>Category</key>
+	<string>Media Players</string>
 	<key>Description</key>
 	<string>Deezer is a music streaming app that gives you access to over 120 million tracks worldwide and other audio content like podcasts.</string>
 	<key>Documentation</key>

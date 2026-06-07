@@ -6,6 +6,8 @@
 	<string>com.slab.slab</string>
 	<key>AppName</key>
 	<string>Slab</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Slab is a collaboration platform for teams with advanced search functionality and built-in knowledge sharing.</string>
 	<key>Documentation</key>

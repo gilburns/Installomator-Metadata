@@ -6,6 +6,8 @@
 	<string>com.syntevo.smartgit</string>
 	<key>AppName</key>
 	<string>SmartGit</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>SmartGit is a Git client with support for Gitflow and Pull Requests.</string>
 	<key>Documentation</key>

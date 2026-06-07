@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Java SE Development Kit 18</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Java Platform, Standard Edition Development Kit 18 provides the tools necessary for developing and testing Java applications.</string>
 	<key>Documentation</key>

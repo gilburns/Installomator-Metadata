@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>San Francisco Mono</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>A sleek monospaced font inspired by the San Francisco typeface</string>
 	<key>Documentation</key>

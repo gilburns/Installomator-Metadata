@@ -6,6 +6,8 @@
 	<string>org.herf.Flux</string>
 	<key>AppName</key>
 	<string>Flux</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Flux is a software application for macOS that adjusts the color temperature of your screen based on the time of day.</string>
 	<key>Documentation</key>

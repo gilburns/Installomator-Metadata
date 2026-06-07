@@ -6,6 +6,8 @@
 	<string>com.proxyman.NSProxy</string>
 	<key>AppName</key>
 	<string>Proxyman</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Proxyman is a modern debug tool for macOS.</string>
 	<key>Documentation</key>

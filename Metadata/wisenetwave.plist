@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Wisenet WAVE</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Wisenet WAVE is a video management system by Hanwha Vision for surveillance and security, providing centralized management of IP cameras and recordings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.hanwhavision.com/resources/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.hanwhavision.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Wisenet WAVE,VMS,video management,surveillance,IP camera,Hanwha</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.hanwhavision.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Hanwha Vision Co., Ltd.</string>
 </dict>
 </plist>

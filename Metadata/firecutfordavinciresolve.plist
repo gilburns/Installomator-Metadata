@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>FireCut for DaVinci Resolve</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>FireCut is an AI-powered video editing assistant for DaVinci Resolve that automates editing tasks including silence removal, chapter creation, and content detection.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://firecut.ai/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://firecut.ai/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>FireCut,DaVinci Resolve,AI editing,video editor,automation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://firecut.ai/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>FireCut</string>
 </dict>
 </plist>

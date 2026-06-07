@@ -6,6 +6,8 @@
 	<string>com.omnigroup.OmniGraffle6</string>
 	<key>AppName</key>
 	<string>OmniGraffle</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>OmniGraffle is a diagramming and graphic design application for macOS.</string>
 	<key>Documentation</key>

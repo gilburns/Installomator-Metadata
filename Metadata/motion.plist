@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Motion</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Motion is an AI-powered planning application that automatically schedules tasks, meetings, and projects to optimize your workday.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.usemotion.com/help</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.usemotion.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Motion,AI,task management,scheduling,productivity,planner</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.usemotion.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Motion Technologies, Inc.</string>
 </dict>
 </plist>

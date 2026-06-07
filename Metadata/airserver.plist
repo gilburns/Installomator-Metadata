@@ -6,6 +6,8 @@
 	<string>com.pratikkumar.airserver-mac</string>
 	<key>AppName</key>
 	<string>AirServer</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>AirServer is the most advanced screen mirroring receiver for Mac and PC. It allows you to receive AirPlay, Google Cast and Miracast streams, similar to an Apple TV or a Chromecast device.</string>
 	<key>Documentation</key>

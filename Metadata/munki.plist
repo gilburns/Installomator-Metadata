@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Munki</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Munki is a macOS package manager for managing software installs.</string>
 	<key>Documentation</key>

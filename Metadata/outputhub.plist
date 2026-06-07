@@ -6,6 +6,8 @@
 	<string>com.output.hub</string>
 	<key>AppName</key>
 	<string>Output Hub</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Output Hub is a software tool for managing and organizing digital media files on macOS.</string>
 	<key>Documentation</key>

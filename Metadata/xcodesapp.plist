@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Xcodes</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Xcodes is the best way to install and switch between multiple versions of Xcode on your Mac, simplifying Xcode version management for iOS and macOS developers.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/XcodesOrg/XcodesApp</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/XcodesOrg/XcodesApp</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Xcodes,Xcode,iOS development,macOS development,version manager</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Xcodes Team</string>
 </dict>
 </plist>

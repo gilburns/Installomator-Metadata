@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Jamf Connect Launch Agent</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Jamf Connect Launch Agent is a tool to automatically launch and authenticate users on macOS devices.</string>
 	<key>Documentation</key>

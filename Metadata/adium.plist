@@ -6,6 +6,8 @@
 	<string>com.adiumX.adiumX</string>
 	<key>AppName</key>
 	<string>Adium</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Open-source instant messaging client for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Installomator</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>macOS script to automate downloading and installing apps</string>
 	<key>Documentation</key>

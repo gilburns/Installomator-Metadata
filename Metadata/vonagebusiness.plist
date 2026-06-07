@@ -6,6 +6,8 @@
 	<string>com.vonage.vbc</string>
 	<key>AppName</key>
 	<string>Vonage Business</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>The Vonage Business Communications (VBC) Desktop App unifies calling, messaging, video conferencing and business applications to improve customer engagement and boost employee productivity using one integrated communications platform.</string>
 	<key>Documentation</key>

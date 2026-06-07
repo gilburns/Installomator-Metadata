@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MicrosoftSharePointPlugin</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Plugin to integrate Microsoft SharePoint with macOS systems</string>
 	<key>Documentation</key>

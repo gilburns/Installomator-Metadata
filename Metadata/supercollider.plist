@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>SuperCollider</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>SuperCollider is an environment and programming language for real-time audio synthesis and algorithmic composition.</string>
 	<key>Documentation</key>

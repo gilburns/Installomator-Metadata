@@ -6,6 +6,8 @@
 	<string>com.elasticprojects.abstract-desktop</string>
 	<key>AppName</key>
 	<string>Abstract</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Abstract is a design tool that enables collaboration and version control for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>io.macfuse.installer.components.core</string>
 	<key>AppName</key>
 	<string>FUSE for macOS</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>FUSE for macOS allows you to extend macOS by adding support for additional file systems.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>net.freemacsoft.AppCleaner</string>
 	<key>AppName</key>
 	<string>AppCleaner</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>AppCleaner is a utility software designed to uninstall unwanted applications and their associated files from macOS.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>PPPC Utility</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>PPPC Utility is an open-source macOS application by Jamf for creating configuration profiles that configure Privacy Preferences Policy Control (PPPC) settings.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/jamf/PPPC-Utility</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/jamf/PPPC-Utility</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>PPPC Utility,Jamf,TCC,privacy,configuration profile,MDM</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.jamf.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Jamf</string>
 </dict>
 </plist>

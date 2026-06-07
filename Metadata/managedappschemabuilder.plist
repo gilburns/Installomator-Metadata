@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Managed App Schema Builder</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Managed App Schema Builder is an open-source tool for macOS administrators to create managed preference schemas for macOS application deployment.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/BIG-RAT/Managed-App-Schema-Builder</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/BIG-RAT/Managed-App-Schema-Builder</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Managed App Schema,macOS admin,MDM,preference schema,configuration</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>BIG-RAT</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>com.trankynam.aText</string>
 	<key>AppName</key>
 	<string>aText</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Text-expansion tool for macOS</string>
 	<key>Documentation</key>

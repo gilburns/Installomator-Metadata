@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Miniconda3-latest-MacOSX-arm64</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Miniconda3 is a free minimalist installer for Conda, a package manager.</string>
 	<key>Documentation</key>

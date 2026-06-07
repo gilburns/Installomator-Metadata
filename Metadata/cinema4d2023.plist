@@ -6,6 +6,8 @@
 	<string>net.maxon.cinema4d</string>
 	<key>AppName</key>
 	<string>Cinema 4D</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>Professional 3D modeling, animation, and rendering software.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.jabra.directonline</string>
 	<key>AppName</key>
 	<string>Jabra Direct</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Jabra Direct is a software application for macOS that allows users to customize and personalize their Jabra audio devices.</string>
 	<key>Documentation</key>

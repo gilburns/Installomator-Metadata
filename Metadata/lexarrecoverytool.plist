@@ -6,6 +6,8 @@
 	<string>com.longsys.lexar.DiskDataRecover</string>
 	<key>AppName</key>
 	<string>Lexar Recovery Tool</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Data recovery tool for macOS developed by Lexar.</string>
 	<key>Documentation</key>

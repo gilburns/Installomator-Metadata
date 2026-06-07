@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Another Redis Desktop Manager</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Another Redis Desktop Manager is a fast, stable, and user-friendly Redis GUI client supporting multiple data types and database connections.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/qishibo/AnotherRedisDesktopManager</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/qishibo/AnotherRedisDesktopManager</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Redis,database,GUI,client,NoSQL</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>qishibo</string>
 </dict>
 </plist>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Archaeology</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Archaeology is a macOS utility for investigating Time Machine backups and local snapshots, helping users find and restore files from backup history.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.mothersruin.com/software/Archaeology/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.mothersruin.com/software/Archaeology/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Time Machine,backup,snapshots,archaeology,restore</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Alastair Houghton</string>
 </dict>
 </plist>

@@ -6,6 +6,8 @@
 	<string>com.federicoterzi.espanso</string>
 	<key>AppName</key>
 	<string>Espanso</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Text expansion tool for macOS</string>
 	<key>Documentation</key>

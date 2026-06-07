@@ -6,6 +6,8 @@
 	<string>io.mountainduck</string>
 	<key>AppName</key>
 	<string>Mountain Duck</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>Mount remote storage server on macOS as a local disk.</string>
 	<key>Documentation</key>

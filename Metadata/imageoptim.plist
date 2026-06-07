@@ -6,6 +6,8 @@
 	<string>net.pornel.ImageOptim</string>
 	<key>AppName</key>
 	<string>imageoptim</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>ImageOptim is a tool that compresses images to reduce file size without losing quality.</string>
 	<key>Documentation</key>

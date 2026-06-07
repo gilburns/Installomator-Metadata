@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ridiculousfish.HexFiend</string>
 	<key>AppName</key>
 	<string>Hex Fiend</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Hex Fiend is a fast and clever open-source hex editor for macOS capable of handling large files with powerful search and data inspector features.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://hexfiend.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://hexfiend.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Hex Fiend,hex editor,binary,macOS,file inspector</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Peter Ammon</string>
 </dict>
 </plist>

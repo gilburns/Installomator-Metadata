@@ -6,6 +6,8 @@
 	<string>com.rogueamoeba.Fission</string>
 	<key>AppName</key>
 	<string>Fission</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Fission is an open-source framework for serverless functions on Kubernetes.</string>
 	<key>Documentation</key>

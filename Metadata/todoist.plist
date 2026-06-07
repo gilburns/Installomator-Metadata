@@ -6,6 +6,8 @@
 	<string>com.todoist.mac.Todoist</string>
 	<key>AppName</key>
 	<string>Todoist</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Todoist is a popular task management app that helps you to organize and prioritize your tasks effectively.</string>
 	<key>Documentation</key>

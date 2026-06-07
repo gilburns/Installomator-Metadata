@@ -6,6 +6,8 @@
 	<string>com.omnigroup.OmniOutliner5</string>
 	<key>AppName</key>
 	<string>OmniOutliner</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>OmniOutliner is a flexible outlining and organizational tool for macOS users.</string>
 	<key>Documentation</key>

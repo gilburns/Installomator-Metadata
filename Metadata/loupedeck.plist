@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Loupedeck</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Loupedeck is a customizable console and software platform for creative professionals providing tactile control over creative applications.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.loupedeck.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://loupedeck.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Loupedeck,console,creative tools,Lightroom,Premiere Pro,customization</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://loupedeck.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Loupedeck Oy</string>
 </dict>
 </plist>

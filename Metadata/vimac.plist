@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Vimac</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Vimac is a macOS app that provides keyboard shortcuts to control all aspects of the system.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>BlueJeans</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>BlueJeans is a video conferencing platform for macOS users.</string>
 	<key>Documentation</key>

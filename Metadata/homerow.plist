@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Homerow</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Homerow is a macOS productivity tool that allows you to navigate and interact with any app using only your keyboard, without touching the mouse.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.homerow.app/documentation</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.homerow.app/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Homerow,keyboard navigation,productivity,accessibility,macOS</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.homerow.app/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Homerow</string>
 </dict>
 </plist>

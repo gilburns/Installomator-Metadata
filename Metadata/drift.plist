@@ -6,6 +6,8 @@
 	<string>com.drift.app</string>
 	<key>AppName</key>
 	<string>Drift</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Drift is a messaging platform that helps businesses communicate with their customers in real-time.</string>
 	<key>Documentation</key>

@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.omnigroup.OmniOutliner6</string>
 	<key>AppName</key>
 	<string>OmniOutliner</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>OmniOutliner is a powerful outlining and note-taking application for macOS from The Omni Group, ideal for organizing ideas, writing documents, and managing projects.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.omnigroup.com/omnioutliner-mac/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.omnigroup.com/omnioutliner</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>OmniOutliner,outlining,notes,organization,productivity,Omni Group</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.omnigroup.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>The Omni Group</string>
 </dict>
 </plist>

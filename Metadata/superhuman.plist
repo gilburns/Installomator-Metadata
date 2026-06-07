@@ -6,6 +6,8 @@
 	<string>com.superhuman.electron</string>
 	<key>AppName</key>
 	<string>superhuman</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Superhuman is a high-performance email client for macOS.</string>
 	<key>Documentation</key>

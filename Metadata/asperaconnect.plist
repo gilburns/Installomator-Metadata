@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Aspera Connect</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>Aspera Connect is a high-speed file transfer application for macOS.</string>
 	<key>Documentation</key>

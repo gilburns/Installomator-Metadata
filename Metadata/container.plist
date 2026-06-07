@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>container</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>container is a lightweight containerization tool by Apple for running isolated Linux containers natively on Apple silicon Macs.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/apple/container</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/apple/container</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>container,Apple,Linux,containerization,virtualization</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.apple.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Apple Inc.</string>
 </dict>
 </plist>

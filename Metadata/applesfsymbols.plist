@@ -6,6 +6,8 @@
 	<string>com.apple.SFSymbols</string>
 	<key>AppName</key>
 	<string>SF Symbols</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>SF Symbols is a library of over 2,400 configurable symbols, available in multiple weights and scales.</string>
 	<key>Documentation</key>

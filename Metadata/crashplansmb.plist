@@ -6,6 +6,8 @@
 	<string>com.crashplan.desktop</string>
 	<key>AppName</key>
 	<string>CrashPlan</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>CrashPlan is a cloud-based backup software for macOS.</string>
 	<key>Documentation</key>

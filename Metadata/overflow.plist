@@ -6,6 +6,8 @@
 	<string>io.overflow.mac.app</string>
 	<key>AppName</key>
 	<string>Overflow</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>A powerful stack-based calculator app for macOS users.</string>
 	<key>Documentation</key>

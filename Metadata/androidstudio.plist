@@ -6,6 +6,8 @@
 	<string>com.google.android.studio</string>
 	<key>AppName</key>
 	<string>Android Studio</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Android Studio is the official Integrated Development Environment (IDE) for Android app development.</string>
 	<key>Documentation</key>

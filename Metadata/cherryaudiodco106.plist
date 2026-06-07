@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.dco106</string>
 	<key>AppName</key>
 	<string>DCO-106</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>DCO-106 lovingly recreates the unique sonic footprint of one the most iconic 80’s polysynths in exhaustive detail, while adding modern features for massively expanded creativity.</string>
 	<key>Documentation</key>

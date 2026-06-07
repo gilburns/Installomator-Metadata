@@ -6,6 +6,8 @@
 	<string>com.microsoft.teams2</string>
 	<key>AppName</key>
 	<string>Microsoft Teams</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Microsoft Teams is a collaboration platform for chat, video meetings, file sharing, and productivity tools.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Clevershare</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Screen mirroring software for macOS devices.</string>
 	<key>Documentation</key>

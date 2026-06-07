@@ -6,6 +6,8 @@
 	<string>com.okatbest.boop</string>
 	<key>AppName</key>
 	<string>Boop</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Boop is a customizable gesture-based tool for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Java SE Development Kit 17</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Java SE Development Kit 17 is the official development kit for Java programming language version 17.</string>
 	<key>Documentation</key>

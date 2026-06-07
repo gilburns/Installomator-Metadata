@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>multipass</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Multipass provides a CLI to launch and manage VMs on macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>TeladocProviderInstaller</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>TeladocProviderInstaller is a software tool for installing and managing Teladoc provider accounts.</string>
 	<key>Documentation</key>

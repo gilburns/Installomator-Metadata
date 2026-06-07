@@ -6,6 +6,8 @@
 	<string>com.txhaflaire.JamfCheck</string>
 	<key>AppName</key>
 	<string>jamfcheck</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>A macOS utility tool for checking the system's Jamf management status.</string>
 	<key>Documentation</key>

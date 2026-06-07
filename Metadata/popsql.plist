@@ -6,6 +6,8 @@
 	<string>org.electron.popsql</string>
 	<key>AppName</key>
 	<string>PopSQL</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>PopSQL is a collaborative SQL editor for macOS.</string>
 	<key>Documentation</key>

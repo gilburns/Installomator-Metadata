@@ -6,6 +6,8 @@
 	<string>com.viscosityvpn.Viscosity</string>
 	<key>AppName</key>
 	<string>Viscosity</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>Viscosity is a powerful OpenVPN client for macOS and Windows.</string>
 	<key>Documentation</key>

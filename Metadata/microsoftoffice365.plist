@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>MicrosoftOffice365</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Microsoft Office 365 is a suite of productivity applications for macOS users.</string>
 	<key>Documentation</key>

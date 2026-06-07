@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Toon Boom Storyboard Pro 25/Storyboard Pro 25</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>Toon Boom Storyboard Pro is a professional storyboarding and animatic creation tool used in film, TV, and game production worldwide.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.toonboom.com/help/storyboard-pro-25/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.toonboom.com/products/storyboard-pro</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Toon Boom Storyboard Pro,storyboarding,animatic,film,TV,production</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.toonboom.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Toon Boom Animation Inc.</string>
 </dict>
 </plist>

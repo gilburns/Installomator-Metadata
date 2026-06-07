@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>no.mifi.losslesscut</string>
 	<key>AppName</key>
 	<string>LosslessCut</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>LosslessCut is a fast and simple tool for lossless video and audio editing, allowing you to trim, cut, and merge media files without re-encoding.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/mifi/lossless-cut</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/mifi/lossless-cut</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>LosslessCut,video editor,trim,cut,lossless,ffmpeg</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Mikael Finstad</string>
 </dict>
 </plist>

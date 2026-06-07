@@ -6,6 +6,8 @@
 	<string>synergy.video.express.production</string>
 	<key>AppName</key>
 	<string>Synergy Video Express</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Synergy Video Express is a video editing software for macOS.</string>
 	<key>Documentation</key>

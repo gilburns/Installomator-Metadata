@@ -6,6 +6,8 @@
 	<string>com.axure.AxureRP10</string>
 	<key>AppName</key>
 	<string>Axure RP 10</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Axure RP 10 is a comprehensive tool for UX professionals, designed to create realistic, functional prototypes, specifications, and diagrams.</string>
 	<key>Documentation</key>

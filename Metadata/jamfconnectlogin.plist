@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jamf.connect.login</string>
 	<key>AppName</key>
 	<string>Jamf Connect Login</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Jamf Connect Login is a cloud-identity solution for macOS that integrates with your identity provider to synchronize passwords and manage authentication at login.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.jamf.com/jamf-connect/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.jamf.com/products/jamf-connect/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Jamf Connect,macOS login,IdP,identity,authentication,MDM</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.jamf.connect.login</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.jamf.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Jamf</string>
 </dict>
 </plist>

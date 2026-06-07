@@ -6,6 +6,8 @@
 	<string>com.logmein.goto</string>
 	<key>AppName</key>
 	<string>GoTo</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Screen sharing, remote desktop, and online meetings software for macOS.</string>
 	<key>Documentation</key>

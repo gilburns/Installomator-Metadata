@@ -6,6 +6,8 @@
 	<string>com.jordanbaird.Ice</string>
 	<key>AppName</key>
 	<string>Ice</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Ice is a modern C++ middleware framework.</string>
 	<key>Documentation</key>

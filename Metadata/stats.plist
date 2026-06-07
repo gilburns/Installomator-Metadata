@@ -6,6 +6,8 @@
 	<string>eu.exelban.Stats</string>
 	<key>AppName</key>
 	<string>Stats</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Stats is a software for analyzing and visualizing data.</string>
 	<key>Documentation</key>

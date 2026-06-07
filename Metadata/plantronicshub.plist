@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Plantronics Hub</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Plantronics Hub software provides audio device management and customization options for Plantronics headsets.</string>
 	<key>Documentation</key>

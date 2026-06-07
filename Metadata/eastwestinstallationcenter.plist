@@ -6,6 +6,8 @@
 	<string>com.eastwest.ic</string>
 	<key>AppName</key>
 	<string>EW Installation Center</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Software for managing and installing EW products.</string>
 	<key>Documentation</key>

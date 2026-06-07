@@ -6,6 +6,8 @@
 	<string>net.maxon.cinema4d</string>
 	<key>AppName</key>
 	<string>Cinema 4D</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>Cinema 4D is a leading 3D animation software for macOS.</string>
 	<key>Documentation</key>

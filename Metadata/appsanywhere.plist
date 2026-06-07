@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>AppsAnywhere Client (macOS)</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>AppsAnywhere is a software delivery platform for educational institutions enabling students and staff to access applications from any device.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.appsanywhere.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.appsanywhere.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>AppsAnywhere,software delivery,education,virtual apps</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.appsanywhere.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>AppsAnywhere</string>
 </dict>
 </plist>

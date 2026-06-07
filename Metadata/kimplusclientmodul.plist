@@ -6,6 +6,8 @@
 	<string>com.install4j.5676-2101-3398-5821.59</string>
 	<key>AppName</key>
 	<string>KIMplus Clientmodul</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Client module for KIMplus software.</string>
 	<key>Documentation</key>

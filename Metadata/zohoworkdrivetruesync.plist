@@ -6,6 +6,8 @@
 	<string>org.zoho.ZohoWorkDriveTrueSync</string>
 	<key>AppName</key>
 	<string>Zoho WorkDrive TrueSync</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Zoho WorkDrive TrueSync is a file synchronization tool for macOS.</string>
 	<key>Documentation</key>

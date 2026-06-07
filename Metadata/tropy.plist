@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Tropy</string>
+	<key>Category</key>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Tropy is a free, open-source tool to organize and describe photographs taken during archival research, helping historians and researchers work with archival images.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.tropy.org/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://tropy.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Tropy,research,archival,photos,history,digital humanities</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://tropy.org/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Digital Scholar</string>
 </dict>
 </plist>

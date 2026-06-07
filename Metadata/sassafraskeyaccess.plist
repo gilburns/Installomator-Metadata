@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>KeyAccess</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>KeyAccess is a software tool for managing encryption keys.</string>
 	<key>Documentation</key>

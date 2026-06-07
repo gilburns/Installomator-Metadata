@@ -6,6 +6,8 @@
 	<string>org.grunenberg.WordService</string>
 	<key>AppName</key>
 	<string>WordService</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>WordService is a software tool for quick text manipulation and formatting on macOS.</string>
 	<key>Documentation</key>

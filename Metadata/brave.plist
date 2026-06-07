@@ -6,6 +6,8 @@
 	<string>com.brave.Browser</string>
 	<key>AppName</key>
 	<string>Brave Browser</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>Brave is a privacy-focused browser, which automatically blocks online advertisements and website trackers in its default settings.</string>
 	<key>Documentation</key>

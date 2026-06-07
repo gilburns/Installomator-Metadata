@@ -6,6 +6,8 @@
 	<string>com.ragesw.everweb</string>
 	<key>AppName</key>
 	<string>EverWeb</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>EverWeb is a user-friendly website builder for macOS.</string>
 	<key>Documentation</key>

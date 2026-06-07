@@ -6,6 +6,8 @@
 	<string>com.cisco.webexmeetingsapp</string>
 	<key>AppName</key>
 	<string>Cisco Webex Meetings</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Cisco Webex Meetings is a video conferencing software for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>gary</string>
+	<key>Category</key>
+	<string>Other</string>
 	<key>Description</key>
 	<string></string>
 	<key>Documentation</key>

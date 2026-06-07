@@ -6,6 +6,8 @@
 	<string>io.jor.nanosaur</string>
 	<key>AppName</key>
 	<string>Nanosaur</string>
+	<key>Category</key>
+	<string>Other</string>
 	<key>Description</key>
 	<string>Nanosaur is a dinosaur-themed action game for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.droplr.Desktop</string>
 	<key>AppName</key>
 	<string>Droplr</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Droplr is a file-sharing and screen recording tool for macOS.</string>
 	<key>Documentation</key>

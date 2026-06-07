@@ -6,6 +6,8 @@
 	<string>com.microsoft.StorageExplorer</string>
 	<key>AppName</key>
 	<string>Microsoft Azure Storage Explorer</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>Microsoft Azure Storage Explorer is a tool for managing and accessing Azure cloud storage services.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.objective-see.KnockKnock</string>
 	<key>AppName</key>
 	<string>KnockKnock</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>KnockKnock is a secure messaging software for private communication.</string>
 	<key>Documentation</key>

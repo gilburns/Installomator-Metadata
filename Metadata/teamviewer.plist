@@ -6,6 +6,8 @@
 	<string>com.teamviewer.TeamViewer</string>
 	<key>AppName</key>
 	<string>TeamViewer</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>TeamViewer is proprietary software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.</string>
 	<key>Documentation</key>

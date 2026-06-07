@@ -6,6 +6,8 @@
 	<string>com.bitrixsoft.bitrix24desktop</string>
 	<key>AppName</key>
 	<string>Bitrix24</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Bitrix24 is a collaboration platform for businesses with project management, CRM, and HR tools.</string>
 	<key>Documentation</key>

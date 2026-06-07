@@ -6,6 +6,8 @@
 	<string>Elastic.Close-io</string>
 	<key>AppName</key>
 	<string>Close.io</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Close.io is a sales communication platform for macOS.</string>
 	<key>Documentation</key>

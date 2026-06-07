@@ -6,6 +6,8 @@
 	<string>com.bjango.istatmenus</string>
 	<key>AppName</key>
 	<string>iStat Menus</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Monitor your macOS system stats in the menu bar.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.microsoft.Powerpoint</string>
 	<key>AppName</key>
 	<string>Microsoft PowerPoint</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Presentation software for macOS from Microsoft.</string>
 	<key>Documentation</key>

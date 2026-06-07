@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>TorTalk</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>TorTalk är ett hjälpmedel för text-till-tal som hjälper användare med lässvårigheter eller synnedsättning att ta del av text på datorn.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://tortalk.se/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://tortalk.se/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>TorTalk,text-till-tal,tillgänglighet,läshjälp,assistive technology</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://tortalk.se/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>SayIT AB</string>
 </dict>
 </plist>

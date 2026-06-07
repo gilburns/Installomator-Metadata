@@ -6,6 +6,8 @@
 	<string>com.hjuutilainen.MunkiAdmin</string>
 	<key>AppName</key>
 	<string>MunkiAdmin</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>MunkiAdmin is a GUI application for managing Munki repositories.</string>
 	<key>Documentation</key>

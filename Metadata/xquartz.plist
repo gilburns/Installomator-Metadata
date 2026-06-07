@@ -6,6 +6,8 @@
 	<string>org.xquartz.X11</string>
 	<key>AppName</key>
 	<string>XQuartz</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>XQuartz is an open-source version of the X.Org X Window System that runs on macOS.</string>
 	<key>Documentation</key>

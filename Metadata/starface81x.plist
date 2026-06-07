@@ -6,6 +6,8 @@
 	<string>de.starface.STARFACE-Client</string>
 	<key>AppName</key>
 	<string>STARFACE</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Unified communications (UC) solution for businesses.</string>
 	<key>Documentation</key>

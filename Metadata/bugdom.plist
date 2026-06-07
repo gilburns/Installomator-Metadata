@@ -6,6 +6,8 @@
 	<string>io.jor.bugdom</string>
 	<key>AppName</key>
 	<string>Bugdom</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>Bugdom is a 3D action-adventure game for macOS featuring a bug protagonist exploring a backyard setting.</string>
 	<key>Documentation</key>

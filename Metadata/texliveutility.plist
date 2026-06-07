@@ -6,6 +6,8 @@
 	<string>com.googlecode.mactlmgr.tlu</string>
 	<key>AppName</key>
 	<string>TeX Live Utility</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>TeX Live Utility is a macOS graphical user interface for managing TeX Live installations.</string>
 	<key>Documentation</key>

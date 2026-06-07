@@ -6,6 +6,8 @@
 	<string>com.pingman.pingplotter.mac</string>
 	<key>AppName</key>
 	<string>PingPlotter</string>
+	<key>Category</key>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>PingPlotter is a network monitoring and troubleshooting tool that graphically displays the performance of a network connection over time.</string>
 	<key>Documentation</key>

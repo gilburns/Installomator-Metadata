@@ -6,6 +6,8 @@
 	<string>com.yujitach.MenuMeters</string>
 	<key>AppName</key>
 	<string>MenuMeters</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>MenuMeters is a set of CPU, memory, disk, and network monitoring tools for macOS menu bar.</string>
 	<key>Documentation</key>

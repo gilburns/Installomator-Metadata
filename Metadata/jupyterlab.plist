@@ -6,6 +6,8 @@
 	<string>org.jupyter.jupyterlab-desktop</string>
 	<key>AppName</key>
 	<string>JupyterLab</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, and data.</string>
 	<key>Documentation</key>

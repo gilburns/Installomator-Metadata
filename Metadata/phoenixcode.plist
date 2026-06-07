@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Phoenix Code</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Phoenix Code is an open-source, lightweight code editor designed for web development, inspired by Adobe Brackets with modern improvements.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.phcode.io/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://phcode.io/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Phoenix Code,code editor,web development,open source,HTML,CSS</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://phcode.io/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Phcode.io</string>
 </dict>
 </plist>

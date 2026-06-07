@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Ring Central Meetings</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>RingCentral Meetings is a video conferencing and online meeting software for macOS.</string>
 	<key>Documentation</key>

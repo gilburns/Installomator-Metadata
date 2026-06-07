@@ -6,6 +6,8 @@
 	<string>com.jetbrains.pycharm.ce</string>
 	<key>AppName</key>
 	<string>PyCharm CE</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>PyCharm is the Python IDE (Integrated Development Environment) for Professional Developers.</string>
 	<key>Documentation</key>

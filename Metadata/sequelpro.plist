@@ -6,6 +6,8 @@
 	<string>com.sequelpro.SequelPro</string>
 	<key>AppName</key>
 	<string>Sequel Pro</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Sequel Pro is a fast, easy-to-use macOS application for working with MySQL databases.</string>
 	<key>Documentation</key>

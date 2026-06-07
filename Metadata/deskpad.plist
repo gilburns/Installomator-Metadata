@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>DeskPad</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>DeskPad is a macOS virtual monitor that creates a virtual screen for screen sharing, allowing you to share a controlled portion of your display.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/Stengo/DeskPad</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/Stengo/DeskPad</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>DeskPad,virtual monitor,screen sharing,display</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Stengo</string>
 </dict>
 </plist>

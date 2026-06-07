@@ -6,6 +6,8 @@
 	<string>org.bungie.source.MarathonInfinity</string>
 	<key>AppName</key>
 	<string>Classic Marathon Infinity</string>
+	<key>Category</key>
+	<string>Other</string>
 	<key>Description</key>
 	<string>Classic Marathon Infinity is a first-person shooter game for macOS.</string>
 	<key>Documentation</key>

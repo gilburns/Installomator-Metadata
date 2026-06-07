@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Eclipse</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Eclipse IDE for Java Developers is a free, open-source integrated development environment from the Eclipse Foundation for Java software development.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.eclipse.org/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.eclipse.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Eclipse,Java,IDE,open source,development</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.eclipse.org/legal/privacy.php</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Eclipse Foundation</string>
 </dict>
 </plist>

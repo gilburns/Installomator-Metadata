@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Origin</string>
+	<key>Category</key>
+	<string>Other</string>
 	<key>Description</key>
 	<string>Origin is a software for creating and playing video games.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.balsamiq.wireframes</string>
 	<key>AppName</key>
 	<string>Balsamiq Wireframes</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Balsamiq Wireframes is a wireframing tool for macOS.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.oskarkwasniewski.MiniSim</string>
 	<key>AppName</key>
 	<string>Minisim</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Minisim is a simulation software for macOS.</string>
 	<key>Documentation</key>

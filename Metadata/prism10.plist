@@ -6,6 +6,8 @@
 	<string>com.GraphPad.Prism</string>
 	<key>AppName</key>
 	<string>Prism 10</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
 	<string>Prism 10 is a data analysis software for macOS.</string>
 	<key>Documentation</key>

@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Vienna Assistant</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Vienna Assistant is a software installer and license management tool for Vienna Symphonic Library products, enabling access to VSL sound libraries.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.vsl.co.at/en/Tools/Vienna_Assistant</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.vsl.co.at/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Vienna Assistant,VSL,Vienna Symphonic Library,orchestral,samples,audio</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.vsl.co.at/en/Privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Vienna Symphonic Library GmbH</string>
 </dict>
 </plist>

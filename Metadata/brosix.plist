@@ -6,6 +6,8 @@
 	<string>com.brosix.mac</string>
 	<key>AppName</key>
 	<string>Brosix</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Brosix is a secure instant messaging platform for macOS users.</string>
 	<key>Documentation</key>

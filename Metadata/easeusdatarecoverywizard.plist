@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>EaseUS Data Recovery Wizard</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>EaseUS Data Recovery Wizard is a data recovery software for macOS.</string>
 	<key>Documentation</key>

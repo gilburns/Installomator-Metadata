@@ -6,6 +6,8 @@
 	<string>com.figure53.QLab.5</string>
 	<key>AppName</key>
 	<string>QLab</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Live show control for entertainment professions</string>
 	<key>Documentation</key>

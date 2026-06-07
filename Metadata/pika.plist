@@ -6,6 +6,8 @@
 	<string>com.superhighfives.Pika</string>
 	<key>AppName</key>
 	<string>Pika</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Pika is a powerful color picker tool for macOS.</string>
 	<key>Documentation</key>

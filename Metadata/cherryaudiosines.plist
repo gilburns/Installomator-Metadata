@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.sines</string>
 	<key>AppName</key>
 	<string>Sines</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Sines is a software application for generating and analyzing sine waves.</string>
 	<key>Documentation</key>

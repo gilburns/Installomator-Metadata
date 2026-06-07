@@ -6,6 +6,8 @@
 	<string>dk.firmafon.Junotron</string>
 	<key>AppName</key>
 	<string>Relatel</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Relatel is a customer relationship management (CRM) software for businesses.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.houdah.HoudahSpot4</string>
 	<key>AppName</key>
 	<string>HoudahSpot</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>File search tool for macOS with advanced features</string>
 	<key>Documentation</key>

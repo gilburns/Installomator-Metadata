@@ -6,6 +6,8 @@
 	<string>com.google.inputmethod.Japanese.Tool.DictionaryTool</string>
 	<key>AppName</key>
 	<string>GoogleJapaneseInput</string>
+	<key>Category</key>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>Google Japanese Input is an input method editor which allows users to enter Japanese text on macOS.</string>
 	<key>Documentation</key>

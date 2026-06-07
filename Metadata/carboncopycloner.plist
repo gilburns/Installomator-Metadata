@@ -6,6 +6,8 @@
 	<string>com.bombich.ccc</string>
 	<key>AppName</key>
 	<string>Carbon Copy Cloner</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Backup and cloning software for macOS</string>
 	<key>Documentation</key>

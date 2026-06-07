@@ -6,6 +6,8 @@
 	<string>com.ujam.ujam</string>
 	<key>AppName</key>
 	<string>UJAM</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>UJAM is a virtual instrument plug-in for macOS designed for music production.</string>
 	<key>Documentation</key>

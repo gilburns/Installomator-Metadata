@@ -6,6 +6,8 @@
 	<string>com.lemkesoft.graphicconverter10</string>
 	<key>AppName</key>
 	<string>GraphicConverter 10</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
 	<string>GraphicConverter 10 is a powerful image editing software for macOS with support for over 200 file formats.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>nl.root3.support</string>
 	<key>AppName</key>
 	<string>Support</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>Support software for macOS users to assist with technical issues.</string>
 	<key>Documentation</key>

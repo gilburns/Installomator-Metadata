@@ -6,6 +6,8 @@
 	<string>com.synology.DSAssistant</string>
 	<key>AppName</key>
 	<string>SynologyAssistant</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>SynologyAssistant is a utility tool for managing Synology NAS devices on macOS.</string>
 	<key>Documentation</key>

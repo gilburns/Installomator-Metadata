@@ -6,6 +6,8 @@
 	<string></string>
 	<key>AppName</key>
 	<string>Gyazo GIF</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
 	<string>Gyazo GIF is a screen recording tool that captures GIFs of your screen activities.</string>
 	<key>Documentation</key>

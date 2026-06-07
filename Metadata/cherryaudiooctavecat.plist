@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.octavecat</string>
 	<key>AppName</key>
 	<string>Octave Cat</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Octave Cat is a virtual synthesizer plugin with a vintage analog sound.</string>
 	<key>Documentation</key>

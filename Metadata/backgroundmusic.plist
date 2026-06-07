@@ -6,6 +6,8 @@
 	<string>com.bearisdriving.BGM</string>
 	<key>AppName</key>
 	<string>BackgroundMusic</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Control the volume of different apps and background noise on macOS.</string>
 	<key>Documentation</key>

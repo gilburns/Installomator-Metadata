@@ -6,6 +6,8 @@
 	<string>com.steinberg.SteinbergActivationManager</string>
 	<key>AppName</key>
 	<string>Steinberg Activation Manager</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Software tool for activating Steinberg products on macOS</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.electron.chatwork</string>
 	<key>AppName</key>
 	<string>Chatwork</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Chatwork is a business messaging and collaboration tool for macOS users.</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>com.hudl.hudl-graphx</string>
 	<key>AppName</key>
 	<string>Studio</string>
+	<key>Category</key>
+	<string>Business</string>
 	<key>Description</key>
 	<string>Studio is a versatile software for creating and editing multimedia content.</string>
 	<key>Documentation</key>

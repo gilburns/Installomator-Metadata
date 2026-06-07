@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>GatherV2</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>Gather is a virtual space for online collaboration creating customizable 2D virtual offices where remote teams can meet, socialize, and work together.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.gather.town/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.gather.town/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Gather,virtual office,remote work,collaboration,2D,metaverse</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.gather.town/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Gather Presence, Inc.</string>
 </dict>
 </plist>

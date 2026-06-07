@@ -6,6 +6,8 @@
 	<string>com.omnigroup.OmniPresence</string>
 	<key>AppName</key>
 	<string>OmniPresence</string>
+	<key>Category</key>
+	<string>Data Management</string>
 	<key>Description</key>
 	<string>File synchronization solution for macOS devices.</string>
 	<key>Documentation</key>

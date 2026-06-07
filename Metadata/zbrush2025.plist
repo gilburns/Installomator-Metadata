@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>ZBrush</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
-	<string></string>
+	<string>ZBrush is an industry-leading digital sculpting tool by Maxon for creating highly detailed 3D characters, creatures, and objects for games, film, and visualization.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.maxon.net/en/zbrush/whats-new</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.maxon.net/zbrush</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ZBrush,digital sculpting,3D,Maxon,character design,VFX</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.maxon.net/en/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Maxon Computer GmbH</string>
 </dict>
 </plist>

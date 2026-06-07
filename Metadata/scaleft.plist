@@ -6,6 +6,8 @@
 	<string>com.scaleft.ScaleFT</string>
 	<key>AppName</key>
 	<string>ScaleFT</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
 	<string>ScaleFT provides Zero Trust security solutions for privileged access management.</string>
 	<key>Documentation</key>

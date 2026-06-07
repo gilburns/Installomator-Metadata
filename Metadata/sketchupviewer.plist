@@ -6,6 +6,8 @@
 	<string>com.sketchup.SketchUp.2025</string>
 	<key>AppName</key>
 	<string>SketchUpViewer</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
 	<key>Description</key>
 	<string>SketchUp Viewer is a multimedia application that allows you to effortlessly view and print 3D models designed in SketchUp. You can inspect computer-generated models without needing the complete SketchUp software suite.</string>
 	<key>Documentation</key>

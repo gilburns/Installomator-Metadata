@@ -6,6 +6,8 @@
 	<string>com.runningwithcrayons.Alfred</string>
 	<key>AppName</key>
 	<string>Alfred</string>
+	<key>Category</key>
+	<string>Productivity</string>
 	<key>Description</key>
 	<string>Alfred is a productivity application for macOS that boosts efficiency with keyboard shortcuts and workflows.</string>
 	<key>Documentation</key>

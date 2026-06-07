@@ -6,6 +6,8 @@
 	<string>com.cherryaudio.solovox</string>
 	<key>AppName</key>
 	<string>Solovox</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
 	<string>Solovox is a music composer and editor software for macOS.</string>
 	<key>Documentation</key>

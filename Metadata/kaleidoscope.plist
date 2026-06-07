@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.blackpixel.kaleidoscope3</string>
 	<key>AppName</key>
 	<string>Kaleidoscope</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Kaleidoscope is an advanced diff and merge application for macOS supporting code, text, and image comparisons with intuitive visual tools.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://kaleidoscope.app/documentation</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://kaleidoscope.app/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Kaleidoscope,diff,merge,code comparison,text diff,version control</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://kaleidoscope.app/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Leitmotif GmbH</string>
 </dict>
 </plist>

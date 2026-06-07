@@ -6,19 +6,21 @@
 	<string></string>
 	<key>AppName</key>
 	<string>AsymmetricKeyGenerator</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
-	<string></string>
+	<string>AsymmetricKeyGenerator is a macOS tool by Binance for securely generating RSA and EC asymmetric key pairs for cryptographic operations.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/binance/asymmetric-key-generator</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/binance/asymmetric-key-generator</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>RSA,EC,asymmetric key,cryptography,security,Binance</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Binance</string>
 </dict>
 </plist>

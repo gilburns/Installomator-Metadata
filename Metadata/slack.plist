@@ -6,6 +6,8 @@
 	<string>com.tinyspeck.slackmacgap</string>
 	<key>AppName</key>
 	<string>Slack</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
 	<string>Slack is where work flows. It's where the people you need, the information you share, and the tools you use come together to get things done.</string>
 	<key>Documentation</key>

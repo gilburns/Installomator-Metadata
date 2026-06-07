@@ -6,6 +6,8 @@
 	<string>com.docker.docker</string>
 	<key>AppName</key>
 	<string>Docker</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Docker is a full development platform for creating containerized apps, and Docker Desktop for Windows is the best way to get started with Docker on Windows.</string>
 	<key>Documentation</key>

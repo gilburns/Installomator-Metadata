@@ -6,6 +6,8 @@
 	<string>at.obdev.LaunchBar</string>
 	<key>AppName</key>
 	<string>LaunchBar</string>
+	<key>Category</key>
+	<string>Computer Management</string>
 	<key>Description</key>
 	<string>A macOS utility that provides instant access to apps, documents, and more through keyboard shortcuts.</string>
 	<key>Documentation</key>

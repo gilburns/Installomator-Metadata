@@ -6,6 +6,8 @@
 	<string>org.nwea.stb.client</string>
 	<key>AppName</key>
 	<string>NWEA Secure Testing Browser</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
 	<key>Description</key>
 	<string>A secure browser for NWEA testing environments</string>
 	<key>Documentation</key>

@@ -6,6 +6,8 @@
 	<string>dev.pulsar-edit.pulsar</string>
 	<key>AppName</key>
 	<string>Pulsar</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Real-time analytics and data processing tool</string>
 	<key>Documentation</key>
