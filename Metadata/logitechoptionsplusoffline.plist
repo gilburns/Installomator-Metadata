@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.logi.optionsplus</string>
 	<key>AppName</key>
 	<string>logioptionsplus</string>
 	<key>Category</key>
