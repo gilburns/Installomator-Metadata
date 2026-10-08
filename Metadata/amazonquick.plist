@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.amazon.QuickWork.mac</string>
+	<key>AppName</key>
+	<string>Amazon Quick</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>Amazon Quick is the AI companion built for work. Quick turns your questions into actions using agentic teammates for research, business insights, and automation</string>
+	<key>Documentation</key>
+	<string>https://docs.aws.amazon.com/quick/?refid=0ea79374-057c-4897-84f0-5fe792905a8f</string>
+	<key>Homepage</key>
+	<string>https://aws.amazon.com/quick/</string>
+	<key>Keywords</key>
+	<string>Amazon,AI,Automation,research</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://aws.amazon.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Amazon</string>
+</dict>
+</plist>
