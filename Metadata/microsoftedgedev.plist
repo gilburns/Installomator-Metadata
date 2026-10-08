@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.microsoft.edgemac</string>
+	<key>AppName</key>
+	<string>Microsoft Edge Dev</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
+	<key>Description</key>
+	<string>Microsoft Edge is the browser for business with modern and legacy web compatibility, new privacy features such as Tracking prevention, and built-in productivity tools such as enterprise-grade PDF support and access to Office and corporate search right from a new tab.</string>
+	<key>Documentation</key>
+	<string>https://www.microsoft.com/windows/microsoft-edge</string>
+	<key>Homepage</key>
+	<string>https://www.microsoft.com/en-us/edge?form=</string>
+	<key>Keywords</key>
+	<string>Browser,Edge,Microsoft Edge,dev</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://privacy.microsoft.com/privacystatement</string>
+	<key>Publisher</key>
+	<string>Microsoft Corporation</string>
+</dict>
+</plist>
