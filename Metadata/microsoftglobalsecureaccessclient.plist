@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.microsoft.Excel</string>
+	<string>com.microsoft.globalsecureaccess</string>
 	<key>AppName</key>
-	<string>Microsoft Excel</string>
+	<string>Microsoft Global Secure Access Client</string>
 	<key>Category</key>
 	<string>Productivity</string>
 	<key>Description</key>
-	<string>Microsoft Excel is a popular spreadsheet software for macOS.</string>
+	<string>Microsoft Global Secure Access Client is a lightweight software agent installed on user devices that routes and secures network traffic through Microsoft's cloud-based Security Service Edge (SSE) framework</string>
 	<key>Documentation</key>
-	<string>https://support.microsoft.com/en-us/excel</string>
+	<string>https://learn.microsoft.com/en-us/entra/global-secure-access/concept-clients</string>
 	<key>Keywords</key>
-	<string>Microsoft, Excel, macOS, spreadsheet</string>
+	<string>Microsoft, VPN, macOS</string>
 	<key>PackageID</key>
-	<string>com.microsoft.package.Microsoft_Excel.app</string>
+	<string>com.microsoft.globalsecureaccess</string>
 	<key>Privacy</key>
 	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>
