@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string></string>
+	<key>AppName</key>
+	<string>Third Party Patcher</string>
+	<key>Category</key>
+	<string>Computer Management</string>
+	<key>Description</key>
+	<string>Third Party Patcher discovers installed apps, checks for updates, stages installers in the background, and applies them on a schedule you control — with optional swiftDialog prompts so end users always know what's happening. MDM-agnostic, and built on Installomator.</string>
+	<key>Documentation</key>
+	<string>https://github.com/gilburns/Third-Party-Patcher/wiki</string>
+	<key>Homepage</key>
+	<string>https://github.com/gilburns/Third-Party-Patcher</string>
+	<key>Keywords</key>
+	<string>Patching,MDM,Automation,Installomator</string>
+	<key>PackageID</key>
+	<string>com.gilburns.patcher</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Third Party Patcher</string>
+</dict>
+</plist>
