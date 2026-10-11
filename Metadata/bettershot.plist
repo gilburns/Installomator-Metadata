@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.bettershot.app</string>
 	<key>AppName</key>
-	<string></string>
+	<string>BetterShot</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>The free, open source alternative to Loom and CleanShot X. Record, edit, and share polished videos from your Mac.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.bettershot.site</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Screenshot,video,opensource</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.bettershot.site/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Better Shot</string>
 </dict>
 </plist>
