@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.dwarvesv.minimalbar</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Hidden Bar</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Hidden Bar lets you hide menu bar items to give your Mac a cleaner look.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/dwarvesf/hidden</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>icons,menubar</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Dwarves Foundation</string>
 </dict>
 </plist>
