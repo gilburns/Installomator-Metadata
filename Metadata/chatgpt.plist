@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string>com.openai.chat</string>
+	<string>com.openai.codex</string>
 	<key>AppName</key>
 	<string>ChatGPT</string>
 	<key>Category</key>

@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.openai.chat</string>
 	<key>AppName</key>
-	<string></string>
+	<string>ChatGPT Classic</string>
 	<key>Category</key>
-	<string></string>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>ChatGPT Classic is the previous generation of the desktop application for macOS and Windows, which was renamed when OpenAI launched a unified desktop app.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://chatgpt.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>chatbot, AI, conversation, messaging</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.openai.chat.classic-update</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>OpenAI</string>
 </dict>
 </plist>
