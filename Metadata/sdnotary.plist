@@ -12,6 +12,8 @@
 	<string>SD Notary is a macOS application for digitally signing documents.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://latenightsw.com</string>
 	<key>Keywords</key>
 	<string>macOS, application, notary, signing, documents</string>
 	<key>PackageID</key>
@@ -19,6 +21,6 @@
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string>Sam Deane</string>
+	<string>Late Night Software Ltd.</string>
 </dict>
 </plist>

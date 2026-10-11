@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.latenightsw.Script-Notary2</string>
 	<key>AppName</key>
-	<string></string>
+	<string>SD Notary 2</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>SD Notary is a macOS application for digitally signing documents.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://forum.latenightsw.com/t/sd-notary-2-release-notes/4373</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://latenightsw.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>macOS, application, notary, signing, documents</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Late Night Software Ltd.</string>
 </dict>
 </plist>
