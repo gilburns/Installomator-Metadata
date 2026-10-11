@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.blackmagic-design.camera.utility</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Blackmagic Camera Setup</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Add Blackmagic Camera Setup software to your system so you can update the software and manage your Blackmagic Camera. It also installs Blackmagic RAW Player, Blackmagic RAW Speed Test, Blackmagic RAW SDK and Blackmagic RAW plugins.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>camera,raw,blackmagic</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.blackmagic-design.Cameras</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Blackmagic Design</string>
 </dict>
 </plist>
