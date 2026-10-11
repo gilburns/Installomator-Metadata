@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.godotengine.godot</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Godot</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Your free, open‑source game engine. Develop your 2D &amp; 3D games, cross-platform projects, or even XR ideas!</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.godotengine.org/en/stable/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://godotengine.org/download/macos/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Games,opensource,2d,3d</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://godotengine.org/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Godot Foundation</string>
 </dict>
 </plist>
