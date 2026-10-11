@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.shure.motivmix</string>
 	<key>AppName</key>
-	<string></string>
+	<string>MOTIV Mix</string>
 	<key>Category</key>
-	<string></string>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Desktop app for audio recording, mixing &amp; streaming</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.shure.com/en-US/products/software/motiv-mix#support</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.shure.com/en-US/products/software/motiv-mix</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>mix,audio,streaming,recording</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.shure.com/en-US/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Shure</string>
 </dict>
 </plist>
