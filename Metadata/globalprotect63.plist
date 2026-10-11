@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.paloaltonetworks.GlobalProtect.client</string>
+	<key>AppName</key>
+	<string>GlobalProtect</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
+	<key>Description</key>
+	<string>GlobalProtect is an enterprise security and Virtual Private Network (VPN) solution developed by Palo Alto Networks that connects remote or mobile users to a corporate network through next-generation firewalls.</string>
+	<key>Documentation</key>
+	<string>https://docs.paloaltonetworks.com/globalprotect/getting-started/globalprotect-overview</string>
+	<key>Keywords</key>
+	<string>SSL,VPN,mobility</string>
+	<key>PackageID</key>
+	<string>com.paloaltonetworks.globalprotect.pkg</string>
+	<key>Privacy</key>
+	<string>https://www.paloaltonetworks.com/legal-notices/privacy</string>
+	<key>Publisher</key>
+	<string>Palo Alto Networks</string>
+</dict>
+</plist>
