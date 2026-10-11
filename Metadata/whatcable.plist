@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>uk.whatcable.whatcable</string>
+	<key>AppName</key>
+	<string>WhatCable</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do</string>
+	<key>Documentation</key>
+	<string>https://github.com/darrylmorley/whatcable/wiki</string>
+	<key>Homepage</key>
+	<string>https://github.com/darrylmorley/whatcable/</string>
+	<key>Keywords</key>
+	<string>cable,charging</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Bitmoor</string>
+</dict>
+</plist>
