@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.battleaxe.Overlord</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Overlord</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Overlord is the thickening of the aether between the silos of visual creation. It is the unspoken language of the cosmos that breathes life into vision. Illustrator, Figma and Photoshop all talking to After Effects as if they belonged together all along. </string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://battleaxe.co/overlord/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://battleaxe.co/overlord</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>after effects,adobe,figma,Illustrator,Photoshop</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://battleaxe.co/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Battle Axe Inc.</string>
 </dict>
 </plist>
