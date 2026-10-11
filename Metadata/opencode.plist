@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>ai.opencode.desktop</string>
 	<key>AppName</key>
-	<string></string>
+	<string>OpenCode CLI</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>The open source AI coding agent. Free models included or connect any model from any provider, including Claude, GPT, Gemini and more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://opencode.ai/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://opencode.ai/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ai,coding,agent,opensource,cli</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://opencode.ai/legal/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Anomaly</string>
 </dict>
 </plist>
