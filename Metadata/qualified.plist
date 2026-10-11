@@ -5,22 +5,22 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string></string>
+	<string>Qualified</string>
 	<key>Category</key>
-	<string></string>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>Welcome to the era of agentic marketing. Engage and convert inbound buyers at scale with Piper, the #1 AI SDR Agent.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://university.qualified.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.qualified.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ai,salesforce,agent,marketing</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://qualified.com/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Qualified</string>
 </dict>
 </plist>
