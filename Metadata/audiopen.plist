@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.nicheless.audiopenmac</string>
+	<key>AppName</key>
+	<string>AudioPen</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>AudioPen for Mac lets you type with your voice into any text box on your computer. Choose offline transcription and your audio never leaves your device.</string>
+	<key>Documentation</key>
+	<string>https://www.audiopen.ai/mac</string>
+	<key>Homepage</key>
+	<string>https://www.audiopen.ai/</string>
+	<key>Keywords</key>
+	<string>Voice, Text, Writer, Speach</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.audiopen.ai/privacypolicy</string>
+	<key>Publisher</key>
+	<string>Abstract</string>
+</dict>
+</plist>
