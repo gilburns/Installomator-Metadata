@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>company.thebrowser.dia</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Dia</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>More than a browser. A better workday.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.diabrowser.com/help</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.diabrowser.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Chrome,Browser,work,ai,</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.diabrowser.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>The Browser Company Of New York</string>
 </dict>
 </plist>
