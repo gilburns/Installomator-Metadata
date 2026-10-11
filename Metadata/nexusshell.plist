@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>sameral.Nexus-Shell</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Nexus Shell</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>A SwiftUI macOS SSH client. Terminal, SFTP, Docker, keys, live monitoring — all in one place.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://nexusshell.app/en/guides/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://nexusshell.app/en/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>shell,ssh,server,sftp,terminal</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://nexusshell.app/en/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Nexus Shell</string>
 </dict>
 </plist>
