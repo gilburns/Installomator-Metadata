@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.anker.pcankerwork</string>
 	<key>AppName</key>
-	<string></string>
+	<string>AnkerWork</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Customize and adjust your device to choose the video or audio settings that work best for you and check for firmware updates to enjoy the best overall experience.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.ankerwork.com/s/article/About-AnkerWork-App</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://us.ankerwork.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Video,Audio,Firmware</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://us.ankerwork.com/policies/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Anker Technology</string>
 </dict>
 </plist>
