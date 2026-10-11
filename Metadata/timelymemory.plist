@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.timeapp.devlpmp.Timely-Mac-Tracker</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Memory</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>The Memory app automatically records your work to a secure private timeline.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.timely.com/help/handbook/getting-started/quick-start-onboarding/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.timely.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>time,billing,tracker</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.timely.com/privacy-at-timely/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Timely</string>
 </dict>
 </plist>
