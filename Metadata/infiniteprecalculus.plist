@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.kutasoftware.InfinitePrecalculus</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Infinite Precalculus</string>
 	<key>Category</key>
-	<string></string>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Infinite Precalculus covers all typical Precalculus material and more: trigonometric functions, equations, and identities; parametric equations; polar coordinates; vectors; limits; and more. Over 100 individual topics extend skills from Algebra 2 and introduce Calculus.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.kutasoftware.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>math,testing,worksheets</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.kutasoftware.com/policies.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Kuta Software</string>
 </dict>
 </plist>

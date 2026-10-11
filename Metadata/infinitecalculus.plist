@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.kutasoftware.InfiniteCalculus</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Infinite Calculus</string>
 	<key>Category</key>
-	<string></string>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Infinite Calculus covers all of the fundamentals of Calculus: limits, continuity, differentiation, and integration as well as applications such as related rates and finding volume using the cylindrical shell method. Designed for all levels of learners, from beginning to advanced.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.kutasoftware.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>math,testing,worksheets</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.kutasoftware.com/policies.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Kuta Software</string>
 </dict>
 </plist>

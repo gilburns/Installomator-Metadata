@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.kutasoftware.InfinitePreAlgebra</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Infinite Pre-Algebra</string>
 	<key>Category</key>
-	<string></string>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>Infinite Pre-Algebra covers all typical Pre-Algebra material, over 90 topics in all, from arithmetic to equations to polynomials. Suitable for any class which is a first step from arithmetic to algebra. Designed for all levels of learners from remedial to advanced.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.kutasoftware.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>math,testing,worksheets</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.kutasoftware.com/policies.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Kuta Software</string>
 </dict>
 </plist>
