@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.crisp.app</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Crisp</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Free, open-source external monitor control for your Mac: sharp scaling, hardware brightness and presets, including what BetterDisplay and Lunar charge for.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://crispmac.app/fix-blurry-external-monitor-macos.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://crispmac.app</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>display,monitor,menubar,Retina,brightness</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Crisp</string>
 </dict>
 </plist>
