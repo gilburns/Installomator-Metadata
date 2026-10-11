@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.nonstrict.Bezel-direct</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Bezel</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Mirror any iPhone on your Mac. For demos, recordings, and presentations that leave an impression.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://nonstrict.eu/bezel/article/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://nonstrict.eu/bezel/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>iPhone,Mirror,demo,recording</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://nonstrict.eu/bezel/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Nonstrict B.V.</string>
 </dict>
 </plist>
