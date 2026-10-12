@@ -3,24 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.itaysoft.CameraController</string>
 	<key>AppName</key>
-	<string></string>
+	<string>CameraController</string>
 	<key>Category</key>
-	<string></string>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>Control your cameras settings without using the software provided (or not) by the company.</string>
 	<key>Documentation</key>
-	<string></string>
-	<key>Homepage</key>
-	<string></string>
+	<string>https://github.com/itaybre/CameraController</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>Camera,Facetime</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Itaybre</string>
 </dict>
 </plist>
