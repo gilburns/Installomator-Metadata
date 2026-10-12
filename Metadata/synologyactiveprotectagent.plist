@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.synology.activeprotect</string>
 	<key>AppName</key>
-	<string></string>
+	<string>ActiveProtect Agent</string>
 	<key>Category</key>
 	<string></string>
 	<key>Description</key>
-	<string></string>
+	<string>The Synology ActiveProtect Agent for macOS allows your Mac to back up data directly to a Synology ActiveProtect appliance or management server.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.synology.com/en-us/releaseNote/ActiveProtectAgent</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.synology.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>backup,data,</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.synology.activeprotect.pkg</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.synology.com/en-us/company/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Synology Inc.</string>
 </dict>
 </plist>
