@@ -15,7 +15,7 @@
 	<key>Homepage</key>
 	<string>https://www.synology.com/</string>
 	<key>Keywords</key>
-	<string>backup,data,</string>
+	<string>backup,data</string>
 	<key>PackageID</key>
 	<string>com.synology.activeprotect.pkg</string>
 	<key>Privacy</key>
