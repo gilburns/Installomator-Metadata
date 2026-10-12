@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.lemon.lvoverseas</string>
 	<key>AppName</key>
-	<string></string>
+	<string>CapCut</string>
 	<key>Category</key>
-	<string></string>
+	<string>Photos &amp; Media</string>
 	<key>Description</key>
-	<string></string>
+	<string>Experience the future of AI-powered video editing and elevate your footage and Dreamina Seedance 2.5 videos with unlimited creativity.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.capcut.com/tools/desktop-video-editor</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>video,editor,effects,animation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.capcut.com/clause/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>CapCut US</string>
 </dict>
 </plist>
