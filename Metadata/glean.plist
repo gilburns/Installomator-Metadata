@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.glean.desktop</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Glean</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Your AI coworker, available wherever work happens.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.glean.com</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.glean.com/glean-for-desktop</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ai,quick entry,screenshot,meeting,notes</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.glean.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Glean Technologies, Inc.</string>
 </dict>
 </plist>
