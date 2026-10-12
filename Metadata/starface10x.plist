@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>de.starface.STARFACE-Client</string>
 	<key>AppName</key>
-	<string></string>
+	<string>STARFACE</string>
 	<key>Category</key>
-	<string></string>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>A communication tool for desktop and mobile use.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://starface.com/en/products/desktop-mobile-app/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>phone,voip,telecommunications</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://starface.com/en/data-protection-declaration/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>STARFACE GmbH</string>
 </dict>
 </plist>
