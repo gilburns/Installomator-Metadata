@@ -7,7 +7,7 @@
 	<key>AppName</key>
 	<string>ActiveProtect Agent</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>The Synology ActiveProtect Agent for macOS allows your Mac to back up data directly to a Synology ActiveProtect appliance or management server.</string>
 	<key>Documentation</key>
