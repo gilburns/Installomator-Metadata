@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.emdash.stable</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Emdash</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Open-source agentic development environment. Run agents in parallel, schedule repeat work, preview apps in the built-in browser, and manage prompts, skills, and MCP tools from one place.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://emdash.com/docs</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://emdash.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>mpc,ide,agentic,development</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://emdash.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>General Action</string>
 </dict>
 </plist>
