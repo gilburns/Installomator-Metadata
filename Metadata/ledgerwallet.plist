@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ledger.live</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Ledger Wallet</string>
 	<key>Category</key>
-	<string></string>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>The Ledger Wallet™ (formerly Ledger Live™) is a safe and easy interface for managing your cryptocurrencies using your Ledger device. Unlike most apps, the Ledger Wallet app keeps your data directly on your phone or computer, so there's no need to sign in using an email and password. All that's required is your Ledger device.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.ledger.com/article/4404389606417-zd</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://support.ledger.com/topic?topic=ledger-wallet</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>crypto,wallet</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.ledger.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Ledger SAS</string>
 </dict>
 </plist>
