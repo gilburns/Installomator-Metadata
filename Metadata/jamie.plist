@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jamie.app</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Jamie</string>
 	<key>Category</key>
-	<string></string>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>Turn every meeting into knowledge you can act on. Walk in prepared, find anything from past meetings, and let Jamie automate all your post meeting workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.meetjamie.ai/getting-started/quickstart</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.meetjamie.ai</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ai,meeting,Zoom,Teams,Google Meet</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.meetjamie.ai/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Jamie</string>
 </dict>
 </plist>
