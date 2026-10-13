@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cron.electron</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Notion Calendar</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>It’s time. All of your commitments, now in one place. Meet the beautifully designed, fully integrated calendar for your work and life.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.notion.com/help</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.notion.com/product/calendar</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>calendar,google calendar,outlook calendar,apple calendar,icloud</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Notion Labs, Inc.</string>
 </dict>
 </plist>
