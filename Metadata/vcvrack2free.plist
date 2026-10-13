@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.vcvrack.rack2</string>
 	<key>AppName</key>
-	<string></string>
+	<string>VCV Rack 2 Free</string>
 	<key>Category</key>
-	<string></string>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>The virtual modular platform based on Eurorack synthesizers</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://vcvrack.com/manual/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://vcvrack.com/rack</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>eurorack,synthesizer,modular,virtual</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.vcvrack.rack2</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://vcvrack.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>VCV</string>
 </dict>
 </plist>
