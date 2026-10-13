@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.dbgate</string>
 	<key>AppName</key>
-	<string></string>
+	<string>DbGate</string>
 	<key>Category</key>
-	<string></string>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Powerful and easy to use (no)SQL database client for MySQL, PostgreSQL, Oracle, SQL Server, SQLite, MongoDB, Redis and many more.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.dbgate.io/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.dbgate.io</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>sql,database,postgres,mongodb,oracle,mysql,api</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Sprinx Systems, LLC</string>
 </dict>
 </plist>
