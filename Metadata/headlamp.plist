@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.microsoft.Headlamp</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Headlamp</string>
 	<key>Category</key>
-	<string></string>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Headlamp is a user-friendly Kubernetes UI focused on extensibility. Headlamp works with your favorite Kubernetes flavor</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://headlamp.dev/docs/latest/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://headlamp.dev</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>kubernetes,</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://lfprojects.org/policies/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Kubernetes</string>
 </dict>
 </plist>
