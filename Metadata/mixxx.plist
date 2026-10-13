@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.mixxx.mixxx</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Mixxx</string>
 	<key>Category</key>
-	<string></string>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Mixxx is a free, open-source DJ software designed for Mac users, offering a wide range of features suitable for both beginners and professional</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://manual.mixxx.org/2.5/en/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://mixxx.org</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>dj,mixer,bpm,effects,mp3,beats,sync</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://mixxx.org/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Mixxx Development Team</string>
 </dict>
 </plist>
