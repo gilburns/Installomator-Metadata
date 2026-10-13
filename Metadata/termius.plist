@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.termius-dmg.mac</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Termius</string>
 	<key>Category</key>
-	<string></string>
+	<string>Networking</string>
 	<key>Description</key>
-	<string></string>
+	<string>Modern SSH Client. Built for Productivity and Collaboration</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.termius.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://termius.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>ssh,terminal</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://termius.com/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Termius Corporation</string>
 </dict>
 </plist>
