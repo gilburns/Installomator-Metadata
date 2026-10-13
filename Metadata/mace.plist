@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.mace.app</string>
 	<key>AppName</key>
-	<string></string>
+	<string>MACE</string>
 	<key>Category</key>
-	<string></string>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>M.A.C.E. (Mac Advanced Compliance Editor) is a modern macOS app to simplify compliance baseline creation, auditing, and management using NIST's mSCP 2.0</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://getmace.com/docs/intro</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://getmace.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>compliance,editor,mdm</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>MACE</string>
 </dict>
 </plist>
