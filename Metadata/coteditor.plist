@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.coteditor.CotEditor</string>
 	<key>AppName</key>
-	<string></string>
+	<string>CotEditor</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>CotEditor is a lightweight plain text editor designed for macOS. The project aims to provide a general plain text editor for everyone with an intuitive macOS-native user interface.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/coteditor/CotEditor</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://coteditor.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>text,editor,opensource</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>CotEditor Project</string>
 </dict>
 </plist>
