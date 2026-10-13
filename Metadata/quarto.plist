@@ -5,22 +5,22 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string></string>
+	<string>Quarto</string>
 	<key>Category</key>
-	<string></string>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>An open-source scientific and technical publishing system</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://quarto.org/docs/guide/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://quarto.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>writing,scientific,technical,publishing,markdown</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>org.rstudio.quarto</string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Posit, PBC</string>
 </dict>
 </plist>
