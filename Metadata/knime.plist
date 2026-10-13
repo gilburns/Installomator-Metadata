@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.knime.product</string>
 	<key>AppName</key>
-	<string></string>
+	<string>KNIME</string>
 	<key>Category</key>
-	<string></string>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>KNIME Analytics Platform is a free and open source low-code/no-code software that allows anyone, irrespective of experience levels, to make sense of data.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.knime.com/resources</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.knime.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>data,analytics</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.knime.com/trust-and-security</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>KNIME AG</string>
 </dict>
 </plist>
