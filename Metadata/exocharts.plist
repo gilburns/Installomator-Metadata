@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.ng.exocharts</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Exocharts</string>
 	<key>Category</key>
-	<string></string>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>Exocharts is a multiplatform charting software that runs on Desktop and Web.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.exocharts.com/hc/en-us/articles/5466518923281-Exocharts-downloads</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://exocharts.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>charting, Crypto, CME, Eurex, Nasdaq, ETF</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://exocharts.com/privacy-policy.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>UAB Reaktyvines Idejos</string>
 </dict>
 </plist>
