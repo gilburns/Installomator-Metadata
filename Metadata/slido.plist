@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.slido.SlidoApp</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Slido</string>
 	<key>Category</key>
-	<string></string>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>Make your meetings and presentations more engaging with our easy-to-use online poll maker. Create your polls in seconds and stop guessing what your participants really think.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://community.slido.com/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.slido.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>live polling,powerpoint,webex,microsoft teams,zoom,google slides</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.slido.com/terms</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Cisco Systems, Inc.</string>
 </dict>
 </plist>
