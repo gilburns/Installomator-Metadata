@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string></string>
+	<key>AppName</key>
+	<string>App-Auto-Patch 4</string>
+	<key>Category</key>
+	<string>Computer Management</string>
+	<key>Description</key>
+	<string>Auto patch management app</string>
+	<key>Documentation</key>
+	<string>https://github.com/App-Auto-Patch/App-Auto-Patch/wiki</string>
+	<key>Homepage</key>
+	<string>https://github.com/App-Auto-Patch/App-Auto-Patch</string>
+	<key>Keywords</key>
+	<string>Patching,MDM,Automation,Installomator</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>App-Auto-Patch</string>
+</dict>
+</plist>
