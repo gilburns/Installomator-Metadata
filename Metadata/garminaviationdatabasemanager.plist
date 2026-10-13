@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.garmin.avndbmanager</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Garmin Aviation Database Manager</string>
 	<key>Category</key>
-	<string></string>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>The Garmin Aviation Database Manager for macOS is a desktop application developed by Garmin that streamlines downloading and transferring navigation, terrain, obstacle, safe taxi, and terminal chart databases to your Garmin avionics systems or portable aviation devices.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://fly.garmin.com/fly-garmin/garmin-aviation-database-manager/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>fly,database,aviation</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.garmin.avndbmanager</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.garmin.com/en-US/privacy/aviation/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Garmin Ltd.</string>
 </dict>
 </plist>
