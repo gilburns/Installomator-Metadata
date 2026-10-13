@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>se.cendio.tlclient</string>
 	<key>AppName</key>
-	<string></string>
+	<string>ThinLinc Client</string>
 	<key>Category</key>
-	<string></string>
+	<string>Networking</string>
 	<key>Description</key>
-	<string></string>
+	<string>ThinLinc is a software that provides remote Linux desktop access by combining proprietary code with open-source projects like TigerVNC, noVNC and OpenSSH. The core purpose of the software is to securely grant graphical access to Linux® machines. The ThinLinc software also works closely with the existing Linux system to utilize it’s already well established ecosystem.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.cendio.com/resources/docs/tag/client_macos.html</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.cendio.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>vnc,linux,remote,desktop</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.cendio.com/thinlinc/docs/legal/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Cendio AB</string>
 </dict>
 </plist>
