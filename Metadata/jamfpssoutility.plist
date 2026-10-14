@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.jamf.concepts.psso-utility</string>
 	<key>AppName</key>
-	<string></string>
+	<string>PSSO Utility</string>
 	<key>Category</key>
-	<string></string>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>PSSO Utility - a macOS app for inspecting and monitoring Platform Single Sign-On (PSSO) status</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/jamf-concepts/psso-utility</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://concepts.jamf.com/en/concepts/psso-utility/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>psso,jamf,single sign-on</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.jamf.concepts.psso-utility</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.jamf.com/trust-center/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>JAMF Software</string>
 </dict>
 </plist>
