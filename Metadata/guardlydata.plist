@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.selstan.GuardlyData</string>
 	<key>AppName</key>
-	<string></string>
+	<string>GuardlyData</string>
 	<key>Category</key>
-	<string></string>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>A lightweight, kernel-level agent that intercepts risk at the point of origin. GuardlyData’s Desktop Agent provides the invisible layer of security your team needs to move fast without the fear of data egress.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://guardlydata.com/how-it-works</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://guardlydata.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>security,monitoring,agent</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.selstan.guardlydata.agent</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://guardlydata.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>GuardlyData</string>
 </dict>
 </plist>
