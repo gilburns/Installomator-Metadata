@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.radiosilenceapp.client</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Radio Silence</string>
 	<key>Category</key>
-	<string></string>
+	<string>Networking</string>
 	<key>Description</key>
-	<string></string>
+	<string>The easiest firewall &amp; network monitor for Mac. Radio Silence lets you block any app from phoning home</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://radiosilenceapp.com/help/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://radiosilenceapp.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>network,monitor,firewall</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.radiosilenceapp.client</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://radiosilenceapp.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Juuso Salonen</string>
 </dict>
 </plist>
