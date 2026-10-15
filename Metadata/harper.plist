@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.elijahpotter.harper-desktop</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Harper</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>The free, private, open-source grammar checker that lives on your device.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://writewithharper.com/docs/about</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://writewithharper.com/desktop</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>gammer,checker,private,free</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://automattic.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Automattic Inc.</string>
 </dict>
 </plist>
