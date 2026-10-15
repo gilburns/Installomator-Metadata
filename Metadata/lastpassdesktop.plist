@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.lastpass.lastpass-electron</string>
 	<key>AppName</key>
-	<string></string>
+	<string>LastPass for Desktop</string>
 	<key>Category</key>
-	<string></string>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
-	<string></string>
+	<string>If you need to access and manage your LastPass vault from your desktop without using a browser extension, this one’s for you.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://support.lastpass.com/s/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://lastpass.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>password,keeper,security,generator</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.lastpass.com/legal-center/privacy-notice</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>LastPass US LP</string>
 </dict>
 </plist>
