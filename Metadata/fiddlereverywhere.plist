@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.progress-telerik.fiddler</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Fiddler Everywhere</string>
 	<key>Category</key>
-	<string></string>
+	<string>Network</string>
 	<key>Description</key>
-	<string></string>
+	<string>Capture, inspect, modify and replay real HTTP/S traffic so you can debug what actually happened across applications, services, devices, and AI-assisted workflows.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.telerik.com/fiddler/fiddler-everywhere/documentation/introduction</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.telerik.com/fiddler/fiddler-everywhere</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>network,traffic,inspection,https,debugging,monitor,proxy</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.progress.com/legal/privacy-center</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Progress Software Corporation</string>
 </dict>
 </plist>
