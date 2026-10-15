@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.lowtechguys.Clop</string>
+	<key>AppName</key>
+	<string>Clop</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>Image, video, PDF and clipboard optimiser. Copy large, paste small, send fast</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Homepage</key>
+	<string>https://lowtechguys.com/clop/</string>
+	<key>Keywords</key>
+	<string>image,video,compression,optimizer,pdf</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://lowtechguys.com/clop/terms</string>
+	<key>Publisher</key>
+	<string>The low-tech guys</string>
+</dict>
+</plist>
