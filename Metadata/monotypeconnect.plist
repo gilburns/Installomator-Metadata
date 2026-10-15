@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.extensis.connect</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Monotype Connect</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Monotype Connect allows you to manage, license, and govern fonts across teams, partners, and production environments so creative teams can focus on the work that matters.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.monotype.com/connectsupport/s/article/monotype-connect-installing-and-key-improvements</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.monotype.com/products/monotype-connect</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>fonts,govern,manage,production,creative</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.monotype.com/legal/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Monotype Imaging Inc.</string>
 </dict>
 </plist>
