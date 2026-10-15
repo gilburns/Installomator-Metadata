@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>dev.lovable.build</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Lovable</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Build something Lovable. Bring a new product, internal tool, or entire company to life.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://lovable.dev/guides</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://lovable.dev</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>full-stack,hosted,ai,payments,tools</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://lovable.dev/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Lovable Labs Incorporated</string>
 </dict>
 </plist>
