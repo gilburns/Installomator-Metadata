@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>doc.md-preview</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Markdown Preview</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>The free Mac app that turns raw Markdown files into clean documents you can actually read. No setup, no account — just open the file.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://github.com/pluk-inc/markdown-preview</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://markdownpreview.app</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>markdown,preview,outline</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Pluk</string>
 </dict>
 </plist>
