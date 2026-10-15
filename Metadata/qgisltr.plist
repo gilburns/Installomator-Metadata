@@ -3,24 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>org.qgis.qgis3</string>
 	<key>AppName</key>
-	<string></string>
+	<string>QGIS Long Term Release</string>
 	<key>Category</key>
-	<string></string>
+	<string>Science &amp; Research</string>
 	<key>Description</key>
-	<string></string>
+	<string>Spatial visualization and decision-making tools for everyone</string>
 	<key>Documentation</key>
-	<string></string>
-	<key>Homepage</key>
-	<string></string>
+	<string>https://qgis.org/en/site/forusers/support.html</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>GIS,QGIS</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://qgis.org/en/docs/index.html</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>QGIS Development Team</string>
 </dict>
 </plist>
