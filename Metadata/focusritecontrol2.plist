@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.focusrite.control</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Focusrite Control 2</string>
 	<key>Category</key>
-	<string></string>
+	<string>Music &amp; Audio</string>
 	<key>Description</key>
-	<string></string>
+	<string>Remotely manage your Focusrite devices on Windows and macOS devices using Focusrite Control 2. Pair the iOS and Android app to your desktop computer to remotely control your device from anywhere in your recording space.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://us.focusrite.com/software/focusrite-control-2</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>remote,control,fader,mixing,recall</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://us.focusrite.com/privacy-notice</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Focusrite Audio Engineering Ltd.</string>
 </dict>
 </plist>
