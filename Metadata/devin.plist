@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.exafunction.windsurf</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Devin</string>
 	<key>Category</key>
-	<string></string>
+	<string>Design &amp; Development</string>
 	<key>Description</key>
-	<string></string>
+	<string>Plan, delegate, review, and ship. Manage fleets of agents from one surface.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.devin.ai/get-started/devin-intro</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://devin.ai/desktop</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>developer,pr,agent,plan,review,ide</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cognition.com/legal/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Cognition</string>
 </dict>
 </plist>
