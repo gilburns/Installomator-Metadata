@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.strings.wingman</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Clari-Copilot</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Conversation Intelligence Software. Right Where Your Team Sells.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://clari.my.site.com/customer/s/article/How-to-install-update-Copilot-desktop-app</string>
 	<key>Homepage</key>
 	<string></string>
 	<key>Keywords</key>
@@ -19,8 +19,8 @@
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.salesloft.com/legal/privacy-notice</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Salesloft, Inc.</string>
 </dict>
 </plist>
