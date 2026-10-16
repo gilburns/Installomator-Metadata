@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.snowflake.coco</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Cortex Code</string>
 	<key>Category</key>
-	<string></string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string></string>
+	<string>Your data-native AI coding agent. Turn your complex data engineering, analytics and AI workflows into simple conversations.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://docs.snowflake.com/en/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.snowflake.com/en/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>code,ide,ai,agentic,enterprise</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.snowflake.com/en/legal/privacy/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Snowflake Computing Inc.</string>
 </dict>
 </plist>
