@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>pl.maketheweb.cleanshotx</string>
 	<key>AppName</key>
-	<string></string>
+	<string>CleanShot X</string>
 	<key>Category</key>
-	<string></string>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>There are average capture apps. And there's CleanShot. The Mac-native toolkit for screenshots, recordings and collaboration. Trusted by 250,000+ users.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://cleanshot.com/features</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://cleanshot.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>screenshot,recording,collaboration</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://cleanshot.com/legal/cloud/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>MTW</string>
 </dict>
 </plist>
