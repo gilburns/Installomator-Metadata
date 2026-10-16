@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.dbeaver.product.team</string>
 	<key>AppName</key>
-	<string></string>
+	<string>DBeaverTeam</string>
 	<key>Category</key>
-	<string></string>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>DBeaver Team Edition is a collaborative database management tool for teams and enterprises. It combines DBeaver Ultimate and CloudBeaver Enterprise and has two client applications: web and desktop. Both work with a required central Team Edition server deployment, which centralizes resource management in multi-user environments. You can use the web client on its own, or use both clients when an administrator enables desktop connections. The web client supports initial setup and centralized administration. Install the desktop client locally for advanced database work.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://dbeaver.com/docs/team-edition/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://dbeaver.com/dbeaver-team-edition/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>database,sql,team,web,desktop</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://dbeaver.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>DBeaver Corporation</string>
 </dict>
 </plist>
