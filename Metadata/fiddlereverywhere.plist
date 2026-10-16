@@ -7,7 +7,7 @@
 	<key>AppName</key>
 	<string>Fiddler Everywhere</string>
 	<key>Category</key>
-	<string>Network</string>
+	<string>Networking</string>
 	<key>Description</key>
 	<string>Capture, inspect, modify and replay real HTTP/S traffic so you can debug what actually happened across applications, services, devices, and AI-assisted workflows.</string>
 	<key>Documentation</key>
