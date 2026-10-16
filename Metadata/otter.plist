@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.otterai.desktop</string>
+	<key>AppName</key>
+	<string>Otter</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>The AI meeting assistant you’ll want to promote. With real-time notes, summaries, automated action items, and  AI chat, the one they'll want to promote is you. High five!</string>
+	<key>Documentation</key>
+	<string>https://help.otter.ai/hc/en-us/articles/360049722894-Otter-Quick-Start-Guide</string>
+	<key>Homepage</key>
+	<string>https://otter.ai</string>
+	<key>Keywords</key>
+	<string>meeting,notes,slides</string>
+	<key>PackageID</key>
+	<string>com.otterai.desktop</string>
+	<key>Privacy</key>
+	<string>https://otter.ai/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Otter.ai Inc</string>
+</dict>
+</plist>
