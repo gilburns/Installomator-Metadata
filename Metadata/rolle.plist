@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.getrolle.app</string>
+	<key>AppName</key>
+	<string>rolle</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
+	<key>Description</key>
+	<string>A desktop app and CLI. One sign-in each to AWS, Azure, and Google Cloud, then short-lived credentials for your tools. No long-lived secret touches disk.</string>
+	<key>Documentation</key>
+	<string>https://getrolle.com/docs/install</string>
+	<key>Homepage</key>
+	<string>https://getrolle.com</string>
+	<key>Keywords</key>
+	<string>cli,aws,azure,credentials,secrets</string>
+	<key>PackageID</key>
+	<string>com.getrolle.app</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Nate O'Farrell</string>
+</dict>
+</plist>
