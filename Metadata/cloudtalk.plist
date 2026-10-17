@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.cloudtalk-phone.app</string>
 	<key>AppName</key>
-	<string></string>
+	<string>CloudTalk Phone</string>
 	<key>Category</key>
-	<string></string>
+	<string>Business</string>
 	<key>Description</key>
-	<string></string>
+	<string>Make and receive calls using our awesome desktop app. CloudTalk apps simplifies how you interact with your customers so you can focus on your business. Make your contact center more effective and productive.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://help.cloudtalk.io/en/articles/2144706-installing-cloudtalk-phone-on-mac#installing-cloudtalk-phone-on-mac</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.cloudtalk.io</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>viop,phone,call center</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.cloudtalk.io/privacy-notice/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>CloudTalk</string>
 </dict>
 </plist>
