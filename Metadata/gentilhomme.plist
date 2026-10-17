@@ -7,7 +7,7 @@
 	<key>AppName</key>
 	<string>Gentilhomme</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
 	<string>A native macOS viewer for man pages, rendered as rich, readable, linked documents.</string>
 	<key>Documentation</key>
