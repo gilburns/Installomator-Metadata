@@ -5,7 +5,7 @@
 	<key>AppID</key>
 	<string>org.gimp.gimp-*</string>
 	<key>AppName</key>
-	<string>GIMP</string>
+	<string>GIMP Dev</string>
 	<key>Category</key>
 	<string>Photos &amp; Media</string>
 	<key>Description</key>
