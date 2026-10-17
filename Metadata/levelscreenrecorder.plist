@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>LevelAI</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Level Screen Recorder</string>
 	<key>Category</key>
-	<string></string>
+	<string>Video &amp; Screen Recording</string>
 	<key>Description</key>
-	<string></string>
+	<string>Level AI's agent screen recording pairs with call recording to show contact center managers exactly what happened on-screen and on the line, in every customer interaction. Spot coaching moments, close workflow gaps, and lift CSAT — without stitching together separate tools.</string>
 	<key>Documentation</key>
 	<string></string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://thelevel.ai/product/agent-screen-recording</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>screenrecording,call center</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://thelevel.ai/legal/privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Level AI</string>
 </dict>
 </plist>
