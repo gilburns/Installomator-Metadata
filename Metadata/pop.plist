@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.pop.pop.app</string>
+	<key>AppName</key>
+	<string>Pop</string>
+	<key>Category</key>
+	<string>Business</string>
+	<key>Description</key>
+	<string>Blazing-fast screen sharing, multiplayer control, crystal-clear voice and high-quality video. Perfect for pair programming.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Homepage</key>
+	<string>https://pop.com</string>
+	<key>Keywords</key>
+	<string>screen,sharing,collaboration</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://pop.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Pop Technologies, Inc.</string>
+</dict>
+</plist>
