@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.missiveapp.osx</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Missive</string>
 	<key>Category</key>
-	<string></string>
+	<string>Productivity</string>
 	<key>Description</key>
-	<string></string>
+	<string>Missive is the collaborative email client built for teams. Manage email, SMS, WhatsApp, and more in one shared inbox.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://missiveapp.com/docs/device-management/managed-configuration</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://missiveapp.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>email,whatsapp,inbox,collaborative</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://missiveapp.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Missive</string>
 </dict>
 </plist>
