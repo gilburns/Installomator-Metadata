@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.bromptontech.tessera</string>
+	<key>AppName</key>
+	<string>Tessera Remote</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
+	<key>Description</key>
+	<string>Tessera Remote is a macOS application that allows remote control of Tessera LED Processors across a network. Additionally, the Remote application can be used as an ‘offline editor’ allowing the set up and editing of Tessera projects when not connected to a processor.</string>
+	<key>Documentation</key>
+	<string>https://www.bromptontech.com/online-help/Content/Tessera%20User%20Manual/03.%20Feature%20Topics/04.4%20-%20Installation%20for%20macOS.htm</string>
+	<key>Homepage</key>
+	<string>https://www.bromptontech.com</string>
+	<key>Keywords</key>
+	<string>video,processing,remote</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.bromptontech.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Brompton Technology Ltd</string>
+</dict>
+</plist>
