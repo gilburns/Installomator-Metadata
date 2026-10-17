@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>me.proton.pass.electron</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Proton Pass</string>
 	<key>Category</key>
-	<string></string>
+	<string>Security &amp; Privacy</string>
 	<key>Description</key>
-	<string></string>
+	<string>Generate and store strong passwords with a password manager that automatically syncs across all your devices and alerts you to breaches.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://proton.me/pass/download/macos</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://proton.me/pass</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>password,security,credentials,encrypted</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://proton.me/legal/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Proton AG</string>
 </dict>
 </plist>
