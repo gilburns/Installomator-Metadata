@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.colinkim.Radix</string>
+	<key>AppName</key>
+	<string>Radix</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Radix scans millions of files and turns your Mac’s storage into a clear, interactive map. Explore with sunburst and treemap views, compare changes over time, and safely review what to clean up — all locally on your Mac.</string>
+	<key>Documentation</key>
+	<string>https://github.com/colinvkim/Radix</string>
+	<key>Homepage</key>
+	<string>https://tryradix.app</string>
+	<key>Keywords</key>
+	<string>disk space,drive,analyzer</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://tryradix.app/#privacy</string>
+	<key>Publisher</key>
+	<string>Colin Kim</string>
+</dict>
+</plist>
