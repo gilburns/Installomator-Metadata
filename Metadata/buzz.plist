@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.chidiwilliams.buzz</string>
+	<key>AppName</key>
+	<string>Buzz</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.</string>
+	<key>Documentation</key>
+	<string>https://chidiwilliams.github.io/buzz/docs</string>
+	<key>Homepage</key>
+	<string>https://github.com/chidiwilliams/buzz</string>
+	<key>Keywords</key>
+	<string>translate,audio,whisper</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Chidi Williams</string>
+</dict>
+</plist>
