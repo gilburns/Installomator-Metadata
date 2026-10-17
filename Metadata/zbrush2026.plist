@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string></string>
+	<key>AppName</key>
+	<string>ZBrush 2026</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
+	<key>Description</key>
+	<string>ZBrush is an industry-leading digital sculpting tool by Maxon for creating highly detailed 3D characters, creatures, and objects for games, film, and visualization.</string>
+	<key>Documentation</key>
+	<string>https://www.maxon.net/en/zbrush/whats-new</string>
+	<key>Homepage</key>
+	<string>https://www.maxon.net/zbrush</string>
+	<key>Keywords</key>
+	<string>ZBrush,digital sculpting,3D,Maxon,character design,VFX</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.maxon.net/en/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Maxon Computer GmbH</string>
+</dict>
+</plist>
