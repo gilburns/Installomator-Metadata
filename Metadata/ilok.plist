@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.paceap.eden.iLokLicenseManager</string>
+	<key>AppName</key>
+	<string>iLok License Manager</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
+	<key>Description</key>
+	<string>The License Support installer contains all of the needed drivers, system files and the iLok License Manager. With these tools, you can activate and de-activate your licenses to fit your workflow. All iLok enabled licenses can be activated to the iLok USB Smart Key. Some publishers allow computer or iLok Cloud activations. With the iLok License Manager, you can move your licenses to where they are the most convenient for you.</string>
+	<key>Documentation</key>
+	<string>https://help.ilok.com/ilm_overview.html</string>
+	<key>Homepage</key>
+	<string>https://www.ilok.com/#!license-manager</string>
+	<key>Keywords</key>
+	<string>license,manager,music,</string>
+	<key>PackageID</key>
+	<string>com.paceap.pkg.eden.iLokLicenseManager</string>
+	<key>Privacy</key>
+	<string>https://www.ilok.com/#!privacy-policy</string>
+	<key>Publisher</key>
+	<string>PACE Anti-Piracy, Inc.</string>
+</dict>
+</plist>
