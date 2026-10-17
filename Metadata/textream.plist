@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>dev.fka.textream</string>
+	<key>AppName</key>
+	<string>Textream</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
+	<key>Description</key>
+	<string>Textream is a free, open-source teleprompter app with three guidance modes: real-time word tracking, classic auto-scroll, and voice-activated scrolling. It displays an elegant Dynamic Island overlay at the top of your screen — or as a floating window, or fullscreen on a Sidecar iPad. Invisible to your audience, always visible to you.</string>
+	<key>Documentation</key>
+	<string>https://textream.net/docs/</string>
+	<key>Homepage</key>
+	<string>https://textream.net</string>
+	<key>Keywords</key>
+	<string>teleprompter,text,scroll,floating</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://textream.net/privacy.html</string>
+	<key>Publisher</key>
+	<string>Fatih Kadir Akin</string>
+</dict>
+</plist>
