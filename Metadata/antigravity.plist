@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.google.antigravity</string>
+	<key>AppName</key>
+	<string>Antigravity</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>Google Antigravity is our agentic development platform, allowing anyone to build in the agent-first era.</string>
+	<key>Documentation</key>
+	<string>https://antigravity.google/docs/overview</string>
+	<key>Homepage</key>
+	<string>https://antigravity.google</string>
+	<key>Keywords</key>
+	<string>agent,ai,development</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://policies.google.com/privacy</string>
+	<key>Publisher</key>
+	<string>Google LLC</string>
+</dict>
+</plist>
