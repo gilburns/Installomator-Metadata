@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>io.netbird.client</string>
+	<key>AppName</key>
+	<string>NetBird</string>
+	<key>Category</key>
+	<string>Networking</string>
+	<key>Description</key>
+	<string>IT and Engineering teams securely connect remote users, hybrid-cloud, and edge in minutes with NetBird, replacing traditional VPNs with one identity-based ZTNA platform.</string>
+	<key>Documentation</key>
+	<string>https://docs.netbird.io/get-started</string>
+	<key>Homepage</key>
+	<string>https://netbird.io</string>
+	<key>Keywords</key>
+	<string>vpn,network,secure,ztna,remote,identity</string>
+	<key>PackageID</key>
+	<string>io.netbird.client</string>
+	<key>Privacy</key>
+	<string>https://netbird.io/privacy</string>
+	<key>Publisher</key>
+	<string>NetBird</string>
+</dict>
+</plist>
