@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>epp.package.cpp</string>
+	<key>AppName</key>
+	<string>Eclipse IDE for Enterprise Java and Web Developers</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>Tools for developers working with Java and Web applications, including a Java IDE, tools for JavaScript, TypeScript, JavaServer Pages and Faces, Yaml, Markdown, Web Services, JPA and Data Tools, Maven and Gradle, Git, and more.</string>
+	<key>Documentation</key>
+	<string>https://help.eclipse.org/latest/index.jsp</string>
+	<key>Homepage</key>
+	<string>https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-enterprise-java-and-web-developers</string>
+	<key>Keywords</key>
+	<string>Eclipse,Java,web,IDE,open source,development</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.eclipse.org/legal/privacy.php</string>
+	<key>Publisher</key>
+	<string>Eclipse Foundation</string>
+</dict>
+</plist>
