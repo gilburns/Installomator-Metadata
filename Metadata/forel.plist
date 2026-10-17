@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>forel</string>
+	<key>AppName</key>
+	<string>Forel</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>The Hazel alternative for macOS. Watch folders, match files with clear rules, and move, rename, tag, or label them automatically on your Mac.</string>
+	<key>Documentation</key>
+	<string>https://github.com/lab421/forel</string>
+	<key>Homepage</key>
+	<string>https://forel-app.github.io</string>
+	<key>Keywords</key>
+	<string>automation,files,folders,watcher,actions</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://forel-app.github.io/#privacy</string>
+	<key>Publisher</key>
+	<string>Forel</string>
+</dict>
+</plist>
