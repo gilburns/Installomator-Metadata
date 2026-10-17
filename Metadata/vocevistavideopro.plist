@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.sygyt.mac.VoceVistaVideoPro</string>
+	<key>AppName</key>
+	<string>VoceVista Video Pro</string>
+	<key>Category</key>
+	<string></string>
+	<key>Description</key>
+	<string>VoceVista Video is a software application for the interactive recording and exploration of sounds. The visual display of a sound enables the quick recognition of the fundamental melody, the sound color (timbre) and the overtones. It also makes it easy to visually compare audio files.</string>
+	<key>Documentation</key>
+	<string>https://www.vocevista.com/en/documentation/introduction/</string>
+	<key>Homepage</key>
+	<string>https://www.vocevista.com/en/</string>
+	<key>Keywords</key>
+	<string>audio,melody,sound,recording,timbre</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.vocevista.com/en/privacy/</string>
+	<key>Publisher</key>
+	<string>VoceVista, LLC</string>
+</dict>
+</plist>
