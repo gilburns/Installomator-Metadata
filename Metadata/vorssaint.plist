@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.vorssaint.utils</string>
+	<key>AppName</key>
+	<string>Vorssaint</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>One menu bar icon doing the job of a dozen paid Mac apps. Install only what you use.</string>
+	<key>Documentation</key>
+	<string>https://github.com/vorssaint/vorssaint-utils</string>
+	<key>Homepage</key>
+	<string>https://vorssaint.com</string>
+	<key>Keywords</key>
+	<string>menubar,utilities,audio,display</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://github.com/vorssaint/vorssaint-utils/blob/main/docs/PRIVACY.md</string>
+	<key>Publisher</key>
+	<string>Vorssaint</string>
+</dict>
+</plist>
