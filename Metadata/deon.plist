@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>de.deon.macos</string>
+	<key>AppName</key>
+	<string>DEON</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>We have completely redeveloped the DEON Client, based on the most modern technology. It is significantly faster, more clearly structured, and at home everywhere: in the browser, as a desktop app for Windows and Mac, and on smartphones.</string>
+	<key>Documentation</key>
+	<string>https://deon.de/en/hilfe-2026/</string>
+	<key>Homepage</key>
+	<string>https://deon.de/en/</string>
+	<key>Keywords</key>
+	<string>workspace,ai,whiteboard</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://deon.de/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>DEON GmbH &amp; Co. KG</string>
+</dict>
+</plist>
