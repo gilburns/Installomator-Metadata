@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.resolume.arena</string>
+	<key>AppName</key>
+	<string>Arena</string>
+	<key>Category</key>
+	<string>Media Players</string>
+	<key>Description</key>
+	<string>Resolume is the industry-leading software for VJ’s around the world. Arena &amp; Avenue’s intuitive workflow will have you mixing, matching and playing your content in no time. Synchronise to the BPM, animate your playback parameters and create complex effect routings in the blink of an eye.</string>
+	<key>Documentation</key>
+	<string>https://resolume.com/software/avenue-arena</string>
+	<key>Homepage</key>
+	<string>https://resolume.com/</string>
+	<key>Keywords</key>
+	<string>vj,dj,video,effects,bpm</string>
+	<key>PackageID</key>
+	<string>com.resolume.pkg.ResolumeArena</string>
+	<key>Privacy</key>
+	<string>https://resolume.com/privacy</string>
+	<key>Publisher</key>
+	<string>Resolume B.V.</string>
+</dict>
+</plist>
