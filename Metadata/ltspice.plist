@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.analog.ltspice</string>
+	<key>AppName</key>
+	<string>LTspice</string>
+	<key>Category</key>
+	<string>Science &amp; Research</string>
+	<key>Description</key>
+	<string>LTspice® is a powerful, fast, and free SPICE simulator software, schematic capture and waveform viewer with enhancements and models for improving the simulation of analog circuits. Its graphical schematic capture interface allows you to probe schematics and produce simulation results, which can be explored further through the built-in waveform viewer.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Homepage</key>
+	<string>https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html</string>
+	<key>Keywords</key>
+	<string></string>
+	<key>PackageID</key>
+	<string>com.analog.ltspice</string>
+	<key>Privacy</key>
+	<string>https://www.analog.com/en/who-we-are/legal-and-risk-oversight/data-privacy/privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>Analog Devices, Inc.</string>
+</dict>
+</plist>
