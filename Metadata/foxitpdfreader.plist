@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.foxit-software.Foxit.PDF.Reader</string>
+	<key>AppName</key>
+	<string>Foxit PDF Reader</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
+	<key>Description</key>
+	<string>Industry's most powerful PDF Reader Solution. View, annotate, form fill, and sign PDF across desktop, mobile, and web – no matter if you're at the office, home, or on the go.</string>
+	<key>Documentation</key>
+	<string>https://kb.foxit.com/s/topic/0TOUk0000000sTR/foxit-pdf-reader-for-mac</string>
+	<key>Homepage</key>
+	<string>https://www.foxit.com/pdf-reader/</string>
+	<key>Keywords</key>
+	<string>pdf,reader</string>
+	<key>PackageID</key>
+	<string>com.foxit.pkg.pdfreader</string>
+	<key>Privacy</key>
+	<string>https://www.foxit.com/company/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Foxit Software Incorporated</string>
+</dict>
+</plist>
