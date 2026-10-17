@@ -4,6 +4,8 @@
 <dict>
 	<key>AppID</key>
 	<string></string>
+	<key>AppName</key>
+	<string>Microsoft Teams</string>
 	<key>Category</key>
 	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
