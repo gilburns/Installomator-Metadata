@@ -5,14 +5,14 @@
 	<key>AppID</key>
 	<string>com.filemaker.client.advanced12</string>
 	<key>AppName</key>
-	<string>FileMaker Pro</string>
+	<string>FileMaker Pro 22</string>
 	<key>Category</key>
 	<string>Business</string>
 	<key>Description</key>
 	<string>FileMaker Pro is a relational database application by Claris International for creating custom apps that work seamlessly across iPad, iPhone, Mac, and the web.</string>
 	<key>Documentation</key>
 	<string>https://help.claris.com/</string>
-	<key>Homepage</key>
+	<key>Homepage</keyu>
 	<string>https://www.claris.com/filemaker/</string>
 	<key>Keywords</key>
 	<string>FileMaker Pro,database,Claris,custom app,relational database</string>
