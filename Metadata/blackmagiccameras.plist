@@ -11,9 +11,9 @@
 	<key>Description</key>
 	<string>Add Blackmagic Camera Setup software to your system so you can update the software and manage your Blackmagic Camera. It also installs Blackmagic RAW Player, Blackmagic RAW Speed Test, Blackmagic RAW SDK and Blackmagic RAW plugins.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/support/</string>
 	<key>Homepage</key>
-	<string>https://www.blackmagicdesign.com</string>
+	<string>https://www.blackmagicdesign.com/</string>
 	<key>Keywords</key>
 	<string>camera,raw,blackmagic</string>
 	<key>PackageID</key>
@@ -21,6 +21,6 @@
 	<key>Privacy</key>
 	<string>https://www.blackmagicdesign.com/privacy</string>
 	<key>Publisher</key>
-	<string>Blackmagic Design</string>
+	<string>Blackmagic Design Pty. Ltd.</string>
 </dict>
 </plist>
