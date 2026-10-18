@@ -17,8 +17,8 @@
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://www.maxon.net/en/privacy/</string>
+	<string>https://www.maxon.net/en/privacy-policy</string>
 	<key>Publisher</key>
-	<string>Maxon Computer</string>
+	<string>Maxon Computer GmbH</string>
 </dict>
 </plist>

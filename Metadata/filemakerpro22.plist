@@ -12,7 +12,7 @@
 	<string>FileMaker Pro is a relational database application by Claris International for creating custom apps that work seamlessly across iPad, iPhone, Mac, and the web.</string>
 	<key>Documentation</key>
 	<string>https://help.claris.com/</string>
-	<key>Homepage</keyu>
+	<key>Homepage</key>
 	<string>https://www.claris.com/filemaker/</string>
 	<key>Keywords</key>
 	<string>FileMaker Pro,database,Claris,custom app,relational database</string>
