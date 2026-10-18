@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.blackmagic-design.DaVinciResolve</string>
+	<key>AppName</key>
+	<string>DaVinci Resolve</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
+	<key>Description</key>
+	<string>DaVinci Resolve is the world’s only solution that combines editing, color correction, visual effects, motion graphics, audio post production and now photo editing all in one software tool! Its elegant, modern interface is fast to learn and easy for new users, yet powerful for professionals. DaVinci Resolve lets you work faster, at a higher quality, because you don’t have to learn multiple apps or switch software for different tasks. You can work with camera original quality images throughout the entire process. It’s like having your own post production studio in a single app! Best of all, by learning DaVinci Resolve, you’re learning how to use the same tools used by Hollywood professionals!</string>
+	<key>Documentation</key>
+	<string>https://www.blackmagicdesign.com/support/family/davinci-resolve-and-fusion</string>
+	<key>Homepage</key>
+	<string>https://www.blackmagicdesign.com/products/davinciresolve</string>
+	<key>Keywords</key>
+	<string>video,editor,effects</string>
+	<key>PackageID</key>
+	<string>com.blackmagic-design.Manifest</string>
+	<key>Privacy</key>
+	<string>https://www.blackmagicdesign.com/privacy</string>
+	<key>Publisher</key>
+	<string>Blackmagic Design Pty. Ltd.</string>
+</dict>
+</plist>
