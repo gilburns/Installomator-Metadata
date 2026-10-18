@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>edu.mit.scratch.scratch-desktop</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Scratch 3</string>
 	<key>Category</key>
-	<string></string>
+	<string>Education</string>
 	<key>Description</key>
-	<string></string>
+	<string>With Scratch, you can program your own interactive stories, games, and animations. Scratch helps young people learn to think creatively.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://mitscratch.freshdesk.com/en/support/home</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.scratchfoundation.org/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>creative,program,stories,games,animation</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://mitscratch.freshdesk.com/en/support/solutions/articles/4000219339-privacy-policy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Scratch Foundation</string>
 </dict>
 </plist>
