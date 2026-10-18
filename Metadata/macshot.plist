@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.sw33tlie.macshot.macshot</string>
+	<key>AppName</key>
+	<string>macshot</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
+	<key>Description</key>
+	<string>Feature-packed native macOS screenshot &amp; recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.</string>
+	<key>Documentation</key>
+	<string>https://github.com/sw33tLie/macshot</string>
+	<key>Homepage</key>
+	<string>https://macshot.io</string>
+	<key>Keywords</key>
+	<string>screenshot,annotate,record,scroll,ocr</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://github.com/sw33tLie/macshot/blob/main/PRIVACY.md</string>
+	<key>Publisher</key>
+	<string>Makauly Gregorio</string>
+</dict>
+</plist>
