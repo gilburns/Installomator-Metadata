@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.zoapi.zoapiclient</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Zoapi</string>
 	<key>Category</key>
-	<string></string>
+	<string>Collaboration &amp; Social</string>
 	<key>Description</key>
-	<string></string>
+	<string>The Zoapi application allows you to share your device screen with a Zoapi Hub device. Zoapi Hub is a unified conferencing and collaboration solutions.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://share.zoapi.com/download</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://share.zoapi.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>meeting,screen,sharing</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://share.zoapi.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Zoapi Innovations Pvt Ltd.</string>
 </dict>
 </plist>
