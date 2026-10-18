@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.blackmagic-design.switchers.softwarecontrol</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Blackmagic ATEM Switchers</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>ATEM Mini can be operated from the front panel, or you can control it using the included free ATEM Software Control for Mac or Windows. ATEM Software Control gives you even more control and creative options! You can switch video sources live, load the media pool with graphics, use transitions and keys, change switcher settings and mix audio. For larger live productions, you can even run multiple copies of the software so that more than one person can work on the show at the same time!</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>video,control,switcher</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.blackmagic-design.Switchers</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Blackmagic Design Pty. Ltd.</string>
 </dict>
 </plist>
