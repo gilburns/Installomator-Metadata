@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.blackmagic-design.webpresenter.utility</string>
+	<key>AppName</key>
+	<string>Blackmagic Web Presenter</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>The Blackmagic Web Presenter Utility software provides a single place to manage multiple web presenters and to update the settings and software. Simply plug directly into the front of the web presenter’s USB connection, or connect using Ethernet so customers can configure remotely, which is important when users are managing multiple remote sites. The familiar menus and controls make it very easy to set up a live event, so customers can get started fast. Plus the front panel LCD menus have the same settings and controls. The Blackmagic Web Presenter Utility software is included free and runs on both Mac and Windows platforms.</string>
+	<key>Documentation</key>
+	<string>https://www.blackmagicdesign.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.blackmagicdesign.com/</string>
+	<key>Keywords</key>
+	<string></string>
+	<key>PackageID</key>
+	<string>com.blackmagic-design.WebPresenter</string>
+	<key>Privacy</key>
+	<string>https://www.blackmagicdesign.com/privacy</string>
+	<key>Publisher</key>
+	<string>Blackmagic Design Pty. Ltd.</string>
+</dict>
+</plist>
