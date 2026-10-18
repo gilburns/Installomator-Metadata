@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.blackmagic-design.converters.utility</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Black Magic Converters</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>Add Blackmagic Converter Utility software to your system so you can update the software and manage your Blackmagic converters.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>video,converter,update</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Blackmagic Design Pty. Ltd.</string>
 </dict>
 </plist>
