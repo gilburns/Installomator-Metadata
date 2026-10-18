@@ -5,7 +5,7 @@
 	<key>AppID</key>
 	<string>com.blackmagic-design.converters.utility</string>
 	<key>AppName</key>
-	<string>Black Magic Converters</string>
+	<string>Blackmagic Converters</string>
 	<key>Category</key>
 	<string>Utilities</string>
 	<key>Description</key>
@@ -17,7 +17,7 @@
 	<key>Keywords</key>
 	<string>video,converter,update</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.blackmagic-design.Converters</string>
 	<key>Privacy</key>
 	<string>https://www.blackmagicdesign.com/privacy</string>
 	<key>Publisher</key>
