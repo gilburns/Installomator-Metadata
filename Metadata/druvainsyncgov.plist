@@ -3,24 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.druva.inSync</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Druva inSync Government Cloud</string>
 	<key>Category</key>
-	<string></string>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>Druva inSync is a comprehensive data protection and governance solution for macOS devices.</string>
 	<key>Documentation</key>
-	<string></string>
-	<key>Homepage</key>
-	<string></string>
+	<string>https://www.druva.com/products/insync/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>data protection, governance, macOS, backup, security</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.druva.inSync.pkg</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.druva.com/privacy-policy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Druva Inc.</string>
 </dict>
 </plist>

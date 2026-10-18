@@ -15,7 +15,7 @@
 	<key>Keywords</key>
 	<string>data protection, governance, macOS, backup, security</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.druva.inSync.pkg</string>
 	<key>Privacy</key>
 	<string>https://www.druva.com/privacy-policy/</string>
 	<key>Publisher</key>
