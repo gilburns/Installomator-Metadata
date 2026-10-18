@@ -5,22 +5,22 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string></string>
+	<string>Amazon Redshift ODBC</string>
 	<key>Category</key>
-	<string></string>
+	<string>Data Management</string>
 	<key>Description</key>
-	<string></string>
+	<string>You can use a JDBC driver version 2.x connection to connect to your Amazon Redshift cluster from many third-party SQL client tools. The Amazon Redshift JDBC connector provides an open source solution. You can browse the source code, request enhancements, report issues, and provide contributions.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://s3.amazonaws.com/redshift-downloads/drivers/odbc/1.6.3.1008/Amazon+Redshift+ODBC+Connector+Install+Guide.pdf</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://docs.aws.amazon.com/redshift/latest/mgmt/odbc20-install-config-mac.html</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>database,odbc</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.amazon.redshiftodbc</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://aws.amazon.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Amazon Web Services, Inc.</string>
 </dict>
 </plist>
