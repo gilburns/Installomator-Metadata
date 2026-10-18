@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.electron.quickbooks-online</string>
 	<key>AppName</key>
-	<string></string>
+	<string>QuickBooks Online</string>
 	<key>Category</key>
-	<string></string>
+	<string>Finance</string>
 	<key>Description</key>
-	<string></string>
+	<string>Books, bills, payments, HR, reporting, insights, and industry solutions — all in one AI-powered platform</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://quickbooks.intuit.com/learn-support/en-us/help-article/install-products/install-quickbooks-online-mac-app/L3W0zB5x7_US_en_US</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://quickbooks.intuit.com</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>business,finance,tax,payroll</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.intuit.com/privacy/</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Intuit Inc.</string>
 </dict>
 </plist>
