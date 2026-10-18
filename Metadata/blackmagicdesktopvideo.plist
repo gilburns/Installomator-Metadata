@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.blackmagic-design.desktopvideo.utility</string>
+	<key>AppName</key>
+	<string>Blackmagic Desktop Video</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>This software update adds support for manual NMOS registry IP address configuration for DeckLink IP HD models, as well as improved NMOS registry compatibility and network settings reliability in Desktop Video Setup Utility. It also improves stability when using a Cintel Scanner with DaVinci Resolve.</string>
+	<key>Documentation</key>
+	<string>https://www.blackmagicdesign.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.blackmagicdesign.com/</string>
+	<key>Keywords</key>
+	<string>video,utility,configuration</string>
+	<key>PackageID</key>
+	<string>com.blackmagic-design.DesktopVideo</string>
+	<key>Privacy</key>
+	<string>https://www.blackmagicdesign.com/privacy</string>
+	<key>Publisher</key>
+	<string>Blackmagic Design Pty. Ltd.</string>
+</dict>
+</plist>

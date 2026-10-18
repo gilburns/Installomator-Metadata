@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.blackmagic-design.videohub.softwarecontrol</string>
+	<key>AppName</key>
+	<string>Blackmagic Videohub</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>This installer contains the Blackmagic Videohub Utility software, which allows you to software update or change settings on any Videohub using the USB port.</string>
+	<key>Documentation</key>
+	<string>https://www.blackmagicdesign.com/support/</string>
+	<key>Homepage</key>
+	<string>https://www.blackmagicdesign.com/</string>
+	<key>Keywords</key>
+	<string>video,hub,utility,update</string>
+	<key>PackageID</key>
+	<string>com.blackmagic-design.Videohub</string>
+	<key>Privacy</key>
+	<string>https://www.blackmagicdesign.com/privacy</string>
+	<key>Publisher</key>
+	<string>Blackmagic Design Pty. Ltd.</string>
+</dict>
+</plist>

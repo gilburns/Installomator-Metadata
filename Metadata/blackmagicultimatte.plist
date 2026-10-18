@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>com.blackmagic-design.UltimatteSoftwareControl</string>
 	<key>AppName</key>
-	<string></string>
+	<string>Blackmagic Ultimatte</string>
 	<key>Category</key>
-	<string></string>
+	<string>Utilities</string>
 	<key>Description</key>
-	<string></string>
+	<string>This software update adds general performance and stability improvements to Ultimatte 12.</string>
 	<key>Documentation</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/support/</string>
 	<key>Homepage</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/</string>
 	<key>Keywords</key>
-	<string></string>
+	<string>video,control</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>com.blackmagic-design.Ultimatte</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.blackmagicdesign.com/privacy</string>
 	<key>Publisher</key>
-	<string></string>
+	<string>Blackmagic Design Pty. Ltd.</string>
 </dict>
 </plist>
