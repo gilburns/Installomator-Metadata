@@ -17,7 +17,7 @@
 	<key>PackageID</key>
 	<string>com.microsoft.reset.OneDrive</string>
 	<key>Privacy</key>
-	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
+	<string></string>
 	<key>Publisher</key>
 	<string>Paul Bowden</string>
 </dict>
