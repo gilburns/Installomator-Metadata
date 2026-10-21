@@ -17,7 +17,7 @@
 	<key>PackageID</key>
 	<string>com.steinberg.activationmanager</string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.steinberg.net/legal/privacy-policy/</string>
 	<key>Publisher</key>
 	<string>Steinberg Media Technologies GmbH</string>
 </dict>
