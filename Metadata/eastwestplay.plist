@@ -12,6 +12,8 @@
 	<string>Play is a versatile software for creating, sharing, and modifying multimedia content.</string>
 	<key>Documentation</key>
 	<string>https://play.github.io/docs</string>
+	<key>Homepage</key>
+	<string>https://www.soundsonline.com/</string>
 	<key>Keywords</key>
 	<string>multimedia, content creation, sharing, editing</string>
 	<key>PackageID</key>

@@ -12,6 +12,8 @@
 	<string>A sleek monospaced font inspired by the San Francisco typeface</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.apple.com</string>
 	<key>Keywords</key>
 	<string>font, monospaced, San Francisco, typeface</string>
 	<key>PackageID</key>

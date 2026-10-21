@@ -12,6 +12,8 @@
 	<string>San Francisco Pro is a professional software for macOS users.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.apple.com</string>
 	<key>Keywords</key>
 	<string>macOS, professional, software, San Francisco Pro</string>
 	<key>PackageID</key>

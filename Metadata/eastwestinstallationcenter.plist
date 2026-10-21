@@ -12,6 +12,8 @@
 	<string>Software for managing and installing EW products.</string>
 	<key>Documentation</key>
 	<string>https://example.com/docs</string>
+	<key>Homepage</key>
+	<string>https://www.soundsonline.com/</string>
 	<key>Keywords</key>
 	<string>installation, EW products, management</string>
 	<key>PackageID</key>

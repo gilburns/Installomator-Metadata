@@ -12,6 +12,8 @@
 	<string>Opus is a feature-rich audio codec and tool for macOS users.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.soundsonline.com/</string>
 	<key>Keywords</key>
 	<string>audio, codec, macOS, tool</string>
 	<key>PackageID</key>

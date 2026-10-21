@@ -12,6 +12,8 @@
 	<string>RingCentral Meetings is a video conferencing and online meeting software for macOS.</string>
 	<key>Documentation</key>
 	<string>https://support.ringcentral.com/meetings.html</string>
+	<key>Homepage</key>
+	<string>https://www.ringcentral.com</string>
 	<key>Keywords</key>
 	<string>video conferencing, online meetings, macOS, software</string>
 	<key>PackageID</key>

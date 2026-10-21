@@ -12,6 +12,8 @@
 	<string>SF Symbols is a library of over 2,400 configurable symbols, available in multiple weights and scales.</string>
 	<key>Documentation</key>
 	<string>https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/</string>
+	<key>Homepage</key>
+	<string>https://www.apple.com</string>
 	<key>Keywords</key>
 	<string>macOS, symbols, design, library</string>
 	<key>PackageID</key>

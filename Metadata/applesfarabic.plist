@@ -12,6 +12,8 @@
 	<string>Language translation software for Arabic speakers in San Francisco</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.apple.com</string>
 	<key>Keywords</key>
 	<string>translation, language, San Francisco, Arabic</string>
 	<key>PackageID</key>

@@ -12,6 +12,8 @@
 	<string>Collection of new font styles for macOS from Apple curated for New York design inspiration.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.apple.com</string>
 	<key>Keywords</key>
 	<string>macOS, font, collection, design, Apple, New York</string>
 	<key>PackageID</key>

@@ -12,6 +12,8 @@
 	<string>Glip is a collaboration platform for teams that offers messaging, file sharing, task management, and video conferencing features.</string>
 	<key>Documentation</key>
 	<string></string>
+	<key>Homepage</key>
+	<string>https://www.ringcentral.com</string>
 	<key>Keywords</key>
 	<string>collaboration, messaging, file sharing, task management, video conferencing</string>
 	<key>PackageID</key>

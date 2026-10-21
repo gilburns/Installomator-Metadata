@@ -12,6 +12,8 @@
 	<string>Ableton Live 12 Intro is a music production software designed for macOS.</string>
 	<key>Documentation</key>
 	<string>https://www.ableton.com/en/manual/welcome-to-live/</string>
+	<key>Homepage</key>
+	<string>https://www.ableton.com</string>
 	<key>Keywords</key>
 	<string>Ableton, Live, 12, Intro, music, production</string>
 	<key>PackageID</key>
