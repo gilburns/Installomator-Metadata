@@ -11,7 +11,7 @@
 	<key>Description</key>
 	<string>SmartSVN is a graphical client for Subversion (SVN) designed for macOS.</string>
 	<key>Documentation</key>
-	<string>https://www.smartsvn.com/documentation/ or </string>
+	<string>https://www.smartsvn.com/documentation/</string>
 	<key>Keywords</key>
 	<string>SVN, version control, macOS, client</string>
 	<key>PackageID</key>

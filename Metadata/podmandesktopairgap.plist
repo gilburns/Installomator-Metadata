@@ -11,7 +11,7 @@
 	<key>Description</key>
 	<string>Podman Desktop is an open-source tool for managing pods, containers, and container images on your desktop.</string>
 	<key>Documentation</key>
-	<string>https://podman.io/ or </string>
+	<string>https://podman.io/</string>
 	<key>Keywords</key>
 	<string>Container, Docker, Management</string>
 	<key>PackageID</key>

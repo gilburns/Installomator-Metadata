@@ -11,7 +11,7 @@
 	<key>Description</key>
 	<string>MacPorts is a package management tool for macOS.</string>
 	<key>Documentation</key>
-	<string>https://guide.macports.org/ or </string>
+	<string>https://guide.macports.org/</string>
 	<key>Keywords</key>
 	<string>macOS, package management, ports, software</string>
 	<key>PackageID</key>

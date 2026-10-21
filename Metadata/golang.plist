@@ -19,6 +19,6 @@
 	<key>Privacy</key>
 	<string>https://proxy.golang.org/privacy</string>
 	<key>Publisher</key>
-	<string>Google</string>
+	<string>Google LLC</string>
 </dict>
 </plist>

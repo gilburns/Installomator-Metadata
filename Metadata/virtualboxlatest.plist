@@ -11,7 +11,7 @@
 	<key>Description</key>
 	<string>VirtualBox is a powerful cross-platform virtualization software for x86 and AMD64/Intel64 architectures.</string>
 	<key>Documentation</key>
-	<string>https://www.virtualbox.org/wiki/Documentation or </string>
+	<string>https://www.virtualbox.org/wiki/Documentation</string>
 	<key>Homepage</key>
 	<string>https://www.virtualbox.org/</string>
 	<key>Keywords</key>
@@ -19,7 +19,7 @@
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://www.virtualbox.org/wiki/VirtualBox:Privacy_policy or </string>
+	<string>https://www.virtualbox.org/wiki/VirtualBox:Privacy_policy</string>
 	<key>Publisher</key>
 	<string>Oracle Corporation</string>
 </dict>

@@ -11,7 +11,7 @@
 	<key>Description</key>
 	<string>Disk space visualizer to free up space on your Mac.</string>
 	<key>Documentation</key>
-	<string>https://daisydiskapp.com/manual/ or </string>
+	<string>https://daisydiskapp.com/manual/</string>
 	<key>Homepage</key>
 	<string>https://daisydiskapp.com/</string>
 	<key>Keywords</key>
@@ -19,7 +19,7 @@
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://daisydiskapp.com/privacy/ or </string>
+	<string>https://daisydiskapp.com/privacy/</string>
 	<key>Publisher</key>
 	<string>Software Ambience</string>
 </dict>

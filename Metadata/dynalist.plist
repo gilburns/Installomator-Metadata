@@ -11,13 +11,13 @@
 	<key>Description</key>
 	<string>Dynalist is a versatile productivity tool for macOS.</string>
 	<key>Documentation</key>
-	<string>https://dynalist.io/help or </string>
+	<string>https://dynalist.io/help</string>
 	<key>Keywords</key>
 	<string>Productivity, List, Notes, Organizer</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://dynalist.io/privacy or </string>
+	<string>https://dynalist.io/privacy/</string>
 	<key>Publisher</key>
 	<string>Dynalist</string>
 </dict>

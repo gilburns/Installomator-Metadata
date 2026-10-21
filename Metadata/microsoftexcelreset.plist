@@ -11,14 +11,14 @@
 	<key>Description</key>
 	<string>Microsoft Excel Reset is a tool for resetting preferences and settings in Microsoft Excel on macOS.</string>
 	<key>Documentation</key>
-	<string>https://support.microsoft.com/en-us/excel or </string>
+	<string>https://support.microsoft.com/en-us/excel</string>
 	<key>Keywords</key>
 	<string>Microsoft Excel, Reset, macOS, preferences, settings</string>
 	<key>PackageID</key>
 	<string>com.microsoft.reset.Excel</string>
 	<key>Privacy</key>
-	<string>https://privacy.microsoft.com/en-us/privacystatement or </string>
+	<string>https://privacy.microsoft.com/en-us/privacystatement</string>
 	<key>Publisher</key>
-	<string>Microsoft Corporation</string>
+	<string>Paul Bowden</string>
 </dict>
 </plist>
