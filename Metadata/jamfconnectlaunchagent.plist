@@ -17,7 +17,7 @@
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string></string>
+	<string>https://www.jamf.com/trust-center/privacy/privacy-policy/</string>
 	<key>Publisher</key>
 	<string>JAMF Software</string>
 </dict>

@@ -19,7 +19,7 @@
 	<key>PackageID</key>
 	<string>com.jamf.setupchecklist</string>
 	<key>Privacy</key>
-	<string>https://www.jamf.com/privacy-policy/</string>
+	<string>https://www.jamf.com/trust-center/privacy/privacy-policy/</string>
 	<key>Publisher</key>
 	<string>JAMF Software</string>
 </dict>
