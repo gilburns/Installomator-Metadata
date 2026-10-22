@@ -5,13 +5,15 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string>osquery-*</string>
+	<string>osquery</string>
 	<key>Category</key>
 	<string>Security &amp; Privacy</string>
 	<key>Description</key>
-	<string>osquery-* is a powerful macOS security tool for querying operating system information using SQL.</string>
+	<string>osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework.</string>
 	<key>Documentation</key>
 	<string>https://osquery.readthedocs.io/en/stable/</string>
+	<key>Homepage</key>
+	<string>https://osquery.io</string>
 	<key>Keywords</key>
 	<string>macOS, security, tool, osquery, SQL</string>
 	<key>PackageID</key>
@@ -19,6 +21,6 @@
 	<key>Privacy</key>
 	<string></string>
 	<key>Publisher</key>
-	<string>Facebook</string>
+	<string>osquery</string>
 </dict>
 </plist>
