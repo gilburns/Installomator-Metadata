@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.airstat.AirStats</string>
+	<key>AppName</key>
+	<string>AirStats</string>
+	<key>Category</key>
+	<string>Business</string>
+	<key>Description</key>
+	<string>A menu bar system monitor for macOS. The lightest way to watch your Mac. A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU.</string>
+	<key>Documentation</key>
+	<string>https://github.com/byrencheema/airstats</string>
+	<key>Homepage</key>
+	<string>https://airstats.app</string>
+	<key>Keywords</key>
+	<string>menubar,stats,monitor,watch</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>AirStats</string>
+</dict>
+</plist>
