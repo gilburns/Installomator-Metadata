@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.sunsama.native-app</string>
+	<key>AppName</key>
+	<string>Sunsama</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>The only task manager, calendar, and daily planner for modern professionals. Eliminate distractions, find flow, and do more high-impact work without burning out. The digital daily planner that helps you feel calm and stay focused.</string>
+	<key>Documentation</key>
+	<string>https://help.sunsama.com/?_ga=2.117993545.1559193546.1792716900-116465119.1792716900</string>
+	<key>Homepage</key>
+	<string>https://www.sunsama.com</string>
+	<key>Keywords</key>
+	<string>tasks,calendar,focus,planner</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.sunsama.com/privacy</string>
+	<key>Publisher</key>
+	<string>Summay, Inc</string>
+</dict>
+</plist>
