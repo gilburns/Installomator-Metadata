@@ -12,6 +12,8 @@
 	<string>Plantronics Hub software provides audio device management and customization options for Plantronics headsets.</string>
 	<key>Documentation</key>
 	<string>https://www.poly.com/us/en/support/documentation</string>
+	<key>Homepage</key>
+	<string>https://www.poly.com/</string>
 	<key>Keywords</key>
 	<string>audio, headset, management, customization</string>
 	<key>PackageID</key>
