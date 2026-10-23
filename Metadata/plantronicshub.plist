@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AppID</key>
-	<string></string>
+	<string>Plantronics-Inc..Plantronics-Hub</string>
 	<key>AppName</key>
 	<string>Plantronics Hub</string>
 	<key>Category</key>
@@ -17,7 +17,7 @@
 	<key>Keywords</key>
 	<string>audio, headset, management, customization</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>Plantronics-Inc..Plantronics-Hub</string>
 	<key>Privacy</key>
 	<string>https://www.poly.com/us/en/privacy-policy</string>
 	<key>Publisher</key>
