@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>co.eclecticlight.SilentKnight3</string>
+	<key>AppName</key>
+	<string>SilentKnight3</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
+	<key>Description</key>
+	<string>SilentKnight 3 – fully automatic checks of security systems in Apple silicon Macs</string>
+	<key>Documentation</key>
+	<string>https://eclecticlight.co/lockrattler-silentknight/</string>
+	<key>Homepage</key>
+	<string>https://eclecticlight.co/</string>
+	<key>Keywords</key>
+	<string>SilentKnight,security,macOS,updates,XProtect,MRT</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Howard Oakley</string>
+</dict>
+</plist>
