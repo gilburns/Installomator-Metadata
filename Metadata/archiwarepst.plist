@@ -11,14 +11,16 @@
 	<key>Description</key>
 	<string>P5 macOS is a robust backup software for data protection and disaster recovery.</string>
 	<key>Documentation</key>
-	<string>https://www.paragon-software.com/home/p5/</string>
+	<string>https://www.archiware.com/products/p5-platform/</string>
+	<key>Homepage</key>
+	<string>https://www.archiware.com/</string>
 	<key>Keywords</key>
 	<string>backup, data protection, disaster recovery, macOS</string>
 	<key>PackageID</key>
 	<string>com.archiware.presstore</string>
 	<key>Privacy</key>
-	<string>https://www.paragon-software.com/privacy-policy/</string>
+	<string>https://www.archiware.com/privacy</string>
 	<key>Publisher</key>
-	<string>Bare Bones Software</string>
+	<string>ARCHIWARE® GMBH</string>
 </dict>
 </plist>
