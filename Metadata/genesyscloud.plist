@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.inin.purecloud.directory</string>
+	<key>AppName</key>
+	<string>Genesys Cloud</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>Put agentic AI to work across every customer experience. One platform for your entire customer organization – with AI that orchestrates experiences, boosts productivity and transforms your business.</string>
+	<key>Documentation</key>
+	<string>https://help.genesys.cloud/articles/desktop-app/</string>
+	<key>Homepage</key>
+	<string>https://genesys.cloud/</string>
+	<key>Keywords</key>
+	<string>bioinformatics, software, macOS, Geneious Prime</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.genesys.com/company/legal/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Genesys</string>
+</dict>
+</plist>
