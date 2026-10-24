@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.filemaker.client.pro12</string>
+	<key>AppName</key>
+	<string>FileMaker Pro 26</string>
+	<key>Category</key>
+	<string>Business</string>
+	<key>Description</key>
+	<string>FileMaker Pro is a relational database application by Claris International for creating custom apps that work seamlessly across iPad, iPhone, Mac, and the web.</string>
+	<key>Documentation</key>
+	<string>https://help.claris.com/</string>
+	<key>Homepage</key>
+	<string>https://www.claris.com/filemaker/</string>
+	<key>Keywords</key>
+	<string>FileMaker Pro,database,Claris,custom app,relational database</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.claris.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Claris International Inc.</string>
+</dict>
+</plist>
