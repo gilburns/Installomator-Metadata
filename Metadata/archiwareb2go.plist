@@ -5,20 +5,22 @@
 	<key>AppID</key>
 	<string></string>
 	<key>AppName</key>
-	<string>P5 Workstation</string>
+	<string>P5 Backup2Go</string>
 	<key>Category</key>
-	<string>Business</string>
+	<string>Computer Management</string>
 	<key>Description</key>
-	<string>P5 Workstation is a versatile software tool for audio production and editing.</string>
+	<string>P5 Backup2Go is the ideal tool to backup workstations – regardless of their location.</string>
 	<key>Documentation</key>
-	<string>https://www.p5audio.com/p5-workstation-docs</string>
+	<string>https://www.archiware.com/products/p5-backup2go/</string>
+	<key>Homepage</key>
+	<string>https://www.archiware.com/</string>
 	<key>Keywords</key>
-	<string>audio, production, editing, software, workstation</string>
+	<string>backup, data protection, disaster recovery, macOS</string>
 	<key>PackageID</key>
 	<string>com.archiware.presstore</string>
 	<key>Privacy</key>
-	<string>https://www.p5audio.com/privacy-policy</string>
+	<string>https://www.archiware.com/privacy</string>
 	<key>Publisher</key>
-	<string>Cycling '74</string>
+	<string>ARCHIWARE® GMBH</string>
 </dict>
 </plist>
