@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.scribehow.ScribeDesktop</string>
+	<key>AppName</key>
+	<string>Scribe</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>Scale how work gets done. Use Scribe to document any workflow automatically with AI. Share beautiful step-by-step guides in seconds.</string>
+	<key>Documentation</key>
+	<string>https://scribe.com/install/scribe-for-mac</string>
+	<key>Homepage</key>
+	<string>https://scribe.com</string>
+	<key>Keywords</key>
+	<string>workflow,guide,documentation</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://scribe.com/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Colony Labs, Inc.</string>
+</dict>
+</plist>
