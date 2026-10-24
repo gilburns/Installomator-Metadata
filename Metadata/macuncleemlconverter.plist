@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.macuncleeml.export</string>
+	<key>AppName</key>
+	<string>MacUncle EML Converter</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>A simple yet feature-rich EML Converter that efficiently processes large EML files. Quickly convert or migrate bulk .eml messages or EML folders. Both Windows and macOS users can download the appropriate edition based on their operating system.</string>
+	<key>Documentation</key>
+	<string>https://www.macuncle.com/eml/converter/</string>
+	<key>Homepage</key>
+	<string>https://www.macuncle.com/</string>
+	<key>Keywords</key>
+	<string>mail,convert,eml</string>
+	<key>PackageID</key>
+	<string>com.macuncleeml.export</string>
+	<key>Privacy</key>
+	<string>https://www.macuncle.com/privacy-policy.html</string>
+	<key>Publisher</key>
+	<string>MacUncle</string>
+</dict>
+</plist>
