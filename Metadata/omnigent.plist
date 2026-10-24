@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>ai.omnigent.desktop</string>
+	<key>AppName</key>
+	<string>Omnigent</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>A common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.</string>
+	<key>Documentation</key>
+	<string>https://omnigent.ai/quickstart/install</string>
+	<key>Homepage</key>
+	<string>https://omnigent.ai/</string>
+	<key>Keywords</key>
+	<string>layer,ai,harness,policies,sandbox</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://omnigent.ai/privacy</string>
+	<key>Publisher</key>
+	<string>Databricks AI team</string>
+</dict>
+</plist>
