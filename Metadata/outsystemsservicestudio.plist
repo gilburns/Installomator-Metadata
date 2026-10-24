@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.outsystems.servicestudio</string>
+	<key>AppName</key>
+	<string>ServiceStudio</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>One platform to build, run, and govern apps and agents. Enterprise governance built in, on one unified platform. Innovate at the speed of AI without compromising security or control.</string>
+	<key>Documentation</key>
+	<string>https://www.outsystems.com/product-updates/service-studio-mac</string>
+	<key>Homepage</key>
+	<string>https://www.outsystems.com</string>
+	<key>Keywords</key>
+	<string>ai,security,control</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.outsystems.com/legal/terms-of-use/privacy-statement</string>
+	<key>Publisher</key>
+	<string>Outsystems</string>
+</dict>
+</plist>
