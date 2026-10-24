@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.getflywheel.lightning.local</string>
+	<key>AppName</key>
+	<string>Local</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>The #1 local WordPress® development tool. An effortless way to develop WordPress sites locally</string>
+	<key>Documentation</key>
+	<string>https://localwp.com/help-docs/getting-started/installing-local/</string>
+	<key>Homepage</key>
+	<string>https://localwp.com/</string>
+	<key>Keywords</key>
+	<string>wordpress,development</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://localwp.com/legal/privacy-policy</string>
+	<key>Publisher</key>
+	<string>WPEngine, Inc.</string>
+</dict>
+</plist>
