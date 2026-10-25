@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.anytype.anytype</string>
+	<key>AppName</key>
+	<string>anytype</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
+	<key>Description</key>
+	<string>Anytype is a safe haven for your digital life. We believe your thoughts, plans, and private conversations should belong to you—and only you.
+Most apps store your data to view, scan, monetize, and control it. You're essentially asking for permission to access your own digital life. Anytype puts you back in charge. We’ve built a tool where you are the sole owner of your digital world.</string>
+	<key>Documentation</key>
+	<string>https://doc.anytype.io/d/</string>
+	<key>Homepage</key>
+	<string>https://anytype.io</string>
+	<key>Keywords</key>
+	<string>privacy,secure,documents</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://anytype.io/website_privacy</string>
+	<key>Publisher</key>
+	<string>Any</string>
+</dict>
+</plist>
