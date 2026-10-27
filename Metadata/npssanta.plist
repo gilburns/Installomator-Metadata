@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string></string>
+	<key>AppName</key>
+	<string>Santa</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
+	<key>Description</key>
+	<string>Santa is a macOS binary authorization system developed by North Pole Security that allows or denies application execution based on configurable rules.</string>
+	<key>Documentation</key>
+	<string>https://northpolesec.github.io/santa/</string>
+	<key>Homepage</key>
+	<string>https://github.com/northpolesec/santa</string>
+	<key>Keywords</key>
+	<string>Santa,binary authorization,security,macOS,allowlist,blocklist</string>
+	<key>PackageID</key>
+	<string>com.northpolesec.santa</string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>North Pole Security</string>
+</dict>
+</plist>
