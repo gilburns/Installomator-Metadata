@@ -9,16 +9,18 @@
 	<key>Category</key>
 	<string>Development &amp; Design</string>
 	<key>Description</key>
-	<string>ExtensionManager is a macOS software for managing and organizing system extensions.</string>
+	<string>Adobe® Creative Suite/Cloud/UXP extension management made easy! Now with install/remove/update support. Recommended by Adobe</string>
 	<key>Documentation</key>
-	<string>https://extensionmanager.dev/docs</string>
+	<string>https://install.anastasiy.com/</string>
+	<key>Homepage</key>
+	<string>https://anastasiy.com/</string>
 	<key>Keywords</key>
 	<string>macOS, software, extensions, manager</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://extensionmanager.dev/privacy-policy</string>
+	<string>https://anastasiy.com/privacy</string>
 	<key>Publisher</key>
-	<string>Adobe Inc.</string>
+	<string>Anastasiy</string>
 </dict>
 </plist>
