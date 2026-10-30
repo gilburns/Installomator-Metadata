@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.automattic.beeper.desktop</string>
+	<key>AppName</key>
+	<string>Beeper Desktop</string>
+	<key>Category</key>
+	<string>Collaboration &amp; Social</string>
+	<key>Description</key>
+	<string>Beeper is a free chat app for WhatsApp, Instagram, Telegram, Signal and more, all in one inbox.</string>
+	<key>Documentation</key>
+	<string>https://www.beeper.com/faq</string>
+	<key>Homepage</key>
+	<string>https://www.beeper.com</string>
+	<key>Keywords</key>
+	<string>whatsapp,signal,instagram,telegram,chat</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.beeper.com/privacy</string>
+	<key>Publisher</key>
+	<string>Automattic, Inc.</string>
+</dict>
+</plist>
