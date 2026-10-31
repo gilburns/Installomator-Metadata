@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.docker.sandboxes</string>
+	<key>AppName</key>
+	<string>Docker SBX</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>Run Claude Code, Codex, and your other agents at full speed in MicroVM environments. Local or cloud. One CLI.</string>
+	<key>Documentation</key>
+	<string>https://docs.docker.com/ai/sandboxes/cloud/</string>
+	<key>Homepage</key>
+	<string>https://www.docker.com/products/docker-sandboxes/</string>
+	<key>Keywords</key>
+	<string>Docker,containerized apps,sandbox</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.docker.com/legal/docker-privacy-policy</string>
+	<key>Publisher</key>
+	<string>Docker Inc.</string>
+</dict>
+</plist>
