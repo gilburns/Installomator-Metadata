@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.github.cirruslabs.tart</string>
+	<key>AppName</key>
+	<string>Tart</string>
+	<key>Category</key>
+	<string>Security &amp; Privacy</string>
+	<key>Description</key>
+	<string>Tart is a virtualization toolset to build, run and manage macOS and Linux virtual machines on Apple Silicon.</string>
+	<key>Documentation</key>
+	<string>https://github.com/openai/tart</string>
+	<key>Homepage</key>
+	<string>https://tart.run</string>
+	<key>Keywords</key>
+	<string>linux,virulization,toolset</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://tart.run/legal/privacy/</string>
+	<key>Publisher</key>
+	<string>Cirrus Labs</string>
+</dict>
+</plist>
