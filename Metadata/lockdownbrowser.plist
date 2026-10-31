@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.Respondus.LockDownBrowser</string>
+	<key>AppName</key>
+	<string>LockDown Browser</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
+	<key>Description</key>
+	<string>LockDown Browser® is a custom browser that locks down the testing environment within a learning management system. Used at over 2000 higher educational institutions, LockDown Browser is the “gold standard” for securing online exams in classrooms or proctored environments.</string>
+	<key>Documentation</key>
+	<string>https://web.respondus.com/support/</string>
+	<key>Homepage</key>
+	<string>https://web.respondus.com/he/lockdownbrowser/</string>
+	<key>Keywords</key>
+	<string>browser,testing,classroom,proctored</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://web.respondus.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Respondus, Inc.</string>
+</dict>
+</plist>
