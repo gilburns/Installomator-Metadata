@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.logos.proclaim</string>
+	<key>AppName</key>
+	<string>Proclaim</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>Proclaim is cloud-based presentation software built specifically for churches, so you can design slides, create presentations, and record or stream sermons—without all the manual work.</string>
+	<key>Documentation</key>
+	<string>https://proclaim.logos.com/download</string>
+	<key>Homepage</key>
+	<string>https://proclaim.logos.com</string>
+	<key>Keywords</key>
+	<string>presentation,semon,church</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.logos.com/privacy</string>
+	<key>Publisher</key>
+	<string>Logos</string>
+</dict>
+</plist>
