@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.electron.epidemic-sound</string>
+	<key>AppName</key>
+	<string>Epidemic Sound</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
+	<key>Description</key>
+	<string>The shortest path from search to timeline. Bring the world’s best catalog directly into Final Cut Pro, Avid Pro Tools, and other editors. Our universal desktop companion for MacOS is designed to sit perfectly alongside your workflow.</string>
+	<key>Documentation</key>
+	<string>https://www.epidemicsound.com/app/macos/</string>
+	<key>Homepage</key>
+	<string>https://www.epidemicsound.com/</string>
+	<key>Keywords</key>
+	<string>sound,audio,music,soundtrack</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.epidemicsound.com/policy/v2/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Epidemic Sound</string>
+</dict>
+</plist>
