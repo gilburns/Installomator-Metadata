@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>app.seconddisplay.SecondDisplay</string>
+	<key>AppName</key>
+	<string>Second Display</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Use your iMac as a monitor for your MacBook or PC. Connect your iMac to your MacBook or PC with a Thunderbolt cable, and it becomes a second display: lossless, at 60 fps.</string>
+	<key>Documentation</key>
+	<string>https://seconddisplay.app/support/</string>
+	<key>Homepage</key>
+	<string>https://seconddisplay.app</string>
+	<key>Keywords</key>
+	<string>display,imac</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://seconddisplay.app/privacy/</string>
+	<key>Publisher</key>
+	<string>Second Display</string>
+</dict>
+</plist>
