@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.crystalidea.macsfancontrol</string>
+	<key>AppName</key>
+	<string>Macs Fan Control</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Monitor and control fans on Apple computers</string>
+	<key>Documentation</key>
+	<string>https://crystalidea.com/macs-fan-control</string>
+	<key>Homepage</key>
+	<string>https://crystalidea.com/</string>
+	<key>Keywords</key>
+	<string>fan,speed,control</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://crystalidea.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>CrystalIDEA</string>
+</dict>
+</plist>
