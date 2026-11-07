@@ -17,7 +17,7 @@
 	<key>Keywords</key>
 	<string>email, macOS, productivity,eml,pst,msg,mbox</string>
 	<key>PackageID</key>
-	<string></string>
+	<string>app.mailviewer.mac.pkg</string>
 	<key>Privacy</key>
 	<string>https://mailviewer.app/#/privacy</string>
 	<key>Publisher</key>
