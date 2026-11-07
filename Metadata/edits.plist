@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.burbn.basel.mac</string>
+	<key>AppName</key>
+	<string>Edits</string>
+	<key>Category</key>
+	<string>Video &amp; Screen Recording</string>
+	<key>Description</key>
+	<string>Your biggest ideas, on a bigger canvas. Multi-track timeline, precise editing tools and Instagram's creative libraries built right in. Download now, free.</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Homepage</key>
+	<string>https://edits.instagram.com/desktop/</string>
+	<key>Keywords</key>
+	<string>video,edit,instagram,share</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://privacycenter.instagram.com/policy/</string>
+	<key>Publisher</key>
+	<string>Meta</string>
+</dict>
+</plist>
