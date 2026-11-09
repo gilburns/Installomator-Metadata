@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.electron.aqua-voice</string>
+	<key>AppName</key>
+	<string>Aqua Voice</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>Dictation Software for Mac. Speak, and Aqua types it in any Mac app: clean, punctuated, and ready to edit. Built for people who write for a living.</string>
+	<key>Documentation</key>
+	<string>https://aquavoice.com/mac</string>
+	<key>Homepage</key>
+	<string>https://aquavoice.com</string>
+	<key>Keywords</key>
+	<string>dictation,voice,speech,workflows</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://aquavoice.com/info/privacy</string>
+	<key>Publisher</key>
+	<string>Aqua Voice, Inc.</string>
+</dict>
+</plist>
