@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.toonboom.storyboardPro.full.StoryboardPro27.x</string>
+	<key>AppName</key>
+	<string>Storyboard Pro 27.x</string>
+	<key>Category</key>
+	<string>3D &amp; Animation</string>
+	<key>Description</key>
+	<string>Toon Boom Storyboard Pro is a professional storyboarding and animatic creation tool used in film, TV, and game production worldwide.</string>
+	<key>Documentation</key>
+	<string>https://docs.toonboom.com/help/storyboard-pro-27/</string>
+	<key>Homepage</key>
+	<string>https://www.toonboom.com/products/storyboard-pro</string>
+	<key>Keywords</key>
+	<string>Toon Boom Storyboard Pro,storyboarding,animatic,film,TV,production</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.toonboom.com/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Toon Boom Animation Inc.</string>
+</dict>
+</plist>
