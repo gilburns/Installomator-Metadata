@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.elgato.studio</string>
+	<key>AppName</key>
+	<string>Elgato Studio</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
+	<key>Description</key>
+	<string>Studio 2.0 redesigns the teleprompter experience from the ground up with a new script editor, enhanced Voice Sync, and a Virtual Prompter that's free for everyone. It fully replaces Camera Hub, with Facecam controls and recording built right in.</string>
+	<key>Documentation</key>
+	<string>https://help.elgato.com/hc/en-us/sections/37260285780113-Elgato-Studio</string>
+	<key>Homepage</key>
+	<string>https://www.elgato.com/ww/en/s/downloads</string>
+	<key>Keywords</key>
+	<string>Elgato,studio</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.elgato.com/us/en/s/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Elgato</string>
+</dict>
+</plist>
