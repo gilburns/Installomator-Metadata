@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>au.mdmmagic.MagicToolbox</string>
+	<key>AppName</key>
+	<string>Magic Toolbox</string>
+	<key>Category</key>
+	<string>Computer Management</string>
+	<key>Description</key>
+	<string>An all-in-one Jamf Pro admin suite for macOS.</string>
+	<key>Documentation</key>
+	<string>https://github.com/MDMMagic/Magic-Toolbox</string>
+	<key>Homepage</key>
+	<string>https://mdmmagic.au/</string>
+	<key>Keywords</key>
+	<string>macOS, jamf, MDM, tools</string>
+	<key>PackageID</key>
+	<string>magictoolbox-vX.x.x</string>
+	<key>Privacy</key>
+	<string>https://mdmmagic.au/privacy.html</string>
+	<key>Publisher</key>
+	<string>MDM Magic</string>
+</dict>
+</plist>
