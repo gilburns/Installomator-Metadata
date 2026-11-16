@@ -11,14 +11,16 @@
 	<key>Description</key>
 	<string>Connect Fonts is a font management software for designers and developers.</string>
 	<key>Documentation</key>
-	<string>https://connectfonts.com/docs</string>
+	<string>https://help.monotype.com/connectsupport/s/topic/0TOUh0000005BZ7OAM/connect</string>
+	<key>Homepage</key>
+	<string>https://www.monotype.com/products/monotype-connect</string>
 	<key>Keywords</key>
 	<string>Fonts, Design, Typography, Management</string>
 	<key>PackageID</key>
 	<string></string>
 	<key>Privacy</key>
-	<string>https://connectfonts.com/privacy-policy</string>
+	<string>https://www.monotype.com/legal/privacy-policy</string>
 	<key>Publisher</key>
-	<string>ConnectFont</string>
+	<string>Monotype Imaging Inc.</string>
 </dict>
 </plist>
