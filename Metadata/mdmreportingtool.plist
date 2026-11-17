@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>au.mdmmagic.MDMReportingTool</string>
+	<key>AppName</key>
+	<string>MDM Reporting Tool</string>
+	<key>Category</key>
+	<string>Computer Management</string>
+	<key>Description</key>
+	<string>Connect to your MDM, pick the sections you want, and get a polished, branded audit report. Jamf Pro, Microsoft Intune and Iru are all supported over read-only API access, with no queries to write. The report is a single self-contained HTML file with search, filtering and a clean print layout. You can also export it as PDF or Word, add a written guidance document, or schedule it to run unattended. Nothing is written back to your MDM, and all data stays on your Mac.</string>
+	<key>Documentation</key>
+	<string>https://github.com/MDMMagic/MDM-Reporting-Tool/wiki</string>
+	<key>Homepage</key>
+	<string>https://mdmmagic.au/</string>
+	<key>Keywords</key>
+	<string>macOS, jamf, MDM, tools</string>
+	<key>PackageID</key>
+	<string>mdmreportingtool-vX.x.x</string>
+	<key>Privacy</key>
+	<string>https://mdmmagic.au/privacy.html</string>
+	<key>Publisher</key>
+	<string>MDM Magic</string>
+</dict>
+</plist>
