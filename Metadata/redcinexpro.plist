@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.red.RedCineX</string>
+	<key>AppName</key>
+	<string>REDCINE-X PRO</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
+	<key>Description</key>
+	<string>REDCINE-X PRO is a free software application developed by RED Digital Cinema designed for non-destructive transcoding, color grading, and pre-editorial manipulation of REDCODE RAW (R3D) camera footage</string>
+	<key>Documentation</key>
+	<string>https://www.reddigitalcinema.com/download/redcine-x-pro-mac</string>
+	<key>Homepage</key>
+	<string>https://www.reddigitalcinema.com/</string>
+	<key>Keywords</key>
+	<string></string>
+	<key>PackageID</key>
+	<string>com.red.pkg.REDCINE-XPRO</string>
+	<key>Privacy</key>
+	<string>https://www.reddigitalcinema.com/legal</string>
+	<key>Publisher</key>
+	<string>RED Digital Cinema, Inc.</string>
+</dict>
+</plist>
