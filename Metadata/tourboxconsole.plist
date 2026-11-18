@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.tourbox.ui.launch</string>
+	<key>AppName</key>
+	<string>TourBox Console</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>TourBox Console is the companion software application that powers TourBox hardware editing controllers (such as the TourBox Neo, Elite, Lite, and Elite Plus). It acts as the "brain" behind the physical device, letting creators map shortcuts, automate workflows, and customize every dial, scroll wheel, and button.</string>
+	<key>Documentation</key>
+	<string>https://www.tourboxtech.com/en/downloads/macos</string>
+	<key>Homepage</key>
+	<string>https://www.tourboxtech.com/</string>
+	<key>Keywords</key>
+	<string>controller,companion</string>
+	<key>PackageID</key>
+	<string>com.tourbox.ui.launch</string>
+	<key>Privacy</key>
+	<string>https://www.tourboxtech.com/en/privacy-policy</string>
+	<key>Publisher</key>
+	<string>TourBox Tech Inc.</string>
+</dict>
+</plist>
