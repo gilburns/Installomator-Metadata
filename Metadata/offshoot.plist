@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>nl.syncfactory.Hedge.Mac</string>
+	<key>AppName</key>
+	<string>OffShoot</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Fast, verified data transfers with metadata management for offload and ingest. Formerly known as Hedge, OffShoot is your ideal companion when managing media.</string>
+	<key>Documentation</key>
+	<string>https://docs.hedge.video/offshoot/overview</string>
+	<key>Homepage</key>
+	<string>https://hedge.co/products/offshoot</string>
+	<key>Keywords</key>
+	<string></string>
+	<key>PackageID</key>
+	<string>nl.syncfactory.Hedge.Mac</string>
+	<key>Privacy</key>
+	<string>https://hedge.co/privacy</string>
+	<key>Publisher</key>
+	<string>Hedge</string>
+</dict>
+</plist>
