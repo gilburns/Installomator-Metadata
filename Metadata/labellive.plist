@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.semireg.LabelLIVE</string>
+	<key>AppName</key>
+	<string>Label LIVE</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Label LIVE is the only label printing software that works out of the box on both Windows and Mac. Print labels with flexibility and ease, no matter your operating system or printer model.</string>
+	<key>Documentation</key>
+	<string>https://label.live/features/app/works-on-windows-and-mac</string>
+	<key>Homepage</key>
+	<string>https://label.live/</string>
+	<key>Keywords</key>
+	<string>printing,labels</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://label.live/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Semireg Industries, LLC</string>
+</dict>
+</plist>
