@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>fr.jeremyb.sumb</string>
+	<key>AppName</key>
+	<string>SUMB</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Scheduled Updates Menu Bar
+
+</string>
+	<key>Documentation</key>
+	<string>https://github.com/jeremy4971/sumb_public</string>
+	<key>Homepage</key>
+	<string>https://medium.com/@laclementine/</string>
+	<key>Keywords</key>
+	<string>ddm,updates,macos,menubar</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>La Clementine</string>
+</dict>
+</plist>
