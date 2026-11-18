@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.fxfactory.FxFactory</string>
+	<key>AppName</key>
+	<string>FxFactory</string>
+	<key>Category</key>
+	<string>Photos &amp; Media</string>
+	<key>Description</key>
+	<string>The FxFactory application offers an elegant and convenient way to browse our products. The Products window appears every time you launch the FxFactory application, or by selecting the Products command under the Window menu:</string>
+	<key>Documentation</key>
+	<string>https://fxfactory.com/help/fxfactory/</string>
+	<key>Homepage</key>
+	<string>https://fxfactory.com/</string>
+	<key>Keywords</key>
+	<string>plugins,apps, Final Cut Pro, Motion, Adobe Premiere, Adobe After Effects, DaVinci Resolve</string>
+	<key>PackageID</key>
+	<string>com.fxfactory.pkg</string>
+	<key>Privacy</key>
+	<string>https://fxfactory.com/privacy-policy/</string>
+	<key>Publisher</key>
+	<string>Noise Industries, LLC.</string>
+</dict>
+</plist>
