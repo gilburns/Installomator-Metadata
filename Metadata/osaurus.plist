@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.dinoki.osaurus</string>
+	<key>AppName</key>
+	<string>Osaurus</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>Own your AI. The open-source agent harness for macOS. Run local or cloud models with persistent memory, skills, tools, and autonomous execution. Built in Swift.</string>
+	<key>Documentation</key>
+	<string>https://github.com/osaurus-ai/osaurus</string>
+	<key>Homepage</key>
+	<string>https://osaurus.ai</string>
+	<key>Keywords</key>
+	<string>ai,agent,llm,local,model</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Osaurus, Inc.</string>
+</dict>
+</plist>
