@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.tidbits.SetShot</string>
+	<key>AppName</key>
+	<string>SetShot</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>SetShot macOS app — snapshot and diff macOS settings changes</string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Homepage</key>
+	<string>https://github.com/adamengst/setshot-app</string>
+	<key>Keywords</key>
+	<string>macos,settings,preferences,snapshot</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string></string>
+	<key>Publisher</key>
+	<string>Adam Engst</string>
+</dict>
+</plist>
