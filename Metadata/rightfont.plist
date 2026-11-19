@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.rightfontapp.RightFont5</string>
+	<key>AppName</key>
+	<string>RightFont</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>RightFont is a powerful, native and intuitive font manager for macOS to help designers organize, preview, activate, and share fonts effortlessly.</string>
+	<key>Documentation</key>
+	<string>https://rightfontapp.com/support</string>
+	<key>Homepage</key>
+	<string>https://rightfontapp.com</string>
+	<key>Keywords</key>
+	<string>fonts,organize,share,preview,activate</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://rightfontapp.com/privacy</string>
+	<key>Publisher</key>
+	<string>RightFont Team</string>
+</dict>
+</plist>
