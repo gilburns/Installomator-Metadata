@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.vmware.fusion</string>
+	<key>AppName</key>
+	<string>VMware Fusion</string>
+	<key>Category</key>
+	<string>Productivity</string>
+	<key>Description</key>
+	<string>VMware Fusion is a desktop hypervisor from Broadcom that lets you run virtual machines—such as Windows, Linux, and other operating systems—inside macOS on Intel or Apple Silicon Macs without rebooting. It is free for personal, educational, and commercial use.
+
+How It Works &amp; Compatibility
+
+• Architecture matching: Fusion runs on both Intel and Apple Silicon Macs, though guest operating systems must match your Mac's processor architecture (ARM guests on Apple Silicon, x86/x64 guests on Intel).
+• Installation: Download the .dmg installer through a free account on the Broadcom Support Portal (see Broadcom's installation guide), drag the app to Applications, grant macOS permissions, and create VMs using an OS installer or .iso image.
+
+Key Features &amp; Benefits
+
+• Zero license cost: Full Fusion Pro functionality is available at no charge across personal, educational, and commercial use cases, though official Broadcom support ticketing is limited to active enterprise contracts.
+• Snapshots &amp; cloning: Save system states to roll back changes quickly when testing software or configurations.
+• Virtual networking &amp; vSphere integration: Build isolated virtual networks and connect to vSphere or ESXi servers to manage or transfer virtual machines.
+• Graphics &amp; shared resources: Supports hardware-accelerated graphics, file sharing between host and guest, and allocated CPU/RAM/storage per VM.
+If you'd like to narrow things down, let me know:
+• Your Mac model and macOS version (Intel or Apple Silicon)
+• What you plan to run (such as Windows 11, Linux, or VMs from ESXi/vSphere)
+• How you plan to use it (development, testing, or everyday apps)
+SponsoredYou might consider these options:
+Parallels
+One VM, Every Windows App - Run Windows On Mac
+The world’s most widely used way to run Windows on Mac. Partnered with Apple since 2006.
+• 
+Broadcom support portal
+Download and Install VMware Fusion
+# Before downloading and installing VMware Fusion Make sure the system meets Fusion's System Requirements and that the Guest OS is...
+• 
+Wikipedia
+VMware Fusion - Wikipedia
+# History VMware Fusion, which uses a combination of paravirtualization and hardware virtualization made possible by the Mac trans...
+• 
+VMware Blogs
+VMware Fusion and Workstation are Now Free for All Users - VMware Cloud Foundation (VCF) Blog
+Transition: VMware Fusion and Workstation are free for all commercial, educational, and personal users.</string>
+	<key>Documentation</key>
+	<string>https://techdocs.broadcom.com/us/en/vmware-cis/desktop-hypervisors/fusion-pro/26H1.html</string>
+	<key>Homepage</key>
+	<string>https://www.broadcom.com/</string>
+	<key>Keywords</key>
+	<string>virtulization,emulation,windows,linux</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.broadcom.com/company/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Broadcom</string>
+</dict>
+</plist>
