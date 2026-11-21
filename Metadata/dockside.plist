@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.hachipoo.Dockside</string>
+	<key>AppName</key>
+	<string>Dockside</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Dockside is the most powerful &amp; customisable file shelf ever built for Mac, designed to keep your essentials close in a way that feels simple, flexible, and out of the way. It can live beside your Dock or independently of your Dock on any edge of your screen, making the most of unused space with remarkable customizability. With flexible drag zones, workflow automations, quick access to recent screenshots and downloads, and folder monitoring, Dockside creates a shelf that beautifully adapts to how you work. How is Dockside different from other shelf apps?</string>
+	<key>Documentation</key>
+	<string>https://hachipoo.com/dockside-app#FAQs</string>
+	<key>Homepage</key>
+	<string>https://hachipoo.com/dockside-app</string>
+	<key>Keywords</key>
+	<string>macOS, dock, companion</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://hachipoo.com/privacy</string>
+	<key>Publisher</key>
+	<string>Hachipoo Apps</string>
+</dict>
+</plist>

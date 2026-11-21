@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>app.rive.editor</string>
+	<key>AppName</key>
+	<string>Rive</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>Open it in the Rive Editor and shape it by hand with pro design and motion tools, state machines, and data binding. Or ask the built-in AI Agent to write scripts, build layouts, and animate.</string>
+	<key>Documentation</key>
+	<string>https://rive.app/docs/</string>
+	<key>Homepage</key>
+	<string>https://rive.app/</string>
+	<key>Keywords</key>
+	<string>motion,animate,scripts,timeline</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://rive.app/docs/legal/privacy-policy</string>
+	<key>Publisher</key>
+	<string>Hachipoo Apps</string>
+</dict>
+</plist>
