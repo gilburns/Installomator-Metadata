@@ -1,24 +1,24 @@
 
 | Category | Count |  
 | :--- | ---: |  
-| Development & Design | 216 |  
-| Computer Management | 201 |  
-| Productivity | 129 |  
-| Music & Audio | 91 |  
-| Security & Privacy | 78 |  
-| Utilities | 66 |  
-| Collaboration & Social | 65 |  
-| Data Management | 45 |  
-| Business | 45 |  
-| Video & Screen Recording | 46 |  
-| Web Browsers | 28 |  
-| Photos & Media | 26 |  
-| Science & Research | 17 |  
-| Education | 23 |  
-| Media Players | 15 |  
-| Networking | 24 |  
-| 3D & Animation | 36 |  
+| Development & Design | 250 |  
+| Computer Management | 224 |  
+| Productivity | 163 |  
+| Utilities | 109 |  
+| Music & Audio | 105 |  
+| Security & Privacy | 90 |  
+| Collaboration & Social | 71 |  
+| Video & Screen Recording | 57 |  
+| Data Management | 55 |  
+| Business | 52 |  
+| 3D & Animation | 40 |  
+| Photos & Media | 34 |  
+| Web Browsers | 33 |  
+| Education | 33 |  
+| Networking | 32 |  
+| Science & Research | 23 |  
+| Media Players | 17 |  
 | Books & Reference | 4 |  
-| Other | 14 |  
+| Other | 15 |  
 
-as of June 7, 2026
+as of November 23, 2026
