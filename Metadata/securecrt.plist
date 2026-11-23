@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.vandyke.SecureCRT</string>
+	<key>AppName</key>
+	<string>SecureCRT</string>
+	<key>Category</key>
+	<string>Utilities</string>
+	<key>Description</key>
+	<string>Network professionals can run SecureCRT on their macOS systems, or switch back and forth easily between macOS, Linux, and Windows.</string>
+	<key>Documentation</key>
+	<string>https://www.vandyke.com/products/securecrt/mac.html</string>
+	<key>Homepage</key>
+	<string>https://www.vandyke.com/</string>
+	<key>Keywords</key>
+	<string>terminal</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.vandyke.com/privacy.html</string>
+	<key>Publisher</key>
+	<string>VanDyke Software, Inc.</string>
+</dict>
+</plist>
