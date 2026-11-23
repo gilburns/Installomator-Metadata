@@ -7,7 +7,7 @@
 	<key>AppName</key>
 	<string>Herd</string>
 	<key>Category</key>
-	<string>Design &amp; Development</string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Herd gives you a fast, native PHP and Laravel stack for every project on your machine. Install it once and manage everything in one place without external dependencies.</string>
 	<key>Documentation</key>

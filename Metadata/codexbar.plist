@@ -7,7 +7,7 @@
 	<key>AppName</key>
 	<string>CodexBar</string>
 	<key>Category</key>
-	<string>Design &amp; Development</string>
+	<string>Development &amp; Design</string>
 	<key>Description</key>
 	<string>Show usage stats for OpenAI Codex and Claude Code, without having to login.</string>
 	<key>Documentation</key>
