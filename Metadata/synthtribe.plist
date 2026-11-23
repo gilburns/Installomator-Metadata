@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>com.behringer.synthtribe</string>
+	<key>AppName</key>
+	<string>Synthtribe</string>
+	<key>Category</key>
+	<string>Music &amp; Audio</string>
+	<key>Description</key>
+	<string></string>
+	<key>Documentation</key>
+	<string></string>
+	<key>Homepage</key>
+	<string>https://www.behringer.com/</string>
+	<key>Keywords</key>
+	<string>music,daw,virtual,firmware</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.behringer.com/en/legal/privacy</string>
+	<key>Publisher</key>
+	<string>Behringer</string>
+</dict>
+</plist>
