@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string></string>
+	<key>AppName</key>
+	<string>Zulu JDK 27</string>
+	<key>Category</key>
+	<string>Development &amp; Design</string>
+	<key>Description</key>
+	<string>Zulu JDK is a certified build of OpenJDK by Azul Systems, providing a free, production-ready Java Development Kit with long-term support options.</string>
+	<key>Documentation</key>
+	<string>https://www.azul.com/downloads/zulu-community/</string>
+	<key>Homepage</key>
+	<string>https://www.azul.com/downloads/zulu-community/</string>
+	<key>Keywords</key>
+	<string>Zulu JDK,Java,OpenJDK,Azul,JDK,development</string>
+	<key>PackageID</key>
+	<string>com.azulsystems.zulu.27</string>
+	<key>Privacy</key>
+	<string>https://www.azul.com/privacy/</string>
+	<key>Publisher</key>
+	<string>Azul Systems, Inc.</string>
+</dict>
+</plist>
