@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AppID</key>
+	<string>ai.perplexity.comet</string>
+	<key>AppName</key>
+	<string>Comet</string>
+	<key>Category</key>
+	<string>Web Browsers</string>
+	<key>Description</key>
+	<string>The browser that works for you</string>
+	<key>Documentation</key>
+	<string>https://www.perplexity.ai/comet</string>
+	<key>Homepage</key>
+	<string>https://www.perplexity.ai/</string>
+	<key>Keywords</key>
+	<string>browser,ai,worker</string>
+	<key>PackageID</key>
+	<string></string>
+	<key>Privacy</key>
+	<string>https://www.perplexity.ai/hub/legal/terms-of-service</string>
+	<key>Publisher</key>
+	<string>Perplexity</string>
+</dict>
+</plist>
